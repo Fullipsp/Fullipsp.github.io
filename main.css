@@ -195,7 +195,7 @@ a {
     flex-direction: column;
 }
 
-@media (max-width: 924px) { 
+@media (max-width: 1060px) { 
     .about-box {
         flex-direction: column;
     }
