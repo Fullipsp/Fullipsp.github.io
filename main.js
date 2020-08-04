@@ -144,6 +144,9 @@ function addInlinePin(image, name, status, catname, catlink) {
     if (status.toLowerCase() === "considering") {
         el.classList.add("considering")
     }
+    if (status.toLowerCase() === "ordered") {
+        el.classList.add("ordered")
+    }
     
     el.innerHTML = `
     <img class="image" src="images/pins/${image}"/>
