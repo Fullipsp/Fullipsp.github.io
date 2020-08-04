@@ -162,12 +162,12 @@ a {
 }
 .about-box {
     display: flex;
-    flex-direction: column;
 
     border-radius: 10px;
     padding: 10px;
     margin: auto;
     align-items: center;
+    
 }
 .about-box a {
     box-shadow: 0 0 5px 0 black;
@@ -183,6 +183,20 @@ a {
 .about-box a:hover { 
     opacity: 0.8;
 }
+.about-box .center {
+    width: 400px;
+    align-items: center;
+}
 .description {
     text-align: center;
+}
+.about-box .section {
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width: 924px) { 
+    .about-box {
+        flex-direction: column;
+    }
 }
