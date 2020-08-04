@@ -125,7 +125,8 @@ body {
     font-weight: bold;
     text-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
     margin-top: 30px;
-    font-family: 'Courgette', cursive;
+    font-family: 'Courgette', cursive; 
+    text-align: center;
 }
 
 .nav-links {
