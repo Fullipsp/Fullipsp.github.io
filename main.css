@@ -75,6 +75,9 @@ body {
 .pin.considering {
     background-color: #c8e3ff;
 }
+.pin.ordered {
+    background-color: #ffe9ad;
+}
 
 
 .pin img:hover {
