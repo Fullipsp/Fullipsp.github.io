@@ -47,16 +47,16 @@ addPin('mage.jpg', 'White Mage RPG Series (Patreon)', "Pre-ordered")
 addPin('knight.jpg', 'Prestige Knight RPG Series (Patreon)', "Pre-ordered")
 
 addCategory('', "")
-addInlinePin('mybuns.png', 'Two bunnies (Luna & Bianca)', "Pre-ordered", "Lilycli (UpbeatPals)", "https://lilycli.com")
-addInlinePin('birthday bun.png', 'Sprinkle Birthday Bunny', "Pre-ordered", "Sharodactylart", "https://sharodactylart.com")
+addInlinePin('mybuns.png', 'Two bunnies (Luna & Bianca)', "Ordered", "Lilycli (UpbeatPals)", "https://lilycli.com")
+addInlinePin('birthday bun.png', 'Sprinkle Birthday Bunny', "Ordered", "Sharodactylart", "https://sharodactylart.com")
 addInlinePin('sbear.jpg', 'Mofumofu Dress-up Bears (Waiting)', "Considering", "Shopcutematter", "https://linktr.ee/shopcutematter")
 
 
 addCategory('Xhilyn', "https://xhilyn.carrd.co")
 
-addPin('witch.jpg', 'Pastel Kitty Witch Mascot', "Pre-ordered")
-addPin('cinamorroll.jpg', 'Cinnamoroll Sprinkle Bunny', "Pre-ordered")
-addPin('star.jpg', 'Star Bunny Witch', "Pre-ordered")
+addPin('witch.jpg', 'Pastel Kitty Witch Mascot', "Ordered")
+addPin('cinamorroll.jpg', 'Cinnamoroll Sprinkle Bunny', "Ordered")
+addPin('star.jpg', 'Star Bunny Witch', "Ordered")
 
 
 
@@ -115,6 +115,9 @@ function addPin(image, name, status) {
     }
     if (status.toLowerCase() === "considering") {
         el.classList.add("considering")
+    }
+    if (status.toLowerCase() === "ordered") {
+        el.classList.add("ordered")
     }
 
     el.innerHTML = `
