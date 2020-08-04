@@ -47,9 +47,9 @@ addPin('mage.jpg', 'White Mage RPG Series (Patreon)', "Pre-ordered")
 addPin('knight.jpg', 'Prestige Knight RPG Series (Patreon)', "Pre-ordered")
 
 addCategory('', "")
+addInlinePin('mybuns.png', 'Two bunnies (Luna & Bianca)', "Owned", "Lilycli (UpbeatPals)", "https://lilycli.com")
 addInlinePin('birthday bun.png', 'Sprinkle Birthday Bunny', "Pre-ordered", "Sharodactylart", "https://sharodactylart.com")
 addInlinePin('sbear.jpg', 'Mofumofu Dress-up Bears (Waiting)', "Considering", "Shopcutematter", "https://linktr.ee/shopcutematter")
-addInlinePin('mybuns.png', 'Two bunnies (Luna & Bianca)', "Owned", "Lilycli (UpbeatPals)", "https://lilycli.com")
 
 
 addCategory('Xhilyn', "https://xhilyn.carrd.co")
