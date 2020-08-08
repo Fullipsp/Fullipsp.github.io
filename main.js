@@ -32,7 +32,7 @@ addPin('sloth baby.jpg', 'Cute Sloth ☆ Floranimals Series <br>(Seconds Pin)', 
 addPin('froggies.jpg', 'Ice Cream Froggies (Patreon)', "Pre-ordered")
 addPin('froggie bag.jpg', 'Froggie ITA Bag (Kickstarter)', "Pre-ordered")
 addPin('froggie pin bag.jpg', 'Froggie ITA Bag Freebie (Kickstarter)', "Pre-ordered")
-addPin('gator pin.png', 'Froggie ITA Bag Pond Pals(Kickstarter)', "Pre-ordered")
+addPin('gator.jpg', 'Froggie ITA Bag Pond Pals(Kickstarter)', "Pre-ordered")
 
 
 addCategory('Goldfishkang', "https://goldfishkang.com")
