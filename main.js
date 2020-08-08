@@ -32,7 +32,7 @@ addPin('sloth baby.jpg', 'Cute Sloth ☆ Floranimals Series <br>(Seconds Pin)', 
 addPin('froggies.jpg', 'Ice Cream Froggies (Patreon)', "Pre-ordered")
 addPin('froggie bag.jpg', 'Froggie ITA Bag (Kickstarter)', "Pre-ordered")
 addPin('froggie pin bag.jpg', 'Froggie ITA Bag Freebie (Kickstarter)', "Pre-ordered")
-addPin('gator pin.png', 'Froggie ITA Bag Pond Pals(Kickstarter)', "Considering")
+addPin('gator pin.png', 'Froggie ITA Bag Pond Pals(Kickstarter)', "Pre-ordered")
 
 
 addCategory('Goldfishkang', "https://goldfishkang.com")
@@ -50,6 +50,7 @@ addPin('mage.jpg', 'White Mage RPG Series (Patreon)', "Pre-ordered")
 addPin('knight.jpg', 'Prestige Knight RPG Series (Patreon)', "Pre-ordered")
 addPin('scosmos.png', 'Sailor Moon Cosmos (Fashion Scouts)', "Considering")
 addPin('supersm.png', 'Super Sailor Moon (Fashion Scouts)', "Considering")
+addPin('sailorv.PNG', 'Sailor Moon V (Mirrors)', "Considering")
 
 addCategory('', "")
 addInlinePin('mybuns.png', 'Two bunnies (Luna & Bianca)', "Ordered", "Lilycli (UpbeatPals)", "https://lilycli.com")
