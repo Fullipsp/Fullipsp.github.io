@@ -31,8 +31,8 @@ addPin('fawnfetti.jpg', 'Fawnfetti ☆ Rainbow Food Animals Series', "Owned")
 addPin('sloth baby.jpg', 'Cute Sloth ☆ Floranimals Series <br>(Seconds Pin)', "Owned")
 addPin('froggies.jpg', 'Ice Cream Froggies (Patreon)', "Pre-ordered")
 addPin('froggie bag.jpg', 'Froggie ITA Bag (Kickstarter)', "Pre-ordered")
-addPin('froggie pin bag.jpg', 'Froggie ITA Bag Freebie (Kickstarter)', "Pre-ordered")
-addPin('gator.jpg', 'Froggie ITA Bag Pond Pals (Kickstarter)', "Pre-ordered")
+addPin('froggie pin bag.jpg', 'Froggie Bag Freebie Frog (Kickstarter)', "Pre-ordered")
+addPin('gator.jpg', 'Froggie Bag Pond Pals Gator (Kickstarter)', "Pre-ordered")
 
 
 addCategory('Goldfishkang', "https://goldfishkang.com")
