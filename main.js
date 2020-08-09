@@ -48,8 +48,8 @@ addCategory('Mamobot', "https://linktr.ee/mamobot")
 
 addPin('mage.jpg', 'White Mage RPG Series (Patreon)', "Pre-ordered")
 addPin('knight.jpg', 'Prestige Knight RPG Series (Patreon)', "Pre-ordered")
-addPin('wicked.jpg', 'Wicked Lady (SM Mirrors)', "Pre-ordered")
-addPin('sailorv.jpg', 'Sailor Moon V (SM Mirrors)', "Pre-ordered")
+addPin('wicked.jpg', 'Wicked Lady (Miracle Mirrors)', "Pre-ordered")
+addPin('sailorv.jpg', 'Sailor Moon V (Miracle Mirrors)', "Pre-ordered")
 
 addCategory('', "")
 addInlinePin('mybuns.png', 'Two bunnies (Luna & Bianca)', "Ordered", "Lilycli (UpbeatPals)", "https://lilycli.com")
