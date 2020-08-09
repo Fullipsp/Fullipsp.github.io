@@ -11,7 +11,6 @@ addCategory("ArcadeHealer", "https://arcadehealer.carrd.co")
 
 addPin('sakura.jpg', 'Sakura Kirby Public Variant 🌸', "Owned")
 addPin('kirby.jpg', 'Star Wand Kirby ⭐️', "Owned")
-addPin('berry.jpg', 'Kirby With Strawberry 🍓', "Considering")
 
 addCategory("Birduyen", "https://birduyen.com")
 
@@ -42,7 +41,6 @@ addPin('teatime.jpg', 'Reynard Manor Pin: Luna the Bookworm ♡', "Owned")
 addPin('fox.jpg', 'Artsy Fox: Cloud Painter☆', "Owned")
 addPin('laundrocat.jpg', 'Laundrocats Pin: Dawn ☆', "Owned")
 addPin('spooky.jpg', 'Spooky Teatime Set (Waiting)', "Considering")
-addPin('summer.jpg', 'Slice of Summer Set', "Considering")
 
 addCategory('Mamobot', "https://linktr.ee/mamobot")
 
