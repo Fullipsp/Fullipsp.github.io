@@ -54,8 +54,6 @@ addPin('sailorv.jpg', 'Sailor Moon V (Miracle Mirrors)', "Pre-ordered")
 addCategory('', "")
 addInlinePin('mybuns.png', 'Two bunnies (Luna & Bianca)', "Ordered", "Lilycli (UpbeatPals)", "https://lilycli.com")
 addInlinePin('birthday bun.png', 'Sprinkle Birthday Bunny', "Ordered", "Sharodactylart", "https://sharodactylart.com")
-addInlinePin('sbear.jpg', 'Mofumofu Dress-up Bears (Waiting)', "Considering", "Shopcutematter", "https://linktr.ee/shopcutematter")
-
 
 addCategory('Xhilyn', "https://xhilyn.carrd.co")
 
