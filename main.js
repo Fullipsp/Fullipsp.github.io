@@ -32,6 +32,8 @@ addPin('froggies.jpg', 'Ice Cream Froggies (Patreon)', "Pre-ordered")
 addPin('froggie bag.jpg', 'Froggie ITA Bag (Kickstarter)', "Pre-ordered")
 addPin('froggie pin bag.jpg', 'Froggie Bag Freebie Frog (Kickstarter)', "Pre-ordered")
 addPin('gator.jpg', 'Froggie Bag Pond Pals Gator (Kickstarter)', "Pre-ordered")
+addPin('duckies.jpg', 'Daffodil Duck and Duckling', "Considering")
+addPin('kitten.jpg', 'Cherry Blossom Spring Kitten Mini Pin', "Considering")
 
 
 addCategory('Goldfishkang', "https://goldfishkang.com")
