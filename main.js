@@ -54,7 +54,7 @@ addPin('sailorv.jpg', 'Sailor Moon V (Miracle Mirrors)', "Pre-ordered")
 addCategory('', "")
 addInlinePin('mybuns.png', 'Two bunnies (Luna & Bianca)', "Ordered", "Lilycli (UpbeatPals)", "https://lilycli.com")
 addInlinePin('birthday bun.png', 'Sprinkle Birthday Bunny', "Ordered", "Sharodactylart", "https://sharodactylart.com")
-addInlinePin('weishi.jpg', 'Lilys Hanami (September 2020 Pin Club)', "Considering", "Weishi", "https://linktr.ee/weishi_art")
+addInlinePin('weishi.jpg', 'Lilys Hanami (September 2020 Pin Club)', "Pre-ordered", "Weishi", "https://linktr.ee/weishi_art")
 
 addCategory('Xhilyn', "https://xhilyn.carrd.co")
 
