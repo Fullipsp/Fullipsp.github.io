@@ -46,8 +46,8 @@ addPin('spooky.jpg', 'Spooky Teatime Set (Waiting)', "Considering")
 
 addCategory('Mamobot', "https://linktr.ee/mamobot")
 
-addPin('mage.jpg', 'White Mage RPG Series (Patreon)', "Pre-ordered")
-addPin('knight.jpg', 'Prestige Knight RPG Series (Patreon)', "Pre-ordered")
+addPin('mage.jpg', 'White Mage RPG Series (September 2020 Pin Club)', "Pre-ordered")
+addPin('knight.jpg', 'Prestige Knight RPG Series (September 2020 Pin Club)', "Pre-ordered")
 addPin('wicked.jpg', 'Wicked Lady (Miracle Mirrors)', "Pre-ordered")
 addPin('sailorv.jpg', 'Sailor Moon V (Miracle Mirrors)', "Pre-ordered")
 
