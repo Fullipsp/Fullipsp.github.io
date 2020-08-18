@@ -31,9 +31,9 @@ addPin('sloth baby.jpg', 'Cute Sloth ☆ Floranimals Series <br>(Seconds Pin)', 
 addPin('froggies.jpg', 'Ice Cream Froggies (Patreon)', "Pre-ordered")
 addPin('holofrog.jpg', 'Froggie ITA (Holo) Bag (Kickstarter)', "Pre-ordered")
 addPin('froggie pin bag.jpg', 'Froggie Bag Freebie Frog (Kickstarter)', "Pre-ordered")
-addPin('gator.jpg', 'Froggie Bag Pond Pals Gator (Kickstarter)', "Pre-ordered")
-addPin('duckies.jpg', 'Daffodil Duck and Duckling Floranimals Series', "Considering")
-addPin('kitten.jpg', 'Cherry Blossom Spring Kitten Mini Pin', "Considering")
+addPin('daffodil.jpg', 'Daffodil Duckling Floranimals Series', "Pre-ordered")
+addPin('kitten.jpg', 'Cherry Blossom Spring Kitten Mini Pin', "Pre-ordered")
+addPin('gator.jpg', 'Froggie Bag Pond Pals Gator (Kickstarter)', "Considering")
 
 
 addCategory('Goldfishkang', "https://goldfishkang.com")
