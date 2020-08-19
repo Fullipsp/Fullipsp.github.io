@@ -52,6 +52,8 @@ addPin('wicked.jpg', 'Wicked Lady (Miracle Mirrors)', "Pre-ordered")
 addPin('sailorv.jpg', 'Sailor Moon V (Miracle Mirrors)', "Pre-ordered")
 addPin('cosmos.jpg', 'Sailor Moon Cosmos (Fashion Scouts)', "Pre-ordered")
 addPin('supers.jpg', 'Super Sailor Moon (Fashion Scouts)', "Pre-ordered")
+addPin('peach.jpg', 'Peach Biker (Nintendolls V2)', "Considering")
+addPin('rosalina.jpg', 'Rosalina Biker (Nintendolls V2)', "Considering")
 
 addCategory('', "")
 addInlinePin('mybuns.png', 'Two bunnies (Luna & Bianca)', "Ordered", "Lilycli (UpbeatPals)", "https://lilycli.com")
