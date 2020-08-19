@@ -61,6 +61,7 @@ addCategory('Xhilyn', "https://xhilyn.carrd.co")
 addPin('witch.jpg', 'Pastel Kitty Witch Mascot', "Ordered")
 addPin('cinamorroll.jpg', 'Cinnamoroll Sprinkle Bunny', "Ordered")
 addPin('star.jpg', 'Star Bunny Witch', "Ordered")
+addPin('aurora.jpg', 'Aurora Borealis Cutie (Limited Edition)', "Ordered")
 
 
 
