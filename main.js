@@ -50,6 +50,8 @@ addPin('mage.jpg', 'White Mage RPG Series (September 2020 Pin Club)', "Pre-order
 addPin('knight.jpg', 'Prestige Knight RPG Series (September 2020 Pin Club)', "Pre-ordered")
 addPin('wicked.jpg', 'Wicked Lady (Miracle Mirrors)', "Pre-ordered")
 addPin('sailorv.jpg', 'Sailor Moon V (Miracle Mirrors)', "Pre-ordered")
+addPin('cosmos.jpg', 'Sailor Moon Cosmos (Fashion Scouts)', "Pre-ordered")
+addPin('supers.jpg', 'Super Sailor Moon (Fashion Scouts)', "Pre-ordered")
 
 addCategory('', "")
 addInlinePin('mybuns.png', 'Two bunnies (Luna & Bianca)', "Ordered", "Lilycli (UpbeatPals)", "https://lilycli.com")
