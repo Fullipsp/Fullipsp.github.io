@@ -9,8 +9,8 @@ categories = 0;
 
 addCategory("ArcadeHealer", "https://arcadehealer.carrd.co")
 
-addPin('sakura.jpg', 'Sakura Kirby Public Variant 🌸', "Owned")
 addPin('kirby.jpg', 'Star Wand Kirby ⭐️', "Owned")
+addPin('sakura.jpg', 'Sakura Kirby Public Variant 🌸', "Owned")
 
 addCategory("Birduyen", "https://birduyen.com")
 
@@ -28,28 +28,28 @@ addPin('lion.jpg', 'Lion Meringue Pie ☆ Rainbow Food Animals Series', "Owned")
 addPin('raspbunny.jpg', 'Raspbunny Crepe ☆ Rainbow Food Animals Series', "Owned")
 addPin('fawnfetti.jpg', 'Fawnfetti ☆ Rainbow Food Animals Series', "Owned")
 addPin('sloth baby.jpg', 'Cute Sloth ☆ Floranimals Series <br>(Seconds Pin)', "Owned")
-addPin('froggies.jpg', 'Ice Cream Froggies (Patreon)', "Pre-ordered")
 addPin('holofrog.jpg', 'Froggie ITA (Holo) Bag (Kickstarter)', "Pre-ordered")
 addPin('froggie pin bag.jpg', 'Froggie Bag Freebie Frog (Kickstarter)', "Pre-ordered")
 addPin('daffodil.jpg', 'Daffodil Duckling Floranimals Series', "Pre-ordered")
 addPin('kitten.jpg', 'Cherry Blossom Spring Kitten Mini Pin', "Pre-ordered")
+addPin('froggies.jpg', 'Ice Cream Froggies (Patreon)', "Pre-ordered")
 
 addCategory('Goldfishkang', "https://goldfishkang.com")
 
-addPin('adventurer.jpg', 'Little Adventurer ❀', "Owned")
-addPin('teatime.jpg', 'Reynard Manor Pin: Luna the Bookworm ♡', "Owned")
-addPin('fox.jpg', 'Artsy Fox: Cloud Painter☆', "Owned")
 addPin('laundrocat.jpg', 'Laundrocats Pin: Dawn ☆', "Owned")
+addPin('teatime.jpg', 'Reynard Manor Pin: Luna the Bookworm ♡', "Owned")
+addPin('adventurer.jpg', 'Little Adventurer ❀', "Owned")
+addPin('fox.jpg', 'Artsy Fox: Cloud Painter☆', "Owned")
 addPin('spooky.jpg', 'Spooky Teatime Set (Waiting)', "Considering")
 
 addCategory('Mamobot', "https://linktr.ee/mamobot")
 
 addPin('mage.jpg', 'White Mage RPG Series (September 2020 Pin Club)', "Pre-ordered")
 addPin('knight.jpg', 'Prestige Knight RPG Series (September 2020 Pin Club)', "Pre-ordered")
-addPin('wicked.jpg', 'Wicked Lady (Miracle Mirrors)', "Pre-ordered")
 addPin('sailorv.jpg', 'Sailor Moon V (Miracle Mirrors)', "Pre-ordered")
-addPin('cosmos.jpg', 'Sailor Moon Cosmos (Fashion Scouts)', "Pre-ordered")
+addPin('wicked.jpg', 'Wicked Lady (Miracle Mirrors)', "Pre-ordered")
 addPin('supers.jpg', 'Super Sailor Moon (Fashion Scouts)', "Pre-ordered")
+addPin('cosmos.jpg', 'Sailor Moon Cosmos (Fashion Scouts)', "Pre-ordered")
 addPin('peach.jpg', 'Peach Biker (Nintendolls V2)', "Considering")
 addPin('rosalina.jpg', 'Rosalina Biker (Nintendolls V2)', "Considering")
 
