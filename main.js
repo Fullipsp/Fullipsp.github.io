@@ -24,7 +24,7 @@ addPin('eevee.jpg', 'Eevee ♡ Pokemon Series', "Owned")
 
 addCategory('Blushsprout', "https://blushsprout.carrd.co")
 
-addPin('lion.jpg', 'Lion Meringue Pie ☆ Rainbow Food Animals Series', "Owned")
+addPin('lionm.jpg', 'Lion Meringue Pie ☆ Rainbow Food Animals Series', "Owned")
 addPin('raspbunny.jpg', 'Raspbunny Crepe ☆ Rainbow Food Animals Series', "Owned")
 addPin('fawnfetti.jpg', 'Fawnfetti ☆ Rainbow Food Animals Series', "Owned")
 addPin('sloth baby.jpg', 'Cute Sloth ☆ Floranimals Series <br>(Seconds Pin)', "Owned")
