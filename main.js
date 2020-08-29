@@ -48,8 +48,9 @@ addPin('mage.jpg', 'White Mage RPG Series (September 2020 Pin Club)', "Pre-order
 addPin('knight.jpg', 'Prestige Knight RPG Series (September 2020 Pin Club)', "Pre-ordered")
 addPin('sailorv.jpg', 'Sailor Moon V (Miracle Mirrors)', "Pre-ordered")
 addPin('wicked.jpg', 'Wicked Lady (Miracle Mirrors)', "Pre-ordered")
-addPin('supers.jpg', 'Super Sailor Moon (Fashion Scouts)', "Pre-ordered")
-addPin('cosmos.jpg', 'Sailor Moon Cosmos (Fashion Scouts)', "Pre-ordered")
+addPin('supers.png', 'Super Sailor Moon (Fashion Scouts) x2', "Ordered")
+addPin('serenity.png', 'Princess Serenity V3 (Fashion Scouts) x2', "Ordered")
+addPin('cosmos.png', 'Sailor Moon Cosmos (Fashion Scouts) x2', "Ordered")
 addPin('peach.jpg', 'Peach Biker (Nintendolls V2)', "Considering")
 addPin('rosalina.jpg', 'Rosalina Biker (Nintendolls V2)', "Considering")
 
