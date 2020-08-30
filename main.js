@@ -32,7 +32,6 @@ addPin('night.jpg', 'Froggie ITA (Nighttime) Bag (Kickstarter) (Peach and Holo i
 addPin('froggie pin bag.jpg', 'Froggie Bag Freebie Frog (Kickstarter)', "Pre-ordered")
 addPin('daffodil.jpg', 'Daffodil Duckling Floranimals Series', "Pre-ordered")
 addPin('kitten.jpg', 'Cherry Blossom Spring Kitten Mini Pin', "Pre-ordered")
-addPin('froggies.jpg', 'Ice Cream Froggies (Patreon)', "Pre-ordered")
 
 addCategory('Goldfishkang', "https://goldfishkang.com")
 
