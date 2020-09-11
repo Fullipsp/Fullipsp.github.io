@@ -48,10 +48,7 @@ addPin('mage.jpg', 'White Mage RPG Series (September 2020 Pin Club)', "Pre-order
 addPin('knight.jpg', 'Prestige Knight RPG Series (September 2020 Pin Club)', "Pre-ordered")
 addPin('sailorv.jpg', 'Sailor Moon V (Miracle Mirrors)', "Pre-ordered")
 addPin('wicked.jpg', 'Wicked Lady (Miracle Mirrors)', "Pre-ordered")
-addPin('peach.jpg', 'Peach Biker (Nintendolls V2)', "Waiting")
-addPin('rosalina.jpg', 'Rosalina Biker (Nintendolls V2)', "Waiting")
-addPin('samus.jpg', 'Samus After Battle (Nintendolls V2)', "Waiting")
-addPin('zelda.jpg', 'Zelda (Nintendolls V2)', "Waiting")
+
 
 addCategory('', "")
 addInlinePin('mybuns.png', 'Two bunnies (Luna & Bianca)', "Shipped", "Lilycli (UpbeatPals)", "https://lilycli.com")
