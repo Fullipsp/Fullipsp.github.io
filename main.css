@@ -72,10 +72,10 @@ body {
 .pin.preordered {
     background-color: #ffd2de;
 }
-.pin.considering {
+.pin.waiting {
     background-color: #c8e3ff;
 }
-.pin.ordered {
+.pin.shipped {
     background-color: #ffe9ad;
 }
 
