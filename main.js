@@ -46,23 +46,23 @@ addPin('mage.jpg', 'White Mage RPG Series (September 2020 Pin Club)', "Pre-order
 addPin('knight.jpg', 'Prestige Knight RPG Series (September 2020 Pin Club)', "Pre-ordered")
 addPin('sailorv.jpg', 'Sailor Moon V (Miracle Mirrors)', "Pre-ordered")
 addPin('wicked.jpg', 'Wicked Lady (Miracle Mirrors)', "Pre-ordered")
-addPin('supers.png', 'Super Sailor Moon (Fashion Scouts) x2', "Shipped to me")
-addPin('serenity.png', 'Princess Serenity V3 (Fashion Scouts) x2', "Shipped to me")
-addPin('cosmos.png', 'Sailor Moon Cosmos (Fashion Scouts) x2', "Shipped to me")
+addPin('supers.png', 'Super Sailor Moon (Fashion Scouts) x2', "Shipped")
+addPin('serenity.png', 'Princess Serenity V3 (Fashion Scouts) x2', "Shipped")
+addPin('cosmos.png', 'Sailor Moon Cosmos (Fashion Scouts) x2', "Shipped")
 addPin('peach.jpg', 'Peach Biker (Nintendolls V2)', "Waiting")
 addPin('rosalina.jpg', 'Rosalina Biker (Nintendolls V2)', "Waiting")
 
 addCategory('', "")
-addInlinePin('mybuns.png', 'Two bunnies (Luna & Bianca)', "Shipped to me", "Lilycli (UpbeatPals)", "https://lilycli.com")
-addInlinePin('birthday bun.png', 'Sprinkle Birthday Bunny', "Shipped to me", "Sharodactylart", "https://sharodactylart.com")
+addInlinePin('mybuns.png', 'Two bunnies (Luna & Bianca)', "Shipped", "Lilycli (UpbeatPals)", "https://lilycli.com")
+addInlinePin('birthday bun.png', 'Sprinkle Birthday Bunny', "Shipped", "Sharodactylart", "https://sharodactylart.com")
 addInlinePin('weishi.jpg', 'Lilys Hanami (September 2020 Pin Club)', "Pre-ordered", "Weishi", "https://linktr.ee/weishi_art")
 
 addCategory('Xhilyn', "https://xhilyn.carrd.co")
 
-addPin('witch.jpg', 'Pastel Kitty Witch Mascot', "Shipped to me")
-addPin('cinamorroll.jpg', 'Cinnamoroll Sprinkle Bunny', "Shipped to me")
-addPin('star.jpg', 'Star Bunny Witch', "Shipped to me")
-addPin('aurorac.jpg', 'Aurora Borealis Cutie (Limited Edition)', "Shipped to me")
+addPin('witch.jpg', 'Pastel Kitty Witch Mascot', "Shipped")
+addPin('cinamorroll.jpg', 'Cinnamoroll Sprinkle Bunny', "Shipped")
+addPin('star.jpg', 'Star Bunny Witch', "Shipped")
+addPin('aurorac.jpg', 'Aurora Borealis Cutie (Limited Edition)', "Shipped")
 
 
 
@@ -122,8 +122,8 @@ function addPin(image, name, status) {
     if (status.toLowerCase() === "waiting") {
         el.classList.add("waiting")
     }
-    if (status.toLowerCase() === "shipped to me") {
-        el.classList.add("shipped to me")
+    if (status.toLowerCase() === "shipped") {
+        el.classList.add("shipped")
     }
 
     el.innerHTML = `
