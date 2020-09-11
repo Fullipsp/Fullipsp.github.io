@@ -147,11 +147,11 @@ function addInlinePin(image, name, status, catname, catlink) {
     if (status.toLowerCase() === "pre-ordered") {
         el.classList.add("preordered")
     }
-    if (status.toLowerCase() === "considering") {
-        el.classList.add("considering")
+    if (status.toLowerCase() === "waiting") {
+        el.classList.add("waiting")
     }
-    if (status.toLowerCase() === "ordered") {
-        el.classList.add("ordered")
+    if (status.toLowerCase() === "shipped") {
+        el.classList.add("shipped")
     }
     
     el.innerHTML = `
