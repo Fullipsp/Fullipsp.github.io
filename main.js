@@ -39,7 +39,6 @@ addPin('laundrocat.jpg', 'Laundrocats Pin: Dawn ☆', "Owned")
 addPin('teatime.jpg', 'Reynard Manor Pin: Luna the Bookworm ♡', "Owned")
 addPin('adventurer.jpg', 'Little Adventurer ❀', "Owned")
 addPin('fox.jpg', 'Artsy Fox: Cloud Painter☆', "Owned")
-addPin('spooky.jpg', 'Spooky Teatime Set (Waiting)', "Considering")
 
 addCategory('Mamobot', "https://linktr.ee/mamobot")
 
@@ -47,23 +46,23 @@ addPin('mage.jpg', 'White Mage RPG Series (September 2020 Pin Club)', "Pre-order
 addPin('knight.jpg', 'Prestige Knight RPG Series (September 2020 Pin Club)', "Pre-ordered")
 addPin('sailorv.jpg', 'Sailor Moon V (Miracle Mirrors)', "Pre-ordered")
 addPin('wicked.jpg', 'Wicked Lady (Miracle Mirrors)', "Pre-ordered")
-addPin('supers.png', 'Super Sailor Moon (Fashion Scouts) x2', "Ordered")
-addPin('serenity.png', 'Princess Serenity V3 (Fashion Scouts) x2', "Ordered")
-addPin('cosmos.png', 'Sailor Moon Cosmos (Fashion Scouts) x2', "Ordered")
-addPin('peach.jpg', 'Peach Biker (Nintendolls V2)', "Considering")
-addPin('rosalina.jpg', 'Rosalina Biker (Nintendolls V2)', "Considering")
+addPin('supers.png', 'Super Sailor Moon (Fashion Scouts) x2', "Shipped to me")
+addPin('serenity.png', 'Princess Serenity V3 (Fashion Scouts) x2', "Shipped to me")
+addPin('cosmos.png', 'Sailor Moon Cosmos (Fashion Scouts) x2', "Shipped to me")
+addPin('peach.jpg', 'Peach Biker (Nintendolls V2)', "Waiting")
+addPin('rosalina.jpg', 'Rosalina Biker (Nintendolls V2)', "Waiting")
 
 addCategory('', "")
-addInlinePin('mybuns.png', 'Two bunnies (Luna & Bianca)', "Ordered", "Lilycli (UpbeatPals)", "https://lilycli.com")
-addInlinePin('birthday bun.png', 'Sprinkle Birthday Bunny', "Ordered", "Sharodactylart", "https://sharodactylart.com")
+addInlinePin('mybuns.png', 'Two bunnies (Luna & Bianca)', "Shipped to me", "Lilycli (UpbeatPals)", "https://lilycli.com")
+addInlinePin('birthday bun.png', 'Sprinkle Birthday Bunny', "Shipped to me", "Sharodactylart", "https://sharodactylart.com")
 addInlinePin('weishi.jpg', 'Lilys Hanami (September 2020 Pin Club)', "Pre-ordered", "Weishi", "https://linktr.ee/weishi_art")
 
 addCategory('Xhilyn', "https://xhilyn.carrd.co")
 
-addPin('witch.jpg', 'Pastel Kitty Witch Mascot', "Ordered")
-addPin('cinamorroll.jpg', 'Cinnamoroll Sprinkle Bunny', "Ordered")
-addPin('star.jpg', 'Star Bunny Witch', "Ordered")
-addPin('aurorac.jpg', 'Aurora Borealis Cutie (Limited Edition)', "Ordered")
+addPin('witch.jpg', 'Pastel Kitty Witch Mascot', "Shipped to me")
+addPin('cinamorroll.jpg', 'Cinnamoroll Sprinkle Bunny', "Shipped to me")
+addPin('star.jpg', 'Star Bunny Witch', "Shipped to me")
+addPin('aurorac.jpg', 'Aurora Borealis Cutie (Limited Edition)', "Shipped to me")
 
 
 
@@ -120,11 +119,11 @@ function addPin(image, name, status) {
     if (status.toLowerCase() === "pre-ordered") {
         el.classList.add("preordered")
     }
-    if (status.toLowerCase() === "considering") {
-        el.classList.add("considering")
+    if (status.toLowerCase() === "waiting") {
+        el.classList.add("waiting")
     }
-    if (status.toLowerCase() === "ordered") {
-        el.classList.add("ordered")
+    if (status.toLowerCase() === "shipped to me") {
+        el.classList.add("shipped to me")
     }
 
     el.innerHTML = `
