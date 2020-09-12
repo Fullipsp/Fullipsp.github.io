@@ -43,9 +43,9 @@ addPin('fox.jpg', 'Artsy Fox: Cloud Painter☆', "Owned")
 
 addCategory('Mamobot', "https://linktr.ee/mamobot")
 
-addPin('supers.png', 'Super Sailor Moon (Fashion Scouts) x2', "Shipped")
-addPin('cosmos.png', 'Sailor Moon Cosmos (Fashion Scouts) x2', "Shipped")
-addPin('serenity.png', 'Princess Serenity V3 (Fashion Scouts) x2', "Shipped")
+addPin('supers.jpg', 'Super Sailor Moon (Fashion Scouts) x2', "Shipped")
+addPin('cosmos.jpg', 'Sailor Moon Cosmos (Fashion Scouts) x2', "Shipped")
+addPin('serenity.jpg', 'Princess Serenity V3 (Fashion Scouts) x2', "Shipped")
 addPin('mage.jpg', 'White Mage RPG Series (September 2020 Pin Club)', "Pre-ordered")
 addPin('knight.jpg', 'Prestige Knight RPG Series (September 2020 Pin Club)', "Pre-ordered")
 addPin('sailorv.jpg', 'Sailor Moon V (Miracle Mirrors)', "Pre-ordered")
