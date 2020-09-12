@@ -50,7 +50,7 @@ addPin('mage.jpg', 'White Mage RPG Series (September 2020 Pin Club)', "Pre-order
 addPin('knight.jpg', 'Prestige Knight RPG Series (September 2020 Pin Club)', "Pre-ordered")
 addPin('sailorv.jpg', 'Sailor Moon V (Miracle Mirrors)', "Pre-ordered")
 addPin('wicked.jpg', 'Wicked Lady (Miracle Mirrors)', "Pre-ordered")
-addPin('bowsette.jpg', 'Racer Bowsette (October 2020 Pin Club)', "Pre-ordered")
+addPin('bowsette.jpg', 'Racer Bowsette (Fashion Fandom October 2020 Pin Club)', "Pre-ordered")
 addPin('zelda.jpg', 'Zelda (Nintendolls V2)', "Waiting")
 
 
