@@ -65,6 +65,8 @@ addPin('witch.jpg', 'Pastel Kitty Witch Mascot', "Shipped")
 addPin('cinamorroll.jpg', 'Cinnamoroll Sprinkle Bunny', "Shipped")
 addPin('star.jpg', 'Star Bunny Witch', "Shipped")
 addPin('aurorac.jpg', 'Aurora Borealis Cutie (Limited Edition)', "Shipped")
+addPin('dragonw.jpg', 'Dragon Whisperer (May 2020 Pin Club)', "Waiting")
+addPin('kittygamer.jpg', 'Comfy Kitty Gamer (March 2020 Pin Club)', "Waiting")
 
 
 
