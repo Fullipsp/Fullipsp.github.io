@@ -55,7 +55,7 @@ addPin('zelda.jpg', 'Zelda (Nintendolls V2)', "Waiting")
 addPin('bowsette.jpg', 'Racer Bowsette (Fashion Fandom October 2020 Pin Club)', "Pre-ordered")
 
 addCategory('', "")
-addInlinePin('mybuns.png', 'Two bunnies (Luna & Bianca)', "Owned", "Lilycli (UpbeatPals)", "https://lilycli.com")
+addInlinePin('MyBuns.jpg', 'Two bunnies (Luna & Bianca)', "Owned", "Lilycli (UpbeatPals)", "https://lilycli.com")
 addInlinePin('BirthdayBun.jpg', 'Sprinkle Birthday Bunny', "Owned", "Sharodactylart", "https://sharodactylart.com")
 
 addCategory('Weishi', "https://linktr.ee/weishi_art")
