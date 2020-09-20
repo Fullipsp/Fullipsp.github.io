@@ -53,11 +53,15 @@ addPin('wicked.jpg', 'Wicked Lady (Miracle Mirrors)', "Pre-ordered")
 addPin('bowsette.jpg', 'Racer Bowsette (Fashion Fandom October 2020 Pin Club)', "Pre-ordered")
 addPin('zelda.jpg', 'Zelda (Nintendolls V2)', "Waiting")
 
-
 addCategory('', "")
 addInlinePin('mybuns.png', 'Two bunnies (Luna & Bianca)', "Owned", "Lilycli (UpbeatPals)", "https://lilycli.com")
 addInlinePin('BirthdayBun.jpg', 'Sprinkle Birthday Bunny', "Owned", "Sharodactylart", "https://sharodactylart.com")
-addInlinePin('weishi.jpg', 'Lilys Hanami (September 2020 Pin Club)', "Pre-ordered", "Weishi", "https://linktr.ee/weishi_art")
+
+addCategory('Weishi', "https://linktr.ee/weishi_art")
+
+addPin('weishi.jpg', 'Lilys Hanami (September 2020 Pin Club)', "Pre-ordered")
+addPin('WishingWell.jpg', 'Wishing Well Bunny (August 2020 Pin Club)', "Pre-ordered")
+addPin('Snowflakes.jpg', 'Winter Lily and Bunny', "Pre-ordered")
 
 addCategory('Xhilyn', "https://xhilyn.carrd.co")
 
