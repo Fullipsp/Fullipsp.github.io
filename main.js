@@ -61,8 +61,7 @@ addInlinePin('BirthdayBun.jpg', 'Sprinkle Birthday Bunny', "Owned", "Sharodactyl
 addCategory('Weishi', "https://linktr.ee/weishi_art")
 
 addPin('weishi.jpg', 'Lilys Hanami (September 2020 Pin Club)', "Pre-ordered")
-addPin('WishingWell.jpg', 'Wishing Well Bunny (August 2020 Pin Club)', "Pre-ordered")
-addPin('Snowflakes.jpg', 'Winter Lily and Bunny', "Pre-ordered")
+addPin('WishingWell.jpg', 'Wishing Lake Bunny (August 2020 Pin Club)', "Waiting")
 
 addCategory('Xhilyn', "https://xhilyn.carrd.co")
 
