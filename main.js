@@ -63,7 +63,7 @@ addCategory('Weishi', "https://linktr.ee/weishi_art")
 
 addPin('weishi.jpg', 'Lily`s Hanami (September 2020 Pin Club)', "Pre-ordered")
 addPin('WishingWell.jpg', 'Bunny`s Wishing Pond (August 2020 Pin Club) <br>(Seconds)', "Owned")
-addPin('Isabelle.jpg', 'Animal Crossing: New Horizons Vacation Isabelle <br>(Seconds)', "Owned")
+addPin('Isabelle.jpg', 'Animal Crossing: New Horizons Vacation Isabelle (Seconds)', "Owned")
 
 addCategory('Xhilyn', "https://xhilyn.carrd.co")
 
