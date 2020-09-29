@@ -27,7 +27,7 @@ addCategory('Blushsprout', "https://blushsprout.carrd.co")
 addPin('lionm.jpg', 'Lion Meringue Pie ☆ Rainbow Food Animals Series', "Owned")
 addPin('raspbunny.jpg', 'Raspbunny Crepe ☆ Rainbow Food Animals Series', "Owned")
 addPin('Fawnfetti.jpg', 'Fawnfetti ☆ Rainbow Food Animals Series', "Owned")
-addPin('Sloth.jpg', 'Cute Sloth ☆ Floranimals Series <br>(Seconds Pin)', "Owned")
+addPin('Sloth.jpg', 'Cute Sloth ☆ Floranimals Series <br>(Seconds)', "Owned")
 addPin('night.jpg', 'Froggie ITA (Nighttime) Bag (Kickstarter) (Peach and Holo inserts)', "Pre-ordered")
 addPin('froggie pin bag.jpg', 'Froggie Bag Freebie Frog (Kickstarter)', "Pre-ordered")
 addPin('witchfroggie.jpg', 'Witch Froggie (October 2020 Pin Club)', "Pre-ordered")
@@ -62,8 +62,8 @@ addInlinePin('BirthdayBun.jpg', 'Sprinkle Birthday Bunny', "Owned", "Sharodactyl
 addCategory('Weishi', "https://linktr.ee/weishi_art")
 
 addPin('weishi.jpg', 'Lily`s Hanami (September 2020 Pin Club)', "Pre-ordered")
-addPin('WishingWell.jpg', 'Bunny`s Wishing Pond (August 2020 Pin Club)', "Shipped")
-addPin('Isabelle.jpg', 'Animal Crossing: New Horizons Vacation Isabelle', "Shipped")
+addPin('WishingWell.jpg', 'Bunny`s Wishing Pond (August 2020 Pin Club) <br>(Seconds)', "Owned")
+addPin('Isabelle.jpg', 'Animal Crossing: New Horizons Vacation Isabelle <br>(Seconds)', "Owned")
 
 addCategory('Xhilyn', "https://xhilyn.carrd.co")
 
