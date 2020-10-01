@@ -54,6 +54,7 @@ addPin('zelda.jpg', 'Super Smash Bros. Zelda (Nintendolls V2)', "Shipped")
 addPin('rosalina.jpg', 'Original Rosalina (Nintendolls V2)', "Shipped")
 addPin('bikerrosa.jpg', 'Mario Kart (Biker) Rosalina (Nintendolls V2)', "Shipped")
 addPin('bowsette.jpg', 'Racer Bowsette (Fashion Fandom October 2020 Pin Club)', "Pre-ordered")
+addPin('Wedding.jpg', 'Wedding Peach (Fashion Fandom November 2020 Pin Club)', "Pre-ordered")
 
 addCategory('', "")
 addInlinePin('MyBuns.jpg', 'Two bunnies (Luna & Bianca)', "Owned", "Lilycli (UpbeatPals)", "https://lilycli.com")
