@@ -62,7 +62,7 @@ addInlinePin('BirthdayBun.jpg', 'Sprinkle Birthday Bunny', "Owned", "Sharodactyl
 
 addCategory('Weishi', "https://linktr.ee/weishi_art")
 
-addPin('weishi.jpg', 'Lily`s Hanami (September 2020 Pin Club)', "Pre-ordered")
+addPin('Weishi.jpg', 'Lily`s Hanami (September 2020 Pin Club)', "Owned")
 addPin('WishingWell.jpg', 'Bunny`s Wishing Pond (August 2020 Pin Club) <br>(Seconds)', "Owned")
 addPin('Isabelle.jpg', 'Animal Crossing: New Horizons Vacation Isabelle (Seconds)', "Owned")
 
@@ -72,7 +72,6 @@ addPin('WitchKitty.jpg', 'Pastel Kitty Witch Mascot', "Owned")
 addPin('Cinamoroll.jpg', 'Cinnamoroll Sprinkle Bunny', "Owned")
 addPin('StarBun.jpg', 'Star Bunny Witch', "Owned")
 addPin('Aurora.jpg', 'Aurora Borealis Cutie (Limited Edition)', "Owned")
-addPin('kittygamer.jpg', 'Comfy Kitty Gamer (March 2020 Pin Club)', "Waiting")
 
 
 
