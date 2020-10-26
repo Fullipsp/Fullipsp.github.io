@@ -76,7 +76,8 @@ addCategory('Xhilyn', "https://xhilyn.carrd.co")
 addPin('WitchKitty.jpg', 'Pastel Kitty Witch Mascot', "Owned")
 addPin('Cinamoroll.jpg', 'Cinnamoroll Sprinkle Bunny', "Owned")
 addPin('StarBun.jpg', 'Star Bunny Witch', "Owned")
-addPin('Aurora.jpg', 'Aurora Borealis Cutie (Limited Edition)', "Owned")
+addPin('Aurora.jpg', 'Aurora Borealis Cutie (Limited Edition)<br>Thank you, SleepyIvy!', "Owned")
+addPin('gamerkitty.jpg', 'Gamer Kitty Girl (March 2020 Pin Club)<br>Thank you, Kyra!', "Shipped")
 
 
 
