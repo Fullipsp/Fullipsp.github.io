@@ -58,8 +58,8 @@ addPin('bowsette.jpg', 'Racer Bowsette (Fashion Fandom October 2020 Pin Club)', 
 addPin('Wedding.jpg', 'Wedding Peach <br>(Fashion Fandom November 2020 Pin Club)', "Pre-ordered")
 addPin('helioschibiusa.jpg', 'Chibiusa and Helios (Sailor Moon Fashion Scouts V3 Preorder)', "Pre-ordered")
 addPin('humanluna.jpg', 'Human Luna <br>(Sailor Moon Fashion Scouts V3 Preorder)', "Pre-ordered")
-addPin('witchwicked.jpg', 'Wicked Lady Witch <br>(Sailor Moon Fashion Scouts V3 Preorder PATREON EXCLUSIVE)', "Pre-ordered")
 addPin('smfamily.jpg', 'Luna, Artemis and Diana kitties <br>(Sailor Moon Fashion Scouts V3 Preorder PATREON EXCLUSIVE)', "Pre-ordered")
+addPin('witchwicked.jpg', 'Wicked Lady Witch <br>(Sailor Moon Fashion Scouts V3 Preorder PATREON EXCLUSIVE)', "Pre-ordered")
 addPin('witch usagi.jpg', 'Witch Usagi (Fashion Fandom December 2020 Pin Club)', "Pre-ordered")
 addPin('snowbunny.jpg', 'Holly the Snow Bunny Mage (Original December 2020 Pin Club)', "Pre-ordered")
 
