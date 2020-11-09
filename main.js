@@ -62,6 +62,7 @@ addPin('smfamily.jpg', 'Luna, Artemis and Diana kitties <br>(Sailor Moon Fashion
 addPin('witchwicked.jpg', 'Wicked Lady Witch <br>(Sailor Moon Fashion Scouts V3 Preorder PATREON EXCLUSIVE)', "Pre-ordered")
 addPin('witch usagi.jpg', 'Witch Usagi <br>(Fashion Fandom December 2020 Pin Club)', "Pre-ordered")
 addPin('snowbunny.jpg', 'Holly the Snow Bunny Mage <br>(Original December 2020 Pin Club)', "Pre-ordered")
+addPin('boosette.jpg', 'Fashion Boosette <br>(Twitch Community Pin Exclusive)', "Pre-ordered")
 
 addCategory('', "")
 addInlinePin('MyBuns.jpg', 'Two bunnies (Luna & Bianca)', "Owned", "Lilycli (UpbeatPals)", "https://lilycli.com")
