@@ -71,9 +71,11 @@ addInlinePin('BirthdayBun.jpg', 'Sprinkle Birthday Bunny', "Owned", "Sharodactyl
 addCategory("Sugar Cubed Studios", "https://sugarcubedstudios.carrd.co")
 
 addPin('keqing.jpg', 'Keqing (Genshin Guardian KS)', "Pre-Ordered")
-addPin('jean.jpg', 'Jean (Genshin Guardian KS)', "Pre-Ordered")
-addPin('childebby.jpg', 'Childe (Genshin Guardian KS)', "Pre-Ordered")
 addPin('zhongli.jpg', 'Zhongli (Genshin Guardian KS)', "Pre-Ordered")
+addPin('childebby.jpg', 'Childe (Genshin Guardian KS)', "Pre-Ordered")
+addPin('jean.jpg', 'Jean (Genshin Guardian KS)', "Pre-Ordered")
+
+
 
 
 addCategory('Weishi', "https://linktr.ee/weishi_art")
