@@ -68,6 +68,14 @@ addCategory('', "")
 addInlinePin('MyBuns.jpg', 'Two bunnies (Luna & Bianca)', "Owned", "Lilycli (UpbeatPals)", "https://lilycli.com")
 addInlinePin('BirthdayBun.jpg', 'Sprinkle Birthday Bunny', "Owned", "Sharodactylart", "https://sharodactylart.com")
 
+addCategory("Sugar Cubed Studios", "https://sugarcubedstudios.carrd.co")
+
+addPin('keqing.jpg', 'Keqing (Genshin Guardian KS)', "Pre-Ordered")
+addPin('jean.jpg', 'Jean (Genshin Guardian KS)', "Pre-Ordered")
+addPin('childebby.jpg', 'Childe (Genshin Guardian KS)', "Pre-Ordered")
+addPin('zhongli.jpg', 'Zhongli (Genshin Guardian KS)', "Pre-Ordered")
+
+
 addCategory('Weishi', "https://linktr.ee/weishi_art")
 
 addPin('Weishi.jpg', 'Lily`s Hanami (September 2020 Pin Club)', "Owned")
