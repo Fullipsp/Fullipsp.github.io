@@ -65,7 +65,7 @@ addPin('witch usagi.jpg', 'Witch Usagi <br>(Fashion Fandom December 2020 Pin Clu
 addPin('boosette.jpg', 'Fashion Boosette <br>(Twitch Community Pin Exclusive)', "Pre-ordered")
 
 addCategory('', "")
-addInlinePin('MyBuns.jpg', 'Two bunnies (Luna & Bianca)', "Owned", "Lilycli (UpbeatPals)", "https://lilycli.com")
+addInlinePin('MyBuns.jpg', 'Two bunnies <br>(Luna & Bianca)', "Owned", "Lilycli (UpbeatPals)", "https://lilycli.com")
 addInlinePin('BirthdayBun.jpg', 'Sprinkle Birthday Bunny', "Owned", "Sharodactylart", "https://sharodactylart.com")
 
 addCategory("Sugar Cubed Studios", "https://sugarcubedstudios.carrd.co")
