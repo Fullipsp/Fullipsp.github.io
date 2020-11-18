@@ -30,7 +30,7 @@ addPin('Fawnfetti.jpg', 'Fawnfetti ☆ Rainbow Food Animals Series', "Owned")
 addPin('Sloth.jpg', 'Cute Sloth ☆ Floranimals Series <br>(Seconds)', "Owned")
 addPin('night.jpg', 'Froggie ITA (Nighttime) Bag (Kickstarter) (Peach and Holo inserts)', "Pre-ordered")
 addPin('froggie pin bag.jpg', 'Froggie Bag Freebie Frog (Kickstarter)', "Pre-ordered")
-addPin('witchfroggie.jpg', 'Witch Froggie <br>(October 2020 Pin Club)', "Shipped")
+addPin('witchfroggie.jpg', 'Witch Froggie <br>(October 2020 Pin Club)', "Pre-Ordered")
 addPin('daffodil.jpg', 'Daffodil Duckling Floranimals Series', "Pre-ordered")
 addPin('kitten.jpg', 'Cherry Blossom Spring Kitten Mini Pin', "Pre-ordered")
 
@@ -72,7 +72,7 @@ addInlinePin('BirthdayBun.jpg', 'Sprinkle Birthday Bunny', "Owned", "Sharodactyl
 addCategory("Sugar Cubed Studios", "https://sugarcubedstudios.carrd.co")
 
 addPin('keqing.jpg', 'Keqing <br>(Genshin Guardian KS)', "Pre-Ordered")
-addPin('zhongli.jpg', 'Zhongli <br>(Genshin Guardian KS)', "Pre-Ordered")
+addPin('xiao.jpg', 'Xiao <br>(Genshin Guardian KS)', "Pre-Ordered")
 addPin('childebby.jpg', 'Childe <br>(Genshin Guardian KS)', "Pre-Ordered")
 addPin('jean.jpg', 'Jean <br>(Genshin Guardian KS)', "Pre-Ordered")
 
