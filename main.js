@@ -10,11 +10,11 @@ categories = 0;
 addCategory("ArcadeHealer", "https://arcadehealer.carrd.co")
 
 addPin('OGKirby.jpg', 'Star Wand Kirby ⭐️', "Owned")
-addPin('kirbymachine.jpg', 'Kirby Crane Machine', "Owned")
-addPin('bottlekirby.jpg', 'Kirby in a Bottle', "Owned")
-addPin('minikirby.jpg', 'Kirby Mini Pins', "Owned")
-addPin('kirbylanyard.jpg', 'Kirby Lanyard', "Owned")
-addPin('clefairy.jpg', 'Clefairy Gameboy', "Owned")
+addPin('kirbymachine.jpg', 'Kirby Crane Machine', "Pre-ordered")
+addPin('bottlekirby.jpg', 'Kirby in a Bottle', "Pre-ordered")
+addPin('minikirby.jpg', 'Kirby Mini Pins', "Pre-ordered")
+addPin('kirbylanyard.jpg', 'Kirby Lanyard', "Pre-ordered")
+addPin('clefairy.jpg', 'Clefairy Gameboy', "Pre-ordered")
 addPin('SakuraKirby.jpg', 'Sakura Kirby Public Variant [SOLD] 🌸', "Owned")
 
 addCategory("Birduyen", "https://birduyen.com")
