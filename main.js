@@ -81,7 +81,7 @@ addCategory("Sugar Cubed Studios", "https://sugarcubedstudios.carrd.co")
 addPin('keqing.jpg', 'Keqing <br>(Genshin Guardian KS)', "Pre-Ordered")
 addPin('xiao.jpg', 'Xiao <br>(Genshin Guardian KS)', "Pre-Ordered")
 addPin('childebby.jpg', 'Childe <br>(Genshin Guardian KS)', "Pre-Ordered")
-addPin('jean.jpg', 'Jean <br>(Genshin Guardian KS)', "Pre-Ordered")
+addPin('scara.jpg', 'Scaramouche <br>(Genshin Guardian KS)', "Pre-Ordered")
 
 
 
