@@ -46,6 +46,11 @@ addPin('Teacup.jpg', 'Reynard Manor Pin: Luna the Bookworm ♡', "Owned")
 addPin('Adventurer.jpg', 'Little Adventurer ❀', "Owned")
 addPin('PainterFox.jpg', 'Artsy Fox: Cloud Painter☆', "Owned")
 
+addCategory('Hollichoo', "https://www.instagram.com/hollichoo")
+
+addPin('chilumi.jpg', 'Chilumi (Chilumi Genshin Preorder)', "Pre-ordered")
+addPin('promise.jpg', 'Snezhnayan Promise (Chilumi Genshin Preorder)', "Pre-ordered")
+
 addCategory('Mamobot', "https://linktr.ee/mamobot")
 
 addPin('SSailor.jpg', 'Super Sailor Moon (Fashion Scouts)', "Owned")
@@ -75,6 +80,7 @@ addPin('mermaidmoon.jpg', 'Mermaid Moon', "Shipped")
 addCategory('', "")
 addInlinePin('MyBuns.jpg', 'Two bunnies <br>(Luna & Bianca)', "Owned", "Lilycli (UpbeatPals)", "https://lilycli.com")
 addInlinePin('BirthdayBun.jpg', 'Sprinkle Birthday Bunny', "Owned", "Sharodactylart", "https://sharodactylart.com")
+addInlinePin('BirthdayBun.jpg', 'Sprinkle Birthday Bunny', "", "Quirkory", "quirkory.carrd.co")
 
 addCategory("Sugar Cubed Studios", "https://sugarcubedstudios.carrd.co")
 
