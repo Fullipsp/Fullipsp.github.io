@@ -7,6 +7,13 @@ categories = 0;
 
 
 
+
+addCategory("Akuo Art", "https://linktr.ee/akuoart")
+
+addPin('chibichilde.jpg', 'Chibi Childe (Tartaglia)', "Pre-ordered")
+addPin('scarachibi.jpg', 'Chibi Scaramouche', "Pre-ordered")
+addPin('chibicatnoir.jpg', 'Chibi Cat Noir', "Pre-ordered")
+
 addCategory("ArcadeHealer", "https://arcadehealer.carrd.co")
 
 addPin('OGKirby.jpg', 'Star Wand Kirby ⭐️', "Owned")
@@ -14,8 +21,6 @@ addPin('kirbymachine.jpg', 'Kirby Crane Machine', "Pre-ordered")
 addPin('bottlekirby.jpg', 'Kirby in a Bottle', "Pre-ordered")
 addPin('clefairy.jpg', 'Clefairy Gameboy', "Pre-ordered")
 addPin('minikirby.jpg', 'Kirby Mini Pins', "Pre-ordered")
-addPin('kirbylanyard.jpg', 'Kirby Lanyard', "Pre-ordered")
-addPin('SakuraKirby.jpg', 'Sakura Kirby Public Variant [SOLD] 🌸', "Owned")
 
 addCategory("Birduyen", "https://birduyen.com")
 
@@ -86,7 +91,7 @@ addCategory("Sugar Cubed Studios", "https://sugarcubedstudios.carrd.co")
 
 addPin('keqing.jpg', 'Keqing <br>(Genshin Guardian KS)', "Pre-Ordered")
 addPin('xiao.jpg', 'Xiao <br>(Genshin Guardian KS)', "Pre-Ordered")
-addPin('childebby.jpg', 'Childe <br>(Genshin Guardian KS)', "Pre-Ordered")
+addPin('childebby.jpg', 'Childe (Tartaglia) <br>(Genshin Guardian KS)', "Pre-Ordered")
 addPin('scara.jpg', 'Scaramouche <br>(Genshin Guardian KS)', "Pre-Ordered")
 
 
