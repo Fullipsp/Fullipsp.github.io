@@ -88,12 +88,10 @@ addInlinePin('raymond.jpg', 'Raymond Joy-Con (Animal Crossing)', "Pre-ordered", 
 
 addCategory("Sugar Cubed Studios", "https://sugarcubedstudios.carrd.co")
 
-addPin('keqing.jpg', 'Keqing <br>(Genshin Guardian KS)', "Pre-Ordered")
-addPin('xiao.jpg', 'Xiao <br>(Genshin Guardian KS)', "Pre-Ordered")
+addPin('lumine.jpg', 'Lumine <br>(Genshin Guardian KS)', "Pre-Ordered")
 addPin('childebby.jpg', 'Childe (Tartaglia) <br>(Genshin Guardian KS)', "Pre-Ordered")
 addPin('scara.jpg', 'Scaramouche <br>(Genshin Guardian KS)', "Pre-Ordered")
-
-
+addPin('xiao.jpg', 'Xiao <br>(Genshin Guardian KS)', "Pre-Ordered")
 
 
 addCategory('Weishi', "https://linktr.ee/weishi_art")
