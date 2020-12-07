@@ -17,9 +17,9 @@ addPin('chibicatnoir.jpg', 'Chibi Cat Noir', "Pre-ordered")
 addCategory("ArcadeHealer", "https://arcadehealer.carrd.co")
 
 addPin('OGKirby.jpg', 'Star Wand Kirby ⭐️', "Owned")
-addPin('clownkirby.jpg', 'Mirror Poyo', "Pre-ordered")
-addPin('bottlekirby.jpg', 'Poyo in a Bottle', "Pre-ordered")
-addPin('clefairy.jpg', 'Clefairy Tamagotchi', "Pre-ordered")
+addPin('clownkirby.jpg', 'Mirror Poyo', "Shipped")
+addPin('bottlekirby.jpg', 'Poyo in a Bottle', "Shipped")
+addPin('clefairy.jpg', 'Clefairy Tamagotchi', "Shipped")
 
 addCategory("Birduyen", "https://birduyen.com")
 
