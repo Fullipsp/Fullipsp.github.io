@@ -21,6 +21,12 @@ addPin('clownkirby.jpg', 'Mirror Poyo', "Shipped")
 addPin('bottlekirby.jpg', 'Poyo in a Bottle', "Shipped")
 addPin('clefairy.jpg', 'Clefairy Tamagotchi', "Shipped")
 
+addCategory("BirbsNest", "https://www.etsy.com/ca/shop/BirbsNest?ref=s2-header-shopname")
+
+addPin('childetrad.jpg', 'Childe (Genshin Impact)', "Pre-ordered")
+addPin('xiaotrad.jpg', 'Xiao (Genshin Impact)', "Pre-ordered")
+
+
 addCategory("Birduyen", "https://birduyen.com")
 
 addPin('Mousie.jpg', 'Spring Mouse ☼ Flora Series', "Owned")
