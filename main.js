@@ -13,6 +13,8 @@ addCategory("Akuo Art", "https://linktr.ee/akuoart")
 addPin('chibichilde.jpg', 'Chibi Childe (Tartaglia)', "Pre-ordered")
 addPin('scarachibi.jpg', 'Chibi Scaramouche', "Pre-ordered")
 addPin('chibicatnoir.jpg', 'Chibi Cat Noir', "Pre-ordered")
+addPin('childechibiprofile.jpg', 'Chibi Childe Bust (Tartaglia)', "Pre-ordered")
+addPin('luminechibiprofile.jpg', 'Chibi Lumine Bust', "Pre-ordered")
 
 addCategory("ArcadeHealer", "https://arcadehealer.carrd.co")
 
