@@ -22,6 +22,7 @@ addPin('OGKirby.jpg', 'Star Wand Kirby ⭐️', "Owned")
 addPin('clownkirby.jpg', 'Mirror Poyo', "Shipped")
 addPin('bottlekirby.jpg', 'Poyo in a Bottle', "Shipped")
 addPin('clefairy.jpg', 'Clefairy Tamagotchi', "Shipped")
+addPin('bluekikrby.jpg', 'Blue Limited Edition Black Friday Kirby', "Shipped")
 
 addCategory("BirbsNest", "https://www.etsy.com/ca/shop/BirbsNest?ref=s2-header-shopname")
 
