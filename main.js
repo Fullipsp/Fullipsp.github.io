@@ -16,8 +16,9 @@ addPin('chibicatnoir.jpg', 'Chibi Cat Noir', "Pre-ordered")
 addPin('childechibiprofile.jpg', 'Chibi Childe Bust (Tartaglia)', "Pre-ordered")
 addPin('luminechibiprofile.jpg', 'Chibi Lumine Bust', "Pre-ordered")
 addPin('xiaochibiprofile.jpg', 'Chibi Xiao Bust (Tartaglia)', "Pre-ordered")
-addPin('albedochibiprofile.jpg', 'Chibi LAlbedo Bust', "Pre-ordered")
+addPin('albedochibiprofile.jpg', 'Chibi Albedo Bust', "Pre-ordered")
 addPin('zhonglichibiprofile.jpg', 'Chibi Zhongli Bust', "Pre-ordered")
+addPin('ventichibiprofile.jpg', 'Chibi Venti Bust', "Pre-ordered")
 
 addCategory("ArcadeHealer", "https://arcadehealer.carrd.co")
 
