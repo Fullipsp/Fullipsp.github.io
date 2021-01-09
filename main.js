@@ -86,13 +86,14 @@ addPin('Bowsette.jpg', 'Racer Bowsette (Fashion Fandom October 2020 Pin Club)', 
 addPin('WeddingPeach.jpg', 'Wedding Peach <br>(Fashion Fandom November 2020 Pin Club)', "Owned")
 addPin('Ahri.jpg', 'Fashion Baddest K/DA Ahri', "Owned")
 addPin('MermaidMoon.jpg', 'Mermaid Moon (Sailor Moon Chibi)', "Owned")
+addPin('boosette.jpg', 'Fashion Boosette <br>(Twitch Community Pin Exclusive)', "Shipped")
 addPin('snowbunny.jpg', 'Holly the Snow Bunny Mage <br>(Original December 2020 Pin Club)', "Pre-ordered")
 addPin('helioschibiusa.jpg', 'Chibiusa and Helios (Sailor Moon Fashion Scouts V3 Preorder)', "Pre-ordered")
-addPin('humanluna.jpg', 'Human Luna <br>(Sailor Moon Fashion Scouts V3 Preorder)', "Pre-ordered")
 addPin('smfamily.jpg', 'Luna, Artemis and Diana kitties <br>(Sailor Moon Fashion Scouts V3 Preorder PATREON EXCLUSIVE)', "Pre-ordered")
+addPin('humanluna.jpg', 'Human Luna <br>(Sailor Moon Fashion Scouts V3 Preorder)', "Pre-ordered")
 addPin('witchwicked.jpg', 'Wicked Lady Witch <br>(Sailor Moon Fashion Scouts V3 Preorder PATREON EXCLUSIVE)', "Pre-ordered")
 addPin('witch usagi.jpg', 'Witch Usagi <br>(Fashion Fandom December 2020 Pin Club)', "Pre-ordered")
-addPin('boosette.jpg', 'Fashion Boosette <br>(Twitch Community Pin Exclusive)', "Shipped")
+
 
 addCategory('', "")
 addInlinePin('MyBuns.jpg', 'Two bunnies <br>(Luna & Bianca)', "Owned", "Lilycli (UpbeatPals)", "https://lilycli.com")
