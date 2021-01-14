@@ -30,8 +30,8 @@ addPin('bluekirby.jpg', 'Blue Limited Edition Black Friday Kirby', "Owned")
 
 addCategory("BirbsNest", "https://www.etsy.com/ca/shop/BirbsNest?ref=s2-header-shopname")
 
-addPin('childetrad.jpg', 'Childe (Genshin Impact)', "Pre-ordered")
-addPin('xiaotrad.jpg', 'Xiao (Genshin Impact)', "Pre-ordered")
+addPin('childetrad.jpg', 'Childe (Genshin Impact)', "Shipped")
+addPin('xiaotrad.jpg', 'Xiao (Genshin Impact)', "Shipped")
 
 
 addCategory("Birduyen", "https://birduyen.com")
@@ -87,12 +87,12 @@ addPin('WeddingPeach.jpg', 'Wedding Peach <br>(Fashion Fandom November 2020 Pin 
 addPin('Ahri.jpg', 'Fashion Baddest K/DA Ahri', "Owned")
 addPin('MermaidMoon.jpg', 'Mermaid Moon (Sailor Moon Chibi)', "Owned")
 addPin('boosette.jpg', 'Fashion Boosette <br>(Twitch Community Pin Exclusive)', "Shipped")
-addPin('snowbunny.jpg', 'Holly the Snow Bunny Mage <br>(Original December 2020 Pin Club)', "Pre-ordered")
-addPin('helioschibiusa.jpg', 'Chibiusa and Helios (Sailor Moon Fashion Scouts V3 Preorder)', "Pre-ordered")
-addPin('smfamily.jpg', 'Luna, Artemis and Diana kitties <br>(Sailor Moon Fashion Scouts V3 Preorder PATREON EXCLUSIVE)', "Pre-ordered")
-addPin('humanluna.jpg', 'Human Luna <br>(Sailor Moon Fashion Scouts V3 Preorder)', "Pre-ordered")
-addPin('witchwicked.jpg', 'Wicked Lady Witch <br>(Sailor Moon Fashion Scouts V3 Preorder PATREON EXCLUSIVE)', "Pre-ordered")
+addPin('helioschibiusa.jpg', 'Chibiusa and Helios (Sailor Moon Fashion Scouts V3 Preorder)', "Shipped")
+addPin('smfamily.jpg', 'Luna, Artemis and Diana kitties <br>(Sailor Moon Fashion Scouts V3 Preorder PATREON EXCLUSIVE)', "Shipped")
+addPin('humanluna.jpg', 'Human Luna <br>(Sailor Moon Fashion Scouts V3 Preorder)', "Shipped")
+addPin('witchwicked.jpg', 'Wicked Lady Witch <br>(Sailor Moon Fashion Scouts V3 Preorder PATREON EXCLUSIVE)', "Shipped")
 addPin('witch usagi.jpg', 'Witch Usagi <br>(Fashion Fandom December 2020 Pin Club)', "Pre-ordered")
+addPin('snowbunny.jpg', 'Holly the Snow Bunny Mage <br>(Original December 2020 Pin Club)', "Pre-ordered")
 
 
 addCategory('', "")
