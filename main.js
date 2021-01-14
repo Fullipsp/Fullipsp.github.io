@@ -30,8 +30,8 @@ addPin('bluekirby.jpg', 'Blue Limited Edition Black Friday Kirby', "Owned")
 
 addCategory("BirbsNest", "https://www.etsy.com/ca/shop/BirbsNest?ref=s2-header-shopname")
 
-addPin('childetrad.jpg', 'Childe (Genshin Impact)', "Shipped")
-addPin('xiaotrad.jpg', 'Xiao (Genshin Impact)', "Shipped")
+addPin('ChildeTraditional.jpg', 'Childe (Genshin Impact)', "Owned")
+addPin('XiaoTraditional.jpg', 'Xiao (Genshin Impact)', "Owned")
 
 
 addCategory("Birduyen", "https://birduyen.com")
