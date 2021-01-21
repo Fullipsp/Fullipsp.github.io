@@ -51,7 +51,7 @@ addPin('raspbunny.jpg', 'Raspbunny Crepe ☆ Rainbow Food Animals Series', "Owne
 addPin('Fawnfetti.jpg', 'Fawnfetti ☆ Rainbow Food Animals Series', "Owned")
 addPin('Sloth.jpg', 'Cute Sloth ☆ Floranimals Series <br>(Seconds)', "Owned")
 addPin('night.jpg', 'Froggie ITA (Nighttime) Bag (Kickstarter) (Peach and Holo inserts)', "Pre-ordered")
-addPin('froggie pin bag.jpg', 'Froggie Bag Freebie Frog (Kickstarter)', "Pre-ordered")
+addPin('froggie pin bag.jpg', 'Froggie Bag Freebie Frog (Kickstarter)', "Shipped")
 addPin('witchfroggie.jpg', 'Witch Froggie <br>(October 2020 Pin Club)', "Pre-Ordered")
 addPin('daffodil.jpg', 'Daffodil Duckling Floranimals Series', "Pre-ordered")
 addPin('kitten.jpg', 'Cherry Blossom Spring Kitten Mini Pin', "Pre-ordered")
@@ -93,6 +93,7 @@ addPin('humanluna.jpg', 'Human Luna <br>(Sailor Moon Fashion Scouts V3 Preorder)
 addPin('witchwicked.jpg', 'Wicked Lady Witch <br>(Sailor Moon Fashion Scouts V3 Preorder PATREON EXCLUSIVE)', "Shipped")
 addPin('witch usagi.jpg', 'Witch Usagi <br>(Fashion Fandom December 2020 Pin Club)', "Pre-ordered")
 addPin('snowbunny.jpg', 'Holly the Snow Bunny Mage <br>(Original December 2020 Pin Club)', "Pre-ordered")
+addPin('BabyBunMage.jpg', 'Snow Mages Bunny Friend <br>(Original December 2020 Pin Club)', "Pre-ordered")
 
 
 addCategory('', "")
