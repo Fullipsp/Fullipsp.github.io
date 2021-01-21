@@ -60,6 +60,7 @@ body {
 .pin img {
     object-fit: cover;
     height: 200px;
+    flex-shrink: 0;
     border-radius: 4px;
     width: 100%;
     transition: 0.2s;
