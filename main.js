@@ -65,8 +65,8 @@ addPin('PainterFox.jpg', 'Artsy Fox: Cloud Painter☆', "Owned")
 
 addCategory('Hollichoo', "https://www.instagram.com/hollichoo")
 
-addPin('chilumi.jpg', 'Chilumi (Chilumi Genshin Preorder)', "Pre-ordered")
-addPin('promise.jpg', 'Snezhnayan Promise (Chilumi Genshin Preorder)', "Pre-ordered")
+addPin('chilumi.jpg', 'Chilumi (Chilumi Genshin Preorder)', "Shipped")
+addPin('promise.jpg', 'Snezhnayan Promise (Chilumi Genshin Preorder)', "Shipped")
 
 addCategory('Mamobot', "https://linktr.ee/mamobot")
 
@@ -89,9 +89,9 @@ addPin('helioschibiusa.jpg', 'Chibiusa and Helios (Sailor Moon Fashion Scouts V3
 addPin('smfamily.jpg', 'Luna, Artemis and Diana kitties <br>(Sailor Moon Fashion Scouts V3 Preorder PATREON EXCLUSIVE)', "Shipped")
 addPin('humanluna.jpg', 'Human Luna <br>(Sailor Moon Fashion Scouts V3 Preorder)', "Shipped")
 addPin('witchwicked.jpg', 'Wicked Lady Witch <br>(Sailor Moon Fashion Scouts V3 Preorder PATREON EXCLUSIVE)', "Shipped")
-addPin('witch usagi.jpg', 'Witch Usagi <br>(Fashion Fandom December 2020 Pin Club)', "Pre-ordered")
-addPin('snowbunny.jpg', 'Holly the Snow Bunny Mage <br>(Original December 2020 Pin Club)', "Pre-ordered")
-addPin('BabyBunMage.jpg', 'Snow Mages Bunny Friend <br>(Original December 2020 Pin Club)', "Pre-ordered")
+addPin('witch usagi.jpg', 'Witch Usagi <br>(Fashion Fandom December 2020 Pin Club)', "Shipped")
+addPin('snowbunny.jpg', 'Holly the Snow Bunny Mage <br>(Original December 2020 Pin Club)', "Shipped")
+addPin('BabyBunMage.jpg', 'Snow Mages Bunny Friend <br>(Original December 2020 Pin Club)', "Shipped")
 
 
 addCategory('', "")
