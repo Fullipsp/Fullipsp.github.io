@@ -95,9 +95,9 @@ addPin('BabyBunMage.jpg', 'Snow Mages Bunny Friend <br>(Original December 2020 P
 
 addCategory("Polymernai", "https://www.polymernai.com")
 
-addPin('VioletEvergarden.jpg', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "Pre-Ordered")
-addPin('Zelink.jpg', 'Zelda x Link Pin (Tartaglia) <br>(Nostalgia Couples KS)', "Pre-Ordered")
-addPin('Ladynoir.jpg', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Pre-Ordered")
+addPin('VioletEvergarden.png', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "Pre-Ordered")
+addPin('Zelink.png', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Pre-Ordered")
+addPin('Ladynoir.png', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Pre-Ordered")
 
 addCategory('', "")
 addInlinePin('MyBuns.jpg', 'Two bunnies <br>(Luna & Bianca)', "Owned", "Lilycli (UpbeatPals)", "https://lilycli.com")
