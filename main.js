@@ -10,9 +10,9 @@ categories = 0;
 
 addCategory("Akuo Art", "https://linktr.ee/akuoart")
 
-addPin('chibichilde.jpg', 'Chibi Childe (Tartaglia)', "Pre-ordered")
-addPin('scarachibi.jpg', 'Chibi Scaramouche', "Pre-ordered")
-addPin('chibicatnoir.jpg', 'Chibi Cat Noir', "Pre-ordered")
+addPin('chibichilde.jpg', 'Chibi Childe (Tartaglia)', "Owned")
+addPin('scarachibi.jpg', 'Chibi Scaramouche', "Owned")
+addPin('chibicatnoir.jpg', 'Chibi Cat Noir', "Owned")
 addPin('childechibiprofile.jpg', 'Chibi Childe Bust (Tartaglia)', "Pre-ordered")
 addPin('luminechibiprofile.jpg', 'Chibi Lumine Bust', "Pre-ordered")
 addPin('xiaochibiprofile.jpg', 'Chibi Xiao Bust (Tartaglia)', "Pre-ordered")
