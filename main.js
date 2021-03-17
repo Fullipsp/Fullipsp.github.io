@@ -65,8 +65,8 @@ addPin('PainterFox.jpg', 'Artsy Fox: Cloud Painter☆', "Owned")
 
 addCategory('Hollichoo', "https://www.instagram.com/hollichoo")
 
-addPin('chilumi.jpg', 'Chilumi (Chilumi Genshin Preorder)', "Shipped")
-addPin('promise.jpg', 'Snezhnayan Promise (Chilumi Genshin Preorder)', "Shipped")
+addPin('chilumi.jpg', 'Chilumi (Chilumi Genshin Preorder)', "Owned")
+addPin('promise.jpg', 'Snezhnayan Promise (Chilumi Genshin Preorder)', "Owned")
 
 addCategory('Mamobot', "https://linktr.ee/mamobot")
 
@@ -106,10 +106,10 @@ addInlinePin('raymond.jpg', 'Raymond Joy-Con (Animal Crossing)', "Pre-ordered", 
 
 addCategory("Sugar Cubed Studios", "https://sugarcubedstudios.carrd.co")
 
-addPin('lumine.jpg', 'Lumine <br>(Genshin Guardian KS)', "Pre-Ordered")
-addPin('childebby.jpg', 'Childe (Tartaglia) <br>(Genshin Guardian KS)', "Pre-Ordered")
-addPin('scara.jpg', 'Scaramouche <br>(Genshin Guardian KS)', "Pre-Ordered")
-addPin('xiao.jpg', 'Xiao <br>(Genshin Guardian KS)', "Pre-Ordered")
+addPin('lumine.jpg', 'Lumine <br>(Genshin Guardian KS)', "Owned")
+addPin('childebby.jpg', 'Childe (Tartaglia) <br>(Genshin Guardian KS)', "Owned")
+addPin('scara.jpg', 'Scaramouche <br>(Genshin Guardian KS)', "Owned")
+addPin('xiao.jpg', 'Xiao <br>(Genshin Guardian KS)', "Owned")
 
 
 addCategory('Weishi', "https://linktr.ee/weishi_art")
