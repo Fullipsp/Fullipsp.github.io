@@ -92,7 +92,7 @@ addPin('Ladynoir.png', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Pre
 addCategory('', "")
 addInlinePin('MyBuns.jpg', 'Two bunnies <br>(Luna & Bianca)', "Owned", "Lilycli (UpbeatPals)", "https://lilycli.com")
 addInlinePin('BirthdayBun.jpg', 'Sprinkle Birthday Bunny', "Owned", "Sharodactylart", "https://sharodactylart.com")
-addInlinePin('raymond.jpg', 'Raymond Joy-Con (Animal Crossing)', "Pre-ordered", "Quirkory", "quirkory.carrd.co")
+addInlinePin('raymond.jpg', 'Raymond Joy-Con (Animal Crossing)', "Shipped", "Quirkory", "quirkory.carrd.co")
 
 addCategory("Sugar Cubed Studios", "https://sugarcubedstudios.carrd.co")
 
