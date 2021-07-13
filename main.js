@@ -97,6 +97,12 @@ addPin('childebby.jpg', 'Childe (Tartaglia) <br>(Genshin Guardian KS)', "Owned")
 addPin('scara.jpg', 'Scaramouche <br>(Genshin Guardian KS)', "Owned")
 addPin('xiao.jpg', 'Xiao <br>(Genshin Guardian KS)', "Owned")
 
+addCategory('Theartthatran', "https://theartthatran.wordpress.com")
+
+addPin('saeyoung.jpg', 'Saeyoung (707): Mini Mystics', "Owned")
+addPin('saeran.jpg', 'Saeran (Ray): Mini Mystics', "Owned")
+addPin('anemo.jpg', 'Anemoculus (Genshin I.)', "Owned")
+
 
 addCategory('Weishi', "https://linktr.ee/weishi_art")
 
