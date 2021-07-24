@@ -19,6 +19,7 @@ addPin('xiaochibiprofile.jpg', 'Chibi Xiao Bust (Tartaglia)', "Owned")
 addPin('albedochibiprofile.jpg', 'Chibi Albedo Bust', "Owned")
 addPin('zhonglichibiprofile.jpg', 'Chibi Zhongli Bust (Rex Lapis)', "Owned")
 addPin('scarachibiprofile.jpg', 'Chibi SCARAMOUCHE Bust', "Owned")
+addPin('paimon.jpg', 'Chibi Paimon', "Owned")
 
 addCategory("ArcadeHealer", "https://arcadehealer.carrd.co")
 
