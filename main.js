@@ -29,7 +29,7 @@ addPin('BottleKirby.jpg', 'Poyo in a Bottle', "Owned")
 addPin('Clefairy.jpg', 'Clefairy Tamagotchi', "Owned")
 addPin('bluekirby.jpg', 'Blue Limited Edition Black Friday Kirby', "Owned")
 
-addCategory("BirbsNest", "https://www.etsy.com/ca/shop/BirbsNest?ref=s2-header-shopname")
+addCategory("BirbsNest {Invalid Link :(  }", "https://www.etsy.com/ca/shop/BirbsNest?ref=s2-header-shopname")
 
 addPin('ChildeTraditional.jpg', 'Childe (Genshin Impact)', "Owned")
 addPin('XiaoTraditional.jpg', 'Xiao (Genshin Impact)', "Owned")
