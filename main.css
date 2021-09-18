@@ -203,6 +203,7 @@ a {
 .about-box .upper-section {
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 .upper-section .title {
     font-size: 18px;
