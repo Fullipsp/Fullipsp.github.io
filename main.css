@@ -199,6 +199,22 @@ a {
     flex-direction: column;
 }
 
+
+.about-box .upper-section {
+    display: flex;
+    flex-direction: column;
+}
+.upper-section .title {
+    font-size: 18px;
+}
+.about-box .upper-section a {
+    margin: 10px;
+    font-size: 18px;
+}
+.about-box .coffee-link {
+    background-color: #FF5E5B;
+    color: white;
+}
 @media (max-width: 1060px) { 
     .about-box {
         flex-direction: column;
