@@ -11,7 +11,6 @@ categories = 0;
 addCategory("Akuo Art", "https://linktr.ee/akuoart")
 
 addPin('chibichilde.jpg', 'Chibi Childe (Tartaglia)', "Owned")
-addPin('scarachibi.jpg', 'Chibi Scaramouche', "Owned")
 addPin('chibicatnoir.jpg', 'Chibi Cat Noir', "Owned")
 addPin('childechibiprofile.jpg', 'Chibi Childe Bust (Tartaglia)', "Owned")
 addPin('luminechibiprofile.jpg', 'Chibi Lumine Bust', "Owned")
@@ -19,7 +18,6 @@ addPin('xiaochibiprofile.jpg', 'Chibi Xiao Bust', "Owned")
 addPin('albedochibiprofile.jpg', 'Chibi Albedo Bust', "Owned")
 addPin('zhonglichibiprofile.jpg', 'Chibi Zhongli Bust', "Owned")
 addPin('scarachibiprofile.jpg', 'Chibi SCARAMOUCHE Bust', "Owned")
-addPin('paimon.jpg', 'Chibi Paimon', "Owned")
 
 addCategory("ArcadeHealer", "https://arcadehealer.carrd.co")
 
@@ -35,7 +33,7 @@ addPin('ChildeTraditional.jpg', 'Childe (Genshin Impact)', "Owned")
 addPin('XiaoTraditional.jpg', 'Xiao (Genshin Impact)', "Owned")
 
 
-addCategory("Birduyen", "https://birduyen.com")
+addCategory("Birduyen")
 
 addPin('Mousie.jpg', 'Spring Mouse ☼ Flora Series', "Owned")
 addPin('Birb.jpg', 'Spring Tit ☼ Flora Series', "Owned")
@@ -71,10 +69,6 @@ addPin('promise.jpg', 'Snezhnayan Promise (Chilumi Genshin Preorder)', "Owned")
 
 addCategory('Mamobot', "https://linktr.ee/mamobot")
 
-addPin('WickedLadyMirror.jpg', 'Wicked Lady <br>(Miracle Mirrors)', "Owned")
-addPin('Zelda.jpg', 'Super Smash Bros. Zelda (Nintendolls V2)', "Owned")
-addPin('Rosalina.jpg', 'Original Rosalina (Nintendolls V2)', "Owned")
-addPin('Ahri.jpg', 'Fashion Baddest K/DA Ahri', "Owned")
 addPin('helioschibiusa.jpg', 'Chibiusa and Helios (Sailor Moon Fashion Scouts V3 Preorder)', "Owned")
 addPin('smfamily.jpg', 'Luna, Artemis and Diana kitties <br>(Sailor Moon Fashion Scouts V3 Preorder PATREON EXCLUSIVE)', "Owned")
 addPin('humanluna.jpg', 'Human Luna <br>(Sailor Moon Fashion Scouts V3 Preorder)', "Owned")
