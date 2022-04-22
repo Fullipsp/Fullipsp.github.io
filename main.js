@@ -25,7 +25,6 @@ addPin('OGKirby.jpg', 'Star Wand Kirby ⭐️', "Owned")
 addPin('ClownKirby.jpg', 'Mirror Poyo', "Owned")
 addPin('BottleKirby.jpg', 'Poyo in a Bottle', "Owned")
 addPin('Clefairy.jpg', 'Clefairy Tamagotchi', "Owned")
-addPin('bluekirby.jpg', 'Blue Limited Edition Black Friday Kirby', "Owned")
 
 addCategory("BirbsNest {Invalid Link :(  }", "https://www.etsy.com/ca/shop/BirbsNest?ref=s2-header-shopname")
 
@@ -70,8 +69,8 @@ addPin('promise.jpg', 'Snezhnayan Promise (Chilumi Genshin Preorder)', "Owned")
 addCategory('Mamobot', "https://linktr.ee/mamobot")
 
 addPin('helioschibiusa.jpg', 'Chibiusa and Helios (Sailor Moon Fashion Scouts V3 Preorder)', "Owned")
-addPin('smfamily.jpg', 'Luna, Artemis and Diana kitties <br>(Sailor Moon Fashion Scouts V3 Preorder PATREON EXCLUSIVE)', "Owned")
 addPin('humanluna.jpg', 'Human Luna <br>(Sailor Moon Fashion Scouts V3 Preorder)', "Owned")
+addPin('smfamily.jpg', 'Luna, Artemis and Diana kitties <br>(Sailor Moon Fashion Scouts V3 Preorder PATREON EXCLUSIVE)', "Owned")
 
 addCategory("Polymernai", "https://www.polymernai.com")
 
@@ -80,7 +79,7 @@ addPin('Zelink.png', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
 addPin('Ladynoir.png', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Owned")
 
 addCategory('', "")
-addInlinePin('MyBuns.jpg', 'Two bunnies <br>(Luna & Bianca)', "Owned", "Lilycli (UpbeatPals)", "https://lilycli.com")
+addInlinePin('MyBuns.jpg', 'Wangxian Bunnies', "Owned", "Lilycli (UpbeatPals)", "https://lilycli.com")
 addInlinePin('BirthdayBun.jpg', 'Sprinkle Birthday Bunny', "Owned", "Sharodactylart", "https://sharodactylart.com")
 addInlinePin('raymond.jpg', 'Raymond Joy-Con (Animal Crossing)', "Owned", "Quirkory", "quirkory.carrd.co")
 
