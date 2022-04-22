@@ -16,16 +16,18 @@ addPin('sebby.jpg', 'SE Saeran Chibi by Alicehwyy', "Owned")
 addPin('saeyoung.jpg', 'Saeyoung (707) by Theartthatran', "Owned")
 addPin('saeran.jpg', 'Saeran (Ray) by Theartthatran', "Owned")
 
-addCategory("Akuo Art", "https://linktr.ee/akuoart")
+addCategory("Genshin Impact Pins")
 
-addPin('chibichilde.jpg', 'Chibi Childe (Tartaglia)', "Owned")
-addPin('chibicatnoir.jpg', 'Chibi Cat Noir', "Owned")
-addPin('childechibiprofile.jpg', 'Chibi Childe Bust (Tartaglia)', "Owned")
-addPin('luminechibiprofile.jpg', 'Chibi Lumine Bust', "Owned")
-addPin('xiaochibiprofile.jpg', 'Chibi Xiao Bust', "Owned")
-addPin('albedochibiprofile.jpg', 'Chibi Albedo Bust', "Owned")
-addPin('zhonglichibiprofile.jpg', 'Chibi Zhongli Bust', "Owned")
-addPin('scarachibiprofile.jpg', 'Chibi SCARAMOUCHE Bust', "Owned")
+addPin('chibichilde.jpg', 'Chibi Childe by AkuoArt', "Owned")
+
+addPin('childechibiprofile.jpg', 'Chibi Childe Bust by AkuoArt', "Owned")
+addPin('luminechibiprofile.jpg', 'Chibi Lumine by AkuoArt', "Owned")
+addPin('xiaochibiprofile.jpg', 'Chibi Xiao by AkuoArt', "Owned")
+addPin('albedochibiprofile.jpg', 'Chibi Albedo by AkuoArt', "Owned")
+addPin('zhonglichibiprofile.jpg', 'Chibi Zhongli by AkuoArt', "Owned")
+addPin('scarachibiprofile.jpg', 'Chibi Scaramouche by AkuoArt', "Owned")
+addPin('ChildeTraditional.jpg', 'Childe by BirbsNest', "Owned")
+addPin('XiaoTraditional.jpg', 'Xiao by BirbsNest', "Owned")
 
 addCategory("ArcadeHealer", "https://arcadehealer.carrd.co")
 
@@ -36,8 +38,7 @@ addPin('Clefairy.jpg', 'Clefairy Tamagotchi', "Owned")
 
 addCategory("BirbsNest {Invalid Link :(  }", "https://www.etsy.com/ca/shop/BirbsNest?ref=s2-header-shopname")
 
-addPin('ChildeTraditional.jpg', 'Childe (Genshin Impact)', "Owned")
-addPin('XiaoTraditional.jpg', 'Xiao (Genshin Impact)', "Owned")
+addPin('chibicatnoir.jpg', 'Chibi Cat Noir', "Owned")
 
 
 addCategory("Birduyen")
