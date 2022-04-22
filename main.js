@@ -5,7 +5,7 @@ categories = 0;
 
 
 
-addCategory("Mystic Messenger Pins")
+addCategory("Mystic Messenger Pins", "http://msg.cheritz.com/")
 
 addPin('gebby.jpg', 'GE Saeran Chibi <br>by Alicehwyy', "Owned")
 addPin('raybby.jpg', 'Ray Chibi <br>by Alicehwyy', "Owned")
@@ -16,7 +16,7 @@ addPin('saeyoung.jpg', 'Saeyoung (707) <br>by Theartthatran', "Owned")
 addPin('saeran.jpg', 'Saeran (Ray) <br>by Theartthatran', "Owned")
 
 
-addCategory("Genshin Impact Pins")
+addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
 
 addPin('lumine.jpg', 'Lumine <br>by Sugar Cubed Studios', "Owned")
 addPin('childebby.jpg', 'Childe (Tartaglia) <br>by Sugar Cubed Studios', "Owned")
@@ -37,20 +37,18 @@ addPin('XiaoTraditional.jpg', 'Xiao <br>by BirbsNest', "Owned")
 addPin('chilumi.jpg', 'Chilumi Hollichoo', "Owned")
 addPin('promise.jpg', 'Snezhnayan Promise by Hollichoo', "Owned")
 
+addPin('anemo.jpg', 'Anemoculus <br>by Theartthatran', "Owned")
 
-addCategory("ArcadeHealer", "https://arcadehealer.carrd.co")
+
+addCategory("Kirby Pins by ArcadeHealer", "https://arcadehealer.carrd.co")
 
 addPin('OGKirby.jpg', 'Star Wand Kirby ⭐️', "Owned")
 addPin('ClownKirby.jpg', 'Mirror Poyo', "Owned")
 addPin('BottleKirby.jpg', 'Poyo in a Bottle', "Owned")
 addPin('Clefairy.jpg', 'Clefairy Tamagotchi', "Owned")
 
-addCategory("BirbsNest {Invalid Link :(  }", "https://www.etsy.com/ca/shop/BirbsNest?ref=s2-header-shopname")
 
-addPin('chibicatnoir.jpg', 'Chibi Cat Noir', "Owned")
-
-
-addCategory("Birduyen")
+addCategory("Cute Animal Pins by Birduyen")
 
 addPin('Mousie.jpg', 'Spring Mouse ☼ Flora Series', "Owned")
 addPin('Birb.jpg', 'Spring Tit ☼ Flora Series', "Owned")
@@ -60,7 +58,7 @@ addPin('wooloo.jpg', 'Wooloo ♡ Pokemon Series', "Owned")
 addPin('sylveon.jpg', 'Sylveon ♡ Pokemon Series', "Owned")
 addPin('eevee.jpg', 'Eevee ♡ Pokemon Series', "Owned")
 
-addCategory('Blushsprout', "https://blushsprout.carrd.co")
+addCategory('Cute Animal Pins by Blushsprout', "https://blushsprout.carrd.co")
 
 addPin('lionm.jpg', 'Lion Meringue Pie ☆ Rainbow Food Animals Series', "Owned")
 addPin('raspbunny.jpg', 'Raspbunny Crepe ☆ Rainbow Food Animals Series', "Owned")
@@ -72,7 +70,7 @@ addPin('witchfroggie.jpg', 'Witch Froggie <br>(October 2020 Pin Club)', "Owned")
 addPin('daffodil.jpg', 'Daffodil Duckling Floranimals Series', "Owned")
 addPin('kitten.jpg', 'Cherry Blossom Spring Kitten Mini Pin', "Owned")
 
-addCategory('Goldfishkang', "https://goldfishkang.com")
+addCategory('Cute Animal Pins by Goldfishkang', "https://goldfishkang.com")
 
 addPin('LaundroCat.jpg', 'Laundrocats Pin: Dawn ☆', "Owned")
 addPin('Teacup.jpg', 'Reynard Manor Pin: Luna the Bookworm ♡', "Owned")
@@ -91,19 +89,12 @@ addCategory("Polymernai", "https://www.polymernai.com")
 addPin('VioletEvergarden.png', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "Owned")
 addPin('Zelink.png', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
 addPin('Ladynoir.png', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Owned")
+addPin('chibicatnoir.jpg', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
 
 addCategory('', "")
 addInlinePin('MyBuns.jpg', 'Wangxian Bunnies', "Owned", "Lilycli (UpbeatPals)", "https://lilycli.com")
 addInlinePin('BirthdayBun.jpg', 'Sprinkle Birthday Bunny', "Owned", "Sharodactylart", "https://sharodactylart.com")
 addInlinePin('raymond.jpg', 'Raymond Joy-Con (Animal Crossing)', "Owned", "Quirkory", "quirkory.carrd.co")
-
-addCategory("Sugar Cubed Studios", "https://sugarcubedstudios.carrd.co")
-
-
-addCategory('Theartthatran', "https://theartthatran.wordpress.com")
-
-
-addPin('anemo.jpg', 'Anemoculus (Genshin I.)', "Owned")
 
 
 addCategory('Weishi', "https://linktr.ee/weishi_art")
