@@ -5,29 +5,38 @@ categories = 0;
 
 
 
-
 addCategory("Mystic Messenger Pins")
 
-addPin('gebby.jpg', 'GE Saeran Chibi by Alicehwyy', "Owned")
-addPin('raybby.jpg', 'Ray Chibi by Alicehwyy', "Owned")
-addPin('suitbby.jpg', 'Suit Saeran Chibi by Alicehwyy', "Owned")
-addPin('unknownbby.jpg', 'Unknown Chibi by Alicehwyy', "Owned")
-addPin('sebby.jpg', 'SE Saeran Chibi by Alicehwyy', "Owned")
-addPin('saeyoung.jpg', 'Saeyoung (707) by Theartthatran', "Owned")
-addPin('saeran.jpg', 'Saeran (Ray) by Theartthatran', "Owned")
+addPin('gebby.jpg', 'GE Saeran Chibi <br>by Alicehwyy', "Owned")
+addPin('raybby.jpg', 'Ray Chibi <br>by Alicehwyy', "Owned")
+addPin('suitbby.jpg', 'Suit Saeran Chibi <br>by Alicehwyy', "Owned")
+addPin('unknownbby.jpg', 'Unknown Chibi <br>by Alicehwyy', "Owned")
+addPin('sebby.jpg', 'SE Saeran Chibi by <br>Alicehwyy', "Owned")
+addPin('saeyoung.jpg', 'Saeyoung (707) <br>by Theartthatran', "Owned")
+addPin('saeran.jpg', 'Saeran (Ray) <br>by Theartthatran', "Owned")
+
 
 addCategory("Genshin Impact Pins")
 
-addPin('chibichilde.jpg', 'Chibi Childe by AkuoArt', "Owned")
+addPin('lumine.jpg', 'Lumine <br>by Sugar Cubed Studios', "Owned")
+addPin('childebby.jpg', 'Childe (Tartaglia) <br>by Sugar Cubed Studios', "Owned")
+addPin('scara.jpg', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
+addPin('xiao.jpg', 'Xiao <br>by Sugar Cubed Studios', "Owned")
 
-addPin('childechibiprofile.jpg', 'Chibi Childe Bust by AkuoArt', "Owned")
-addPin('luminechibiprofile.jpg', 'Chibi Lumine by AkuoArt', "Owned")
-addPin('xiaochibiprofile.jpg', 'Chibi Xiao by AkuoArt', "Owned")
-addPin('albedochibiprofile.jpg', 'Chibi Albedo by AkuoArt', "Owned")
-addPin('zhonglichibiprofile.jpg', 'Chibi Zhongli by AkuoArt', "Owned")
-addPin('scarachibiprofile.jpg', 'Chibi Scaramouche by AkuoArt', "Owned")
-addPin('ChildeTraditional.jpg', 'Childe by BirbsNest', "Owned")
-addPin('XiaoTraditional.jpg', 'Xiao by BirbsNest', "Owned")
+addPin('chibichilde.jpg', 'Chibi Childe <br>by AkuoArt', "Owned")
+addPin('childechibiprofile.jpg', 'Chibi Childe Bust <br>by AkuoArt', "Owned")
+addPin('luminechibiprofile.jpg', 'Chibi Lumine <br>by AkuoArt', "Owned")
+addPin('xiaochibiprofile.jpg', 'Chibi Xiao <br>by AkuoArt', "Owned")
+addPin('albedochibiprofile.jpg', 'Chibi Albedo <br>by AkuoArt', "Owned")
+addPin('zhonglichibiprofile.jpg', 'Chibi Zhongli <br>by AkuoArt', "Owned")
+addPin('scarachibiprofile.jpg', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
+
+addPin('ChildeTraditional.jpg', 'Childe <br>by BirbsNest', "Owned")
+addPin('XiaoTraditional.jpg', 'Xiao <br>by BirbsNest', "Owned")
+
+addPin('chilumi.jpg', 'Chilumi Hollichoo', "Owned")
+addPin('promise.jpg', 'Snezhnayan Promise by Hollichoo', "Owned")
+
 
 addCategory("ArcadeHealer", "https://arcadehealer.carrd.co")
 
@@ -70,10 +79,6 @@ addPin('Teacup.jpg', 'Reynard Manor Pin: Luna the Bookworm ♡', "Owned")
 addPin('Adventurer.jpg', 'Little Adventurer ❀', "Owned")
 addPin('PainterFox.jpg', 'Artsy Fox: Cloud Painter☆', "Owned")
 
-addCategory('Hollichoo', "https://www.instagram.com/hollichoo")
-
-addPin('chilumi.jpg', 'Chilumi (Chilumi Genshin Preorder)', "Owned")
-addPin('promise.jpg', 'Snezhnayan Promise (Chilumi Genshin Preorder)', "Owned")
 
 addCategory('Mamobot', "https://linktr.ee/mamobot")
 
@@ -94,10 +99,6 @@ addInlinePin('raymond.jpg', 'Raymond Joy-Con (Animal Crossing)', "Owned", "Quirk
 
 addCategory("Sugar Cubed Studios", "https://sugarcubedstudios.carrd.co")
 
-addPin('lumine.jpg', 'Lumine <br>(Genshin Guardian KS)', "Owned")
-addPin('childebby.jpg', 'Childe (Tartaglia) <br>(Genshin Guardian KS)', "Owned")
-addPin('scara.jpg', 'Scaramouche <br>(Genshin Guardian KS)', "Owned")
-addPin('xiao.jpg', 'Xiao <br>(Genshin Guardian KS)', "Owned")
 
 addCategory('Theartthatran', "https://theartthatran.wordpress.com")
 
