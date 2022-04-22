@@ -6,13 +6,15 @@ categories = 0;
 
 
 
-addCategory("Alicehwyy", "https://alicehwyy.carrd.co")
+addCategory("Mystic Messenger Pins")
 
-addPin('gebby.jpg', 'GE Saeran Chibi', "Owned")
-addPin('raybby.jpg', 'Ray Chibi', "Owned")
-addPin('suitbby.jpg', 'Suit Saeran Chibi', "Owned")
-addPin('unknownbby.jpg', 'Unknown Chibi', "Owned")
-addPin('sebby.jpg', 'SE Saeran Chibi', "Owned")
+addPin('gebby.jpg', 'GE Saeran Chibi by Alicehwyy', "Owned")
+addPin('raybby.jpg', 'Ray Chibi by Alicehwyy', "Owned")
+addPin('suitbby.jpg', 'Suit Saeran Chibi by Alicehwyy', "Owned")
+addPin('unknownbby.jpg', 'Unknown Chibi by Alicehwyy', "Owned")
+addPin('sebby.jpg', 'SE Saeran Chibi by Alicehwyy', "Owned")
+addPin('saeyoung.jpg', 'Saeyoung (707) by Theartthatran', "Owned")
+addPin('saeran.jpg', 'Saeran (Ray) by Theartthatran', "Owned")
 
 addCategory("Akuo Art", "https://linktr.ee/akuoart")
 
@@ -98,8 +100,7 @@ addPin('xiao.jpg', 'Xiao <br>(Genshin Guardian KS)', "Owned")
 
 addCategory('Theartthatran', "https://theartthatran.wordpress.com")
 
-addPin('saeyoung.jpg', 'Saeyoung (707): Mini Mystics', "Owned")
-addPin('saeran.jpg', 'Saeran (Ray): Mini Mystics', "Owned")
+
 addPin('anemo.jpg', 'Anemoculus (Genshin I.)', "Owned")
 
 
