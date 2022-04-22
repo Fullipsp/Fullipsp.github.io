@@ -6,7 +6,13 @@ categories = 0;
 
 
 
+addCategory("Alicehwyy", "https://alicehwyy.carrd.co")
 
+addPin('gebby.jpg', 'GE Saeran Chibi', "Owned")
+addPin('raybby.jpg', 'Ray Chibi', "Owned")
+addPin('suitbby.jpg', 'Suit Saeran Chibi', "Owned")
+addPin('unknownbby.jpg', 'Unknown Chibi', "Owned")
+addPin('sebby.jpg', 'SE Saeran Chibi', "Owned")
 
 addCategory("Akuo Art", "https://linktr.ee/akuoart")
 
