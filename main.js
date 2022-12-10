@@ -22,6 +22,11 @@ addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
 addPin('ChildeTraditional.jpg', 'Childe <br>by BirbsNest', "Owned")
 addPin('XiaoTraditional.jpg', 'Xiao <br>by BirbsNest', "Owned")
 
+addPin('fivexiao.jpg', 'Xiao <br>by Fiveonthe', "Shipped")
+addPin('fiveitto.jpg', 'Itto <br>by Fiveonthe', "Shipped")
+addPin('fivethoma.jpg', 'Thoma <br>by Fiveonthe', "Shipped")
+
+
 addPin('lengorou.jpg', 'Gorou by Lenacchi', "Owned")
 addPin('lenzhongli.jpg', 'Zhongli by Lenacchi', "Owned")
 addPin('lenayato.jpg', 'Ayato by Lenacchi', "Shipped")
