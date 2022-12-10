@@ -18,9 +18,18 @@ addPin('saeran.jpg', 'Saeran (Ray) <br>by Theartthatran', "Owned")
 
 addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
 
+
+addPin('ChildeTraditional.jpg', 'Childe <br>by BirbsNest', "Owned")
+addPin('XiaoTraditional.jpg', 'Xiao <br>by BirbsNest', "Owned")
+
+addPin('lengorou.jpg', 'Gorou by Lenacchi', "Owned")
+addPin('lenzhongli.jpg', 'Zhongli by Lenacchi', "Owned")
+
+addPin('anemo.jpg', 'Anemoculus <br>by Theartthatran', "Owned")
+
+addPin('scara.jpg', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
 addPin('lumine.jpg', 'Lumine <br>by Sugar Cubed Studios', "Owned")
 addPin('childebby.jpg', 'Childe (Tartaglia) <br>by Sugar Cubed Studios', "Owned")
-addPin('scara.jpg', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
 addPin('xiao.jpg', 'Xiao <br>by Sugar Cubed Studios', "Owned")
 
 addPin('chibichilde.jpg', 'Chibi Childe <br>by AkuoArt', "Owned")
@@ -31,13 +40,13 @@ addPin('albedochibiprofile.jpg', 'Chibi Albedo <br>by AkuoArt', "Owned")
 addPin('zhonglichibiprofile.jpg', 'Chibi Zhongli <br>by AkuoArt', "Owned")
 addPin('scarachibiprofile.jpg', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
 
-addPin('ChildeTraditional.jpg', 'Childe <br>by BirbsNest', "Owned")
-addPin('XiaoTraditional.jpg', 'Xiao <br>by BirbsNest', "Owned")
+
+
 
 addPin('chilumi.jpg', 'Chilumi Hollichoo', "Owned")
 addPin('promise.jpg', 'Snezhnayan Promise by Hollichoo', "Owned")
 
-addPin('anemo.jpg', 'Anemoculus <br>by Theartthatran', "Owned")
+
 
 
 addCategory("Kirby Pins by ArcadeHealer", "https://arcadehealer.carrd.co")
