@@ -24,6 +24,10 @@ addPin('XiaoTraditional.jpg', 'Xiao <br>by BirbsNest', "Owned")
 
 addPin('lengorou.jpg', 'Gorou by Lenacchi', "Owned")
 addPin('lenzhongli.jpg', 'Zhongli by Lenacchi', "Owned")
+addPin('lenkazuha.jpg', 'Kazuha by Lenacchi', "Shipped")
+addPin('lenxiao.jpg', 'Xiao by Lenacchi', "Shipped")
+addPin('lenayato.jpg', 'Ayato by Lenacchi', "Shipped")
+
 
 addPin('anemo.jpg', 'Anemoculus <br>by Theartthatran', "Owned")
 
