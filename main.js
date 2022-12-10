@@ -57,7 +57,11 @@ addPin('scarachibiprofile.jpg', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
 addPin('chilumi.jpg', 'Chilumi Hollichoo', "Owned")
 addPin('promise.jpg', 'Snezhnayan Promise by Hollichoo', "Owned")
 
+addCategory("MDZS & Wangxian Pins",)
 
+addPin('bluhdonkey.jpg', 'Wangxian Donkey <br>by Bluhtack', "Owned")
+addPin('bluhroof.jpg', 'Wangxian on Roof <br>by Bluhtack', "Owned")
+addPin('weiying.jpg', 'Valentine Wei Ying <br>by Billacookie', "Owned")
 
 
 addCategory("Kirby Pins by ArcadeHealer", "https://arcadehealer.carrd.co")
