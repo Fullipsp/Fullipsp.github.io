@@ -34,10 +34,6 @@ addPin('lenxiao.jpg', 'Xiao by <br>Lenacchi', "Shipped")
 addPin('lenkazuha.jpg', 'Kazuha <br>by Lenacchi', "Shipped")
 addPin('eggkazuha.jpg', 'Kazuha by angryeggmerch', "Waiting")
 
-
-
-addPin('anemo.jpg', 'Anemoculus <br>by Theartthatran', "Owned")
-
 addPin('scara.jpg', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
 addPin('lumine.jpg', 'Lumine <br>by Sugar Cubed Studios', "Owned")
 addPin('childebby.jpg', 'Childe (Tartaglia) <br>by Sugar Cubed Studios', "Owned")
@@ -51,11 +47,13 @@ addPin('albedochibiprofile.jpg', 'Chibi Albedo <br>by AkuoArt', "Owned")
 addPin('zhonglichibiprofile.jpg', 'Chibi Zhongli <br>by AkuoArt', "Owned")
 addPin('scarachibiprofile.jpg', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
 
-
+addPin('anemo.jpg', 'Anemoculus <br>by Theartthatran', "Owned")
 
 
 addPin('chilumi.jpg', 'Chilumi Hollichoo', "Owned")
 addPin('promise.jpg', 'Snezhnayan Promise by Hollichoo', "Owned")
+
+
 
 addCategory("MDZS & Wangxian Pins",)
 
