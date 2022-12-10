@@ -27,11 +27,11 @@ addPin('fiveitto.jpg', 'Itto <br>by Fiveonthe', "Shipped")
 addPin('fivethoma.jpg', 'Thoma <br>by Fiveonthe', "Shipped")
 
 
-addPin('lengorou.jpg', 'Gorou by Lenacchi', "Owned")
-addPin('lenzhongli.jpg', 'Zhongli by Lenacchi', "Owned")
-addPin('lenayato.jpg', 'Ayato by Lenacchi', "Shipped")
-addPin('lenxiao.jpg', 'Xiao by Lenacchi', "Shipped")
-addPin('lenkazuha.jpg', 'Kazuha by Lenacchi', "Shipped")
+addPin('lengorou.jpg', 'Gorou by <br>Lenacchi', "Owned")
+addPin('lenzhongli.jpg', 'Zhongli <br>by Lenacchi', "Owned")
+addPin('lenayato.jpg', 'Ayato <br>by Lenacchi', "Shipped")
+addPin('lenxiao.jpg', 'Xiao by <br>Lenacchi', "Shipped")
+addPin('lenkazuha.jpg', 'Kazuha <br>by Lenacchi', "Shipped")
 addPin('eggkazuha.jpg', 'Kazuha by angryeggmerch', "Waiting")
 
 
