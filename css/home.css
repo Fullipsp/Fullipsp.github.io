@@ -126,7 +126,7 @@
         gap: 10px;
     }  
     .left {
-        margin-bottom: 0;
+        margin-bottom: 0 !important;
         order: 1;
     }
     .right {
