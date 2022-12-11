@@ -1,48 +1,51 @@
-<html>
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <link href="https://fonts.googleapis.com/css2?family=Courgette&family=Quicksand&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="./css/global.css">
+    <link rel="stylesheet" href="./css/home.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Courgette&family=Quicksand&display=swap" rel="stylesheet">
+
+    <title>Fullipsp's Pin Collection</title>
 </head>
 
 <body>
-    <div class="title">Fullipsp's Pin Collection</div>
-    <div class="nav-links">
-        <a href="/index.html">
-            <div class="link">Home</div>
-        </a>
-        <a href="/pins.html">
-            <div class="link">Pins</div>
-        </a>
-    </div>
-
-    <div class="about-box">
+    <header></header>
+    <div class="content">
         <div class="section">
-            <img style="border-radius: 10px; box-shadow: 0 0 5px 0 black;" height="400px" src="images/drawing.jpg"
-                alt="">
-        </div>
-        <div class="section center">
-            <div class="upper-section">
-                <div class="title">Hej! I'm a Polish artist and collector obsessed with anime characters.</div>
-                <a href="https://ko-fi.com/fullipsp" class="coffee-link" target="_blank" rel="noopener noreferrer">Buy Me A Coffee</a>
-                <a href="/pins.html">See My Pins</a>
-            </div>
-            <div class="description">
-                I designed this website myself ･ﾟ✧<br>
-                You can find more pictures of my goodies and drawings on my socials below (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-            </div>
-            <a href="https://www.instagram.com/fullipsp" target="_blank" rel="noopener noreferrer">Instagram</a>
-            <a href="https://myanimelist.net/profile/Fullipsp" target="_blank" rel="noopener noreferrer">My Anime List</a>
-            <a href="https://myfigurecollection.net/profile/Fullipsp" target="_blank" rel="noopener noreferrer">My Figure Collection</a>
-        </div>
-        <div class="section">
+            <div class="left" style="margin-bottom: 54px;">
+                <div class="image">
+                    <img oncontextmenu="return false;" src="./images/frames.jpg"></img>
+                </div>
 
-            <img style="border-radius: 10px; box-shadow: 0 0 5px 0 black;" height="400px" src="images/frames.jpg" />
+            </div>
+            <div class="center">
+                <div class="title">Hej!</div>
+                <div class="description">
+                    <p>I'm a Polish artist and collector obsessed with anime characters. I designed this website myself ･ﾟ✧</p>
+                    <p>You can find more pictures of my goodies and drawings on my socials below (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</p>
+                </div>
+                <a class="social" href="https://twitter.com/fullipsp" target="_blank" rel="noopener noreferrer"> <img src="./images/social-logos/twitter.svg" alt=""> Twitter</a>
+                <a class="social" href="https://www.instagram.com/fullipsp/" target="_blank" rel="noopener noreferrer"> <img src="./images/social-logos/instagram.svg" alt=""> Instagram</a>
+                <a class="social" href="https://myanimelist.net/profile/Fullipsp" target="_blank" rel="noopener noreferrer"> <img src="./images/social-logos/myanimelist.svg" alt=""> My Anime List</a>
+                <a class="social" href="https://myfigurecollection.net/profile/Fullipsp" target="_blank" rel="noopener noreferrer"> <img src="./images/social-logos/myfigurecollection.svg" alt=""> My Figure Collection</a>
+                <a class="social" href="https://ko-fi.com/fullipsp" target="_blank" rel="noopener noreferrer"> <img src="./images/social-logos/ko-fi.svg" alt=""> Buy Me A Coffee</a>
+            </div>
+            <div class="right">
+                <div class="slideshow">
+                    <img oncontextmenu="return false;" id="slideshow-image"></img>
+                </div>
+                <div id="progress-bar"><div id="bar"></div></div>
+                <div id="image-index"></div>
+            </div>
         </div>
     </div>
-    <div style="text-align: center; margin: auto; margin-bottom: 0;">Copyright © 2020-2022 to the page and the photography of
-        "Owned" pins. Goodies not made by me and the respective artists are credited.</div>
+    <script src="js/global.js"></script>
+    <script src="./js/drawings.js"></script>
+    <script src="./js/home.js"></script>
 </body>
 
 </html>

@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+:root {
+    --background: #1c1718;
+    --primary-color: #ffc0cb;
+    --header-bg-color: #3a2f31;
+
+    --pin-owned-color: #b9ffb4;
+    --pin-owned-bg-color: #2a5626;
+
+    --pin-waiting-color: #c8e3ff;
+    --pin-waiting-bg-color: #244a70;
+
+    --pin-shipped-color: #ffe9ad;
+    --pin-shipped-bg-color: #685930;
+
+    --pin-pre-ordered-color: #ffd2de;
+    --pin-pre-ordered-bg-color: #6a293a;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    background-color: var(--background);
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}

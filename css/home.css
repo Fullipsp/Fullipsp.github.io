@@ -1,0 +1,136 @@
+.content {
+    display: flex;
+    height: 100%;
+    align-content: center;
+    justify-content: center;
+}
+.section {
+    gap: 30px;
+    display: flex;
+    max-width: 90%;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.section .center {
+    align-self: start;
+    flex: 1;
+    max-width: 400px;
+}
+.section .left {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.section .right {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.section .center .title {
+    color: var(--primary-color);
+    font-size: 24px;
+}
+
+.section .center .description {
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.section .center .social {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.7);
+    text-decoration: none;
+    padding: 5px;
+    transition: 0.2s;
+}
+
+.section .center .social img {
+    height: 20px;
+    width: 20px;
+    margin-right: 5px;
+}
+
+.section .center .social:hover {
+    border-radius: 8px;
+    color: var(--primary-color);
+    background-color: rgba(255, 255, 255, 0.1);
+} 
+
+.section .right .slideshow {
+    background-color: rgba(255, 255, 255, 0.1);
+    aspect-ratio: 11/8;
+    max-height: 500px;
+    border-radius: 8px;
+    border: solid 1px var(--primary-color);
+    overflow: hidden;
+}
+.section .right .slideshow img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+} 
+
+
+.section .left .image {
+    background-color: rgba(255, 255, 255, 0.1);
+    aspect-ratio: 11/8;
+    max-height: 500px;
+    border-radius: 8px;
+    border: solid 1px var(--primary-color);
+    overflow: hidden;
+}
+.section .left .image img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+} 
+.section .right #progress-bar {
+    align-self: center;
+    justify-self: center;
+    background-color: rgba(255, 255, 255, 0.2);
+    height: 10px;
+    width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+.section .right #bar {
+    border-radius: 8px;
+    background-color: var(--primary-color);
+    height: 100%;
+    width: 50%;
+    
+}
+.section .right #image-index {
+    align-self: center;
+    font-size: 18px;
+}
+
+
+@media (max-width: 900px) {
+    .content {
+        height: initial;
+    }
+    .section{
+        flex-direction: column;
+        margin-top: 20px;
+        height: initial;
+    }  
+    .left {
+        order: 1;
+    }
+    .right {
+        order: 3;
+    }
+    .center {
+        align-self: flex-start;
+        order: 2;
+    }
+}

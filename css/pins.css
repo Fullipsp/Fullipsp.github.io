@@ -1,0 +1,133 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    align-self: center;
+    max-width: 70%;
+    width: 100%;
+}
+
+.category-title {
+    align-self: flex-start;
+    color: var(--primary-color);
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.category {
+    display: grid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    grid-template-columns: auto auto auto;
+    grid-template-columns: repeat(auto-fill, 200px);
+    grid-gap: 10px;
+    grid-auto-rows: min-content;
+    justify-content: center;
+
+}
+
+.category-title:hover {
+    text-decoration: underline;
+}
+
+.pin-item {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+}
+
+.pin-item .status {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.pin-item .pin-title {
+    font-size: 14px;
+    margin-bottom: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 3px;
+}
+
+.pin-item .status .material-icons {
+    font-size: 14px;
+    margin-right: 5px;
+}
+
+.pin-item .status.owned {
+    background-color: var(--pin-owned-bg-color);
+    color: var(--pin-owned-color);
+}
+
+.pin-item .status.waiting {
+    background-color: var(--pin-waiting-bg-color);
+    color: var(--pin-waiting-color);
+}
+
+.pin-item .status.shipped {
+    background-color: var(--pin-shipped-bg-color);
+    color: var(--pin-shipped-color);
+}
+
+.pin-item .status.pre-ordered {
+    background-color: var(--pin-pre-ordered-bg-color);
+    color: var(--pin-pre-ordered-color);
+}
+
+.pin-item img {
+    height: 200px;
+    width: 180px;
+    object-fit: cover;
+    border-radius: 8px;
+    cursor: zoom-in;
+    transition: 0.2s;
+}
+
+.pin-item img:hover {
+    opacity: 0.7;
+}
+
+
+
+#preview {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    backdrop-filter: blur(20px);
+}
+
+#preview img {
+    width: 80%;
+    max-width: 500px;
+    border-radius: 8px;
+}
+
+@media (max-width: 1502px) {
+    .content {
+        max-width: 80%;
+    }
+}
+
+@media (max-width: 511px) {
+    .content {
+        max-width: 90%;
+    }
+    .category {
+        grid-template-columns: repeat(auto-fill, 100%);
+    }
+    .pin-item img {
+        width: 100%;
+        height: initial;
+        aspect-ratio: 9/12;
+    }
+}
