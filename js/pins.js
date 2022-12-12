@@ -63,9 +63,22 @@ addCategory("Kirby Pins by ArcadeHealer", "https://arcadehealer.carrd.co")
     .addPin('BottleKirby.jpg', 'Poyo in a Bottle', "Owned")
     .addPin('Clefairy.jpg', 'Clefairy Tamagotchi', "Owned")
 
+addCategory('Mamobot Sailor Moon Pins', "https://linktr.ee/mamobot")
+    .addPin('helioschibiusa.jpg', 'Chibiusa and Helios', "Owned")
+    .addPin('humanluna.jpg', 'Human Luna', "Owned")
+    .addPin('smfamily.jpg', 'Luna, Artemis and Diana kitties', "Owned")
+    .addPin('SSailor.jpg', 'Super Sailor Moon', "Sold")
+    .addPin('SSerenity.jpg', 'Serenity Sailor Moon', "Sold")
+    .addPin('SCosmos.jpg', 'Cosmos Sailor Moon', "Sold")
+
+addCategory("Polymernai", "https://www.polymernai.com")
+    .addPin('VioletEvergarden.png', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "Owned")
+    .addPin('Zelink.png', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
+    .addPin('Ladynoir.png', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Owned")
+    .addPin('chibicatnoir.jpg', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
 
 
-addCategory("Cute Animal Pins by Birduyen")
+addCategory("Cute Animal Pins")
     .addPin('Mousie.jpg', 'Spring Mouse ☼ Flora Series', "Owned")
     .addPin('Birb.jpg', 'Spring Tit ☼ Flora Series', "Owned")
     .addPin('LavenderBun.jpg', 'Spring Bunny ☼ Flora Series', "Owned")
@@ -74,7 +87,6 @@ addCategory("Cute Animal Pins by Birduyen")
     .addPin('sylveon.jpg', 'Sylveon ♡ Pokemon Series', "Owned")
     .addPin('eevee.jpg', 'Eevee ♡ Pokemon Series', "Owned")
 
-addCategory('Cute Animal Pins by Blushsprout', "https://blushsprout.carrd.co")
     .addPin('lionm.jpg', 'Lion Meringue Pie ☆ Rainbow Food Animals Series', "Owned")
     .addPin('raspbunny.jpg', 'Raspbunny Crepe ☆ Rainbow Food Animals Series', "Owned")
     .addPin('Fawnfetti.jpg', 'Fawnfetti ☆ Rainbow Food Animals Series', "Owned")
@@ -85,32 +97,14 @@ addCategory('Cute Animal Pins by Blushsprout', "https://blushsprout.carrd.co")
     .addPin('kitten.jpg', 'Cherry Blossom Spring Kitten Mini Pin', "Owned")
     .addPin('night.jpg', 'Froggie ITA (Nighttime) Bag (Kickstarter) (Peach and Holo inserts)', "Owned")
 
-addCategory('Cute Animal Pins by Goldfishkang', "https://goldfishkang.com")
     .addPin('LaundroCat.jpg', 'Laundrocats Pin: Dawn ☆', "Owned")
     .addPin('Teacup.jpg', 'Reynard Manor Pin: Luna the Bookworm ♡', "Owned")
     .addPin('Adventurer.jpg', 'Little Adventurer ❀', "Owned")
     .addPin('PainterFox.jpg', 'Artsy Fox: Cloud Painter☆', "Owned")
 
-
-addCategory('Mamobot Sailor Moon Pins', "https://linktr.ee/mamobot")
-    .addPin('helioschibiusa.jpg', 'Chibiusa and Helios', "Owned")
-    .addPin('humanluna.jpg', 'Human Luna', "Owned")
-    .addPin('smfamily.jpg', 'Luna, Artemis and Diana kitties', "Owned")
-    .addPin('SSailor.jpg', 'Super Sailor Moon', "Waiting")
-    .addPin('SSerenity.jpg', 'Serenity Sailor Moon', "Waiting")
-    .addPin('SCosmos.jpg', 'Cosmos Sailor Moon', "Waiting")
-
-
-
-addCategory("Polymernai", "https://www.polymernai.com")
-    .addPin('VioletEvergarden.png', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "Owned")
-    .addPin('Zelink.png', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
-    .addPin('Ladynoir.png', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Owned")
-    .addPin('chibicatnoir.jpg', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
-
-
+    
 addInlineCategory()
-    .addPin('Lilycli (UpbeatPals)', "https://lilycli.com", 'MyBuns.jpg', 'Wangxian Bunnies', "Owned")
+
     .addPin('Sharodactylart', "https://sharodactylart.com", 'BirthdayBun.jpg', 'Sprinkle Birthday Bunny', "Owned") 
     .addPin("Quirkory", "https://quirkory.carrd.co", 'raymond.jpg', 'Raymond Joy-Con (Animal Crossing)', "Owned")
 
@@ -118,7 +112,7 @@ addInlineCategory()
 addCategory('Weishi', "https://linktr.ee/weishi_art")
     .addPin('Weishi.jpg', 'Lily`s Hanami (September 2020 Pin Club)', "Owned")
     .addPin('WishingWell.jpg', 'Bunny`s Wishing Pond (August 2020 Pin Club) <br>(Seconds)', "Owned")
-    .addPin('Isabelle.jpg', 'Animal Crossing: New Horizons Vacation Isabelle (Seconds)', "Owned")
+    .addPin('Isabelle.jpg', 'Animal Crossing: New Horizons Vacation Isabelle (Seconds)', "Sold")
 
 addCategory('Xhilyn', "https://xhilyn.carrd.co")
     .addPin('WitchKitty.jpg', 'Pastel Kitty Witch Mascot', "Owned")
