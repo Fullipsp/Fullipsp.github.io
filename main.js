@@ -58,8 +58,8 @@ addPin('scarachibiprofile.jpg', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
 addPin('anemo.jpg', 'Anemoculus <br>by Theartthatran', "Owned")
 
 
-addPin('chilumi.jpg', 'Chilumi Hollichoo', "Owned")
-addPin('promise.jpg', 'Snezhnayan Promise by Hollichoo', "Owned")
+addPin('chilumi.jpg', 'Chilumi <br>by Hollichoo', "Owned")
+addPin('promise.jpg', 'Snezhnayan Promise <br>by Hollichoo', "Owned")
 
 
 
@@ -97,7 +97,7 @@ addCategory('Cute Animal Pins by Blushsprout', "https://blushsprout.carrd.co")
 addPin('lionm.jpg', 'Lion Meringue Pie ☆ Rainbow Food Animals Series', "Owned")
 addPin('raspbunny.jpg', 'Raspbunny Crepe ☆ Rainbow Food Animals Series', "Owned")
 addPin('Fawnfetti.jpg', 'Fawnfetti ☆ Rainbow Food Animals Series', "Owned")
-addPin('Sloth.jpg', 'Cute Sloth ☆ Floranimals Series <br>(Seconds)', "Owned")
+addPin('Sloth.jpg', 'Cute Sloth ☆ Floranimals Series', "Owned")
 addPin('night.jpg', 'Froggie ITA (Nighttime) Bag (Kickstarter) (Peach and Holo inserts)', "Owned")
 addPin('froggie pin bag.jpg', 'Froggie Bag Freebie Frog (Kickstarter)', "Owned")
 addPin('witchfroggie.jpg', 'Witch Froggie <br>(October 2020 Pin Club)', "Owned")
