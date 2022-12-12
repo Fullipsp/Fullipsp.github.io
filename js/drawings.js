@@ -7,14 +7,14 @@ addDrawing('AxL.jpg', 'Arwin & Latte Portrait <br>Miss Not So Sidekick');
 addDrawing('gorouarcher.jpg', 'Gorou Bow Practice <br>Genshin Impact');
 addDrawing('catxiao.jpg', 'Catboy Xiao <br>Genshin Impact');
 addDrawing('catnoir.jpg', 'Cat Noir <br>Miraculous Ladybug');
-addDrawing('Childe Patriot.jpg', 'Childe - Tartaglia <br>Independence Day 2021');
+addDrawing('childe.jpg', 'Childe - Tartaglia <br>Independence Day 2021');
 addDrawing('celestial.jpg', 'Cat Noir <br>Miraculous Ladybug');
-addDrawing('tomo.jpg', 'Cat Noir <br>Miraculous Ladybug');
-addDrawing('kazuhabday.jpg', 'Cat Noir <br>Miraculous Ladybug');
-addDrawing('winterxiao.jpg', 'Cat Noir <br>Miraculous Ladybug');
-addDrawing('txz.jpg', 'Cat Noir <br>Miraculous Ladybug');
-addDrawing('rayphone.jpg', 'Cat Noir <br>Miraculous Ladybug');
-addDrawing('belpher.jpg', 'Cat Noir <br>Miraculous Ladybug');
+addDrawing('tomo.jpg', 'Kazuhas Friend <br>Genshin Impact');
+addDrawing('kazuhabday.jpg', 'Kazuhas Birthday <br>Genshin Impact');
+addDrawing('winterxiao.jpg', 'Winter Xiao - Otome AU <br>Genshin Impact');
+addDrawing('zagreus.jpg', 'Zagreus <br> Hades');
+addDrawing('rayphone.jpg', 'Ray on the Phone <br>Mystic Messenger');
+addDrawing('belpher.jpg', 'Belphegor Underwater <br>Obey Me');
 
 
 
