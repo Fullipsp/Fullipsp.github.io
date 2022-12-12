@@ -16,6 +16,9 @@
 
     --pin-pre-ordered-color: #ffd2de;
     --pin-pre-ordered-bg-color: #6a293a;
+
+    --pin-sold-color: #ff7d7d;
+    --pin-sold-bg-color: #5f3333;
 }
 
 body, html {

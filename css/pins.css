@@ -92,6 +92,10 @@
     background-color: var(--pin-pre-ordered-bg-color);
     color: var(--pin-pre-ordered-color);
 }
+.pin-item .status.sold {
+    background-color: var(--pin-sold-bg-color);
+    color: var(--pin-sold-color);
+}
 
 .pin-item img {
     height: 200px;
