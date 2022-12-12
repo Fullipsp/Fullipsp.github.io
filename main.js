@@ -11,9 +11,17 @@ addPin('gebby.jpg', 'GE Saeran Chibi <br>by Alicehwyy', "Owned")
 addPin('raybby.jpg', 'Ray Chibi <br>by Alicehwyy', "Owned")
 addPin('suitbby.jpg', 'Suit Saeran Chibi <br>by Alicehwyy', "Owned")
 addPin('unknownbby.jpg', 'Unknown Chibi <br>by Alicehwyy', "Owned")
-addPin('sebby.jpg', 'SE Saeran Chibi by <br>Alicehwyy', "Owned")
+addPin('sebby.jpg', 'SE Saeran Chibi <br>by Alicehwyy', "Owned")
 addPin('saeyoung.jpg', 'Saeyoung (707) <br>by Theartthatran', "Owned")
 addPin('saeran.jpg', 'Saeran (Ray) <br>by Theartthatran', "Owned")
+
+addPin('napray.jpg', 'Ray Chibi <br>by Napporin', "Owned")
+addPin('napsuit.jpg', 'Suit Saeran Chibi <br>by Napporin', "Owned")
+addPin('napunknown.jpg', 'Unknown Chibi <br>by Napporin', "Owned")
+addPin('napsaeran.jpg', 'Wedding Saeran Chibi <br>by Napporin', "Owned")
+addPin('napsaeran.jpg', 'Wedding Saeran Ring <br>by Napporin', "Owned")
+
+
 
 
 addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
@@ -55,11 +63,14 @@ addPin('promise.jpg', 'Snezhnayan Promise by Hollichoo', "Owned")
 
 
 
+
 addCategory("MDZS & Wangxian Pins",)
 
 addPin('bluhdonkey.jpg', 'Wangxian Donkey <br>by Bluhtack', "Owned")
 addPin('bluhroof.jpg', 'Wangxian on Roof <br>by Bluhtack', "Owned")
 addPin('weiying.jpg', 'Valentine Wei Ying <br>by Billacookie', "Owned")
+addPin('MyBuns.jpg', 'Wangxian Bunnies <br>by Lilycli', "Owned")
+
 
 
 addCategory("Kirby Pins by ArcadeHealer", "https://arcadehealer.carrd.co")
@@ -68,6 +79,7 @@ addPin('OGKirby.jpg', 'Star Wand Kirby ⭐️', "Owned")
 addPin('ClownKirby.jpg', 'Mirror Poyo', "Owned")
 addPin('BottleKirby.jpg', 'Poyo in a Bottle', "Owned")
 addPin('Clefairy.jpg', 'Clefairy Tamagotchi', "Owned")
+
 
 
 addCategory("Cute Animal Pins by Birduyen")
