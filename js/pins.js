@@ -79,28 +79,32 @@ addCategory("Polymernai", "https://www.polymernai.com")
 
 
 addCategory("Cute Animal Pins")
-    .addPin('Mousie.jpg', 'Spring Mouse ☼ Flora Series', "Owned")
-    .addPin('Birb.jpg', 'Spring Tit ☼ Flora Series', "Owned")
-    .addPin('LavenderBun.jpg', 'Spring Bunny ☼ Flora Series', "Owned")
-    .addPin('Lily.jpg', 'Lily ❀ Studio Ghibli Enamel Pin Series ', "Owned")
-    .addPin('wooloo.jpg', 'Wooloo ♡ Pokemon Series', "Owned")
-    .addPin('sylveon.jpg', 'Sylveon ♡ Pokemon Series', "Owned")
-    .addPin('eevee.jpg', 'Eevee ♡ Pokemon Series', "Owned")
 
-    .addPin('lionm.jpg', 'Lion Meringue Pie ☆ Rainbow Food Animals Series', "Owned")
+    .addPin('LaundroCat.jpg', 'Laundrocats Pin: Dawn ☆ <br>by Goldfishkang', "Owned")
+    .addPin('Teacup.jpg', 'Luna the Bookworm ♡ <br>by Goldfishkang', "Owned")
+    .addPin('Adventurer.jpg', 'Little Adventurer ❀ <br>by Goldfishkang', "Owned")
+    .addPin('PainterFox.jpg', 'Artsy Fox: Cloud Painter☆ <br>by Goldfishkang', "Owned")
+
+    .addPin('Mousie.jpg', 'Spring Mouse ☼ <br>by Birduyen', "Owned")
+    .addPin('Birb.jpg', 'Spring Tit ☼ <br>by Birduyen', "Owned")
+    .addPin('LavenderBun.jpg', 'Spring Bunny ☼ <br>by Birduyen', "Owned")
+    .addPin('Lily.jpg', 'Lily ❀ Studio Ghibli <br>by Birduyen', "Owned")
+    .addPin('lionm.jpg', 'Lion Meringue Pie ☆ <br>by Blushsprout', "Owned")
+    .addPin('wooloo.jpg', 'Wooloo ♡ Pokemon <br>by Birduyen', "Owned")
+    .addPin('sylveon.jpg', 'Sylveon ♡ Pokemon <br>by Birduyen', "Owned")
+    .addPin('eevee.jpg', 'Eevee ♡ Pokemon <br>by Birduyen', "Owned")
+
     .addPin('raspbunny.jpg', 'Raspbunny Crepe ☆ Rainbow Food Animals Series', "Owned")
-    .addPin('Fawnfetti.jpg', 'Fawnfetti ☆ Rainbow Food Animals Series', "Owned")
-    .addPin('Sloth.jpg', 'Cute Sloth ☆ Floranimals Series', "Owned")
-    .addPin('froggie pin bag.jpg', 'Froggie Bag Freebie Frog (Kickstarter)', "Owned")
-    .addPin('witchfroggie.jpg', 'Witch Froggie <br>(October 2020 Pin Club)', "Owned")
-    .addPin('daffodil.jpg', 'Daffodil Duckling Floranimals Series', "Owned")
-    .addPin('kitten.jpg', 'Cherry Blossom Spring Kitten Mini Pin', "Owned")
+    
+    .addPin('Fawnfetti.jpg', 'Fawnfetti ☆ <br>by Blushsprout', "Owned")
+    .addPin('Sloth.jpg', 'Cute Sloth ☆ <br>by Blushsprout', "Owned")
+    .addPin('froggie pin bag.jpg', 'Froggie Bag Freebie Frog <br>by Blushsprout', "Owned")
+    .addPin('witchfroggie.jpg', 'Witch Froggie <br>(October 2020 Pin Club) <br>by Blushsprout', "Owned")
+    .addPin('daffodil.jpg', 'Daffodil Duckling Floranimals Series <br>by Blushsprout', "Owned")
+    .addPin('kitten.jpg', 'Cherry Blossom Spring Kitten Mini Pin <br>by Blushsprout', "Owned")
     .addPin('night.jpg', 'Froggie ITA (Nighttime) Bag (Kickstarter) (Peach and Holo inserts)', "Owned")
 
-    .addPin('LaundroCat.jpg', 'Laundrocats Pin: Dawn ☆', "Owned")
-    .addPin('Teacup.jpg', 'Reynard Manor Pin: Luna the Bookworm ♡', "Owned")
-    .addPin('Adventurer.jpg', 'Little Adventurer ❀', "Owned")
-    .addPin('PainterFox.jpg', 'Artsy Fox: Cloud Painter☆', "Owned")
+   
 
     
 addInlineCategory()
@@ -165,7 +169,6 @@ function addCategory(title, url) {
             if (lowercasePin === "owned") return 'done';
             if (lowercasePin === "shipped") return 'local_shipping';
             if (lowercasePin === "pre-ordered") return 'shopping_bag';
-            if (lowercasePin === "sold") return 'monetization_on';
         }
 
         const el = `
