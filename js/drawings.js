@@ -5,6 +5,8 @@ let drawingUrls = [];
 
 addDrawing('AxL.jpg', 'Arwin & Latte Portrait <br>Miss Not So Sidekick');
 
+addDrawing('uzui.jpg', 'Uzui Birthday Party (for my mom) <br>Demon Slayer');
+
 addDrawing('gorouarcher.jpg', 'Gorou Bow Practice <br>Genshin Impact');
 addDrawing('catxiao.jpg', 'Catboy Xiao <br>Genshin Impact');
 addDrawing('catnoir.jpg', 'Cat Noir <br>Miraculous Ladybug');
