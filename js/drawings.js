@@ -4,7 +4,7 @@ let drawingUrls = [];
 
 
 addDrawing('drawing.jpg', 'Placeholder');
-// addDrawing('drawing.jpg', 'Placeholder');
+
 
 
 
