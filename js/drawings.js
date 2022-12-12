@@ -4,6 +4,7 @@ let drawingUrls = [];
 
 
 addDrawing('AxL.jpg', 'Arwin & Latte Portrait <br>Miss Not So Sidekick');
+
 addDrawing('gorouarcher.jpg', 'Gorou Bow Practice <br>Genshin Impact');
 addDrawing('catxiao.jpg', 'Catboy Xiao <br>Genshin Impact');
 addDrawing('catnoir.jpg', 'Cat Noir <br>Miraculous Ladybug');
@@ -13,22 +14,23 @@ addDrawing('zagreus.jpg', 'Zagreus <br>Hades');
 addDrawing('kazuhabday.jpg', 'Kazuhas Birthday <br>Genshin Impact');
 addDrawing('tomo.jpg', 'Kazuhas Friend <br>Genshin Impact');
 addDrawing('winterxiao.jpg', 'Winter Xiao - Otome AU <br>Genshin Impact');
+addDrawing('genshincomic.jpg', 'My Old Genshin Team <br>Genshin Impact');
+
 addDrawing('belpher.jpg', 'Belphegor Underwater <br>Obey Me');
-
-addDrawing('kofi.jpg', 'Saeran Drinking Ko-fi :3 <br>Mystic Messenger');
-addDrawing('rayphone.jpg', 'Ray on the Phone <br>Mystic Messenger');
-addDrawing('mxs.jpg', 'Saeran x MC <br>Mystic Messenger');
-addDrawing('sxm.jpg', 'Saeran x Me Portrait <br>Mystic Messenger');
-
-addDrawing('gesaeran.jpg', 'Saeran Portrait <br>Mystic Messenger');
-addDrawing('rotated.jpg', 'Saeran Chibi Portrait <br>Mystic Messenger');
 addDrawing('leviathan.jpg', 'Leviathan <br>Obey Me');
+
+addDrawing('rayphone.jpg', 'Ray on the Phone <br>Mystic Messenger');
+addDrawing('gesaeran.jpg', 'Saeran Portrait <br>Mystic Messenger');
+addDrawing('kofi.jpg', 'Saeran Drinking Ko-fi :3 <br>Mystic Messenger');
+addDrawing('sxm.jpg', 'Saeran x Me Portrait <br>Mystic Messenger');
+addDrawing('mxs.jpg', 'Saeran x MC <br>Mystic Messenger');
+
 
 addDrawing('celestial.jpg', 'Celestial Dragon OC');
 addDrawing('hollydragon.jpg', 'Holly Christmas Dragon');
 
 addDrawing('chongyunsketch.jpg', 'Drummer Chongyun WIP <br>Genshin Impact');
-addDrawing('genshincomic.jpg', 'My Old Genshin Team <br>Genshin Impact');
+
 addDrawing('6challenge.jpg', '6 Characters Challenge');
 
 
