@@ -112,11 +112,16 @@ addPin('Adventurer.jpg', 'Little Adventurer ❀', "Owned")
 addPin('PainterFox.jpg', 'Artsy Fox: Cloud Painter☆', "Owned")
 
 
-addCategory('Mamobot', "https://linktr.ee/mamobot")
+addCategory('Mamobot Sailor Moon Pins', "https://linktr.ee/mamobot")
 
-addPin('helioschibiusa.jpg', 'Chibiusa and Helios (Sailor Moon Fashion Scouts V3 Preorder)', "Owned")
-addPin('humanluna.jpg', 'Human Luna <br>(Sailor Moon Fashion Scouts V3 Preorder)', "Owned")
-addPin('smfamily.jpg', 'Luna, Artemis and Diana kitties <br>(Sailor Moon Fashion Scouts V3 Preorder PATREON EXCLUSIVE)', "Owned")
+addPin('helioschibiusa.jpg', 'Chibiusa and Helios', "Owned")
+addPin('humanluna.jpg', 'Human Luna', "Owned")
+addPin('smfamily.jpg', 'Luna, Artemis and Diana kitties', "Owned")
+addPin('SSailor.jpg', 'Super Sailor Moon', "Waiting")
+addPin('SSerenity.jpg', 'Serenity Sailor Moon', "Waiting")
+addPin('SCosmos.jpg', 'Cosmos Sailor Moon', "Waiting")
+
+
 
 addCategory("Polymernai", "https://www.polymernai.com")
 
