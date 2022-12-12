@@ -3,7 +3,10 @@ const categoryEl = document.querySelector(".category");
 let drawingUrls = [];
 
 
-addDrawing('drawing.jpg', 'Placeholder');
+addDrawing('AxL.jpg', 'Arwin & Latte Portrait <br>Miss Not So Sidekick');
+addDrawing('gorouarcher.jpg', 'Gorou Bow Practice <br>Genshin Impact');
+addDrawing('catxiao.jpg', 'Catboy Xiao <br>Genshin Impact');
+addDrawing('catnoir.jpg', 'Cat Noir <br>Miraculous Ladybug');
 
 
 
