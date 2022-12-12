@@ -9,7 +9,7 @@ header {
 }
 
 header .title {
-    color: white;
+    color: var(--primary-color);
     text-decoration: none;
     padding-left: 5px;
     padding-right: 5px;
@@ -22,7 +22,6 @@ header .title {
 }
 
 header .title:hover {
-    color: var(--primary-color);
     background-color: rgba(255, 255, 255, 0.1);
 }
 

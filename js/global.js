@@ -2,7 +2,7 @@
 const header = `
     <link rel="stylesheet" href="./css/header.css">
     <header>
-        <a href="./index.html" class="title">Fullipsp's Pin Collection</a>
+        <a href="./index.html" class="title">Fullipsp</a>
         <div class="links">
             <a class="link" href="./drawings.html"> <span class="material-icons">draw</span> My Drawings</a>
             <a class="link" href="./pins.html"> <span class="material-icons">collections</span> My Pin Collection</a>
