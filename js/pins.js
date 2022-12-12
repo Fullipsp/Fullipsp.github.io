@@ -33,10 +33,10 @@ addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
     .addPin('lenkazuha.jpg', 'Kazuha <br>by Lenacchi', "Shipped")
     
 
-    .addPin('scara.jpg', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
+    .addPin('xiao.jpg', 'Xiao <br>by Sugar Cubed Studios', "Owned")
     .addPin('lumine.jpg', 'Lumine <br>by Sugar Cubed Studios', "Owned")
     .addPin('childebby.jpg', 'Childe (Tartaglia) <br>by Sugar Cubed Studios', "Owned")
-    .addPin('xiao.jpg', 'Xiao <br>by Sugar Cubed Studios', "Owned")
+    .addPin('scara.jpg', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
 
 
     .addPin('childechibiprofile.jpg', 'Chibi Childe Bust <br>by AkuoArt', "Owned")
