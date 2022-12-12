@@ -17,6 +17,10 @@ addDrawing('zagreus.jpg', 'Zagreus <br>Hades');
 addDrawing('rayphone.jpg', 'Ray on the Phone <br>Mystic Messenger');
 addDrawing('belpher.jpg', 'Belphegor Underwater <br>Obey Me');
 
+addDrawing('chongyunsketch.jpg', 'Drummer Chongyun WIP <br>Genshin Impact');
+addDrawing('hollydragon.jpg', 'Holly Christmas Dragon');
+addDrawing('mxs.jpg', 'Saeran x MC <br>Mystic Messenger');
+
 
 
 
