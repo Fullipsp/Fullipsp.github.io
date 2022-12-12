@@ -15,7 +15,7 @@ addCategory("Mystic Messenger Pins", "http://msg.cheritz.com/")
     .addPin('napsuit.jpg', 'Suit Saeran Chibi <br>by Napporin', "Owned")
     .addPin('napunknown.jpg', 'Unknown Chibi <br>by Napporin', "Owned")
     .addPin('napsaeran.jpg', 'Wedding Saeran Chibi <br>by Napporin', "Owned")
-    .addPin('napsaeran.jpg', 'Wedding Saeran Ring <br>by Napporin', "Owned")
+    .addPin('napring.jpg', 'Wedding Saeran Ring <br>by Napporin', "Owned")
 
 addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
     .addPin('ChildeTraditional.jpg', 'Childe <br>by BirbsNest', "Owned")
