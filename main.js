@@ -40,7 +40,7 @@ addPin('lenzhongli.jpg', 'Zhongli <br>by Lenacchi', "Owned")
 addPin('lenayato.jpg', 'Ayato <br>by Lenacchi', "Shipped")
 addPin('lenxiao.jpg', 'Xiao <br>by Lenacchi', "Shipped")
 addPin('lenkazuha.jpg', 'Kazuha <br>by Lenacchi', "Shipped")
-addPin('eggkazuha.jpg', 'Kazuha <br>by angryeggmerch', "Waiting")
+addPin('eggkazuha.jpg', 'Kazuha <br>by angryeggmerch', "Shipped")
 
 addPin('scara.jpg', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
 addPin('lumine.jpg', 'Lumine <br>by Sugar Cubed Studios', "Owned")
@@ -98,11 +98,11 @@ addPin('lionm.jpg', 'Lion Meringue Pie ☆ Rainbow Food Animals Series', "Owned"
 addPin('raspbunny.jpg', 'Raspbunny Crepe ☆ Rainbow Food Animals Series', "Owned")
 addPin('Fawnfetti.jpg', 'Fawnfetti ☆ Rainbow Food Animals Series', "Owned")
 addPin('Sloth.jpg', 'Cute Sloth ☆ Floranimals Series', "Owned")
-addPin('night.jpg', 'Froggie ITA (Nighttime) Bag (Kickstarter) (Peach and Holo inserts)', "Owned")
 addPin('froggie pin bag.jpg', 'Froggie Bag Freebie Frog (Kickstarter)', "Owned")
 addPin('witchfroggie.jpg', 'Witch Froggie <br>(October 2020 Pin Club)', "Owned")
 addPin('daffodil.jpg', 'Daffodil Duckling Floranimals Series', "Owned")
 addPin('kitten.jpg', 'Cherry Blossom Spring Kitten Mini Pin', "Owned")
+addPin('night.jpg', 'Froggie ITA (Nighttime) Bag (Kickstarter) (Peach and Holo inserts)', "Owned")
 
 addCategory('Cute Animal Pins by Goldfishkang', "https://goldfishkang.com")
 
