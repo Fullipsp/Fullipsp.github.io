@@ -16,11 +16,19 @@ addDrawing('winterxiao.jpg', 'Winter Xiao - Otome AU <br>Genshin Impact');
 addDrawing('rayphone.jpg', 'Ray on the Phone <br>Mystic Messenger');
 addDrawing('belpher.jpg', 'Belphegor Underwater <br>Obey Me');
 
-addDrawing('chongyunsketch.jpg', 'Drummer Chongyun WIP <br>Genshin Impact');
+addDrawing('mxs.jpg', 'Saeran x MC <br>Mystic Messenger');
+addDrawing('sxm.jpg', 'Saeran x Me Portrait <br>Mystic Messenger');
+
+addDrawing('gesaeran.jpg', 'Saeran Portrait <br>Mystic Messenger');
+addDrawing('rotated.jpg', 'Saeran Chibi Portrait <br>Mystic Messenger');
+addDrawing('leviathan.jpg', 'Leviathan <br>Obey Me');
+
 addDrawing('celestial.jpg', 'Celestial Dragon OC');
 addDrawing('hollydragon.jpg', 'Holly Christmas Dragon');
-addDrawing('mxs.jpg', 'Saeran x MC <br>Mystic Messenger');
 
+addDrawing('chongyunsketch.jpg', 'Drummer Chongyun WIP <br>Genshin Impact');
+addDrawing('genshincomic.jpg', 'My Old Genshin Team <br>Genshin Impact');
+addDrawing('6challenge.jpg', '6 Characters Challenge');
 
 
 
