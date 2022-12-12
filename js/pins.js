@@ -51,6 +51,11 @@ addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
     .addPin('chilumi.jpg', 'Chilumi <br>by Hollichoo', "Owned")
     .addPin('promise.jpg', 'Snezhnayan Promise <br>by Hollichoo', "Owned")
 
+addCategory("Demon Slayer Pins",)
+    .addPin('obamitsu1.jpg', 'Obanai & Mitsuri 1 <br>by Nandemopins', "Owned")
+    .addPin('obamitsu2.jpg', 'Obanai & Mitsuri 2 <br>by Nandemopins', "Owned")
+    .addPin('obamitsu3.jpg', 'Obanai & Mitsuri 3 <br>by Nandemopins', "Owned")
+
 addCategory("MDZS & Wangxian Pins",)
     .addPin('bluhdonkey.jpg', 'Wangxian Donkey <br>by Bluhtack', "Owned")
     .addPin('bluhroof.jpg', 'Wangxian on Roof <br>by Bluhtack', "Owned")
