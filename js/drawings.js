@@ -13,9 +13,10 @@ addDrawing('zagreus.jpg', 'Zagreus <br>Hades');
 addDrawing('kazuhabday.jpg', 'Kazuhas Birthday <br>Genshin Impact');
 addDrawing('tomo.jpg', 'Kazuhas Friend <br>Genshin Impact');
 addDrawing('winterxiao.jpg', 'Winter Xiao - Otome AU <br>Genshin Impact');
-addDrawing('rayphone.jpg', 'Ray on the Phone <br>Mystic Messenger');
 addDrawing('belpher.jpg', 'Belphegor Underwater <br>Obey Me');
 
+addDrawing('kofi.jpg', 'Saeran Drinking Ko-fi :3 <br>Mystic Messenger');
+addDrawing('rayphone.jpg', 'Ray on the Phone <br>Mystic Messenger');
 addDrawing('mxs.jpg', 'Saeran x MC <br>Mystic Messenger');
 addDrawing('sxm.jpg', 'Saeran x Me Portrait <br>Mystic Messenger');
 
