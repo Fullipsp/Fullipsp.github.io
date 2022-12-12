@@ -92,14 +92,11 @@ addCategory("Polymernai", "https://www.polymernai.com")
     .addPin('Ladynoir.png', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Owned")
     .addPin('chibicatnoir.jpg', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
 
-addCategory('Lilycli (UpbeatPals)', "https://lilycli.com")
-    .addPin('MyBuns.jpg', 'Wangxian Bunnies', "Owned")
-
-addCategory('Sharodactylart', "https://sharodactylart.com")    
-    .addPin('BirthdayBun.jpg', 'Sprinkle Birthday Bunny', "Owned")
-
-addCategory("Quirkory", "https://quirkory.carrd.co")    
-    .addPin('raymond.jpg', 'Raymond Joy-Con (Animal Crossing)', "Owned")
+addInlineCategory()
+    .addPin('Lilycli (UpbeatPals)', "https://lilycli.com", 'MyBuns.jpg', 'Wangxian Bunnies', "Owned")
+    .addPin('Sharodactylart', "https://sharodactylart.com", 'BirthdayBun.jpg', 'Sprinkle Birthday Bunny', "Owned") 
+    .addPin("Quirkory", "https://quirkory.carrd.co", 'raymond.jpg', 'Raymond Joy-Con (Animal Crossing)', "Owned")
+    
 
 addCategory('Weishi', "https://linktr.ee/weishi_art")
     .addPin('Weishi.jpg', 'Lily`s Hanami (September 2020 Pin Club)', "Owned")
@@ -172,6 +169,43 @@ function addCategory(title, url) {
 
     return this;
 }
+function addInlineCategory() {
+    categoryIndex++;
+    let currentIndex = categoryIndex;
+
+    const contentEl = document.querySelector(".content");
+
+
+    const categoryEl = document.createElement("div");
+    categoryEl.id = `category-${currentIndex}`
+    categoryEl.classList.add("category", "inline");
+    contentEl.append(categoryEl);
+
+    this.addPin = (title, url, pinImage, pinTitle, pinStatus) => {
+        const iconName = () => {
+            const lowercasePin = pinStatus.toLowerCase();
+            if (lowercasePin === "waiting") return 'schedule';
+            if (lowercasePin === "owned") return 'done';
+            if (lowercasePin === "shipped") return 'local_shipping';
+            if (lowercasePin === "pre-ordered") return 'shopping_bag';
+        }
+
+        const el = `
+            <div class="pin-outer">
+                <a class="category-title" href="${url}" target="_blank" rel="noopener noreferrer">${title}</a>
+                <div class="pin-item" onClick="showPin('${pinImage}')">
+                    <img oncontextmenu="return false;" src="images/pins/${pinImage}" loading="lazy" alt="${pinTitle}" />
+                    <div class="pin-title">${pinTitle}</div>
+                    <div class="status ${pinStatus.toLowerCase()}"><span class="material-icons">${iconName()}</span>${pinStatus}</div>
+              </div>
+           </div>
+        `;
+        document.getElementById(categoryEl.id).innerHTML+= el;
+        return this;
+    }
+
+    return this;
+}
 
 
 const categoryEl = document.querySelector(".pin-item");
@@ -183,6 +217,7 @@ const moveTitle = () => {
     const contentLeft = contentEl.getBoundingClientRect().left;
 
     document.querySelectorAll(".category-title").forEach(el => {
+        if (el.parentElement.classList.contains("pin-outer")) return;
         el.style.transform = `translate(${categoryLeft - contentLeft}px, 0)`;
     });
 }

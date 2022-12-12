@@ -24,7 +24,19 @@
     grid-gap: 10px;
     grid-auto-rows: min-content;
     justify-content: center;
+}
 
+.category.inline .pin-outer {
+    display: flex;
+    flex-direction: column;
+}
+
+.category.inline .pin-outer .category-title {
+    margin-bottom: 10px;
+}
+
+.category.inline .pin-outer .pin-item {
+    height: 100%;
 }
 
 .category-title:hover {
