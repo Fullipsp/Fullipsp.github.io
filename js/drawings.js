@@ -8,16 +8,16 @@ addDrawing('gorouarcher.jpg', 'Gorou Bow Practice <br>Genshin Impact');
 addDrawing('catxiao.jpg', 'Catboy Xiao <br>Genshin Impact');
 addDrawing('catnoir.jpg', 'Cat Noir <br>Miraculous Ladybug');
 addDrawing('childe.jpg', 'Childe - Tartaglia <br>Independence Day 2021');
-addDrawing('celestial.jpg', 'Cat Noir <br>Miraculous Ladybug');
-addDrawing('tomo.jpg', 'Kazuhas Friend <br>Genshin Impact');
-addDrawing('kazuhabday.jpg', 'Kazuhas Birthday <br>Genshin Impact');
-addDrawing('winterxiao.jpg', 'Winter Xiao - Otome AU <br>Genshin Impact');
 addDrawing('thanatos.jpg', 'Thanatos <br>Hades');
 addDrawing('zagreus.jpg', 'Zagreus <br>Hades');
+addDrawing('kazuhabday.jpg', 'Kazuhas Birthday <br>Genshin Impact');
+addDrawing('tomo.jpg', 'Kazuhas Friend <br>Genshin Impact');
+addDrawing('winterxiao.jpg', 'Winter Xiao - Otome AU <br>Genshin Impact');
 addDrawing('rayphone.jpg', 'Ray on the Phone <br>Mystic Messenger');
 addDrawing('belpher.jpg', 'Belphegor Underwater <br>Obey Me');
 
 addDrawing('chongyunsketch.jpg', 'Drummer Chongyun WIP <br>Genshin Impact');
+addDrawing('celestial.jpg', 'Cat Noir <br>Miraculous Ladybug');
 addDrawing('hollydragon.jpg', 'Holly Christmas Dragon');
 addDrawing('mxs.jpg', 'Saeran x MC <br>Mystic Messenger');
 
