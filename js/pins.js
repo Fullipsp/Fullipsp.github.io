@@ -31,25 +31,29 @@ addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
     .addPin('lenayato.jpg', 'Ayato <br>by Lenacchi', "Shipped")
     .addPin('lenxiao.jpg', 'Xiao <br>by Lenacchi', "Shipped")
     .addPin('lenkazuha.jpg', 'Kazuha <br>by Lenacchi', "Shipped")
-    .addPin('eggkazuha.jpg', 'Kazuha <br>by angryeggmerch', "Shipped")
+    
 
     .addPin('scara.jpg', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
     .addPin('lumine.jpg', 'Lumine <br>by Sugar Cubed Studios', "Owned")
     .addPin('childebby.jpg', 'Childe (Tartaglia) <br>by Sugar Cubed Studios', "Owned")
     .addPin('xiao.jpg', 'Xiao <br>by Sugar Cubed Studios', "Owned")
 
-    .addPin('chibichilde.jpg', 'Chibi Childe <br>by AkuoArt', "Owned")
+
     .addPin('childechibiprofile.jpg', 'Chibi Childe Bust <br>by AkuoArt', "Owned")
     .addPin('luminechibiprofile.jpg', 'Chibi Lumine <br>by AkuoArt', "Owned")
     .addPin('xiaochibiprofile.jpg', 'Chibi Xiao <br>by AkuoArt', "Owned")
     .addPin('albedochibiprofile.jpg', 'Chibi Albedo <br>by AkuoArt', "Owned")
     .addPin('zhonglichibiprofile.jpg', 'Chibi Zhongli <br>by AkuoArt', "Owned")
     .addPin('scarachibiprofile.jpg', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
+    .addPin('chibichilde.jpg', 'Chibi Childe <br>by AkuoArt', "Owned")
+
+    .addPin('eggkazuha.jpg', 'Kazuha <br>by angryeggmerch', "Shipped")
 
     .addPin('anemo.jpg', 'Anemoculus <br>by Theartthatran', "Owned")
 
     .addPin('chilumi.jpg', 'Chilumi <br>by Hollichoo', "Owned")
     .addPin('promise.jpg', 'Snezhnayan Promise <br>by Hollichoo', "Owned")
+
 
 addCategory("Demon Slayer Pins")
     .addPin('obamitsu1.jpg', 'Obanai & Mitsuri 1 <br>by Nandemopins', "Owned")
