@@ -12,7 +12,8 @@ addDrawing('celestial.jpg', 'Cat Noir <br>Miraculous Ladybug');
 addDrawing('tomo.jpg', 'Kazuhas Friend <br>Genshin Impact');
 addDrawing('kazuhabday.jpg', 'Kazuhas Birthday <br>Genshin Impact');
 addDrawing('winterxiao.jpg', 'Winter Xiao - Otome AU <br>Genshin Impact');
-addDrawing('zagreus.jpg', 'Zagreus <br> Hades');
+addDrawing('thanatos.jpg', 'Thanatos <br>Hades');
+addDrawing('zagreus.jpg', 'Zagreus <br>Hades');
 addDrawing('rayphone.jpg', 'Ray on the Phone <br>Mystic Messenger');
 addDrawing('belpher.jpg', 'Belphegor Underwater <br>Obey Me');
 
