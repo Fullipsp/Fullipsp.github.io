@@ -35,12 +35,12 @@ addPin('fiveitto.jpg', 'Itto <br>by Fiveonthe', "Shipped")
 addPin('fivethoma.jpg', 'Thoma <br>by Fiveonthe', "Shipped")
 
 
-addPin('lengorou.jpg', 'Gorou by <br>Lenacchi', "Owned")
+addPin('lengorou.jpg', 'Gorou <br>by Lenacchi', "Owned")
 addPin('lenzhongli.jpg', 'Zhongli <br>by Lenacchi', "Owned")
 addPin('lenayato.jpg', 'Ayato <br>by Lenacchi', "Shipped")
-addPin('lenxiao.jpg', 'Xiao by <br>Lenacchi', "Shipped")
+addPin('lenxiao.jpg', 'Xiao <br>by Lenacchi', "Shipped")
 addPin('lenkazuha.jpg', 'Kazuha <br>by Lenacchi', "Shipped")
-addPin('eggkazuha.jpg', 'Kazuha by angryeggmerch', "Waiting")
+addPin('eggkazuha.jpg', 'Kazuha <br>by angryeggmerch', "Waiting")
 
 addPin('scara.jpg', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
 addPin('lumine.jpg', 'Lumine <br>by Sugar Cubed Studios', "Owned")
