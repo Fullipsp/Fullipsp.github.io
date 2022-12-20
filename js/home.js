@@ -9,7 +9,16 @@ let currentIndex = 0;
 
 
 addDrawing('AxL.jpg');
-addDrawing('uzui.jpg');
+addDrawing('gorouarcher.jpg');
+addDrawing('catxiao.jpg');
+addDrawing('catnoir.jpg');
+addDrawing('childe.jpg');
+addDrawing('kazuhabday.jpg');
+addDrawing('tomo.jpg');
+addDrawing('celestial.jpg');
+addDrawing('winterxiao.jpg');
+addDrawing('belpher.jpg');
+
 
 
 
