@@ -62,8 +62,8 @@ function showDrawing(imageName) {
 function addDrawing (image, title) {
     drawingUrls.push(`images/drawings/${image}`);
     const el = `
-        <div class="drawing-item" onClick="showDrawing('${image}')">
-            <img src="images/drawings/${image}" oncontextmenu="return false;" loading="lazy" alt="${title}" />
+        <div class="drawing-item" >
+            <img src="images/drawings/${image}" onClick="showDrawing('${image}')" oncontextmenu="return false;" loading="lazy" alt="${title}" />
             <div class="drawing-title">${title}</div>
         </div>
     `;
