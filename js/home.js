@@ -1,6 +1,6 @@
 
 
-const imageUrls = [];
+const drawingUrls = [];
 const imageLength = () => drawingUrls.length;
 const changeAfter = 10; // seconds
 let currentSeconds = 1;
