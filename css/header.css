@@ -9,6 +9,7 @@ header {
 }
 
 header .title {
+    position: absolute;
     color: var(--primary-color);
     text-decoration: none;
     padding-left: 5px;
@@ -18,7 +19,6 @@ header .title {
     cursor: pointer;
     transition: color 0.2s, background-color 0.2s;
     border-radius: 8px;
-    margin-right: auto;
 }
 
 header .title:hover {
@@ -55,6 +55,8 @@ header .link:hover {
 
 header .links {
     display: flex;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 @media (max-width: 590px) {
