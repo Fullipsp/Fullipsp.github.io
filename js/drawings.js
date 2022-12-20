@@ -1,7 +1,5 @@
 // cSpell:disable
 const categoryEl = document.querySelector(".category");
-let drawingUrls = [];
-
 
 addDrawing('AxL.jpg', 'Arwin & Latte Portrait <br>Miss Not So Sidekick');
 
@@ -37,12 +35,6 @@ addDrawing('chongyunsketch.jpg', 'Drummer Chongyun WIP <br>Genshin Impact');
 
 addDrawing('6challenge.jpg', '6 Characters Challenge');
 
-
-
-
-
-shuffleArray(drawingUrls);
-
 function closeDrawing() {
     const el = document.getElementById("preview");
     el.firstChild.remove();
@@ -60,7 +52,6 @@ function showDrawing(imageName) {
 }
 
 function addDrawing (image, title) {
-    drawingUrls.push(`images/drawings/${image}`);
     const el = `
         <div class="drawing-item" >
             <img src="images/drawings/${image}" onClick="showDrawing('${image}')" oncontextmenu="return false;" loading="lazy" alt="${title}" />
@@ -71,11 +62,3 @@ function addDrawing (image, title) {
 }
 
 
-function shuffleArray(array) {
-    for (var i = array.length - 1; i > 0; i--) {
-        var j = Math.floor(Math.random() * (i + 1));
-        var temp = array[i];
-        array[i] = array[j];
-        array[j] = temp;
-    }
-}

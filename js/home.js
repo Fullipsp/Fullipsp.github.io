@@ -1,12 +1,21 @@
 
-const imageLength = drawingUrls.length;
+
+const imageUrls = [];
+const imageLength = () => drawingUrls.length;
 const changeAfter = 10; // seconds
 let currentSeconds = 1;
 let currentIndex = 0;
 
 
 
+addDrawing('AxL.jpg');
+addDrawing('uzui.jpg');
+
+
+
+
 setImage();
+
 setInterval(() => {
     if (currentSeconds >= changeAfter) {
         currentSeconds = 1;
@@ -17,7 +26,7 @@ setInterval(() => {
 }, 1000);
 
 function switchImage() {
-    if (currentIndex + 1 >= imageLength) {
+    if (currentIndex + 1 >= imageLength()) {
         currentIndex = 0;
     } else {
         currentIndex++;
@@ -29,7 +38,7 @@ function setImage() {
     resetProgressBar();
     const image = drawingUrls[currentIndex];
     document.getElementById("slideshow-image").src = image;
-    document.getElementById("image-index").innerText = `${currentIndex+1}/${imageLength}`;
+    document.getElementById("image-index").innerText = `${currentIndex+1}/${imageLength()}`;
 }
 
 function resetProgressBar() {
@@ -43,4 +52,9 @@ function resetProgressBar() {
           fill: 'forwards',
         }
     );
+}
+
+
+function addDrawing(image) {
+    drawingUrls.push(`images/drawings/${image}`)
 }
