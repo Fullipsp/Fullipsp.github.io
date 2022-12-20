@@ -61,6 +61,7 @@ header .links {
 
 @media (max-width: 590px) {
     header .title {
+        position: relative;
         font-size: 18px;
     }
 }
@@ -70,6 +71,10 @@ header .links {
         margin-left: auto;
         margin-top: 10px;
         margin-bottom: 5px;
+    }
+    .links {
+        margin-left: auto;
+        margin-right: 0;
     }
     header {
         height: 70px;
