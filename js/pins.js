@@ -182,8 +182,8 @@ function addCategory(title, url) {
         }
 
         const el = `
-            <div class="pin-item" onClick="showPin('${pinImage}')">
-                <img oncontextmenu="return false;" src="images/pins/${pinImage}" loading="lazy" alt="${pinTitle}" />
+            <div class="pin-item">
+                <img oncontextmenu="return false;" onClick="showPin('${pinImage}')" src="images/pins/${pinImage}" loading="lazy" alt="${pinTitle}" />
                 <div class="pin-title">${pinTitle}</div>
                 <div class="status ${pinStatus.toLowerCase()}"><span class="material-icons">${iconName()}</span>${pinStatus}</div>
             </div>
