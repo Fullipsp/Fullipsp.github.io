@@ -47,7 +47,7 @@ addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
     .addPin('scarachibiprofile.jpg', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
     .addPin('chibichilde.jpg', 'Chibi Childe <br>by AkuoArt', "Owned")
 
-    .addPin('eggkazuha.jpg', 'Kazuha <br>by angryeggmerch', "Shipped")
+    .addPin('eggkazuha.jpg', 'Kazuha <br>by angryeggmerch', "Owned")
 
     .addPin('anemo.jpg', 'Anemoculus <br>by Theartthatran', "Owned")
 
