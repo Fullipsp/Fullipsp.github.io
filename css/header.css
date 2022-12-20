@@ -64,7 +64,7 @@ header .links {
         position: relative;
         font-size: 18px;
     }
-    .links {
+    header .links {
         margin-right: 0;
         margin-left: auto;
     }
