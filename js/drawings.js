@@ -18,6 +18,9 @@ addDrawing('tomo.jpg', 'Kazuhas Friend <br>Genshin Impact');
 addDrawing('winterxiao.jpg', 'Winter Xiao - Otome AU <br>Genshin Impact');
 addDrawing('genshincomic.jpg', 'My Old Genshin Team <br>Genshin Impact');
 
+addDrawing('celestial.jpg', 'Celestial Dragon OC');
+addDrawing('hollydragon.jpg', 'Holly Christmas Dragon');
+
 addDrawing('belpher.jpg', 'Belphegor Underwater <br>Obey Me');
 addDrawing('leviathan.jpg', 'Leviathan <br>Obey Me');
 
@@ -27,9 +30,6 @@ addDrawing('kofi.jpg', 'Saeran Drinking Ko-fi :3 <br>Mystic Messenger');
 addDrawing('sxm.jpg', 'Saeran x Me Portrait <br>Mystic Messenger');
 addDrawing('mxs.jpg', 'Saeran x MC <br>Mystic Messenger');
 
-
-addDrawing('celestial.jpg', 'Celestial Dragon OC');
-addDrawing('hollydragon.jpg', 'Holly Christmas Dragon');
 
 addDrawing('chongyunsketch.jpg', 'Drummer Chongyun WIP <br>Genshin Impact');
 
