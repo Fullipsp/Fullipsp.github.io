@@ -21,10 +21,12 @@ addDrawing('genshincomic.jpg', 'My Old Genshin Team <br>Genshin Impact');
 addDrawing('celestial.jpg', 'Celestial Dragon OC');
 addDrawing('hollydragon.jpg', 'Holly Christmas Dragon');
 
+
+addDrawing('rayphone.jpg', 'Ray on the Phone <br>Mystic Messenger');
+
 addDrawing('belpher.jpg', 'Belphegor Underwater <br>Obey Me');
 addDrawing('leviathan.jpg', 'Leviathan <br>Obey Me');
 
-addDrawing('rayphone.jpg', 'Ray on the Phone <br>Mystic Messenger');
 addDrawing('gesaeran.jpg', 'Saeran Portrait <br>Mystic Messenger');
 addDrawing('kofi.jpg', 'Saeran Drinking Ko-fi :3 <br>Mystic Messenger');
 addDrawing('sxm.jpg', 'Saeran x Me Portrait <br>Mystic Messenger');
