@@ -3,7 +3,7 @@
 :root {
     --background: #1c1718;
     --primary-color: #ffc0cb;
-    --header-bg-color: #3a2f31;
+    --header-bg-color: rgb(58 47 49 / 86%);
 
     --pin-owned-color: #b9ffb4;
     --pin-owned-bg-color: #2a5626;
@@ -33,4 +33,5 @@ body {
     background-color: var(--background);
     color: white;
     font-family: 'Nunito', sans-serif;
+    padding-top: 50px
 }
