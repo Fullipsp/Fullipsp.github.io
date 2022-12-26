@@ -12,6 +12,13 @@ addCategory("Genshin Impact Nendoroids")
 .addFigure('aether.jpg', 'Aether', "Owned")
 .addFigure('lumine.jpg', 'Lumine', "Owned")
 
+addCategory("Demon Slayer Figures")
+.addFigure('giyu.jpg', 'Tomioka Giyu', "Owned")
+.addFigure('rengoku.jpg', 'Rengoku Kyojuro', "Owned")
+.addFigure('uzui.jpg', 'Uzui Tengen', "Pre-Ordered")
+.addFigure('muichiro.jpg', 'Chokonose Muichiro', "Owned")
+.addFigure('giyuchoko.jpg', 'Chokonose Giyu T.', "Owned")
+
 
 
 function closeFigure() {
