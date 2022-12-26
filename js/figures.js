@@ -12,6 +12,10 @@ addCategory("Genshin Impact Nendoroids")
 .addFigure('aether.jpg', 'Aether', "Owned")
 .addFigure('lumine.jpg', 'Lumine', "Owned")
 
+addCategory("Love is War Nendoroids")
+.addFigure('shirogane.jpg', 'Shirogane Miyuki', "Owned")
+.addFigure('kaguya.jpg', 'Shinomiya Kaguya', "Owned")
+
 
 addCategory("Shounen Figures")
 .addFigure('yuta.jpg', 'Okkotsu Yuta', "Owned")
@@ -19,19 +23,19 @@ addCategory("Shounen Figures")
 
 .addFigure('eren.jpg', 'Eren Yeager', "Owned")
 .addFigure('mikasa.jpg', 'Mikasa Ackerman', "Owned")
-.addFigure('s4eren.jpg', 'Eren Yeager (Season 4)', "Pre-Ordered")
 .addFigure('levi.jpg', 'Levi Ackerman', "Owned")
 
 .addFigure('giyu.jpg', 'Tomioka Giyu', "Owned")
 .addFigure('rengoku.jpg', 'Rengoku Kyojuro', "Owned")
+
+.addFigure('s4eren.jpg', 'Eren Yeager (Season 4)', "Pre-Ordered")
 .addFigure('uzui.jpg', 'Uzui Tengen', "Pre-Ordered")
+
 .addFigure('muichiro.jpg', 'Chokonose Muichiro', "Owned")
 .addFigure('giyuchoko.jpg', 'Chokonose Giyu T.', "Owned")
 
 
-addCategory("Love is War Nendoroids")
-.addFigure('shirogane.jpg', 'Shirogane Miyuki', "Owned")
-.addFigure('kaguya.jpg', 'Shinomiya Kaguya', "Owned")
+
 
 
 addCategory("Other Nendoroids")
