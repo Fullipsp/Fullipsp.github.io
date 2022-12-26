@@ -29,6 +29,12 @@ addCategory("Demon Slayer Figures")
 .addFigure('muichiro.jpg', 'Chokonose Muichiro', "Owned")
 .addFigure('giyuchoko.jpg', 'Chokonose Giyu T.', "Owned")
 
+addCategory("Love is War Nendoroids")
+.addFigure('shirogane.jpg', 'Shirogane Miyuki', "Owned")
+.addFigure('kaguya.jpg', 'Shinomiya Kaguya', "Owned")
+
+
+
 
 
 function closeFigure() {
