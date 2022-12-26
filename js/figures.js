@@ -43,6 +43,8 @@ addCategory("Other Nendoroids")
 .addFigure('joker.jpg', 'Joker <br>Persona 5', "Owned")
 .addFigure('todoroki.jpg', 'Shoto Torodoki Movie Ver. <br>My Hero Academia', "Owned")
 .addFigure('miyamura.jpg', 'Miyamura Izumi <br>Horimiya', "Owned")
+.addFigure('dumpling.jpg', 'Gyoza Fairy <br>Dorohedoro', "Owned")
+.addFigure('miku.jpg', 'Miku Nakano <br>Quintessential Quintuplets', "Sold")
 
 
 
