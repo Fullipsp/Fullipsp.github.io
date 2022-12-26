@@ -7,7 +7,7 @@ header {
     padding-right: 8px;
     flex-shrink: 0;
 
-    position: fixed;
+    position: sticky;
     left: 0;
     right: 0;
     top: 0;
@@ -70,7 +70,7 @@ header .links {
     margin-right: auto;
 }
 
-@media (max-width: 590px) {
+@media (max-width: 690px) {
     header .title {
         position: relative;
         font-size: 18px;
@@ -80,7 +80,7 @@ header .links {
         margin-left: auto;
     }
 }
-@media (max-width: 360px) {
+@media (max-width: 580px) {
     header .title {
         font-size: 18px;
         margin-left: auto;
@@ -93,7 +93,7 @@ header .links {
         margin-left: auto;
     }
     header {
-        height: 70px;
+        height: 90px;
         flex-direction: column;
     }
 }
