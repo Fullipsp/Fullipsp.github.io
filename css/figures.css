@@ -39,7 +39,7 @@
     height: 100%;
 }
 
-.category-title:hover {
+a.category-title:hover {
     text-decoration: underline;
 }
 

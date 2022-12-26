@@ -162,8 +162,10 @@ function addCategory(title, url) {
     let currentIndex = categoryIndex;
 
     const contentEl = document.querySelector(".content");
-
-    const categoryTitleEl = `<a class="category-title" href="${url}" target="_blank" rel="noopener noreferrer">${title}</a>`;
+    
+    const categoryTagType = url ? 'a': 'div';
+    
+    const categoryTitleEl = `<${categoryTagType} class="category-title" href="${url}" target="_blank" rel="noopener noreferrer">${title}</${categoryTagType}>`;
     contentEl.innerHTML+=(categoryTitleEl);
 
     const categoryEl = document.createElement("div");
