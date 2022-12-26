@@ -3,10 +3,15 @@ let categoryIndex = 0;
 
 
 addCategory("Demonic Cultivation Nendoroids")
-
 .addFigure('wwx.jpg', 'Wei Wuxian DX', "Owned")
 .addFigure('lwj.jpg', 'Lan Wangji DX', "Owned")
 .addFigure('yllzwwx.jpg', 'YLLZ Wei Wuxian', "Owned")
+
+
+addCategory("Genshin Impact Nendoroids")
+.addFigure('aether.jpg', 'Aether', "Owned")
+.addFigure('lumine.jpg', 'Lumine', "Owned")
+
 
 
 function closeFigure() {
