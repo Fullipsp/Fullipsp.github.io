@@ -19,6 +19,7 @@ addCategory("Jujutsu Kaisen Nendoroids")
 addCategory("Attack on Titan Nendoroids")
 .addFigure('eren.jpg', 'Eren Yeager', "Owned")
 .addFigure('mikasa.jpg', 'Mikasa Ackerman', "Owned")
+.addFigure('s4eren.jpg', 'Eren Yeager (Season 4)', "Pre-Ordered")
 .addFigure('levi.jpg', 'Levi Ackerman', "Owned")
 
 addCategory("Demon Slayer Figures")
