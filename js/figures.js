@@ -12,6 +12,15 @@ addCategory("Genshin Impact Nendoroids")
 .addFigure('aether.jpg', 'Aether', "Owned")
 .addFigure('lumine.jpg', 'Lumine', "Owned")
 
+addCategory("Jujutsu Kaisen Nendoroids")
+.addFigure('yuta.jpg', 'Okkotsu Yuta', "Owned")
+.addFigure('gojo.jpg', 'Gojo Satoru', "Owned")
+
+addCategory("Attack on Titan Nendoroids")
+.addFigure('eren.jpg', 'Eren Yeager', "Owned")
+.addFigure('mikasa.jpg', 'Mikasa Ackerman', "Owned")
+.addFigure('levi.jpg', 'Levi Ackerman', "Owned")
+
 addCategory("Demon Slayer Figures")
 .addFigure('giyu.jpg', 'Tomioka Giyu', "Owned")
 .addFigure('rengoku.jpg', 'Rengoku Kyojuro', "Owned")
