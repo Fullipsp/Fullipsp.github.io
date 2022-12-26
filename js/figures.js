@@ -2,8 +2,11 @@
 let categoryIndex = 0;
 
 
-addCategory("Placeholder", "http://msg.cheritz.com/")
-    .addFigure('gebby.jpg', 'Placeholder', "Owned")
+addCategory("Demonic Cultivation Nendoroids")
+
+.addFigure('wwx.jpg', 'Wei Wuxian DX', "Owned")
+.addFigure('lwj.jpg', 'Lan Wangji DX', "Owned")
+.addFigure('yllzwwx.jpg', 'YLLZ Wei Wuxian', "Owned")
 
 
 function closeFigure() {
