@@ -17,7 +17,7 @@ document.querySelector("header").outerHTML = header;
 const footer = `
     <link rel="stylesheet" href="./css/footer.css">
     <footer>
-        ©️ 2020-${new Date().getFullYear()} copyright of the photography  under "owned" & all art
+        ©️ 2020-${new Date().getFullYear()} Copyright of the photography under "Owned" & all art
     </footer>
 `;
 
