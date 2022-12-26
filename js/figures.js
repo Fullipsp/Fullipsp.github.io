@@ -85,8 +85,8 @@ function addCategory(title, url) {
             const lowercaseFigure = figureStatus.toLowerCase();
             if (lowercaseFigure === "waiting") return 'schedule';
             if (lowercaseFigure === "owned") return 'done';
-            if (lowercaseFigure === "shipped") return 'local_shipfigureg';
-            if (lowercaseFigure === "pre-ordered") return 'shopfigureg_bag';
+            if (lowercaseFigure === "shipped") return 'local_shipping';
+            if (lowercaseFigure === "pre-ordered") return 'shopping_bag';
             if (lowercaseFigure === "sold") return 'monetization_on';
         }
 
@@ -120,8 +120,8 @@ function addInlineCategory() {
             const lowercaseFigure = figureStatus.toLowerCase();
             if (lowercaseFigure === "waiting") return 'schedule';
             if (lowercaseFigure === "owned") return 'done';
-            if (lowercaseFigure === "shipped") return 'local_shipfigureg';
-            if (lowercaseFigure === "pre-ordered") return 'shopfigureg_bag';
+            if (lowercaseFigure === "shipped") return 'local_shipping';
+            if (lowercaseFigure === "pre-ordered") return 'shopping_bag';
             if (lowercaseFigure === "sold") return 'monetization_on';
         }
 
