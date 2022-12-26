@@ -33,6 +33,17 @@ addCategory("Love is War Nendoroids")
 .addFigure('shirogane.jpg', 'Shirogane Miyuki', "Owned")
 .addFigure('kaguya.jpg', 'Shinomiya Kaguya', "Owned")
 
+addCategory("Other Nendoroids")
+.addFigure('ozymandias.jpg', 'Ozymandias <br>Fate Grand Order', "Owned")
+.addFigure('link.jpg', 'Link <br>Breath of the Wild', "Owned")
+.addFigure('sylvanas.jpg', 'Sylvanas <br>World of Warcraft', "Owned")
+.addFigure('02.jpg', 'Zero Two <br>Darling in the Franxx', "Owned")
+.addFigure('kogitsunemaru.jpg', 'Kogitsunemaru <br>Touken Ranbu', "Owned")
+.addFigure('mikazuki.jpg', 'Mikazuki <br>Touken Ranbu', "Owned")
+.addFigure('joker.jpg', 'Joker <br>Persona 5', "Owned")
+.addFigure('todoroki.jpg', 'Shoto Torodoki Movie Ver. <br>My Hero Academia', "Owned")
+.addFigure('miyamura.jpg', 'Miyamura Izumi <br>Horimiya', "Owned")
+
 
 
 
