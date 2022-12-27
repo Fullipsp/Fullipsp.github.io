@@ -82,11 +82,11 @@ header .links {
 }
 @media (max-width: 580px) {
     header .title {
-        font-size: 18px;
+        font-size: 24px;
         margin-left: auto;
         margin-right: auto;
         margin-top: 10px;
-        margin-bottom: 5px;
+        margin-bottom: 10px;
     }
     header .links {
         margin-right: auto;
@@ -95,5 +95,16 @@ header .links {
     header {
         height: 90px;
         flex-direction: column;
+    }
+}
+
+@media (max-width: 429px) {
+    header {
+        height: initial;
+        padding-bottom: 5px;
+    }
+    header .links {
+        flex-wrap: wrap;
+        justify-content: center;
     }
 }
