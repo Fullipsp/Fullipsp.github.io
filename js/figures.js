@@ -3,53 +3,53 @@ let categoryIndex = 0;
 
 
 addCategory("Demonic Cultivation Nendoroids")
-.addFigure('wwx.jpg', 'Wei Wuxian DX', "Owned")
-.addFigure('lwj.jpg', 'Lan Wangji DX', "Owned")
-.addFigure('yllzwwx.jpg', 'YLLZ Wei Wuxian', "Owned")
+.addFigure('wwx.webp', 'Wei Wuxian DX', "Owned")
+.addFigure('lwj.webp', 'Lan Wangji DX', "Owned")
+.addFigure('yllzwwx.webp', 'YLLZ Wei Wuxian', "Owned")
 
 
 addCategory("Genshin Impact Nendoroids")
-.addFigure('aether.jpg', 'Aether', "Owned")
-.addFigure('lumine.jpg', 'Lumine', "Owned")
+.addFigure('aether.webp', 'Aether', "Owned")
+.addFigure('lumine.webp', 'Lumine', "Owned")
 
 addCategory("Love is War Nendoroids")
-.addFigure('shirogane.jpg', 'Shirogane Miyuki', "Owned")
-.addFigure('kaguya.jpg', 'Shinomiya Kaguya', "Owned")
+.addFigure('shirogane.webp', 'Shirogane Miyuki', "Owned")
+.addFigure('kaguya.webp', 'Shinomiya Kaguya', "Owned")
 
 
 addCategory("Shounen Figures")
-.addFigure('yuta.jpg', 'Okkotsu Yuta', "Owned")
-.addFigure('gojo.jpg', 'Gojo Satoru', "Owned")
+.addFigure('yuta.webp', 'Okkotsu Yuta', "Owned")
+.addFigure('gojo.webp', 'Gojo Satoru', "Owned")
 
-.addFigure('eren.jpg', 'Eren Yeager', "Owned")
-.addFigure('mikasa.jpg', 'Mikasa Ackerman', "Owned")
-.addFigure('levi.jpg', 'Levi Ackerman', "Owned")
+.addFigure('eren.webp', 'Eren Yeager', "Owned")
+.addFigure('mikasa.webp', 'Mikasa Ackerman', "Owned")
+.addFigure('levi.webp', 'Levi Ackerman', "Owned")
 
-.addFigure('giyu.jpg', 'Tomioka Giyu', "Owned")
-.addFigure('rengoku.jpg', 'Rengoku Kyojuro', "Owned")
+.addFigure('giyu.webp', 'Tomioka Giyu', "Owned")
+.addFigure('rengoku.webp', 'Rengoku Kyojuro', "Owned")
 
-.addFigure('s4eren.jpg', 'Eren Yeager (Season 4)', "Pre-Ordered")
-.addFigure('uzui.jpg', 'Uzui Tengen', "Pre-Ordered")
+.addFigure('s4eren.webp', 'Eren Yeager (Season 4)', "Pre-Ordered")
+.addFigure('uzui.webp', 'Uzui Tengen', "Pre-Ordered")
 
-.addFigure('muichiro.jpg', 'Chokonose Muichiro', "Owned")
-.addFigure('giyuchoko.jpg', 'Chokonose Giyu T.', "Owned")
+.addFigure('muichiro.webp', 'Chokonose Muichiro', "Owned")
+.addFigure('giyuchoko.webp', 'Chokonose Giyu T.', "Owned")
 
 
 
 
 
 addCategory("Other Nendoroids")
-.addFigure('ozymandias.jpg', 'Ozymandias <br>Fate Grand Order', "Owned")
-.addFigure('link.jpg', 'Link <br>Breath of the Wild', "Owned")
-.addFigure('sylvanas.jpg', 'Sylvanas <br>World of Warcraft', "Owned")
-.addFigure('02.jpg', 'Zero Two <br>Darling in the Franxx', "Owned")
-.addFigure('kogitsunemaru.jpg', 'Kogitsunemaru <br>Touken Ranbu', "Owned")
-.addFigure('mizuki.jpg', 'Mikazuki <br>Touken Ranbu', "Owned")
-.addFigure('joker.jpg', 'Joker <br>Persona 5', "Owned")
-.addFigure('todoroki.jpg', 'Shoto Torodoki Movie Ver. <br>My Hero Academia', "Owned")
-.addFigure('miyamura.jpg', 'Miyamura Izumi <br>Horimiya', "Owned")
-.addFigure('dumpling.jpg', 'Gyoza Fairy <br>Dorohedoro', "Owned")
-.addFigure('miku.jpg', 'Miku Nakano <br>Quintessential Quintuplets', "Sold")
+.addFigure('ozymandias.webp', 'Ozymandias <br>Fate Grand Order', "Owned")
+.addFigure('link.webp', 'Link <br>Breath of the Wild', "Owned")
+.addFigure('sylvanas.webp', 'Sylvanas <br>World of Warcraft', "Owned")
+.addFigure('02.webp', 'Zero Two <br>Darling in the Franxx', "Owned")
+.addFigure('kogitsunemaru.webp', 'Kogitsunemaru <br>Touken Ranbu', "Owned")
+.addFigure('mizuki.webp', 'Mikazuki <br>Touken Ranbu', "Owned")
+.addFigure('joker.webp', 'Joker <br>Persona 5', "Owned")
+.addFigure('todoroki.webp', 'Shoto Torodoki Movie Ver. <br>My Hero Academia', "Owned")
+.addFigure('miyamura.webp', 'Miyamura Izumi <br>Horimiya', "Owned")
+.addFigure('dumpling.webp', 'Gyoza Fairy <br>Dorohedoro', "Owned")
+.addFigure('miku.webp', 'Miku Nakano <br>Quintessential Quintuplets', "Sold")
 
 
 

@@ -1,39 +1,39 @@
 // cSpell:disable
 const categoryEl = document.querySelector(".category");
 
-addDrawing('AxL.jpg', 'Arwin & Latte Portrait <br>Miss Not So Sidekick');
+addDrawing('AxL.webp', 'Arwin & Latte Portrait <br>Miss Not So Sidekick');
 
-addDrawing('uzui.jpg', 'Uzui Birthday Party (for my mom) <br>Demon Slayer');
+addDrawing('uzui.webp', 'Uzui Birthday Party (for my mom) <br>Demon Slayer');
 
-addDrawing('gorouarcher.jpg', 'Gorou Bow Practice <br>Genshin Impact');
-addDrawing('catxiao.jpg', 'Catboy Xiao <br>Genshin Impact');
-addDrawing('catnoir.jpg', 'Cat Noir <br>Miraculous Ladybug');
-addDrawing('childe.jpg', 'Childe - Tartaglia <br>Independence Day 2021');
-addDrawing('thanatos.jpg', 'Thanatos <br>Hades');
-addDrawing('zagreus.jpg', 'Zagreus <br>Hades');
-addDrawing('kazuhabday.jpg', 'Kazuhas Birthday <br>Genshin Impact');
-addDrawing('tomo.jpg', 'Kazuhas Friend <br>Genshin Impact');
-addDrawing('winterxiao.jpg', 'Winter Xiao - Otome AU <br>Genshin Impact');
-addDrawing('genshincomic.jpg', 'My Old Genshin Team <br>Genshin Impact');
+addDrawing('gorouarcher.webp', 'Gorou Bow Practice <br>Genshin Impact');
+addDrawing('catxiao.webp', 'Catboy Xiao <br>Genshin Impact');
+addDrawing('catnoir.webp', 'Cat Noir <br>Miraculous Ladybug');
+addDrawing('childe.webp', 'Childe - Tartaglia <br>Independence Day 2021');
+addDrawing('thanatos.webp', 'Thanatos <br>Hades');
+addDrawing('zagreus.webp', 'Zagreus <br>Hades');
+addDrawing('kazuhabday.webp', 'Kazuhas Birthday <br>Genshin Impact');
+addDrawing('tomo.webp', 'Kazuhas Friend <br>Genshin Impact');
+addDrawing('winterxiao.webp', 'Winter Xiao - Otome AU <br>Genshin Impact');
+addDrawing('genshincomic.webp', 'My Old Genshin Team <br>Genshin Impact');
 
-addDrawing('celestial.jpg', 'Celestial Dragon OC');
-addDrawing('hollydragon.jpg', 'Holly Christmas Dragon');
-
-
-addDrawing('rayphone.jpg', 'Ray on the Phone <br>Mystic Messenger');
-
-addDrawing('belpher.jpg', 'Belphegor Underwater <br>Obey Me');
-addDrawing('leviathan.jpg', 'Leviathan <br>Obey Me');
-
-addDrawing('gesaeran.jpg', 'Saeran Portrait <br>Mystic Messenger');
-addDrawing('kofi.jpg', 'Saeran Drinking Ko-fi :3 <br>Mystic Messenger');
-addDrawing('sxm.jpg', 'Saeran x Me Portrait <br>Mystic Messenger');
-addDrawing('mxs.jpg', 'Saeran x MC <br>Mystic Messenger');
+addDrawing('celestial.webp', 'Celestial Dragon OC');
+addDrawing('hollydragon.webp', 'Holly Christmas Dragon');
 
 
-addDrawing('chongyunsketch.jpg', 'Drummer Chongyun WIP <br>Genshin Impact');
+addDrawing('rayphone.webp', 'Ray on the Phone <br>Mystic Messenger');
 
-addDrawing('6challenge.jpg', '6 Characters Challenge');
+addDrawing('belpher.webp', 'Belphegor Underwater <br>Obey Me');
+addDrawing('leviathan.webp', 'Leviathan <br>Obey Me');
+
+addDrawing('gesaeran.webp', 'Saeran Portrait <br>Mystic Messenger');
+addDrawing('kofi.webp', 'Saeran Drinking Ko-fi :3 <br>Mystic Messenger');
+addDrawing('sxm.webp', 'Saeran x Me Portrait <br>Mystic Messenger');
+addDrawing('mxs.webp', 'Saeran x MC <br>Mystic Messenger');
+
+
+addDrawing('chongyunsketch.webp', 'Drummer Chongyun WIP <br>Genshin Impact');
+
+addDrawing('6challenge.webp', '6 Characters Challenge');
 
 function closeDrawing() {
     const el = document.getElementById("preview");

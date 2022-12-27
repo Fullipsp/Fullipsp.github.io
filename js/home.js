@@ -8,16 +8,16 @@ let currentIndex = 0;
 
 
 
-addDrawing('AxL.jpg');
-addDrawing('gorouarcher.jpg');
-addDrawing('catxiao.jpg');
-addDrawing('catnoir.jpg');
-addDrawing('childe.jpg');
-addDrawing('kazuhabday.jpg');
-addDrawing('tomo.jpg');
-addDrawing('celestial.jpg');
-addDrawing('winterxiao.jpg');
-addDrawing('belpher.jpg');
+addDrawing('AxL.webp');
+addDrawing('gorouarcher.webp');
+addDrawing('catxiao.webp');
+addDrawing('catnoir.webp');
+addDrawing('childe.webp');
+addDrawing('kazuhabday.webp');
+addDrawing('tomo.webp');
+addDrawing('celestial.webp');
+addDrawing('winterxiao.webp');
+addDrawing('belpher.webp');
 
 
 
