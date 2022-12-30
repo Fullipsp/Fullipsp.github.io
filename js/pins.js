@@ -29,8 +29,8 @@ addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
     .addPin('lengorou.webp', 'Gorou <br>by Lenacchi', "Owned")
     .addPin('lenzhongli.webp', 'Zhongli <br>by Lenacchi', "Owned")
     .addPin('lenayato.webp', 'Ayato <br>by Lenacchi', "Owned")
-    .addPin('lenxiao.webp', 'Xiao <br>by Lenacchi', "Owned")
     .addPin('lenkazuha.webp', 'Kazuha <br>by Lenacchi', "Owned")
+    .addPin('lenxiao.webp', 'Xiao <br>by Lenacchi', "Owned")
     
 
     .addPin('xiao.webp', 'Xiao <br>by Sugar Cubed Studios', "Owned")
