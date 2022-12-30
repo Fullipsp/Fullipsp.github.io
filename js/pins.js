@@ -28,9 +28,9 @@ addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
 
     .addPin('lengorou.webp', 'Gorou <br>by Lenacchi', "Owned")
     .addPin('lenzhongli.webp', 'Zhongli <br>by Lenacchi', "Owned")
-    .addPin('lenayato.webp', 'Ayato <br>by Lenacchi', "Shipped")
-    .addPin('lenxiao.webp', 'Xiao <br>by Lenacchi', "Shipped")
-    .addPin('lenkazuha.webp', 'Kazuha <br>by Lenacchi', "Shipped")
+    .addPin('lenayato.webp', 'Ayato <br>by Lenacchi', "Owned")
+    .addPin('lenxiao.webp', 'Xiao <br>by Lenacchi', "Owned")
+    .addPin('lenkazuha.webp', 'Kazuha <br>by Lenacchi', "Owned")
     
 
     .addPin('xiao.webp', 'Xiao <br>by Sugar Cubed Studios', "Owned")
@@ -48,7 +48,7 @@ addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
     .addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "Owned")
 
     .addPin('eggkazuha.webp', 'Kazuha <br>by angryeggmerch', "Owned")
-
+.addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "Owned")
     .addPin('anemo.webp', 'Anemoculus <br>by Theartthatran', "Owned")
 
     .addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "Owned")
@@ -112,6 +112,8 @@ addCategory("Cute Animal Pins")
     .addPin('daffodil.webp', 'Daffodil Duckling Floranimals Series <br>by Blushsprout', "Owned")
     .addPin('kitten.webp', 'Cherry Blossom Spring Kitten Mini Pin <br>by Blushsprout', "Owned")
     .addPin('night.webp', 'Froggie ITA (Nighttime) Bag (Kickstarter) (Peach and Holo inserts)', "Owned")
+
+    .addPin('egg.webp', 'Egg Froggie Mini Pin <br>by Rainylune', "Owned")
 
    
 
