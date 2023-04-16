@@ -28,10 +28,10 @@ addCategory("Shounen Figures")
 .addFigure('mikasa.webp', 'Mikasa Ackerman', "Owned")
 .addFigure('levi.webp', 'Levi Ackerman', "Owned")
 
+.addFigure('s4eren.webp', 'Eren Yeager (Season 4)', "Pre-Ordered")
+
 .addFigure('giyu.webp', 'Tomioka Giyu', "Owned")
 .addFigure('rengoku.webp', 'Rengoku Kyojuro', "Owned")
-
-.addFigure('s4eren.webp', 'Eren Yeager (Season 4)', "Pre-Ordered")
 .addFigure('uzui.jpg', 'Uzui Tengen', "Owned")
 
 .addFigure('muichiro.webp', 'Chokonose Muichiro', "Owned")
