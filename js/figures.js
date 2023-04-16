@@ -2,7 +2,10 @@
 let categoryIndex = 0;
 
 
-addCategory("Demonic Cultivation Nendoroids")
+addCategory("MXTX Nendoroids")
+.addFigure('xl.jpg', 'Xie Lian', "Owned")
+.addFigure('hc.jpg', 'Hua Cheng', "Owned")
+
 .addFigure('wwx.webp', 'Wei Wuxian DX', "Owned")
 .addFigure('lwj.webp', 'Lan Wangji DX', "Owned")
 .addFigure('yllzwwx.webp', 'YLLZ Wei Wuxian', "Owned")
@@ -29,7 +32,7 @@ addCategory("Shounen Figures")
 .addFigure('rengoku.webp', 'Rengoku Kyojuro', "Owned")
 
 .addFigure('s4eren.webp', 'Eren Yeager (Season 4)', "Pre-Ordered")
-.addFigure('uzui.webp', 'Uzui Tengen', "Pre-Ordered")
+.addFigure('uzui.jpg', 'Uzui Tengen', "Owned")
 
 .addFigure('muichiro.webp', 'Chokonose Muichiro', "Owned")
 .addFigure('giyuchoko.webp', 'Chokonose Giyu T.', "Owned")
