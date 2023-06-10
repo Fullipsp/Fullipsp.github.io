@@ -1,7 +1,7 @@
 // cSpell:disable
 let categoryIndex = 0;
 
-addCategory("MXTX Pins", "https://shorturl.at/iwxT3)
+addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
     .addPin('bluhdonkey.webp', 'Wangxian Donkey <br>by Bluhtack', "Owned")
     .addPin('bluhroof.webp', 'Wangxian on Roof <br>by Bluhtack', "Owned")
     .addPin('weiying.webp', 'Valentine Wei Ying <br>by Billacookie', "Owned")
