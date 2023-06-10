@@ -6,7 +6,7 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3)
     .addPin('bluhroof.webp', 'Wangxian on Roof <br>by Bluhtack', "Owned")
     .addPin('weiying.webp', 'Valentine Wei Ying <br>by Billacookie', "Owned")
     .addPin('MyBuns.webp', 'Wangxian Bunnies <br>by Lilycli', "Owned")
-.addPin('woodenwangxian.webp', 'Wooden Wangxian Bunnies', "Shipped")
+.addPin('woodenwangxian.webp', 'Wooden Wangxian Bunniess', "Shipped")
 
 .addPin('xlwindow.webp', 'Xie Lian Window <br>by Peonypinsco', "Pre-Ordered")
 .addPin('hcwindow.webp', 'Hua Cheng Window <br>by Peonypinsco', "Pre-Ordered")
