@@ -23,14 +23,14 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
     .addPin('bluhroof.webp', 'Wangxian on Roof <br>by Bluhtack', "Owned")
     .addPin('weiying.webp', 'Valentine Wei Ying <br>by Billacookie', "Owned")
     .addPin('MyBuns.webp', 'Wangxian Bunnies <br>by Lilycli', "Owned")
-    .addPin('woodenwangxian.webp', 'Wooden Wangxian Bunniess', "Shipped")
+
 
 .addPin('wigglyhc.webp', 'Wiggly Fox HC', "Owned")
 .addPin('wigglyxl.webp', 'Wiggly Ferret XL', "Owned")
 .addPin('magicalhualian.webp', 'Hualian Being Cute', "Owned")
 .addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Owned")
 
-    .addPin('xlwindow.webp', 'Xie Lian Window <br>by Peonypinsco', "Pre-Ordered")
+.addPin('xlwindow.webp', 'Xie Lian Window <br>by Peonypinsco', "Pre-Ordered")
 .addPin('hcwindow.webp', 'Hua Cheng Window <br>by Peonypinsco', "Pre-Ordered")
 .addPin('summerxl.webp', 'Summer Xie Lian <br>by Peonypinsco', "Pre-Ordered")
 .addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "Pre-Ordered")
@@ -47,6 +47,7 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 .addPin('bachhualian.webp', 'Lilypad Hualian <br>by Bachoochi', "Waiting")
 .addPin('bachwangxian.webp', 'Lilypad Wangxian <br>by Bachoochi', "Waiting")
 .addPin('chibileaf.webp', 'Chibi Beefleaf', "Waiting")
+.addPin('woodenwangxian.webp', 'Wooden Wangxian Bunniess', "Shipped")
 
 
 
