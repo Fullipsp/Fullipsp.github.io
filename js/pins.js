@@ -1,6 +1,24 @@
 // cSpell:disable
 let categoryIndex = 0;
 
+addCategory("MXTX Pins")
+    .addPin('bluhdonkey.webp', 'Wangxian Donkey <br>by Bluhtack', "Owned")
+    .addPin('bluhroof.webp', 'Wangxian on Roof <br>by Bluhtack', "Owned")
+    .addPin('weiying.webp', 'Valentine Wei Ying <br>by Billacookie', "Owned")
+    .addPin('MyBuns.webp', 'Wangxian Bunnies <br>by Lilycli', "Owned")
+.addPin('woodenwangxian.webp', 'Wooden Wangxian Bunnies', "Shipped")
+
+.addPin('xlwindow.webp', 'Xie Lian Window <br>by Peonypinsco', "Shipped")
+.addPin('hcwindow.webp', 'Hua Cheng Window <br>by Peonypinsco', "Shipped")
+.addPin('summerxl.webp', 'Summer Xie Lian <br>by Peonypinsco', "Shipped")
+.addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "Shipped")
+.addPin('lilypadxl.webp', 'Lilypad Xie Lian <br>by Peonypinsco', "Shipped")
+.addPin('lilypadhc.webp', 'Lilypad Hua Cheng <br>by Peonypinsco', "Shipped")
+.addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Shipped")
+.addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Shipped")
+.addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Shipped")
+
+
 
 addCategory("Mystic Messenger Pins", "http://msg.cheritz.com/")
     .addPin('gebby.webp', 'GE Saeran Chibi <br>by Alicehwyy', "Owned")
@@ -60,11 +78,7 @@ addCategory("Demon Slayer Pins")
     .addPin('obamitsu2.webp', 'Obanai & Mitsuri 2 <br>by Nandemopins', "Owned")
     .addPin('obamitsu3.webp', 'Obanai & Mitsuri 3 <br>by Nandemopins', "Owned")
 
-addCategory("MDZS & Wangxian Pins")
-    .addPin('bluhdonkey.webp', 'Wangxian Donkey <br>by Bluhtack', "Owned")
-    .addPin('bluhroof.webp', 'Wangxian on Roof <br>by Bluhtack', "Owned")
-    .addPin('weiying.webp', 'Valentine Wei Ying <br>by Billacookie', "Owned")
-    .addPin('MyBuns.webp', 'Wangxian Bunnies <br>by Lilycli', "Owned")
+
 
 addCategory("Kirby Pins by ArcadeHealer", "https://arcadehealer.carrd.co")
     .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️', "Owned")
