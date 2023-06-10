@@ -19,6 +19,11 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
     .addPin('MyBuns.webp', 'Wangxian Bunnies <br>by Lilycli', "Owned")
     .addPin('woodenwangxian.webp', 'Wooden Wangxian Bunniess', "Shipped")
 
+.addPin('wigglyhc.webp', 'Wiggly Fox HC', "Owned")
+.addPin('wigglyxl.webp', 'Wiggly Ferret XL', "Owned")
+.addPin('magicalhualian.webp', 'Hualian Being Cute', "Owned")
+.addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Owned")
+
     .addPin('xlwindow.webp', 'Xie Lian Window <br>by Peonypinsco', "Pre-Ordered")
 .addPin('hcwindow.webp', 'Hua Cheng Window <br>by Peonypinsco', "Pre-Ordered")
 .addPin('summerxl.webp', 'Summer Xie Lian <br>by Peonypinsco', "Pre-Ordered")
