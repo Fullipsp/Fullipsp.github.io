@@ -5,11 +5,17 @@ addCategory("For Sale - Click to Contact Me", "https://shorturl.at/iwxT3")
     .addPin('fivexiao.webp', 'Xiao <br>by Fiveonthe', "Owned")
     .addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Owned")
     .addPin('fivethoma.webp', 'Thoma <br>by Fiveonthe', "Owned")
+
     .addPin('humanluna.webp', 'Human Luna', "Owned")
     .addPin('smfamily.webp', 'Luna, Artemis and Diana kitties', "Owned")
+    .addPin('bunnywitch.jpg', 'Snow Bunny Witch <br>by Mamobot', "Owned")
+    .addPin('bunneh.jpg', 'Snow Bunny <br>by Mamobot', "Owned")
+
     .addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "Owned")
     .addPin('VioletEvergarden.webp', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "Owned")
     .addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "Owned")
+    .addPin('lettuce.jpg', 'Tokyo Mew Mew Lettuce <br>by Theartthatran', "Owned")
+
 
 
 addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
