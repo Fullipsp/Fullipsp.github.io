@@ -1,7 +1,7 @@
 // cSpell:disable
 let categoryIndex = 0;
 
-addCategory("For Sale - Click to Contact Me", "https://shorturl.at/iwxT3")
+addCategory("For Sale - (Contact me on any of my socials, if interested!)")
     .addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Owned")
     .addPin('fivexiao.webp', 'Xiao <br>by Fiveonthe', "Owned")
     .addPin('fivethoma.webp', 'Thoma <br>by Fiveonthe', "Owned")
