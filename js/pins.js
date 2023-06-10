@@ -8,7 +8,8 @@ addCategory("For Sale - Click to Contact Me", "https://shorturl.at/iwxT3")
     .addPin('humanluna.webp', 'Human Luna', "Owned")
     .addPin('smfamily.webp', 'Luna, Artemis and Diana kitties', "Owned")
     .addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "Owned")
-.addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "Owned")
+    .addPin('VioletEvergarden.webp', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "Owned")
+    .addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "Owned")
 
 
 addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
@@ -112,7 +113,6 @@ addCategory('Mamobot Sailor Moon Pins', "https://linktr.ee/mamobot")
     .addPin('SCosmos.webp', 'Cosmos Sailor Moon', "Sold")
 
 addCategory("Polymernai", "https://www.polymernai.com")
-    .addPin('VioletEvergarden.webp', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "Owned")
     .addPin('Zelink.webp', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
     .addPin('Ladynoir.webp', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Owned")
     .addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
