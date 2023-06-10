@@ -18,6 +18,14 @@ addCategory("MXTX Pins")
 .addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Shipped")
 .addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Shipped")
 
+.addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Shipped")
+.addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Shipped")
+.addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Shipped")
+.addPin('bachhualian.webp', 'Lilypad Hualian <br>by Bachoochi', "Shipped")
+.addPin('bachwangxian.webp', 'Lilypad Wangxian <br>by Bachoochi', "Shipped")
+.addPin('chibileaf.webp', 'Chibi Beefleaf', "Shipped")
+
+
 
 
 addCategory("Mystic Messenger Pins", "http://msg.cheritz.com/")
