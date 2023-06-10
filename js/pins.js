@@ -14,7 +14,7 @@ addCategory("For Sale - Click to Contact Me", "https://shorturl.at/iwxT3")
     .addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "Owned")
     .addPin('VioletEvergarden.webp', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "Owned")
     .addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "Owned")
-    .addPin('lettuce.webp', 'Tokyo Mew Mew Lettuce <br>by Theartthatran', "Owned")
+    .addPin('lettuce.jpg', 'Tokyo Mew Mew Lettuce <br>by Theartthatran', "Owned")
 
 
 
