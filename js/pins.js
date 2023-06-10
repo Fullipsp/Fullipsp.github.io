@@ -1,26 +1,37 @@
 // cSpell:disable
 let categoryIndex = 0;
 
+addCategory("For Sale - Click to Contact Me", "https://shorturl.at/iwxT3")
+    .addPin('fivexiao.webp', 'Xiao <br>by Fiveonthe', "Owned")
+    .addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Owned")
+    .addPin('fivethoma.webp', 'Thoma <br>by Fiveonthe', "Owned")
+    .addPin('humanluna.webp', 'Human Luna', "Owned")
+    .addPin('smfamily.webp', 'Luna, Artemis and Diana kitties', "Owned")
+    .addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "Owned")
+.addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "Owned")
+
+
 addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
     .addPin('bluhdonkey.webp', 'Wangxian Donkey <br>by Bluhtack', "Owned")
     .addPin('bluhroof.webp', 'Wangxian on Roof <br>by Bluhtack', "Owned")
     .addPin('weiying.webp', 'Valentine Wei Ying <br>by Billacookie', "Owned")
     .addPin('MyBuns.webp', 'Wangxian Bunnies <br>by Lilycli', "Owned")
-.addPin('woodenwangxian.webp', 'Wooden Wangxian Bunniess', "Shipped")
+    .addPin('woodenwangxian.webp', 'Wooden Wangxian Bunniess', "Shipped")
 
-.addPin('xlwindow.webp', 'Xie Lian Window <br>by Peonypinsco', "Pre-Ordered")
+    .addPin('xlwindow.webp', 'Xie Lian Window <br>by Peonypinsco', "Pre-Ordered")
 .addPin('hcwindow.webp', 'Hua Cheng Window <br>by Peonypinsco', "Pre-Ordered")
 .addPin('summerxl.webp', 'Summer Xie Lian <br>by Peonypinsco', "Pre-Ordered")
 .addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "Pre-Ordered")
 .addPin('lilypadxl.webp', 'Lilypad Xie Lian <br>by Peonypinsco', "Pre-Ordered")
 .addPin('lilypadhc.webp', 'Lilypad Hua Cheng <br>by Peonypinsco', "Pre-Ordered")
+.addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Pre-Ordered")
 .addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Waiting")
 .addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Waiting")
 .addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Waiting")
 
 .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Waiting")
 .addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Waiting")
-.addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Pre-Ordered")
+
 .addPin('bachhualian.webp', 'Lilypad Hualian <br>by Bachoochi', "Waiting")
 .addPin('bachwangxian.webp', 'Lilypad Wangxian <br>by Bachoochi', "Waiting")
 .addPin('chibileaf.webp', 'Chibi Beefleaf', "Waiting")
@@ -47,9 +58,9 @@ addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
     .addPin('ChildeTraditional.webp', 'Childe <br>by BirbsNest', "Owned")
     .addPin('XiaoTraditional.webp', 'Xiao <br>by BirbsNest', "Owned")
 
-    .addPin('fivexiao.webp', 'Xiao <br>by Fiveonthe', "Shipped")
-    .addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Shipped")
-    .addPin('fivethoma.webp', 'Thoma <br>by Fiveonthe', "Shipped")
+    .addPin('fivexiao.webp', 'Xiao <br>by Fiveonthe', "Owned")
+    .addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Owned")
+    .addPin('fivethoma.webp', 'Thoma <br>by Fiveonthe', "Owned")
 
 
     .addPin('lengorou.webp', 'Gorou <br>by Lenacchi', "Owned")
@@ -74,7 +85,7 @@ addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
     .addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "Owned")
 
     .addPin('eggkazuha.webp', 'Kazuha <br>by angryeggmerch', "Owned")
-.addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "Owned")
+
     .addPin('anemo.webp', 'Anemoculus <br>by Theartthatran', "Owned")
 
     .addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "Owned")
@@ -96,8 +107,6 @@ addCategory("Kirby Pins by ArcadeHealer", "https://arcadehealer.carrd.co")
 
 addCategory('Mamobot Sailor Moon Pins', "https://linktr.ee/mamobot")
     .addPin('helioschibiusa.webp', 'Chibiusa and Helios', "Owned")
-    .addPin('humanluna.webp', 'Human Luna', "Owned")
-    .addPin('smfamily.webp', 'Luna, Artemis and Diana kitties', "Owned")
     .addPin('SSailor.webp', 'Super Sailor Moon', "Sold")
     .addPin('SSerenity.webp', 'Serenity Sailor Moon', "Sold")
     .addPin('SCosmos.webp', 'Cosmos Sailor Moon', "Sold")
@@ -152,7 +161,6 @@ addCategory('Weishi', "https://linktr.ee/weishi_art")
     .addPin('Isabelle.webp', 'Animal Crossing: New Horizons Vacation Isabelle (Seconds)', "Sold")
 
 addCategory('Xhilyn', "https://xhilyn.carrd.co")
-    .addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "Owned")
     .addPin('Cinamoroll.webp', 'Cinnamoroll Sprinkle Bunny', "Owned")
     .addPin('StarBun.webp', 'Star Bunny Witch', "Owned")
     .addPin('Aurora.webp', 'Aurora Borealis Cutie (Limited Edition)<br>Thank you, SleepyIvy!', "Owned")
