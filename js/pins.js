@@ -2,8 +2,8 @@
 let categoryIndex = 0;
 
 addCategory("For Sale - Click to Contact Me", "https://shorturl.at/iwxT3")
-    .addPin('fivexiao.webp', 'Xiao <br>by Fiveonthe', "Owned")
     .addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Owned")
+    .addPin('fivexiao.webp', 'Xiao <br>by Fiveonthe', "Owned")
     .addPin('fivethoma.webp', 'Thoma <br>by Fiveonthe', "Owned")
 
     .addPin('humanluna.webp', 'Human Luna', "Owned")
