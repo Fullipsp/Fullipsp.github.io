@@ -44,9 +44,9 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Shipped")
 .addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Shipped")
 
-.addPin('bachhualian.webp', 'Lilypad Hualian <br>by Bachoochi', "Waiting")
-.addPin('bachwangxian.webp', 'Lilypad Wangxian <br>by Bachoochi', "Waiting")
-.addPin('chibileaf.webp', 'Chibi Beefleaf', "Waiting")
+.addPin('bachhualian.webp', 'Lilypad Hualian <br>by Bachoochi', "Shipped")
+.addPin('bachwangxian.webp', 'Lilypad Wangxian <br>by Bachoochi', "Shipped")
+.addPin('chibileaf.webp', 'Chibi Beefleaf', "Shipped")
 .addPin('woodenwangxian.webp', 'Wooden Wangxian Bunniess', "Shipped")
 
 
