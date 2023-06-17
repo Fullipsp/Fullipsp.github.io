@@ -1,10 +1,10 @@
 // cSpell:disable
 const categoryEl = document.querySelector(".category");
 
+addDrawing('hualianp.webp', 'Hualian Portrait <br>Tian Guan Ci Fu');
 addDrawing('AxL.webp', 'Arwin & Latte Portrait <br>Miss Not So Sidekick');
 
 addDrawing('uzui.webp', 'Uzui Birthday Party (for my mom) <br>Demon Slayer');
-
 addDrawing('gorouarcher.webp', 'Gorou Bow Practice <br>Genshin Impact');
 addDrawing('catxiao.webp', 'Catboy Xiao <br>Genshin Impact');
 addDrawing('catnoir.webp', 'Cat Noir <br>Miraculous Ladybug');
