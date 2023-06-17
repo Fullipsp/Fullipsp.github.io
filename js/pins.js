@@ -27,14 +27,15 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
     .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Owned")
     .addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Owned")
     .addPin('ecstasy.webp', 'Pleasure&Ecstasy Hualian <br>by ihavetobenkyou', "Owned")
-    
-    .addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Owned")
-    .addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Owned")
-    .addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Owned")
-    .addPin('wigglyhc.webp', 'Wiggly Fox HC', "Owned")
-    .addPin('wigglyxl.webp', 'Wiggly Ferret XL', "Owned")
-    .addPin('magicalhualian.webp', 'Hualian Being Cute', "Owned")
-    .addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Owned")
+
+ //Beefleaf
+     .addPin('bigsqx.webp', 'Shi Qingxuan <br>by Siilvxr', "Owned")
+     .addPin('bighx.webp', 'He Xuan <br>by Siilvxr', "Owned")
+     .addPin('furrybfl.webp', 'Cutie Beefleaf <br>by kmoripins', "Owned")
+     .addPin('sitbfl.webp', 'Funny Beefleaf <br>by qqnzhe', "Owned")
+    .addPin('lunechibfl.webp', 'Oriental Beefleaf <br>by MyLunechi', "Owned")
+     .addPin('bbysqx.webp', 'Snow White Beefleaf <br>by unknown', "Owned")
+     .addPin('chibileaf.webp', 'Chibi Beefleaf', "Shipped")
 
 .addPin('papoosh2.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")   
 .addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Pre-Ordered")
@@ -43,17 +44,15 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 .addPin('lilypadxl.webp', 'Lilypad Xie Lian <br>by Peonypinsco', "Pre-Ordered")
 .addPin('lilypadhc.webp', 'Lilypad Hua Cheng <br>by Peonypinsco', "Pre-Ordered")
  .addPin('bachhualian.webp', 'Lilypad Hualian <br>by Bachoochi', "Shipped")
-
-
-    //Beefleaf
-     .addPin('bigsqx.webp', 'Shi Qingxuan <br>by Siilvxr', "Owned")
-     .addPin('bighx.webp', 'He Xuan <br>by Siilvxr', "Owned")
-     .addPin('furrybfl.webp', 'Cutie Beefleaf <br>by kmoripins', "Owned")
-     .addPin('sitbfl.webp', 'Funny Beefleaf <br>by qqnzhe', "Owned")
-    .addPin('lunechibfl.webp', 'Oriental Beefleaf <br>by MyLunechi', "Owned")
-     .addPin('bbysqx.webp', 'Snow White Beefleaf <br>by unknown', "Owned")
-     .addPin('chibileaf.webp', 'Chibi Beefleaf', "Shipped")
-    //
+    
+    .addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Owned")
+    .addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Owned")
+    .addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Owned")
+    .addPin('wigglyhc.webp', 'Wiggly Fox HC', "Owned")
+    .addPin('wigglyxl.webp', 'Wiggly Ferret XL', "Owned")
+    .addPin('magicalhualian.webp', 'Hualian Being Cute', "Owned")
+    .addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Owned")
+   //
    //MDZS
     .addPin('bachwangxian.webp', 'Lilypad Wangxian <br>by Bachoochi', "Shipped")
     .addPin('bluhdonkey.webp', 'Wangxian Donkey <br>by Bluhtack', "Owned")
