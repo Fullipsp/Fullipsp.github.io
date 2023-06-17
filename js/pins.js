@@ -19,26 +19,33 @@ addCategory("For Sale - (Contact me on any of my socials, if interested!)")
 
 
 addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
-  
 
+    .addPin('xlwindow.webp', 'Xie Lian Window <br>by Peonypinsco', "Pre-Ordered")
+    .addPin('hcwindow.webp', 'Hua Cheng Window <br>by Peonypinsco', "Pre-Ordered")
+    .addPin('charityxl.webp', 'Xie Lian Charity Pin <br>by Peonypinsco', "Owned")
+    .addPin('charityhc.webp', 'Hua Cheng Charity Pin <br>by Peonypinsco', "Owned")
+
+    .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Owned")
+    .addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Owned")
+    .addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Owned")
+    .addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Owned")
+    .addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Owned")
+    
 .addPin('wigglyhc.webp', 'Wiggly Fox HC', "Owned")
 .addPin('wigglyxl.webp', 'Wiggly Ferret XL', "Owned")
 .addPin('magicalhualian.webp', 'Hualian Being Cute', "Owned")
 .addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Owned")
 
-.addPin('xlwindow.webp', 'Xie Lian Window <br>by Peonypinsco', "Pre-Ordered")
-.addPin('hcwindow.webp', 'Hua Cheng Window <br>by Peonypinsco', "Pre-Ordered")
+
 .addPin('summerxl.webp', 'Summer Xie Lian <br>by Peonypinsco', "Pre-Ordered")
 .addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "Pre-Ordered")
 .addPin('lilypadxl.webp', 'Lilypad Xie Lian <br>by Peonypinsco', "Pre-Ordered")
 .addPin('lilypadhc.webp', 'Lilypad Hua Cheng <br>by Peonypinsco', "Pre-Ordered")
 .addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Pre-Ordered")
-.addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Shipped")
-.addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Shipped")
-.addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Shipped")
 
-.addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Shipped")
-.addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Shipped")
+
+
+
 
     
 .addPin('bachhualian.webp', 'Lilypad Hualian <br>by Bachoochi', "Shipped")
@@ -49,6 +56,7 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
      .addPin('bighx.webp', 'He Xuan <br>by Siilvxr', "Owned")
      .addPin('furrybfl.webp', 'Cutie Beefleaf <br>by kmoripins', "Owned")
      .addPin('sitbfl.webp', 'Funny Beefleaf <br>by qqnzhe', "Owned")
+    .addPin('lunechibfl.webp', 'Oriental Beefleaf <br>by MyLunechi', "Owned")
      .addPin('bbysqx.webp', 'Snow White Beefleaf <br>by unknown', "Owned")
      .addPin('chibileaf.webp', 'Chibi Beefleaf', "Owned")
    //MDZS
