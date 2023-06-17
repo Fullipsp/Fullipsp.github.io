@@ -42,7 +42,7 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 .addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "Pre-Ordered")
 .addPin('lilypadxl.webp', 'Lilypad Xie Lian <br>by Peonypinsco', "Pre-Ordered")
 .addPin('lilypadhc.webp', 'Lilypad Hua Cheng <br>by Peonypinsco', "Pre-Ordered")
-
+ .addPin('bachhualian.webp', 'Lilypad Hualian <br>by Bachoochi', "Shipped")
 
 
     //Beefleaf
@@ -53,8 +53,7 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
     .addPin('lunechibfl.webp', 'Oriental Beefleaf <br>by MyLunechi', "Owned")
      .addPin('bbysqx.webp', 'Snow White Beefleaf <br>by unknown', "Owned")
      .addPin('chibileaf.webp', 'Chibi Beefleaf', "Shipped")
-     //
-    .addPin('bachhualian.webp', 'Lilypad Hualian <br>by Bachoochi', "Shipped")
+    //
    //MDZS
     .addPin('bachwangxian.webp', 'Lilypad Wangxian <br>by Bachoochi', "Shipped")
     .addPin('bluhdonkey.webp', 'Wangxian Donkey <br>by Bluhtack', "Owned")
