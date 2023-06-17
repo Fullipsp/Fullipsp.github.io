@@ -134,7 +134,7 @@ addCategory('Mamobot Sailor Moon Pins', "https://linktr.ee/mamobot")
     .addPin('SSerenity.webp', 'Serenity Sailor Moon', "Sold")
     .addPin('SCosmos.webp', 'Cosmos Sailor Moon', "Sold")
 
-addCategory("Polymernai", "https://www.polymernai.com")
+addCategory("Fantasy Couples")
     .addPin('Zelink.webp', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
     .addPin('Ladynoir.webp', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Owned")
     .addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
