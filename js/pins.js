@@ -15,6 +15,7 @@ addCategory("For Sale - (Contact me on any of my socials, if interested!)")
     .addPin('VioletEvergarden.webp', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "Owned")
     .addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "Owned")
     .addPin('lettuce.jpg', 'Tokyo Mew Mew Lettuce <br>by Theartthatran', "Owned")
+    .addPin('anemo.webp', 'Anemoculus (GLOW IN DARK) <br>by Theartthatran', "Owned")
 
 
 
@@ -109,8 +110,6 @@ addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
     .addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "Owned")
 
     .addPin('eggkazuha.webp', 'Kazuha <br>by angryeggmerch', "Owned")
-
-    .addPin('anemo.webp', 'Anemoculus <br>by Theartthatran', "Owned")
 
     .addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "Owned")
     .addPin('promise.webp', 'Snezhnayan Promise <br>by Hollichoo', "Owned")
