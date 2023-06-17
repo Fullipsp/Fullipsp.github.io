@@ -24,31 +24,25 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
     .addPin('hcwindow.webp', 'Hua Cheng Window <br>by Peonypinsco', "Pre-Ordered")
     .addPin('charityxl.webp', 'Xie Lian Charity Pin <br>by Peonypinsco', "Owned")
     .addPin('charityhc.webp', 'Hua Cheng Charity Pin <br>by Peonypinsco', "Owned")
-
     .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Owned")
     .addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Owned")
     .addPin('ecstasy.webp', 'Pleasure&Ecstasy Hualian <br>by ihavetobenkyou', "Owned")
+    
     .addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Owned")
     .addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Owned")
     .addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Owned")
-    
-.addPin('wigglyhc.webp', 'Wiggly Fox HC', "Owned")
-.addPin('wigglyxl.webp', 'Wiggly Ferret XL', "Owned")
-.addPin('magicalhualian.webp', 'Hualian Being Cute', "Owned")
-.addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Owned")
+    .addPin('wigglyhc.webp', 'Wiggly Fox HC', "Owned")
+    .addPin('wigglyxl.webp', 'Wiggly Ferret XL', "Owned")
+    .addPin('magicalhualian.webp', 'Hualian Being Cute', "Owned")
+    .addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Owned")
 
-
+.addPin('papoosh2.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")   
+.addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Pre-Ordered")
 .addPin('summerxl.webp', 'Summer Xie Lian <br>by Peonypinsco', "Pre-Ordered")
 .addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "Pre-Ordered")
 .addPin('lilypadxl.webp', 'Lilypad Xie Lian <br>by Peonypinsco', "Pre-Ordered")
 .addPin('lilypadhc.webp', 'Lilypad Hua Cheng <br>by Peonypinsco', "Pre-Ordered")
-.addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Pre-Ordered")
 
-
-
-
-
-    
 .addPin('bachhualian.webp', 'Lilypad Hualian <br>by Bachoochi', "Shipped")
 .addPin('bachwangxian.webp', 'Lilypad Wangxian <br>by Bachoochi', "Shipped")
 
