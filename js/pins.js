@@ -27,6 +27,7 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 
     .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Owned")
     .addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Owned")
+    .addPin('ecstasy.webp', 'Pleasure&Ecstasy Hualian <br>by ihavetobenkyou', "Owned")
     .addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Owned")
     .addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Owned")
     .addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Owned")
