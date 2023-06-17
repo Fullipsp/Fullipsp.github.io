@@ -19,11 +19,7 @@ addCategory("For Sale - (Contact me on any of my socials, if interested!)")
 
 
 addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
-    .addPin('bluhdonkey.webp', 'Wangxian Donkey <br>by Bluhtack', "Owned")
-    .addPin('bluhroof.webp', 'Wangxian on Roof <br>by Bluhtack', "Owned")
-    .addPin('weiying.webp', 'Valentine Wei Ying <br>by Billacookie', "Owned")
-    .addPin('MyBuns.webp', 'Wangxian Bunnies <br>by Lilycli', "Owned")
-
+  
 
 .addPin('wigglyhc.webp', 'Wiggly Fox HC', "Owned")
 .addPin('wigglyxl.webp', 'Wiggly Ferret XL', "Owned")
@@ -44,11 +40,23 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Shipped")
 .addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Shipped")
 
+    
 .addPin('bachhualian.webp', 'Lilypad Hualian <br>by Bachoochi', "Shipped")
 .addPin('bachwangxian.webp', 'Lilypad Wangxian <br>by Bachoochi', "Shipped")
-.addPin('chibileaf.webp', 'Chibi Beefleaf', "Shipped")
-.addPin('woodenwangxian.webp', 'Wooden Wangxian Bunniess', "Shipped")
 
+    //Beefleaf
+     .addPin('bigsqx.webp', 'Shi Qingxuan <br>by Siilvxr', "Owned")
+     .addPin('bighx.webp', 'He Xuan <br>by Siilvxr', "Owned")
+     .addPin('furrybfl.webp', 'Cutie Beefleaf <br>by kmoripins', "Owned")
+     .addPin('sitbfl.webp', 'Funny Beefleaf <br>by qqnzhe', "Owned")
+     .addPin('bbysqx.webp', 'Snow White Beefleaf <br>by unknown', "Owned")
+     .addPin('chibileaf.webp', 'Chibi Beefleaf', "Owned")
+   //MDZS
+    .addPin('bluhdonkey.webp', 'Wangxian Donkey <br>by Bluhtack', "Owned")
+    .addPin('bluhroof.webp', 'Wangxian on Roof <br>by Bluhtack', "Owned")
+    .addPin('weiying.webp', 'Valentine Wei Ying <br>by Billacookie', "Owned")
+    .addPin('MyBuns.webp', 'Wangxian Bunnies <br>by Lilycli', "Owned")
+    .addPin('woodenwangxian.webp', 'Wooden Wangxian Bunniess', "Shipped")
 
 
 
