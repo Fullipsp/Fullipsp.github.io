@@ -7,7 +7,7 @@ let currentSeconds = 1;
 let currentIndex = 0;
 
 
-
+addDrawing('hualianp.webp');
 addDrawing('AxL.webp');
 addDrawing('gorouarcher.webp');
 addDrawing('catxiao.webp');
