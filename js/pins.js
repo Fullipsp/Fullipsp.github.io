@@ -2,9 +2,8 @@
 let categoryIndex = 0;
 
 addCategory("For Sale - (Contact me on any of my socials, if interested!)")
-    .addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Owned")
-    .addPin('fivexiao.webp', 'Xiao <br>by Fiveonthe', "Owned")
-    .addPin('fivethoma.webp', 'Thoma <br>by Fiveonthe', "Owned")
+
+.addPin('Clefairy.webp', 'Clefairy Tamagotchi', "Owned")
 
     .addPin('humanluna.webp', 'Human Luna', "Owned")
     .addPin('smfamily.webp', 'Luna, Artemis and Diana kitties', "Owned")
@@ -126,8 +125,7 @@ addCategory("Kirby Pins by ArcadeHealer", "https://arcadehealer.carrd.co")
     .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️', "Owned")
     .addPin('ClownKirby.webp', 'Mirror Poyo', "Owned")
     .addPin('BottleKirby.webp', 'Poyo in a Bottle', "Owned")
-    .addPin('Clefairy.webp', 'Clefairy Tamagotchi', "Owned")
-
+    
 addCategory('Mamobot Sailor Moon Pins', "https://linktr.ee/mamobot")
     .addPin('helioschibiusa.webp', 'Chibiusa and Helios', "Owned")
     .addPin('SSailor.webp', 'Super Sailor Moon', "Sold")
