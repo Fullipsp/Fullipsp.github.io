@@ -63,7 +63,7 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
     .addPin('wigglyhc.webp', 'Wiggly Fox HC', "Owned")
     .addPin('wigglyxl.webp', 'Wiggly Ferret XL', "Owned")
     .addPin('magicalhualian.webp', 'Hualian Being Cute', "Owned")
-    .addPin('bachhualian2.jpg', 'Hualian <br>by Bachoochi', "Owned")
+    .addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Owned")
    //
    //MDZS
     .addPin('bachwangxian.jpg', 'Lilypad Wangxian <br>by Bachoochi', "Owned")
