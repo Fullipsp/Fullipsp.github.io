@@ -52,7 +52,7 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 .addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "Shipped")
 .addPin('lilypadxl.webp', 'Lilypad Xie Lian <br>by Peonypinsco', "Shipped")
 .addPin('lilypadhc.webp', 'Lilypad Hua Cheng <br>by Peonypinsco', "Shipped")
- .addPin('bachhualian.webp', 'Lilypad Hualian <br>by Bachoochi', "Owned")
+ .addPin('bachhualian2.jpg', 'Lilypad Hualian <br>by Bachoochi', "Owned")
     
     .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Owned")
     .addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Owned") 
