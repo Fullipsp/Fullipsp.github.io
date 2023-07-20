@@ -26,8 +26,8 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
     .addPin('hcwindow.jpg', 'Hua Cheng Window <br>by Peonypinsco', "Owned")
     .addPin('charityxl.webp', 'Xie Lian Charity Pin <br>by Peonypinsco', "Owned")
     .addPin('charityhc.webp', 'Hua Cheng Charity Pin <br>by Peonypinsco', "Owned")
-   .addPin('xltea.webp', 'Teacup Xie Lian <br>by Peonypinsco', "Owned")
-   .addPin('hctea.webp', 'Teacup Hua Cheng <br>by Peonypinsco', "Owned")
+   .addPin('xltea.jpg', 'Teacup Xie Lian <br>by Peonypinsco', "Owned")
+   .addPin('hctea.jpg', 'Teacup Hua Cheng <br>by Peonypinsco', "Owned")
     
 
     
