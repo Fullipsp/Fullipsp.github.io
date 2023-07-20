@@ -36,3 +36,17 @@ body {
     color: white;
     font-family: 'Nunito', sans-serif;
 }
+
+.counterapi a {
+    text-decoration: none;
+}
+
+.counterapi .ionicon {
+    margin-top: -3px;
+}
+.counterapi {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
