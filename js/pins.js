@@ -138,7 +138,8 @@ addCategory("Kirby Pins by ArcadeHealer", "https://arcadehealer.carrd.co")
  addCategory('Mamobot Sailor Moon Pins', "https://linktr.ee/mamobot")
     .addPin('helioschibiusa.webp', 'Chibiusa and Helios', "Owned")
     .addPin('Ahri.webp', 'K/DA Ahri', "Sold")
- .addPin('WeddingPeach.webp', 'Wedding Princess Peach', "Sold")
+    .addPin('WeddingPeach.webp', 'Wedding Princess Peach', "Sold")
+    .addPin('Zelda.jpg', 'Smash Zelda Nintendoll', "Sold")
   
     .addPin('humanluna.webp', 'Human Luna', "Sold")
     .addPin('smfamily.webp', 'Luna, Artemis and Diana kitties', "Sold")
@@ -151,7 +152,6 @@ addCategory("Kirby Pins by ArcadeHealer", "https://arcadehealer.carrd.co")
     .addPin('Nethelenia.webp', 'Nethelenia Mirror', "Sold")
    
     .addPin('MermaidMoon.webp', 'Sailor Moon Chibi Mermaid', "Sold")
-   
     .addPin('SSailor.webp', 'Super Sailor Moon', "Sold")
     .addPin('SSerenity.webp', 'Serenity Sailor Moon', "Sold")
     .addPin('SCosmos.webp', 'Cosmos Sailor Moon', "Sold")
@@ -184,12 +184,12 @@ addCategory("Cute Animal Pins")
     .addPin('Fawnfetti.webp', 'Fawnfetti ☆ <br>by Blushsprout', "Owned")
     .addPin('Sloth.webp', 'Cute Sloth ☆ <br>by Blushsprout', "Owned")
     .addPin('witchfroggie.webp', 'Witch Froggie <br>(October 2020 Pin Club) <br>by Blushsprout', "Owned")
-    .addPin('froggie pin bag.webp', 'Froggie Bag Freebie Frog <br>by Blushsprout', "Owned")
-    .addPin('daffodil.webp', 'Daffodil Duckling Floranimals Series <br>by Blushsprout', "Owned")
-    .addPin('kitten.webp', 'Cherry Blossom Spring Kitten Mini Pin <br>by Blushsprout', "Owned")
+    .addPin('froggie pin bag.webp', 'Froggie Pond Pal <br>by Blushsprout', "Sold")
+    .addPin('daffodil.webp', 'Daffodil Duckling Floranimals Series <br>by Blushsprout', "Sold")
+    .addPin('kitten.webp', 'Cherry Blossom Spring Kitten Mini Pin <br>by Blushsprout', "Sold")
     .addPin('night.webp', 'Froggie ITA (Nighttime) Bag (Kickstarter) (Peach and Holo inserts)', "Owned")
 
-    .addPin('egg.webp', 'Egg Froggie Mini Pin <br>by Rainylune', "Owned")
+    .addPin('egg.webp', 'Egg Froggie Mini Pin <br>by Rainylune', "Sold")
 
    
 
