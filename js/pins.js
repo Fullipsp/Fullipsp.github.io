@@ -95,11 +95,13 @@ addCategory("Fantasy Couples")
    .addPin('marichat.jpg', 'Marichat <br> by MariC****Cafe', "Owned")
    .addPin('heartmlb.jpg', 'Ladynoir <3 <br> by MariC****Cafe', "Owned")
    .addPin('Ladynoir.webp', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Owned")
-   .addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
+  .addPin('Zelink.webp', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
+  .addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
+ 
+ .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br> by Paper*****ns', "Pre-Ordered")
+ .addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br> by Paper*****ns', "Pre-Ordered")
 
-   .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br> by Paper*****ns', "Pre-Ordered")
-
-    .addPin('Zelink.webp', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
+    
         
 // =========================================================================================================================================================================================================================
 
