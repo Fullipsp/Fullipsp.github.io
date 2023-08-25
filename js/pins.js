@@ -140,6 +140,8 @@ addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
     .addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "Owned")
     .addPin('promise.webp', 'Snezhnayan Promise <br>by Hollichoo', "Owned")
 
+    .addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Pre-Ordered")
+
 // =========================================================================================================================================================================================================================
 
 addCategory("Demon Slayer Pins")
