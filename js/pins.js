@@ -13,7 +13,7 @@ addCategory("For Sale - (Contact me on any of my socials, if interested!)")
     .addPin('bunneh.jpg', 'Snow Bunny <br>by Mamobot', "Sold")
  .addPin('lettuce.jpg', 'Tokyo Mew Mew Lettuce <br>by Theartthatran', "Sold")
 
-
+// =========================================================================================================================================================================================================================
 
 addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 
@@ -70,6 +70,7 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
     .addPin('MyBuns.webp', 'Wangxian Bunnies <br>by Lilycli', "Owned")
     .addPin('woodenwangxian.jpg', 'Wooden Wangxian Bunniess', "Owned")
 
+// =========================================================================================================================================================================================================================
 
 addCategory("Mystic Messenger Pins", "http://msg.cheritz.com/")
     .addPin('gebby.webp', 'GE Saeran Chibi <br>by Alicehwyy', "Owned")
@@ -86,6 +87,7 @@ addCategory("Mystic Messenger Pins", "http://msg.cheritz.com/")
     .addPin('napsaeran.webp', 'Wedding Saeran Chibi <br>by Napporin', "Owned")
     .addPin('napring.webp', 'Wedding Saeran Ring <br>by Napporin', "Owned")
 
+// =========================================================================================================================================================================================================================
 
 addCategory("Fantasy Couples")
    .addPin('mlbjapanese.jpg', 'Japanese Adrinette <br> by MariC****Cafe', "Owned")
@@ -98,10 +100,8 @@ addCategory("Fantasy Couples")
    .addPin('tarotnoir.webp', 'Cat Noir Moon Tarot Card <br> by Paper*****ns', "Pre-Ordered")
 
     .addPin('Zelink.webp', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
-    
-    
-
-
+        
+// =========================================================================================================================================================================================================================
 
 addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
     .addPin('ChildeTraditional.webp', 'Childe <br>by BirbsNest', "Owned")
@@ -138,7 +138,7 @@ addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
     .addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "Owned")
     .addPin('promise.webp', 'Snezhnayan Promise <br>by Hollichoo', "Owned")
 
-
+// =========================================================================================================================================================================================================================
 
 addCategory("Demon Slayer Pins")
     .addPin('obamitsu1.webp', 'Obanai & Mitsuri 1 <br>by Nandemopins', "Owned")
@@ -151,7 +151,8 @@ addCategory("Kirby Pins by ArcadeHealer", "https://arcadehealer.carrd.co")
     .addPin('ClownKirby.webp', 'Mirror Poyo', "Owned")
     .addPin('BottleKirby.webp', 'Poyo in a Bottle', "Owned")
 
- 
+// =========================================================================================================================================================================================================================
+
  addCategory('Mamobot Sailor Moon Pins', "https://linktr.ee/mamobot")
     .addPin('helioschibiusa.webp', 'Chibiusa and Helios', "Owned")
     .addPin('Ahri.webp', 'K/DA Ahri', "Sold")
@@ -173,8 +174,7 @@ addCategory("Kirby Pins by ArcadeHealer", "https://arcadehealer.carrd.co")
     .addPin('SSerenity.webp', 'Serenity Sailor Moon', "Sold")
     .addPin('SCosmos.webp', 'Cosmos Sailor Moon', "Sold")
    
-
-
+// =========================================================================================================================================================================================================================
 
 addCategory("Cute Animal Pins")
 
