@@ -201,12 +201,12 @@ addCategory("Cute Animal Pins")
     .addPin('Fawnfetti.webp', 'Fawnfetti ☆ <br>by Blushsprout', "Owned")
     .addPin('Sloth.webp', 'Cute Sloth ☆ <br>by Blushsprout', "Owned")
     .addPin('witchfroggie.webp', 'Witch Froggie <br>(October 2020 Pin Club) <br>by Blushsprout', "Owned")
+    .addPin('night.webp', 'Froggie ITA (Nighttime) Bag (Kickstarter) (Peach and Holo inserts)', "Owned")
+ 
     .addPin('froggie pin bag.webp', 'Froggie Pond Pal <br>by Blushsprout', "Sold")
     .addPin('daffodil.webp', 'Daffodil Duckling Floranimals Series <br>by Blushsprout', "Sold")
     .addPin('kitten.webp', 'Cherry Blossom Spring Kitten Mini Pin <br>by Blushsprout', "Sold")
-    .addPin('night.webp', 'Froggie ITA (Nighttime) Bag (Kickstarter) (Peach and Holo inserts)', "Owned")
-
-    .addPin('egg.webp', 'Egg Froggie Mini Pin <br>by Rainylune', "Sold")
+       .addPin('egg.webp', 'Egg Froggie Mini Pin <br>by Rainylune', "Sold")
   
 
     
