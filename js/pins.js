@@ -13,7 +13,7 @@ addCategory("For Sale - (Contact me on any of my socials, if interested!)")
     .addPin('bunneh.jpg', 'Snow Bunny <br>by Mamobot', "Sold")
  .addPin('lettuce.jpg', 'Tokyo Mew Mew Lettuce <br>by Theartthatran', "Sold")
 
-==========================================================================================================================================================================================================================
+
 
 addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 
@@ -70,7 +70,7 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
     .addPin('MyBuns.webp', 'Wangxian Bunnies <br>by Lilycli', "Owned")
     .addPin('woodenwangxian.jpg', 'Wooden Wangxian Bunniess', "Owned")
 
-==========================================================================================================================================================================================================================
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 addCategory("Mystic Messenger Pins", "http://msg.cheritz.com/")
     .addPin('gebby.webp', 'GE Saeran Chibi <br>by Alicehwyy', "Owned")
