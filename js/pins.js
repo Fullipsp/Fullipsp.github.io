@@ -10,7 +10,7 @@ addCategory("For Sale - (Contact me on any of my socials, if interested!)")
  .addPin('anemo.webp', 'Anemoculus (GLOW IN DARK) <br>by Theartthatran', "Owned")
    
     .addPin('bunnywitch.jpg', 'Snow Bunny Witch <br>by Mamobot', "Owned")
-    .addPin('bunneh.jpg', 'Snow Bunny <br>by Mamobot', "Owned")
+    .addPin('bunneh.jpg', 'Snow Bunny <br>by Mamobot', "Sold")
  .addPin('lettuce.jpg', 'Tokyo Mew Mew Lettuce <br>by Theartthatran', "Sold")
 
 
@@ -135,9 +135,13 @@ addCategory("Kirby Pins by ArcadeHealer", "https://arcadehealer.carrd.co")
     .addPin('ClownKirby.webp', 'Mirror Poyo', "Owned")
     .addPin('BottleKirby.webp', 'Poyo in a Bottle', "Owned")
     
-addCategory('Mamobot Sailor Moon Pins', "https://linktr.ee/mamobot")
+ addCategory('Mamobot Sailor Moon Pins', "https://linktr.ee/mamobot")
     .addPin('helioschibiusa.webp', 'Chibiusa and Helios', "Owned")
     .addPin('Ahri.webp', 'K/DA Ahri', "Sold")
+ .addPin('WeddingPeach.webp', 'Wedding Princess Peach', "Sold")
+  
+    .addPin('humanluna.webp', 'Human Luna', "Sold")
+    .addPin('smfamily.webp', 'Luna, Artemis and Diana kitties', "Sold")
     .addPin('Rosalina.webp', 'Rosalina Nintendoll', "Sold")
     .addPin('BikerRosalina.webp', 'Biker Rosalina', "Sold")
     .addPin('Bowsette.webp', 'Biker Bowsette', "Sold")
@@ -145,14 +149,13 @@ addCategory('Mamobot Sailor Moon Pins', "https://linktr.ee/mamobot")
     .addPin('SailorVMirror.webp', 'Sailor Moon V Mirror', "Sold")
     .addPin('WickedLadyMirror.webp', 'Wicked Lady Mirror', "Sold")
     .addPin('Nethelenia.webp', 'Nethelenia Mirror', "Sold")
-    .addPin('WeddingPeach.webp', 'Wedding Princess Peach', "Sold")
+   
     .addPin('MermaidMoon.webp', 'Sailor Moon Chibi Mermaid', "Sold")
    
     .addPin('SSailor.webp', 'Super Sailor Moon', "Sold")
     .addPin('SSerenity.webp', 'Serenity Sailor Moon', "Sold")
     .addPin('SCosmos.webp', 'Cosmos Sailor Moon', "Sold")
-    .addPin('humanluna.webp', 'Human Luna', "Sold")
-    .addPin('smfamily.webp', 'Luna, Artemis and Diana kitties', "Sold")
+   
 
 addCategory("Fantasy Couples")
     .addPin('Zelink.webp', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
