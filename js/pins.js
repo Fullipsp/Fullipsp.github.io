@@ -31,7 +31,7 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
      .addPin('bighx.webp', 'He Xuan <br>by Siilvxr', "Owned")
      .addPin('furrybfl.webp', 'Cutie Beefleaf <br>by kmoripins', "Owned")
      .addPin('sitbfl.webp', 'Funny Beefleaf <br>by qqnzhe', "Owned")
-    .addPin('lunechibfl.webp', 'Oriental Beefleaf <br>by MyLunechi', "Owned")
+     .addPin('lunechibfl.webp', 'Oriental Beefleaf <br>by MyLunechi', "Owned")
      .addPin('bbysqx.webp', 'Snow White Beefleaf <br>by unknown', "Owned")
      .addPin('chibileaf.jpg', 'Chibi Beefleaf', "Owned")
     
@@ -88,9 +88,16 @@ addCategory("Mystic Messenger Pins", "http://msg.cheritz.com/")
 
 
 addCategory("Fantasy Couples")
+   .addPin('mlbjapanese.jpg', 'Japanese Adrinette <br> by MariC****Cafe', "Owned")
+   .addPin('ladynoirkiss.jpg', 'Ladynoir Kiss <br> by MariC****Cafe', "Owned")
+   .addPin('marichat.jpg', 'Marichat <br> by MariC****Cafe', "Owned")
+   .addPin('heartmlb.jpg', 'Ladynoir <3 <br> by MariC****Cafe', "Owned")
+   .addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
+   .addPin('tarotnoir.webp', 'Cat Noir Moon Tarot Card <br> by Paper*****ns', "Owned")
+
     .addPin('Zelink.webp', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
     .addPin('Ladynoir.webp', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Owned")
-    .addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
+    
 
 
 
