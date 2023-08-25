@@ -97,7 +97,7 @@ addCategory("Fantasy Couples")
    .addPin('Ladynoir.webp', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Owned")
    .addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
 
-   .addPin('tarotnoir.webp', 'Cat Noir Moon Tarot Card <br> by Paper*****ns', "Pre-Ordered")
+   .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br> by Paper*****ns', "Pre-Ordered")
 
     .addPin('Zelink.webp', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
         
