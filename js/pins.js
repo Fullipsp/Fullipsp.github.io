@@ -1,7 +1,7 @@
 // cSpell:disable
 let categoryIndex = 0;
 
-addCategory("For Sale - (Contact me on any of my socials, if interested!)")
+addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 
     .addPin('lumine.webp', 'Lumine <br>by Sugar Cubed Studios', "For-Sale")
     .addPin('luminechibiprofile.webp', 'Chibi Lumine <br>by AkuoArt', "For-Sale")
