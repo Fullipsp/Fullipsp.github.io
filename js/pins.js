@@ -22,6 +22,12 @@ addCategory("For Sale - (Contact me on any of my socials, if interested!)")
  .addPin('bunneh.jpg', 'Snow Bunny <br>by Mamobot', "Sold")
  .addPin('lettuce.jpg', 'Tokyo Mew Mew Lettuce <br>by Theartthatran', "Sold")
 
+addCategory("Waiting for / Ordered Pins")
+.addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Ordered")
+.addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
+.addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br> by Paper*****ns', "Ordered")
+.addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br> by Paper*****ns', "Ordered")
+
 
 addGap();
 
@@ -41,16 +47,15 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 .addPin('ecstasy.webp', 'Pleasure&Ecstasy Hualian <br>by ihavetobenkyou', "Owned")
 .addPin('poppins.jpg', 'Fafa Poppins <br>by Pap00sh', "Owned") 
 .addPin('papoosh2.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")   
-.addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Ordered")
 .addPin('flowerxl.jpg', 'Flower Xie Lian <br>by Sinycath', "Owned")
 .addPin('flowerhands.jpg', 'Flower Hualian Hands <br>by Sinycath', "Owned")   
 .addPin('flowerhc.jpg', 'Flower Hua Cheng <br>by Sinycath', "Owned")
-    
-.addPin('summerxl.webp', 'Summer Xie Lian <br>by Peonypinsco', "Owned")
-.addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "Owned")
+.addPin('bachhualian2.jpg', 'Lilypad Hualian <br>by Bachoochi', "Owned")
+
 .addPin('lilypadxl.webp', 'Lilypad Xie Lian <br>by Peonypinsco', "Owned")
 .addPin('lilypadhc.webp', 'Lilypad Hua Cheng <br>by Peonypinsco', "Owned")
-.addPin('bachhualian2.jpg', 'Lilypad Hualian <br>by Bachoochi', "Owned")
+.addPin('summerxl.webp', 'Summer Xie Lian <br>by Peonypinsco', "Owned")
+.addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "Owned")
 .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Owned")
 .addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Owned") 
     
@@ -107,8 +112,7 @@ addCategory("Fantasy Couples")
   .addPin('Zelink.webp', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
   .addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
  
- .addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br> by Paper*****ns', "Ordered")
- .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br> by Paper*****ns', "Ordered")
+
   
 // =========================================================================================================================================================================================================================
 
@@ -142,7 +146,7 @@ addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
 
     
 
-    .addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
+  
 
 // =========================================================================================================================================================================================================================
 
