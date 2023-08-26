@@ -26,10 +26,11 @@ addCategory("Waiting for / Ordered Pins")
 .addPin('sanlang.jpg', 'Thousand Lights <br>by Califlair', "Ordered")
 .addPin('wedding.jpg', 'His Heavenly Bride <br>by Califlair', "Ordered")
 .addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Ordered")
-.addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
+
 .addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br> by Paper*****ns', "Ordered")
 .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br> by Paper*****ns', "Ordered")
 
+.addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
 
 addGap();
 
