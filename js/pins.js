@@ -22,6 +22,9 @@ addCategory("For Sale - (Contact me on any of my socials, if interested!)")
  .addPin('bunneh.jpg', 'Snow Bunny <br>by Mamobot', "Sold")
  .addPin('lettuce.jpg', 'Tokyo Mew Mew Lettuce <br>by Theartthatran', "Sold")
 
+
+addGap();
+
 // =========================================================================================================================================================================================================================
 
 addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
@@ -260,6 +263,20 @@ function statusToIconName(status) {
     if (status === "sold") return 'monetization_on';
 }
 
+
+function addGap() {
+    const contentEl = document.querySelector(".content");
+    
+    const gapEl = document.createElement("div");
+    gapEl.style.height = "6px";
+    gapEl.style.margin = "50px";
+    
+    gapEl.style.borderRadius = "6px";
+    gapEl.style.background = "var(--primary-color)";
+
+
+    contentEl.append(gapEl);
+}
 
 function addCategory(title, url) {
     categoryIndex++;
