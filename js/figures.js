@@ -95,11 +95,16 @@ function addCategory(title, url) {
     this.addFigure = (figureImage, figureTitle, figureStatus) => {
         const iconName = () => {
             const lowercaseFigure = figureStatus.toLowerCase();
-            if (lowercaseFigure === "waiting") return 'schedule';
+
+            if (lowercasePin === "shipped-to") return 'monetization_on';
             if (lowercaseFigure === "owned") return 'done';
-            if (lowercaseFigure === "shipped") return 'local_shipping';
-            if (lowercaseFigure === "pre-ordered") return 'shopping_bag';
+            if (lowercaseFigure === "ordered") return 'shopping_bag';
             if (lowercaseFigure === "sold") return 'monetization_on';
+            
+            if (lowercaseFigure === "waiting") return 'schedule';
+            if (lowercaseFigure === "shipped") return 'local_shipping';
+           
+           
         }
 
         const el = `
@@ -133,7 +138,7 @@ function addInlineCategory() {
             if (lowercaseFigure === "waiting") return 'schedule';
             if (lowercaseFigure === "owned") return 'done';
             if (lowercaseFigure === "shipped") return 'local_shipping';
-            if (lowercaseFigure === "pre-ordered") return 'shopping_bag';
+            if (lowercaseFigure === "ordered") return 'shopping_bag';
             if (lowercaseFigure === "sold") return 'monetization_on';
         }
 
