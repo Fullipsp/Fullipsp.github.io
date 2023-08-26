@@ -20,6 +20,9 @@ addCategory("For Sale - (Contact me on any of my socials, if interested!)")
     .addPin('albedochibiprofile.webp', 'Chibi Albedo <br>by AkuoArt', "For-Sale")
     .addPin('zhonglichibiprofile.webp', 'Chibi Zhongli <br>by AkuoArt', "For-Sale")
 
+.addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "For-Sale")
+.addPin('promise.webp', 'Snezhnayan Promise <br>by Hollichoo', "For-Sale")
+
 // =========================================================================================================================================================================================================================
 
 addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
@@ -138,8 +141,7 @@ addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
 
     .addPin('eggkazuha.webp', 'Kazuha <br>by angryeggmerch', "Owned")
 
-    .addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "Owned")
-    .addPin('promise.webp', 'Snezhnayan Promise <br>by Hollichoo', "Owned")
+    
 
     .addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
 
