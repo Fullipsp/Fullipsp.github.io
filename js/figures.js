@@ -79,11 +79,11 @@ function showFigure(imageName) {
 
 
 function statusToIconName(status) {
-    if (lowercaseFigure === "waiting") return 'schedule';
-    if (lowercaseFigure === "owned") return 'done';
-    if (lowercaseFigure === "shipped") return 'local_shipping';
-    if (lowercaseFigure === "ordered") return 'shopping_bag';
-    if (lowercaseFigure === "sold") return 'monetization_on';
+    if (status === "waiting") return 'schedule';
+    if (status === "owned") return 'done';
+    if (status === "shipped") return 'local_shipping';
+    if (status === "ordered") return 'shopping_bag';
+    if (status === "sold") return 'monetization_on';
 }
 
 function addCategory(title, url) {

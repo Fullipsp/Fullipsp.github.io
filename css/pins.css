@@ -83,9 +83,9 @@ a.category-title:hover {
     color: var(--pin-waiting-color);
 }
 
-.pin-item .status.shipped {
-    background-color: var(--pin-shipped-bg-color);
-    color: var(--pin-shipped-color);
+.pin-item .status.for-sale {
+    background-color: var(--pin-for-sale-bg-color);
+    color: var(--pin-for-sale-color);
 }
 
 .pin-item .status.ordered {

@@ -249,11 +249,11 @@ function showPin(imageName) {
 
 
 function statusToIconName(status) {
-    if (lowercasePin === "waiting") return 'schedule';
-    if (lowercasePin === "owned") return 'done';
-    if (lowercasePin === "for-sale") return 'shopping_cart';
-    if (lowercasePin === "ordered") return 'shopping_bag';
-    if (lowercasePin === "sold") return 'monetization_on';
+    if (status === "waiting") return 'schedule';
+    if (status === "owned") return 'done';
+    if (status === "for-sale") return 'shopping_cart';
+    if (status === "ordered") return 'shopping_bag';
+    if (status === "sold") return 'monetization_on';
 }
 
 
@@ -278,12 +278,18 @@ function addCategory(title, url) {
             const lowercasePin = pinStatus.toLowerCase();
             return statusToIconName(lowercasePin);
         }
+        const status = () => {
+            if (pinStatus.toLowerCase() === "for-sale") {
+                return "For Sale"
+            }
+            return pinStatus;
+        }
 
         const el = `
             <div class="pin-item">
                 <img oncontextmenu="return false;" onClick="showPin('${pinImage}')" src="images/pins/${pinImage}" loading="lazy" alt="${pinTitle}" />
                 <div class="pin-title">${pinTitle}</div>
-                <div class="status ${pinStatus.toLowerCase()}"><span class="material-icons">${iconName()}</span>${pinStatus}</div>
+                <div class="status ${pinStatus.toLowerCase()}"><span class="material-icons">${iconName()}</span>${status()}</div>
             </div>
         `;
         document.getElementById(categoryEl.id).innerHTML+= el;
@@ -309,6 +315,12 @@ function addInlineCategory() {
             const lowercasePin = pinStatus.toLowerCase();
             return statusToIconName(lowercasePin);
         }
+        const status = () => {
+            if (pinStatus.toLowerCase() === "for-sale") {
+                return "For Sale"
+            }
+            return pinStatus;
+        }
 
         const el = `
             <div class="pin-outer">
@@ -316,7 +328,7 @@ function addInlineCategory() {
                 <div class="pin-item">
                     <img oncontextmenu="return false;" onClick="showPin('${pinImage}')" src="images/pins/${pinImage}" loading="lazy" alt="${pinTitle}" />
                     <div class="pin-title">${pinTitle}</div>
-                    <div class="status ${pinStatus.toLowerCase()}"><span class="material-icons">${iconName()}</span>${pinStatus}</div>
+                    <div class="status ${pinStatus.toLowerCase()}"><span class="material-icons">${iconName()}</span>${status()}</div>
               </div>
            </div>
         `;
