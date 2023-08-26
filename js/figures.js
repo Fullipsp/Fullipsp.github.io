@@ -12,7 +12,7 @@ addCategory("MXTX Figures")
 .addFigure('yllzwwx.webp', 'YLLZ Wei Wuxian', "Owned")
 
 
-addCategory("Nendoroids From Games")
+addCategory("Shoujo / Game Nendoroids")
 .addFigure('aether.webp', 'Aether', "Owned")
 .addFigure('lumine.webp', 'Lumine', "Owned")
 .addFigure('ozymandias.webp', 'Ozymandias <br>Fate Grand Order', "Owned")
@@ -22,9 +22,6 @@ addCategory("Nendoroids From Games")
 .addFigure('kogitsunemaru.webp', 'Kogitsunemaru <br>Touken Ranbu', "Owned")
 .addFigure('mizuki.webp', 'Mikazuki <br>Touken Ranbu', "Owned")
 .addFigure('joker.webp', 'Joker <br>Persona 5', "Owned")
-
-
-addCategory("Shoujo Nendoroids")
 .addFigure('shirogane.webp', 'Shirogane Miyuki', "Owned")
 .addFigure('kaguya.webp', 'Shinomiya Kaguya', "Owned")
 .addFigure('miyamura.webp', 'Miyamura Izumi <br>Horimiya', "Owned")
@@ -49,6 +46,7 @@ addCategory("Shounen Figures")
 .addFigure('todoroki.webp', 'Shoto Torodoki Movie Ver. <br>My Hero Academia', "Owned")
 .addFigure('02.webp', 'Zero Two <br>Darling in the Franxx', "Owned")
 .addFigure('dumpling.webp', 'Gyoza Fairy <br>Dorohedoro', "Owned")
+
 
 function closeFigure() {
     const el = document.getElementById("preview");
