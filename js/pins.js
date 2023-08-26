@@ -267,11 +267,15 @@ function addCategory(title, url) {
     this.addPin = (pinImage, pinTitle, pinStatus) => {
         const iconName = () => {
             const lowercasePin = pinStatus.toLowerCase();
-            if (lowercasePin === "waiting") return 'schedule';
+         
+            if (lowercasePin === "shipped-to") return 'monetization_on';
             if (lowercasePin === "owned") return 'done';
-            if (lowercasePin === "shipped") return 'local_shipping';
             if (lowercasePin === "ordered") return 'shopping_bag';
             if (lowercasePin === "sold") return 'monetization_on';
+           
+            if (lowercasePin === "shipped") return 'local_shipping';
+            if (lowercasePin === "waiting") return 'schedule';
+           
         }
 
         const el = `
