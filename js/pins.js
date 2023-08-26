@@ -19,8 +19,7 @@ addCategory("For Sale - (Contact me on any of my socials, if interested!)")
 .addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "For-Sale")
 .addPin('promise.webp', 'Snezhnayan Promise <br>by Hollichoo', "For-Sale")
 
- .addPin('bunneh.jpg', 'Snow Bunny <br>by Mamobot', "Sold")
- .addPin('lettuce.jpg', 'Tokyo Mew Mew Lettuce <br>by Theartthatran', "Sold")
+
 // ==================================================================================================================================================================================================================================================
 
 addCategory("Waiting for / Ordered Pins")
@@ -60,13 +59,13 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Owned")
 .addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Owned") 
     
-    .addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Owned")
-    .addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Owned")
-    .addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Owned")
-    .addPin('wigglyhc.webp', 'Wiggly Fox HC', "Owned")
-    .addPin('wigglyxl.webp', 'Wiggly Ferret XL', "Owned")
-    .addPin('magicalhualian.webp', 'Hualian Being Cute', "Owned")
-    .addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Owned")
+.addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Owned")
+.addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Owned")
+.addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Owned")
+.addPin('wigglyhc.webp', 'Wiggly Fox HC', "Owned")
+.addPin('wigglyxl.webp', 'Wiggly Ferret XL', "Owned")
+.addPin('magicalhualian.webp', 'Hualian Being Cute', "Owned")
+.addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Owned")
 
 //Beefleaf
      .addPin('bigsqx.webp', 'Shi Qingxuan <br>by Siilvxr', "Owned")
@@ -213,7 +212,7 @@ addCategory('Xhilyn', "https://xhilyn.carrd.co")
     .addPin('Aurora.webp', 'Aurora Borealis Cutie (Limited Edition)<br>Thank you, SleepyIvy!', "Owned")
     .addPin('gamerkitty.webp', 'Gamer Kitty Girl (March 2020 Pin Club)<br>Thank you SO much, Kyra! ♡', "Owned")
 
-addCategory('Mamobot Sailor Moon Pins', "https://linktr.ee/mamobot")
+addCategory('Mamobot Fashion Nostalgia Pins', "https://linktr.ee/mamobot")
     .addPin('helioschibiusa.webp', 'Chibiusa and Helios', "Owned")
     .addPin('Ahri.webp', 'K/DA Ahri', "Sold")
     .addPin('WeddingPeach.webp', 'Wedding Princess Peach', "Sold")
@@ -233,6 +232,9 @@ addCategory('Mamobot Sailor Moon Pins', "https://linktr.ee/mamobot")
     .addPin('SSailor.webp', 'Super Sailor Moon', "Sold")
     .addPin('SSerenity.webp', 'Serenity Sailor Moon', "Sold")
     .addPin('SCosmos.webp', 'Cosmos Sailor Moon', "Sold")
+
+ .addPin('bunneh.jpg', 'Snow Bunny <br>by Mamobot', "Sold")
+ .addPin('lettuce.jpg', 'Tokyo Mew Mew Lettuce <br>by Theartthatran', "Sold")
 
 
 
