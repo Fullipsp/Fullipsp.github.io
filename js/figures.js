@@ -2,7 +2,7 @@
 let categoryIndex = 0;
 
 
-addCategory("MXTX Nendoroids")
+addCategory("MXTX Figures")
 .addFigure('reachheart.jpg', 'Until I Reach Your Heart', "Owned")
 .addFigure('amonglotus.jpg', 'Among The Lotus', "Owned")
 .addFigure('xl.jpg', 'Xie Lian', "Owned")
@@ -12,13 +12,23 @@ addCategory("MXTX Nendoroids")
 .addFigure('yllzwwx.webp', 'YLLZ Wei Wuxian', "Owned")
 
 
-addCategory("Genshin Impact Nendoroids")
+addCategory("Nendoroids From Games")
 .addFigure('aether.webp', 'Aether', "Owned")
 .addFigure('lumine.webp', 'Lumine', "Owned")
+.addFigure('ozymandias.webp', 'Ozymandias <br>Fate Grand Order', "Owned")
+.addFigure('link.webp', 'Link <br>Breath of the Wild', "Owned")
+.addFigure('sylvanas.webp', 'Sylvanas <br>World of Warcraft', "Owned")
+.addFigure('zag.jpg', 'Zagreus <br>Hades', "Owned")
+.addFigure('kogitsunemaru.webp', 'Kogitsunemaru <br>Touken Ranbu', "Owned")
+.addFigure('mizuki.webp', 'Mikazuki <br>Touken Ranbu', "Owned")
+.addFigure('joker.webp', 'Joker <br>Persona 5', "Owned")
 
-addCategory("Love is War Nendoroids")
+
+addCategory("Shoujo Nendoroids")
 .addFigure('shirogane.webp', 'Shirogane Miyuki', "Owned")
 .addFigure('kaguya.webp', 'Shinomiya Kaguya', "Owned")
+.addFigure('miyamura.webp', 'Miyamura Izumi <br>Horimiya', "Owned")
+.addFigure('miku.webp', 'Miku Nakano <br>Quintessential Quintuplets', "Sold")
 
 
 addCategory("Shounen Figures")
@@ -28,37 +38,17 @@ addCategory("Shounen Figures")
 .addFigure('eren.webp', 'Eren Yeager', "Owned")
 .addFigure('mikasa.webp', 'Mikasa Ackerman', "Owned")
 .addFigure('levi.webp', 'Levi Ackerman', "Owned")
-
-.addFigure('s4eren.webp', 'Eren Yeager (Season 4)', "Pre-Ordered")
+.addFigure('s4eren.webp', 'Eren Yeager (Season 4)', "Owned")
 
 .addFigure('giyu.webp', 'Tomioka Giyu', "Owned")
 .addFigure('rengoku.webp', 'Rengoku Kyojuro', "Owned")
 .addFigure('uzui.jpg', 'Uzui Tengen', "Owned")
-
 .addFigure('muichiro.webp', 'Chokonose Muichiro', "Owned")
 .addFigure('giyuchoko.webp', 'Chokonose Giyu T.', "Owned")
-
-
-
-
-
-addCategory("Other Nendoroids")
-.addFigure('ozymandias.webp', 'Ozymandias <br>Fate Grand Order', "Owned")
-.addFigure('link.webp', 'Link <br>Breath of the Wild', "Owned")
-.addFigure('sylvanas.webp', 'Sylvanas <br>World of Warcraft', "Owned")
-.addFigure('zag.jpg', 'Zagreus <br>Hades', "Owned")
-.addFigure('02.webp', 'Zero Two <br>Darling in the Franxx', "Owned")
-.addFigure('kogitsunemaru.webp', 'Kogitsunemaru <br>Touken Ranbu', "Owned")
-.addFigure('mizuki.webp', 'Mikazuki <br>Touken Ranbu', "Owned")
-.addFigure('joker.webp', 'Joker <br>Persona 5', "Owned")
+    
 .addFigure('todoroki.webp', 'Shoto Torodoki Movie Ver. <br>My Hero Academia', "Owned")
-.addFigure('miyamura.webp', 'Miyamura Izumi <br>Horimiya', "Owned")
+.addFigure('02.webp', 'Zero Two <br>Darling in the Franxx', "Owned")
 .addFigure('dumpling.webp', 'Gyoza Fairy <br>Dorohedoro', "Owned")
-.addFigure('miku.webp', 'Miku Nakano <br>Quintessential Quintuplets', "Sold")
-
-
-
-
 
 function closeFigure() {
     const el = document.getElementById("preview");
