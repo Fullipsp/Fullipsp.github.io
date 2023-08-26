@@ -231,8 +231,8 @@ addCategory('Mamobot Fashion Nostalgia Pins', "https://linktr.ee/mamobot")
     .addPin('SSerenity.webp', 'Serenity Sailor Moon', "Sold")
     .addPin('SCosmos.webp', 'Cosmos Sailor Moon', "Sold")
 
- .addPin('bunneh.jpg', 'Snow Bunny <br>by Mamobot', "Sold")
- .addPin('lettuce.jpg', 'Tokyo Mew Mew Lettuce <br>by Theartthatran', "Sold")
+ .addPin('bunneh.jpg', 'Snow Witch Bunny', "Sold")
+ .addPin('lettuce.jpg', 'Lettuce by Theartthatran', "Sold")
 
 
 
