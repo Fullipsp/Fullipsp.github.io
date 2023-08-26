@@ -77,6 +77,15 @@ function showFigure(imageName) {
 }
 
 
+
+function statusToIconName(status) {
+    if (status === "waiting") return 'schedule';
+    if (status === "owned") return 'done';
+    if (status === "shipped") return 'local_shipping';
+    if (status === "ordered") return 'shopping_bag';
+    if (status === "sold") return 'monetization_on';
+}
+
 function addCategory(title, url) {
     categoryIndex++;
     let currentIndex = categoryIndex;
@@ -95,16 +104,7 @@ function addCategory(title, url) {
     this.addFigure = (figureImage, figureTitle, figureStatus) => {
         const iconName = () => {
             const lowercaseFigure = figureStatus.toLowerCase();
-
-            if (lowercasePin === "shipped-to") return 'monetization_on';
-            if (lowercaseFigure === "owned") return 'done';
-            if (lowercaseFigure === "ordered") return 'shopping_bag';
-            if (lowercaseFigure === "sold") return 'monetization_on';
-            
-            if (lowercaseFigure === "waiting") return 'schedule';
-            if (lowercaseFigure === "shipped") return 'local_shipping';
-           
-           
+            return statusToIconName(lowercaseFigure);           
         }
 
         const el = `
@@ -135,13 +135,7 @@ function addInlineCategory() {
     this.addFigure = (title, url, figureImage, figureTitle, figureStatus) => {
         const iconName = () => {
             const lowercaseFigure = figureStatus.toLowerCase();
-
-            if (lowercasePin === "shipped-to") return 'monetization_on';
-            if (lowercaseFigure === "waiting") return 'schedule';
-            if (lowercaseFigure === "owned") return 'done';
-            if (lowercaseFigure === "shipped") return 'local_shipping';
-            if (lowercaseFigure === "ordered") return 'shopping_bag';
-            if (lowercaseFigure === "sold") return 'monetization_on';
+            return statusToIconName(lowercaseFigure);
         }
 
         const el = `

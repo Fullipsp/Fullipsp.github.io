@@ -248,6 +248,15 @@ function showPin(imageName) {
 }
 
 
+function statusToIconName(status) {
+    if (status === "waiting") return 'schedule';
+    if (status === "owned") return 'done';
+    if (status === "for-sale") return 'shopping_cart';
+    if (status === "ordered") return 'shopping_bag';
+    if (status === "sold") return 'monetization_on';
+}
+
+
 function addCategory(title, url) {
     categoryIndex++;
     let currentIndex = categoryIndex;
@@ -267,22 +276,20 @@ function addCategory(title, url) {
     this.addPin = (pinImage, pinTitle, pinStatus) => {
         const iconName = () => {
             const lowercasePin = pinStatus.toLowerCase();
-         
-            if (lowercasePin === "shipped-to") return 'monetization_on';
-            if (lowercasePin === "owned") return 'done';
-            if (lowercasePin === "ordered") return 'shopping_bag';
-            if (lowercasePin === "sold") return 'monetization_on';
-           
-            if (lowercasePin === "shipped") return 'local_shipping';
-            if (lowercasePin === "waiting") return 'schedule';
-           
+            return statusToIconName(lowercasePin);
+        }
+        const status = () => {
+            if (pinStatus.toLowerCase() === "for-sale") {
+                return "For Sale"
+            }
+            return pinStatus;
         }
 
         const el = `
             <div class="pin-item">
                 <img oncontextmenu="return false;" onClick="showPin('${pinImage}')" src="images/pins/${pinImage}" loading="lazy" alt="${pinTitle}" />
                 <div class="pin-title">${pinTitle}</div>
-                <div class="status ${pinStatus.toLowerCase()}"><span class="material-icons">${iconName()}</span>${pinStatus}</div>
+                <div class="status ${pinStatus.toLowerCase()}"><span class="material-icons">${iconName()}</span>${status()}</div>
             </div>
         `;
         document.getElementById(categoryEl.id).innerHTML+= el;
@@ -306,13 +313,13 @@ function addInlineCategory() {
     this.addPin = (title, url, pinImage, pinTitle, pinStatus) => {
         const iconName = () => {
             const lowercasePin = pinStatus.toLowerCase();
-
-           if (lowercasePin === "shipped-to") return 'monetization_on';
-            if (lowercasePin === "waiting") return 'schedule';
-            if (lowercasePin === "owned") return 'done';
-            if (lowercasePin === "shipped") return 'local_shipping';
-            if (lowercasePin === "ordered") return 'shopping_bag';
-            if (lowercasePin === "sold") return 'monetization_on';
+            return statusToIconName(lowercasePin);
+        }
+        const status = () => {
+            if (pinStatus.toLowerCase() === "for-sale") {
+                return "For Sale"
+            }
+            return pinStatus;
         }
 
         const el = `
@@ -321,7 +328,7 @@ function addInlineCategory() {
                 <div class="pin-item">
                     <img oncontextmenu="return false;" onClick="showPin('${pinImage}')" src="images/pins/${pinImage}" loading="lazy" alt="${pinTitle}" />
                     <div class="pin-title">${pinTitle}</div>
-                    <div class="status ${pinStatus.toLowerCase()}"><span class="material-icons">${iconName()}</span>${pinStatus}</div>
+                    <div class="status ${pinStatus.toLowerCase()}"><span class="material-icons">${iconName()}</span>${status()}</div>
               </div>
            </div>
         `;
