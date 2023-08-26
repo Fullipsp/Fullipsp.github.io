@@ -3,14 +3,14 @@ let categoryIndex = 0;
 
 addCategory("For Sale - (Contact me on any of my socials, if interested!)")
 
-.addPin('Clefairy.webp', 'Clefairy Tamagotchi', "Owned")
+ .addPin('Clefairy.webp', 'Clefairy Tamagotchi', "Owned")
  .addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "Owned")
  .addPin('VioletEvergarden.webp', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "Owned")
-.addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "Owned")
+ .addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "Owned")
  .addPin('anemo.webp', 'Anemoculus (GLOW IN DARK) <br>by Theartthatran', "Owned")
    
-    .addPin('bunnywitch.jpg', 'Snow Bunny Witch <br>by Mamobot', "Owned")
-    .addPin('bunneh.jpg', 'Snow Bunny <br>by Mamobot', "Sold")
+ .addPin('bunnywitch.jpg', 'Snow Bunny Witch <br>by Mamobot', "Owned")
+ .addPin('bunneh.jpg', 'Snow Bunny <br>by Mamobot', "Sold")
  .addPin('lettuce.jpg', 'Tokyo Mew Mew Lettuce <br>by Theartthatran', "Sold")
 
 // =========================================================================================================================================================================================================================
@@ -98,8 +98,8 @@ addCategory("Fantasy Couples")
   .addPin('Zelink.webp', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
   .addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
  
- .addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br> by Paper*****ns', "Pre-Ordered")
- .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br> by Paper*****ns', "Pre-Ordered")
+ .addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br> by Paper*****ns', "Ordered")
+ .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br> by Paper*****ns', "Ordered")
   
 // =========================================================================================================================================================================================================================
 
@@ -138,7 +138,7 @@ addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
     .addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "Owned")
     .addPin('promise.webp', 'Snezhnayan Promise <br>by Hollichoo', "Owned")
 
-    .addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Pre-Ordered")
+    .addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
 
 // =========================================================================================================================================================================================================================
 
@@ -270,7 +270,7 @@ function addCategory(title, url) {
             if (lowercasePin === "waiting") return 'schedule';
             if (lowercasePin === "owned") return 'done';
             if (lowercasePin === "shipped") return 'local_shipping';
-            if (lowercasePin === "pre-ordered") return 'shopping_bag';
+            if (lowercasePin === "ordered") return 'shopping_bag';
             if (lowercasePin === "sold") return 'monetization_on';
         }
 
