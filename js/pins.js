@@ -22,14 +22,12 @@ addCategory("For Sale - (Contact me on any of my socials, if interested!)")
 // ==================================================================================================================================================================================================================================================
 
 addCategory("Waiting for / Ordered Pins")
-.addPin('believer.jpg', 'God & King <br>by Califlair', "Ordered")
 .addPin('sanlang.jpg', 'Thousand Lights <br>by Califlair', "Ordered")
 .addPin('wedding.jpg', 'His Heavenly Bride <br>by Califlair', "Ordered")
+.addPin('believer.jpg', 'God & King <br>by Califlair', "Ordered")
 .addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Ordered")
-
 .addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br> by Paper*****ns', "Ordered")
 .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br> by Paper*****ns', "Ordered")
-
 .addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
 
 addGap();
