@@ -248,6 +248,15 @@ function showPin(imageName) {
 }
 
 
+function statusToIconName(status) {
+    if (lowercasePin === "waiting") return 'schedule';
+    if (lowercasePin === "owned") return 'done';
+    if (lowercasePin === "for-sale") return 'shopping_cart';
+    if (lowercasePin === "ordered") return 'shopping_bag';
+    if (lowercasePin === "sold") return 'monetization_on';
+}
+
+
 function addCategory(title, url) {
     categoryIndex++;
     let currentIndex = categoryIndex;
@@ -267,15 +276,7 @@ function addCategory(title, url) {
     this.addPin = (pinImage, pinTitle, pinStatus) => {
         const iconName = () => {
             const lowercasePin = pinStatus.toLowerCase();
-         
-            if (lowercasePin === "shipped-to") return 'monetization_on';
-            if (lowercasePin === "owned") return 'done';
-            if (lowercasePin === "ordered") return 'shopping_bag';
-            if (lowercasePin === "sold") return 'monetization_on';
-           
-            if (lowercasePin === "shipped") return 'local_shipping';
-            if (lowercasePin === "waiting") return 'schedule';
-           
+            return statusToIconName(lowercasePin);
         }
 
         const el = `
@@ -306,13 +307,7 @@ function addInlineCategory() {
     this.addPin = (title, url, pinImage, pinTitle, pinStatus) => {
         const iconName = () => {
             const lowercasePin = pinStatus.toLowerCase();
-
-           if (lowercasePin === "shipped-to") return 'monetization_on';
-            if (lowercasePin === "waiting") return 'schedule';
-            if (lowercasePin === "owned") return 'done';
-            if (lowercasePin === "shipped") return 'local_shipping';
-            if (lowercasePin === "ordered") return 'shopping_bag';
-            if (lowercasePin === "sold") return 'monetization_on';
+            return statusToIconName(lowercasePin);
         }
 
         const el = `
