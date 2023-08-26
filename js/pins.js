@@ -45,7 +45,6 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 .addPin('xltea.jpg', 'Teacup Xie Lian <br>by Peonypinsco', "Owned")
 .addPin('hctea.jpg', 'Teacup Hua Cheng <br>by Peonypinsco', "Owned")
 
-.addPin('ecstasy.webp', 'Pleasure&Ecstasy Hualian <br>by ihavetobenkyou', "Owned")
 .addPin('poppins.jpg', 'Fafa Poppins <br>by Pap00sh', "Owned") 
 .addPin('papoosh2.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")   
 .addPin('flowerxl.jpg', 'Flower Xie Lian <br>by Sinycath', "Owned")
@@ -67,6 +66,7 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 .addPin('wigglyxl.webp', 'Wiggly Ferret XL', "Owned")
 .addPin('magicalhualian.webp', 'Hualian Being Cute', "Owned")
 .addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Owned")
+.addPin('ecstasy.webp', 'Pleasure&Ecstasy Hualian <br>by ihavetobenkyou', "Owned")
 
 //Beefleaf
      .addPin('bigsqx.webp', 'Shi Qingxuan <br>by Siilvxr', "Owned")
