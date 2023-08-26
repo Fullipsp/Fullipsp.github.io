@@ -181,25 +181,21 @@ addCategory("Cute Animal Pins")
     .addPin('WishingWell.webp', 'Bunny`s Wishing Pond (August 2020 Pin Club) <br>(Seconds)', "Owned")
     .addPin('raymond.webp', 'Raymond Joy-Con <br>by Quirkory', "Owned")
     .addPin('Isabelle.webp', 'Animal Crossing: New Horizons Vacation Isabelle (Seconds)', "Sold")
-
- 
+    .addPin('BirthdayBun.webp', 'Sprinkle Birthday Bunny <br>by Sharodactylart', "Owned")
+    
     .addPin('wooloo.webp', 'Wooloo ♡ Pokemon <br>by Birduyen', "Owned")
     .addPin('sylveon.webp', 'Sylveon ♡ Pokemon <br>by Birduyen', "Owned")
     .addPin('eevee.webp', 'Eevee ♡ Pokemon <br>by Birduyen', "Owned")
-
     .addPin('raspbunny.webp', 'Raspbunny Crepe ☆ Rainbow Food Animals Series', "Owned")
-    
     .addPin('Fawnfetti.webp', 'Fawnfetti ☆ <br>by Blushsprout', "Owned")
     .addPin('Sloth.webp', 'Cute Sloth ☆ <br>by Blushsprout', "Owned")
     .addPin('witchfroggie.webp', 'Witch Froggie <br>(October 2020 Pin Club) <br>by Blushsprout', "Owned")
-    .addPin('BirthdayBun.webp', 'Sprinkle Birthday Bunny <br>by Sharodactylart', "Owned")
- 
+   
     .addPin('night.webp', 'Froggie ITA (Nighttime) Bag (Kickstarter) (Peach and Holo inserts)', "Owned")
- 
     .addPin('froggie pin bag.webp', 'Froggie Pond Pal <br>by Blushsprout', "Sold")
     .addPin('daffodil.webp', 'Daffodil Duckling Floranimals Series <br>by Blushsprout', "Sold")
     .addPin('kitten.webp', 'Cherry Blossom Spring Kitten Mini Pin <br>by Blushsprout', "Sold")
-       .addPin('egg.webp', 'Egg Froggie Mini Pin <br>by Rainylune', "Sold")
+    .addPin('egg.webp', 'Egg Froggie Mini Pin <br>by Rainylune', "Sold")
   
 
     
