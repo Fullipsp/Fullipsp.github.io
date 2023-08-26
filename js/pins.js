@@ -22,6 +22,8 @@ addCategory("For Sale - (Contact me on any of my socials, if interested!)")
 // ==================================================================================================================================================================================================================================================
 
 addCategory("Waiting for / Ordered Pins")
+.addPin('sanlang.jpg', 'First Meeting Hualian <br>by Califlair', "Ordered")
+.addPin('wedding.jpg', 'Wedding Hualian <br>by Califlair', "Ordered")
 .addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Ordered")
 .addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
 .addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br> by Paper*****ns', "Ordered")
@@ -217,8 +219,8 @@ addCategory('Mamobot Fashion Nostalgia Pins', "https://linktr.ee/mamobot")
     .addPin('SSerenity.webp', 'Serenity Sailor Moon', "Sold")
     .addPin('SCosmos.webp', 'Cosmos Sailor Moon', "Sold")
 
- .addPin('bunneh.jpg', 'Snow Witch Bunny', "Sold")
- .addPin('lettuce.jpg', 'Lettuce by Theartthatran', "Sold")
+    .addPin('bunneh.jpg', 'Snow Witch Bunny', "Sold")
+    .addPin('lettuce.jpg', 'Lettuce by Theartthatran', "Sold")
 
 
 
