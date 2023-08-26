@@ -135,6 +135,8 @@ function addInlineCategory() {
     this.addFigure = (title, url, figureImage, figureTitle, figureStatus) => {
         const iconName = () => {
             const lowercaseFigure = figureStatus.toLowerCase();
+
+            if (lowercasePin === "shipped-to") return 'monetization_on';
             if (lowercaseFigure === "waiting") return 'schedule';
             if (lowercaseFigure === "owned") return 'done';
             if (lowercaseFigure === "shipped") return 'local_shipping';
