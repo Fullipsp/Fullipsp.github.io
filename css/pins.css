@@ -88,8 +88,8 @@ a.category-title:hover {
     color: var(--pin-shipped-color);
 }
 
-.pin-item .status.pre-ordered {
-    background-color: var(--pin-ordered-bg-color);
+.pin-item .status.ordered {
+    background-color: var(--ordered-bg-color);
     color: var(--pin-ordered-color);
 }
 .pin-item .status.sold {
