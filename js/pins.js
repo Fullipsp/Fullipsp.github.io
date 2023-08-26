@@ -306,6 +306,8 @@ function addInlineCategory() {
     this.addPin = (title, url, pinImage, pinTitle, pinStatus) => {
         const iconName = () => {
             const lowercasePin = pinStatus.toLowerCase();
+
+           if (lowercasePin === "shipped-to") return 'monetization_on';
             if (lowercasePin === "waiting") return 'schedule';
             if (lowercasePin === "owned") return 'done';
             if (lowercasePin === "shipped") return 'local_shipping';
