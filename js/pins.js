@@ -126,6 +126,7 @@ addCategory("Genshin Impact / Anime Pins")
    .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️', "Owned")
    .addPin('ClownKirby.webp', 'Mirror Poyo', "Owned")
    .addPin('BottleKirby.webp', 'Poyo in a Bottle', "Owned")
+   .addPin('SakuraKirby.webp', 'Sakura Kirby', "Sold")
  
 // Genshin Impact
     .addPin('ChildeTraditional.webp', 'Childe <br>by BirbsNest', "Owned")
