@@ -305,7 +305,7 @@ function addInlineCategory() {
             if (lowercasePin === "waiting") return 'schedule';
             if (lowercasePin === "owned") return 'done';
             if (lowercasePin === "shipped") return 'local_shipping';
-            if (lowercasePin === "pre-ordered") return 'shopping_bag';
+            if (lowercasePin === "ordered") return 'shopping_bag';
             if (lowercasePin === "sold") return 'monetization_on';
         }
 
