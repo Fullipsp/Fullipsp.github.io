@@ -39,7 +39,7 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
     
 .addPin('poppins.jpg', 'Fafa Poppins <br>by Pap00sh', "Owned") 
 .addPin('papoosh2.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")   
-.addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Pre-Ordered")
+.addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Ordered")
 
 .addPin('flowerxl.jpg', 'Flower Xie Lian <br>by Sinycath', "Owned")
 .addPin('flowerhands.jpg', 'Flower Hualian Hands <br>by Sinycath', "Owned")   
