@@ -12,6 +12,13 @@ addCategory("For Sale - (Contact me on any of my socials, if interested!)")
  .addPin('bunnywitch.jpg', 'Snow Bunny Witch <br>by Mamobot', "For Sale")
  .addPin('bunneh.jpg', 'Snow Bunny <br>by Mamobot', "Sold")
  .addPin('lettuce.jpg', 'Tokyo Mew Mew Lettuce <br>by Theartthatran', "Sold")
+ 
+    .addPin('lumine.webp', 'Lumine <br>by Sugar Cubed Studios', "For Sale")
+    .addPin('luminechibiprofile.webp', 'Chibi Lumine <br>by AkuoArt', "For Sale")
+    .addPin('childechibiprofile.webp', 'Chibi Childe Bust <br>by AkuoArt', "For Sale")
+    .addPin('xiaochibiprofile.webp', 'Chibi Xiao <br>by AkuoArt', "For Sale")
+    .addPin('albedochibiprofile.webp', 'Chibi Albedo <br>by AkuoArt', "For Sale")
+    .addPin('zhonglichibiprofile.webp', 'Chibi Zhongli <br>by AkuoArt', "For Sale")
 
 // =========================================================================================================================================================================================================================
 
@@ -120,16 +127,12 @@ addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
     
 
     .addPin('xiao.webp', 'Xiao <br>by Sugar Cubed Studios', "Owned")
-    .addPin('lumine.webp', 'Lumine <br>by Sugar Cubed Studios', "Owned")
+    
     .addPin('childebby.webp', 'Childe (Tartaglia) <br>by Sugar Cubed Studios', "Owned")
     .addPin('scara.webp', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
 
 
-    .addPin('childechibiprofile.webp', 'Chibi Childe Bust <br>by AkuoArt', "Owned")
-    .addPin('luminechibiprofile.webp', 'Chibi Lumine <br>by AkuoArt', "Owned")
-    .addPin('xiaochibiprofile.webp', 'Chibi Xiao <br>by AkuoArt', "Owned")
-    .addPin('albedochibiprofile.webp', 'Chibi Albedo <br>by AkuoArt', "Owned")
-    .addPin('zhonglichibiprofile.webp', 'Chibi Zhongli <br>by AkuoArt', "Owned")
+   
     .addPin('scarachibiprofile.webp', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
     .addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "Owned")
 
