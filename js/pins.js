@@ -8,20 +8,19 @@ addCategory("For Sale - (Contact me on any of my socials, if interested!)")
  .addPin('VioletEvergarden.webp', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "For-Sale")
  .addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "For-Sale")
  .addPin('anemo.webp', 'Anemoculus (GLOW IN DARK) <br>by Theartthatran', "For-Sale")
-   
  .addPin('bunnywitch.jpg', 'Snow Bunny Witch <br>by Mamobot', "For-Sale")
- .addPin('bunneh.jpg', 'Snow Bunny <br>by Mamobot', "Sold")
- .addPin('lettuce.jpg', 'Tokyo Mew Mew Lettuce <br>by Theartthatran', "Sold")
- 
+
     .addPin('lumine.webp', 'Lumine <br>by Sugar Cubed Studios', "For-Sale")
     .addPin('luminechibiprofile.webp', 'Chibi Lumine <br>by AkuoArt', "For-Sale")
     .addPin('childechibiprofile.webp', 'Chibi Childe Bust <br>by AkuoArt', "For-Sale")
     .addPin('xiaochibiprofile.webp', 'Chibi Xiao <br>by AkuoArt', "For-Sale")
     .addPin('albedochibiprofile.webp', 'Chibi Albedo <br>by AkuoArt', "For-Sale")
     .addPin('zhonglichibiprofile.webp', 'Chibi Zhongli <br>by AkuoArt', "For-Sale")
-
 .addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "For-Sale")
 .addPin('promise.webp', 'Snezhnayan Promise <br>by Hollichoo', "For-Sale")
+
+ .addPin('bunneh.jpg', 'Snow Bunny <br>by Mamobot', "Sold")
+ .addPin('lettuce.jpg', 'Tokyo Mew Mew Lettuce <br>by Theartthatran', "Sold")
 
 // =========================================================================================================================================================================================================================
 
