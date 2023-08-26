@@ -21,6 +21,7 @@ addCategory("For Sale - (Contact me on any of my socials, if interested!)")
 
  .addPin('bunneh.jpg', 'Snow Bunny <br>by Mamobot', "Sold")
  .addPin('lettuce.jpg', 'Tokyo Mew Mew Lettuce <br>by Theartthatran', "Sold")
+// ==================================================================================================================================================================================================================================================
 
 addCategory("Waiting for / Ordered Pins")
 .addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Ordered")
@@ -31,7 +32,7 @@ addCategory("Waiting for / Ordered Pins")
 
 addGap();
 
-// =========================================================================================================================================================================================================================
+// =====================================================================================================================================================================================================================================================
 
 addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 
@@ -116,7 +117,19 @@ addCategory("Fantasy Couples")
   
 // =========================================================================================================================================================================================================================
 
-addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
+addCategory("Genshin Impact / Anime Pins")
+ 
+  //Demon Slayer
+.addPin('obamitsu3.webp', 'Obanai & Mitsuri 3 <br>by Nandemopins', "Owned")
+.addPin('obamitsu1.webp', 'Obanai & Mitsuri 1 <br>by Nandemopins', "Owned")
+.addPin('obamitsu2.webp', 'Obanai & Mitsuri 2 <br>by Nandemopins', "Owned")
+
+ // Kirby
+ .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️', "Owned")
+ .addPin('ClownKirby.webp', 'Mirror Poyo', "Owned")
+ .addPin('BottleKirby.webp', 'Poyo in a Bottle', "Owned")
+ 
+// Genshin Impact
     .addPin('ChildeTraditional.webp', 'Childe <br>by BirbsNest', "Owned")
     .addPin('XiaoTraditional.webp', 'Xiao <br>by BirbsNest', "Owned")
 
@@ -131,58 +144,25 @@ addCategory("Genshin Impact Pins", "https://genshin.hoyoverse.com")
     .addPin('lenkazuha.webp', 'Kazuha <br>by Lenacchi', "Owned")
     .addPin('lenxiao.webp', 'Xiao <br>by Lenacchi', "Owned")
     
-
-    .addPin('xiao.webp', 'Xiao <br>by Sugar Cubed Studios', "Owned")
-    
-    .addPin('childebby.webp', 'Childe (Tartaglia) <br>by Sugar Cubed Studios', "Owned")
-    .addPin('scara.webp', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
-
-
-   
-    .addPin('scarachibiprofile.webp', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
-    .addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "Owned")
-
-    .addPin('eggkazuha.webp', 'Kazuha <br>by angryeggmerch', "Owned")
-
-    
-
-  
+ .addPin('xiao.webp', 'Xiao <br>by Sugar Cubed Studios', "Owned")
+ .addPin('childebby.webp', 'Childe (Tartaglia) <br>by Sugar Cubed Studios', "Owned")
+ .addPin('scara.webp', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
+ .addPin('scarachibiprofile.webp', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
+ .addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "Owned")
+ .addPin('eggkazuha.webp', 'Kazuha <br>by angryeggmerch', "Owned")
 
 // =========================================================================================================================================================================================================================
 
 addCategory("Demon Slayer Pins")
-    .addPin('obamitsu1.webp', 'Obanai & Mitsuri 1 <br>by Nandemopins', "Owned")
-    .addPin('obamitsu2.webp', 'Obanai & Mitsuri 2 <br>by Nandemopins', "Owned")
-    .addPin('obamitsu3.webp', 'Obanai & Mitsuri 3 <br>by Nandemopins', "Owned")
+  
 
  
 addCategory("Kirby Pins by ArcadeHealer", "https://arcadehealer.carrd.co")
-    .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️', "Owned")
-    .addPin('ClownKirby.webp', 'Mirror Poyo', "Owned")
-    .addPin('BottleKirby.webp', 'Poyo in a Bottle', "Owned")
+   
 
 // =========================================================================================================================================================================================================================
 
- addCategory('Mamobot Sailor Moon Pins', "https://linktr.ee/mamobot")
-    .addPin('helioschibiusa.webp', 'Chibiusa and Helios', "Owned")
-    .addPin('Ahri.webp', 'K/DA Ahri', "Sold")
-    .addPin('WeddingPeach.webp', 'Wedding Princess Peach', "Sold")
-    .addPin('Zelda.jpg', 'Smash Zelda Nintendoll', "Sold")
-  
-    .addPin('humanluna.webp', 'Human Luna', "Sold")
-    .addPin('smfamily.webp', 'Luna, Artemis and Diana kitties', "Sold")
-    .addPin('Rosalina.webp', 'Rosalina Nintendoll', "Sold")
-    .addPin('BikerRosalina.webp', 'Biker Rosalina', "Sold")
-    .addPin('Bowsette.webp', 'Biker Bowsette', "Sold")
-    .addPin('SailorV.webp', 'Sailor Moon V', "Sold")
-    .addPin('SailorVMirror.webp', 'Sailor Moon V Mirror', "Sold")
-    .addPin('WickedLadyMirror.webp', 'Wicked Lady Mirror', "Sold")
-    .addPin('Nethelenia.webp', 'Nethelenia Mirror', "Sold")
-   
-    .addPin('MermaidMoon.webp', 'Sailor Moon Chibi Mermaid', "Sold")
-    .addPin('SSailor.webp', 'Super Sailor Moon', "Sold")
-    .addPin('SSerenity.webp', 'Serenity Sailor Moon', "Sold")
-    .addPin('SCosmos.webp', 'Cosmos Sailor Moon', "Sold")
+ 
    
 // =========================================================================================================================================================================================================================
 
@@ -233,6 +213,26 @@ addCategory('Xhilyn', "https://xhilyn.carrd.co")
     .addPin('Aurora.webp', 'Aurora Borealis Cutie (Limited Edition)<br>Thank you, SleepyIvy!', "Owned")
     .addPin('gamerkitty.webp', 'Gamer Kitty Girl (March 2020 Pin Club)<br>Thank you SO much, Kyra! ♡', "Owned")
 
+addCategory('Mamobot Sailor Moon Pins', "https://linktr.ee/mamobot")
+    .addPin('helioschibiusa.webp', 'Chibiusa and Helios', "Owned")
+    .addPin('Ahri.webp', 'K/DA Ahri', "Sold")
+    .addPin('WeddingPeach.webp', 'Wedding Princess Peach', "Sold")
+    .addPin('Zelda.jpg', 'Smash Zelda Nintendoll', "Sold")
+  
+    .addPin('humanluna.webp', 'Human Luna', "Sold")
+    .addPin('smfamily.webp', 'Luna, Artemis and Diana kitties', "Sold")
+    .addPin('Rosalina.webp', 'Rosalina Nintendoll', "Sold")
+    .addPin('BikerRosalina.webp', 'Biker Rosalina', "Sold")
+    .addPin('Bowsette.webp', 'Biker Bowsette', "Sold")
+    .addPin('SailorV.webp', 'Sailor Moon V', "Sold")
+    .addPin('SailorVMirror.webp', 'Sailor Moon V Mirror', "Sold")
+    .addPin('WickedLadyMirror.webp', 'Wicked Lady Mirror', "Sold")
+    .addPin('Nethelenia.webp', 'Nethelenia Mirror', "Sold")
+   
+    .addPin('MermaidMoon.webp', 'Sailor Moon Chibi Mermaid', "Sold")
+    .addPin('SSailor.webp', 'Super Sailor Moon', "Sold")
+    .addPin('SSerenity.webp', 'Serenity Sailor Moon', "Sold")
+    .addPin('SCosmos.webp', 'Cosmos Sailor Moon', "Sold")
 
 
 
