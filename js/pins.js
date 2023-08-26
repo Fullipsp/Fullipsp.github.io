@@ -177,6 +177,13 @@ addCategory("Cute Animal Pins")
     .addPin('LavenderBun.webp', 'Spring Bunny ☼ <br>by Birduyen', "Owned")
     .addPin('Lily.webp', 'Lily ❀ Studio Ghibli <br>by Birduyen', "Owned")
     .addPin('lionm.webp', 'Lion Meringue Pie ☆ <br>by Blushsprout', "Owned")
+
+    .addPin('Weishi.webp', 'Lily`s Hanami (September 2020 Pin Club)', "Owned")
+    .addPin('WishingWell.webp', 'Bunny`s Wishing Pond (August 2020 Pin Club) <br>(Seconds)', "Owned")
+    .addPin('raymond.webp', 'Raymond Joy-Con <br>by Quirkory', "Owned")
+    .addPin('Isabelle.webp', 'Animal Crossing: New Horizons Vacation Isabelle (Seconds)', "Sold")
+
+ 
     .addPin('wooloo.webp', 'Wooloo ♡ Pokemon <br>by Birduyen', "Owned")
     .addPin('sylveon.webp', 'Sylveon ♡ Pokemon <br>by Birduyen', "Owned")
     .addPin('eevee.webp', 'Eevee ♡ Pokemon <br>by Birduyen', "Owned")
@@ -186,6 +193,8 @@ addCategory("Cute Animal Pins")
     .addPin('Fawnfetti.webp', 'Fawnfetti ☆ <br>by Blushsprout', "Owned")
     .addPin('Sloth.webp', 'Cute Sloth ☆ <br>by Blushsprout', "Owned")
     .addPin('witchfroggie.webp', 'Witch Froggie <br>(October 2020 Pin Club) <br>by Blushsprout', "Owned")
+    .addPin('BirthdayBun.webp', 'Sprinkle Birthday Bunny <br>by Sharodactylart', "Owned")
+ 
     .addPin('night.webp', 'Froggie ITA (Nighttime) Bag (Kickstarter) (Peach and Holo inserts)', "Owned")
  
     .addPin('froggie pin bag.webp', 'Froggie Pond Pal <br>by Blushsprout', "Sold")
@@ -197,15 +206,9 @@ addCategory("Cute Animal Pins")
     
 addInlineCategory()
 
-    .addPin('Sharodactylart', "https://sharodactylart.com", 'BirthdayBun.webp', 'Sprinkle Birthday Bunny', "Owned") 
-    .addPin("Quirkory", "https://quirkory.carrd.co", 'raymond.webp', 'Raymond Joy-Con (Animal Crossing)', "Owned")
-
 
 addCategory('Weishi', "https://linktr.ee/weishi_art")
-    .addPin('Weishi.webp', 'Lily`s Hanami (September 2020 Pin Club)', "Owned")
-    .addPin('WishingWell.webp', 'Bunny`s Wishing Pond (August 2020 Pin Club) <br>(Seconds)', "Owned")
-    .addPin('Isabelle.webp', 'Animal Crossing: New Horizons Vacation Isabelle (Seconds)', "Sold")
-
+    
 addCategory('Xhilyn', "https://xhilyn.carrd.co")
     .addPin('Cinamoroll.webp', 'Cinnamoroll Sprinkle Bunny', "Owned")
     .addPin('StarBun.webp', 'Star Bunny Witch', "Owned")
