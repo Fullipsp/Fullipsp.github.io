@@ -266,13 +266,16 @@ function statusToIconName(status) {
 
 function addGap() {
     const contentEl = document.querySelector(".content");
-    const contentEl = document.querySelector(".gap");
     
-    const categoryEl = document.createElement("div");
-    categoryEl.style.height = "20px";
-    categoryEl.style.width = "20px";
+    const gapEl = document.createElement("div");
+    gapEl.style.height = "6px";
+    gapEl.style.margin = "50px";
+    
+    gapEl.style.borderRadius = "6px";
+    gapEl.style.background = "var(--primary-color)";
 
-    contentEl.append(categoryEl);
+
+    contentEl.append(gapEl);
 }
 
 function addCategory(title, url) {
