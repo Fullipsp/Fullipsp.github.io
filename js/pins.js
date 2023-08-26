@@ -186,11 +186,8 @@ addCategory("Cute Animal Pins")
     .addPin('egg.webp', 'Egg Froggie Mini Pin <br>by Rainylune', "Sold")
   
 
-    
 addInlineCategory()
 
-
-addCategory('Weishi', "https://linktr.ee/weishi_art")
     
 addCategory('Xhilyn', "https://xhilyn.carrd.co")
     .addPin('Cinamoroll.webp', 'Cinnamoroll Sprinkle Bunny', "Owned")
