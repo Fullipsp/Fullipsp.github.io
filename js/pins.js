@@ -3,13 +3,13 @@ let categoryIndex = 0;
 
 addCategory("For Sale - (Contact me on any of my socials, if interested!)")
 
- .addPin('Clefairy.webp', 'Clefairy Tamagotchi', "Owned")
- .addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "Owned")
- .addPin('VioletEvergarden.webp', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "Owned")
- .addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "Owned")
- .addPin('anemo.webp', 'Anemoculus (GLOW IN DARK) <br>by Theartthatran', "Owned")
+ .addPin('Clefairy.webp', 'Clefairy Tamagotchi', "For Sale")
+ .addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "For Sale")
+ .addPin('VioletEvergarden.webp', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "For Sale")
+ .addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "For Sale")
+ .addPin('anemo.webp', 'Anemoculus (GLOW IN DARK) <br>by Theartthatran', "For Sale")
    
- .addPin('bunnywitch.jpg', 'Snow Bunny Witch <br>by Mamobot', "Owned")
+ .addPin('bunnywitch.jpg', 'Snow Bunny Witch <br>by Mamobot', "For Sale")
  .addPin('bunneh.jpg', 'Snow Bunny <br>by Mamobot', "Sold")
  .addPin('lettuce.jpg', 'Tokyo Mew Mew Lettuce <br>by Theartthatran', "Sold")
 
