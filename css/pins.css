@@ -90,7 +90,7 @@ a.category-title:hover {
 
 .pin-item .status.pre-ordered {
     background-color: var(--pin-ordered-bg-color);
-    color: var(--pin-pre-ordered-color);
+    color: var(--pin-ordered-color);
 }
 .pin-item .status.sold {
     background-color: var(--pin-sold-bg-color);
