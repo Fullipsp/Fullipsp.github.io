@@ -3,8 +3,8 @@ let categoryIndex = 0;
 
 
 addCategory("MXTX Figures")
-.addFigure('reachheart.jpg', 'Until I Reach Your Heart', "Owned")
-.addFigure('amonglotus.jpg', 'Among The Lotus', "Owned")
+.addFigure('reachheart.webp', 'Until I Reach Your Heart', "Owned")
+.addFigure('amonglotus.webp', 'Among The Lotus', "Owned")
 .addFigure('xl.jpg', 'Xie Lian', "Owned")
 .addFigure('hc.jpg', 'Hua Cheng', "Owned")
 .addFigure('wwx.webp', 'Wei Wuxian DX', "Owned")
