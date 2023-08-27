@@ -104,15 +104,14 @@ addCategory("Mystic Messenger Pins", "http://msg.cheritz.com/")
     .addPin('suitbby.webp', 'Suit Saeran Chibi <br>by Alicehwyy', "Owned")
     .addPin('unknownbby.webp', 'Unknown Chibi <br>by Alicehwyy', "Owned")
     .addPin('sebby.webp', 'SE Saeran Chibi <br>by Alicehwyy', "Owned")
-    .addPin('saeyoung.webp', 'Saeyoung (707) <br>by Theartthatran', "Owned")
     .addPin('saeran.webp', 'Saeran (Ray) <br>by Theartthatran', "Owned")
-
+    .addPin('saeyoung.webp', 'Saeyoung (707) <br>by Theartthatran', "Owned")
+    
     .addPin('napray.webp', 'Ray Chibi <br>by Napporin', "Owned")
     .addPin('napsuit.webp', 'Suit Saeran Chibi <br>by Napporin', "Owned")
     .addPin('napunknown.webp', 'Unknown Chibi <br>by Napporin', "Owned")
     .addPin('napsaeran.webp', 'Wedding Saeran Chibi <br>by Napporin', "Owned")
     .addPin('napring.webp', 'Wedding Saeran Ring <br>by Napporin', "Owned")
-
     .addPin('saeranwood.webp', 'Saeran Wooden Pin <br>by MiauMiauSweet', "Owned")
     .addPin('saeyoungwood.webp', '707 Wooden Pin <br>by MiauMiauSweet', "Owned")
 
@@ -138,7 +137,6 @@ addCategory("Genshin Impact / Anime Pins")
     .addPin('fivexiao.webp', 'Xiao <br>by Fiveonthe', "Owned")
     .addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Owned")
     .addPin('fivethoma.webp', 'Thoma <br>by Fiveonthe', "Owned")
-
 
     .addPin('lengorou.webp', 'Gorou <br>by Lenacchi', "Owned")
     .addPin('lenzhongli.webp', 'Zhongli <br>by Lenacchi', "Owned")
