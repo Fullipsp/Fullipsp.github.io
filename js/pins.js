@@ -37,7 +37,6 @@ addGap();
 addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 
 .addPin('yinyu.jpg', 'Yin Yu Window <br>by Foxipins', "Owned")
-    
 .addPin('xlwindow.jpg', 'Xie Lian Window <br>by Peonypinsco', "Owned")
 .addPin('hcwindow.jpg', 'Hua Cheng Window <br>by Peonypinsco', "Owned")
 .addPin('charityxl.webp', 'Xie Lian Charity Pin <br>by Peonypinsco', "Owned")
@@ -50,9 +49,9 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 .addPin('flowerhands.jpg', 'Flower Hualian Hands <br>by Sinycath', "Owned")   
 .addPin('flowerhc.jpg', 'Flower Hua Cheng <br>by Sinycath', "Owned")
 .addPin('bachhualian2.jpg', 'Lilypad Hualian <br>by Bachoochi', "Owned")
-
 .addPin('lilypadxl.webp', 'Lilypad Xie Lian <br>by Peonypinsco', "Owned")
 .addPin('lilypadhc.webp', 'Lilypad Hua Cheng <br>by Peonypinsco', "Owned")
+    
 .addPin('summerxl.webp', 'Summer Xie Lian <br>by Peonypinsco', "Owned")
 .addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "Owned")
 .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Owned")
@@ -67,7 +66,6 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 .addPin('wigglyxl.webp', 'Wiggly Ferret XL', "Owned")
 .addPin('magicalhualian.webp', 'Hualian Being Cute', "Owned")
 .addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Owned")
-
 
 //Beefleaf
      .addPin('bigsqx.webp', 'Shi Qingxuan <br>by Siilvxr', "Owned")
