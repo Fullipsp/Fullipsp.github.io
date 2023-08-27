@@ -32,3 +32,30 @@ document.querySelectorAll("a").forEach(aEl => {
         aEl.classList.add("active");
     }
 })
+
+
+const favicons = ["favicon1.ico", "favicon2.ico", "favicon3.ico", "favicon4.ico"];
+let index = Math.floor(Math.random() * favicons.length);
+
+function randomizeFavicon() {
+    const favicon = favicons[index];
+    console.log(favicon)
+    var link = document.querySelector("link[rel~='icon']");
+    if (!link) {
+        link = document.createElement('link');
+        link.rel = 'icon';
+        document.head.appendChild(link);
+    }
+    link.href = '/images/favicons/' + favicon;
+
+    if (index >= favicons.length - 1) {
+        index = 0;
+        return;
+    }
+    index++;
+}
+
+randomizeFavicon();
+setInterval(() => {
+    randomizeFavicon();
+}, 2000);
