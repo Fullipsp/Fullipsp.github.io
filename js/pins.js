@@ -104,7 +104,7 @@ addCategory("Mystic Messenger Pins", "http://msg.cheritz.com/")
     .addPin('suitbby.webp', 'Suit Saeran Chibi <br>by Alicehwyy', "Owned")
     .addPin('unknownbby.webp', 'Unknown Chibi <br>by Alicehwyy', "Owned")
     .addPin('sebby.webp', 'SE Saeran Chibi <br>by Alicehwyy', "Owned")
-    .addPin('saeran.webp', 'Saeran (Ray) <br>by Theartthatran', "Owned")
+    .addPin('saeran.webp', 'Saeran (Unknown) <br>by Theartthatran', "Owned")
     .addPin('saeyoung.webp', 'Saeyoung (707) <br>by Theartthatran', "Owned")
     
     .addPin('napray.webp', 'Ray Chibi <br>by Napporin', "Owned")
