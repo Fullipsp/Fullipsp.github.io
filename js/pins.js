@@ -98,7 +98,7 @@ addCategory("Fantasy Couples")
 
 // =========================================================================================================================================================================================================================
 
-addCategory("Mystic Messenger Pins", "http://msg.cheritz.com/")
+addCategory("MYSME Pins", "http://msg.cheritz.com/")
     .addPin('gebby.webp', 'GE Saeran Chibi <br>by Alicehwyy', "Owned")
     .addPin('raybby.webp', 'Ray Chibi <br>by Alicehwyy', "Owned")
     .addPin('suitbby.webp', 'Suit Saeran Chibi <br>by Alicehwyy', "Owned")
