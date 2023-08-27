@@ -113,6 +113,9 @@ addCategory("Mystic Messenger Pins", "http://msg.cheritz.com/")
     .addPin('napsaeran.webp', 'Wedding Saeran Chibi <br>by Napporin', "Owned")
     .addPin('napring.webp', 'Wedding Saeran Ring <br>by Napporin', "Owned")
 
+    .addPin('saeranwood.webp', 'Saeran Wooden Pin <br>by MiauMiauSweet', "Owned")
+    .addPin('saeyoungwood.webp', '707 Wooden Pin <br>by MiauMiauSweet', "Owned")
+
 // =========================================================================================================================================================================================================================
 
 addCategory("Genshin Impact / Anime Pins")
