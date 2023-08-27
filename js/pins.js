@@ -198,10 +198,14 @@ addCategory('Xhilyn', "https://xhilyn.carrd.co")
 
 addCategory('Mamobot Fashion Nostalgia Pins', "https://linktr.ee/mamobot")
     .addPin('helioschibiusa.webp', 'Chibiusa and Helios', "Owned")
+    .addPin('SSailor.webp', 'Super Sailor Moon', "Sold")
+    .addPin('SSerenity.webp', 'Serenity Sailor Moon', "Sold")
+    .addPin('SCosmos.webp', 'Cosmos Sailor Moon', "Sold")
+    .addPin('boosette.webp', 'Boosette - 1st Twitch Community Pin', "Sold")
+    .addPin('Zelda.jpg', 'Smash Zelda Nintendoll', "Sold")
     .addPin('Ahri.webp', 'K/DA Ahri', "Sold")
     .addPin('WeddingPeach.webp', 'Wedding Princess Peach', "Sold")
-    .addPin('Zelda.jpg', 'Smash Zelda Nintendoll', "Sold")
-  
+    
     .addPin('humanluna.webp', 'Human Luna', "Sold")
     .addPin('smfamily.webp', 'Luna, Artemis and Diana kitties', "Sold")
     .addPin('Rosalina.webp', 'Rosalina Nintendoll', "Sold")
@@ -213,10 +217,6 @@ addCategory('Mamobot Fashion Nostalgia Pins', "https://linktr.ee/mamobot")
     .addPin('Nethelenia.webp', 'Nethelenia Mirror', "Sold")
    
     .addPin('MermaidMoon.webp', 'Sailor Moon Chibi Mermaid', "Sold")
-    .addPin('SSailor.webp', 'Super Sailor Moon', "Sold")
-    .addPin('SSerenity.webp', 'Serenity Sailor Moon', "Sold")
-    .addPin('SCosmos.webp', 'Cosmos Sailor Moon', "Sold")
-
     .addPin('bunneh.jpg', 'Snow Witch Bunny', "Sold")
     .addPin('lettuce.jpg', 'Lettuce by Theartthatran', "Sold")
 
