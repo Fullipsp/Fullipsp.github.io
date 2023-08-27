@@ -46,7 +46,6 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 .addPin('hctea.jpg', 'Teacup Hua Cheng <br>by Peonypinsco', "Owned")
 
 .addPin('poppins.jpg', 'Fafa Poppins <br>by Pap00sh', "Owned") 
-.addPin('papoosh2.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")   
 .addPin('flowerxl.jpg', 'Flower Xie Lian <br>by Sinycath', "Owned")
 .addPin('flowerhands.jpg', 'Flower Hualian Hands <br>by Sinycath', "Owned")   
 .addPin('flowerhc.jpg', 'Flower Hua Cheng <br>by Sinycath', "Owned")
@@ -58,8 +57,9 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 .addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "Owned")
 .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Owned")
 .addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Owned") 
-    
 .addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Owned")
+.addPin('papoosh2.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")   
+    
 .addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Owned")
 .addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Owned")
 .addPin('wigglyhc.webp', 'Wiggly Fox HC', "Owned")
