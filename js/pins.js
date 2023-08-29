@@ -30,6 +30,13 @@ addCategory("Waiting for / Ordered Pins")
 .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br> by Paper*****ns', "Ordered")
 .addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
 
+.addPin('peiming.jpg', 'Pei Ming Window <br>by Foxipins', "Ordered")
+.addPin('lingwen.jpg', 'Ling Wen Window <br>by Foxipins', "Ordered")
+.addPin('shiwudu.jpg', 'Shi Wudu Window <br>by Foxipins', "Ordered")
+.addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Waiting")
+.addPin('xichen.jpg', 'Lan Xichen Window <br>by Foxipins', "Waiting")
+.addPin('lwjpanel.jpg', 'Lan Wangji Window <br>by Foxipins', "Waiting")
+
 addGap();
 
 // =====================================================================================================================================================================================================================================================
