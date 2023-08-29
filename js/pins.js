@@ -33,9 +33,9 @@ addCategory("Waiting for / Ordered Pins")
 .addPin('peiming.jpg', 'Pei Ming Window <br>by Foxipins', "Ordered")
 .addPin('lingwen.jpg', 'Ling Wen Window <br>by Foxipins', "Ordered")
 .addPin('shiwudu.jpg', 'Shi Wudu Window <br>by Foxipins', "Ordered")
-.addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Waiting")
-.addPin('xichen.jpg', 'Lan Xichen Window <br>by Foxipins', "Waiting")
 .addPin('lwjpanel.jpg', 'Lan Wangji Window <br>by Foxipins', "Waiting")
+.addPin('xichen.jpg', 'Lan Xichen Window <br>by Foxipins', "Waiting")
+.addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Waiting")
 
 addGap();
 
