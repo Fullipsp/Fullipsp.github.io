@@ -37,7 +37,7 @@ addCategory("Waiting for / Ordered Pins")
 .addPin('lingwen.jpg', 'Ling Wen Window <br>by Foxipins', "Ordered")
 .addPin('shiwudu.jpg', 'Shi Wudu Window <br>by Foxipins', "Ordered")
 
-.addPin('lovelikeyou.jpg', 'Love Like You <br>by Peonypinsco', "Waiting")
+.addPin('lovelikeyou.webp', 'Love Like You <br>by Peonypinsco', "Waiting")
 .addPin('lwjpanel.jpg', 'Lan Wangji Window <br>by Foxipins', "Waiting")
 .addPin('xichen.jpg', 'Lan Xichen Window <br>by Foxipins', "Waiting")
 .addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Waiting")
