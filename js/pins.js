@@ -22,6 +22,14 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 // ==================================================================================================================================================================================================================================================
 
 addCategory("Waiting for / Ordered Pins")
+.addPin('peiming.jpg', 'Pei Ming Window <br>by Foxipins', "Ordered")
+.addPin('lingwen.jpg', 'Ling Wen Window <br>by Foxipins', "Ordered")
+.addPin('shiwudu.jpg', 'Shi Wudu Window <br>by Foxipins', "Ordered")
+.addPin('lwjpanel.jpg', 'Lan Wangji Window <br>by Foxipins', "Waiting")
+.addPin('xichen.jpg', 'Lan Xichen Window <br>by Foxipins', "Waiting")
+.addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Waiting")
+.addPin('lovelikeyou.webp', 'Love Like You <br>by Peonypinsco', "Waiting")
+    
 .addPin('sanlang.jpg', 'Thousand Lights <br>by Califlair', "Ordered")
 .addPin('wedding.jpg', 'His Heavenly Bride <br>by Califlair', "Ordered")
 .addPin('believer.jpg', 'God & King <br>by Califlair', "Ordered")
@@ -33,14 +41,7 @@ addCategory("Waiting for / Ordered Pins")
 .addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
 .addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br> by Paper*****ns', "Ordered")
 .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br> by Paper*****ns', "Ordered")
-.addPin('peiming.jpg', 'Pei Ming Window <br>by Foxipins', "Ordered")
-.addPin('lingwen.jpg', 'Ling Wen Window <br>by Foxipins', "Ordered")
-.addPin('shiwudu.jpg', 'Shi Wudu Window <br>by Foxipins', "Ordered")
 
-.addPin('lovelikeyou.webp', 'Love Like You <br>by Peonypinsco', "Waiting")
-.addPin('lwjpanel.jpg', 'Lan Wangji Window <br>by Foxipins', "Waiting")
-.addPin('xichen.jpg', 'Lan Xichen Window <br>by Foxipins', "Waiting")
-.addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Waiting")
 
 
 addGap();
