@@ -42,6 +42,12 @@ addCategory("Waiting for / Ordered Pins")
 .addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br> by Paper*****ns', "Ordered")
 .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br> by Paper*****ns', "Ordered")
 
+.addPin('hades.webp', 'Thanzag Chibi <br>by Leaphere', "Ordered")
+.addPin('lolly.webp', 'Dreaming Lolly <br>by haiyun', "Ordered")
+.addPin('raymondsleep.webp', 'Dreaming Raymond <br>by haiyun', "Ordered")
+.addPin('marshal.webp', 'Dreaming Marshal <br>by haiyun', "Ordered")
+.addPin('sherb.webp', 'Dreaming Sherb <br>by haiyun', "Ordered")
+.addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Ordered")
 
 
 addGap();
