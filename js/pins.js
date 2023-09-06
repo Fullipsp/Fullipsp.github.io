@@ -38,6 +38,8 @@ addCategory("Waiting for / Ordered Pins")
 .addPin('catchme.webp', 'Catch Me ~ <br>by kwaaru', "Waiting")
 .addPin('babies.webp', 'Cute but Deadly <br>by kwaaru', "Waiting")
 
+.addPin('wuming.webp', 'Thank you, Wuming <br>by kwaaru', "Waiting")
+
 .addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Ordered")
 .addPin('hualianterrarium.png', 'Hualian Terrarium <br>by Peonypinsco', "Ordered")
 .addPin('wangxianterrarium.png', 'Wangxian Terrarium <br>by Peonypinsco', "Ordered")
