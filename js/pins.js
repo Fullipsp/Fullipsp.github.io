@@ -31,9 +31,9 @@ addCategory("Waiting for / Ordered Pins")
 .addPin('gachagorou.jpg', 'Chibi Gorou <br>by hideawaymelon', "Ordered")
 .addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
 
-.addPin('peiming.jpg', 'Pei Ming Window <br>by Foxipins', "Ordered")
-.addPin('lingwen.jpg', 'Ling Wen Window <br>by Foxipins', "Ordered")
-.addPin('shiwudu.jpg', 'Shi Wudu Window <br>by Foxipins', "Ordered")
+.addPin('peiming.jpg', 'Pei Ming Window LE65 <br>by Foxipins', "Ordered")
+.addPin('lingwen.jpg', 'Ling Wen Window LE65 <br>by Foxipins', "Ordered")
+.addPin('shiwudu.jpg', 'Shi Wudu Window LE65 <br>by Foxipins', "Ordered")
 .addPin('lwjpanel.jpg', 'Lan Wangji Window <br>by Foxipins', "Waiting")
 .addPin('xichen.jpg', 'Lan Xichen Window <br>by Foxipins', "Waiting")
 .addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Waiting")
@@ -65,7 +65,7 @@ addGap();
 
 addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 
-.addPin('yinyu.jpg', 'Yin Yu Window <br>by Foxipins', "Owned")
+.addPin('yinyu.jpg', 'Yin Yu Window LE65 <br>by Foxipins', "Owned")
 .addPin('xlwindow.jpg', 'Xie Lian Window <br>by Peonypinsco', "Owned")
 .addPin('hcwindow.jpg', 'Hua Cheng Window <br>by Peonypinsco', "Owned")
 .addPin('charityxl.webp', 'Xie Lian Charity Pin <br>by Peonypinsco', "Owned")
