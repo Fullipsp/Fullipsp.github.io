@@ -25,7 +25,7 @@ addCategory("Waiting for / Ordered Pins")
 
 .addPin('inzelda.webp', 'BOTW Zelda <br>LE50 by Ins***Pins', "Ordered")
 .addPin('inlink.webp', 'BOTW Link <br>LE50 by Ins***Pins.', "Ordered")
-.addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br> by Paper*****ns', "Ordered")
+.addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Ordered")
 .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Ordered")
 .addPin('hades.webp', 'Thanzag Chibi <br>by Leaphere', "Ordered")
 .addPin('gachagorou.jpg', 'Chibi Gorou <br>by hideawaymelon', "Ordered")
