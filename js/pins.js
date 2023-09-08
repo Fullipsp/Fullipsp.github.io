@@ -23,8 +23,8 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 
 addCategory("Waiting for / Ordered Pins")
 
-.addPin('inlink.webp', 'BOTW Link LE50 <br>by InsomniaP.', "Ordered")
 .addPin('inzelda.webp', 'BOTW Zelda LE50 <br>by InsomniaP.', "Ordered")
+.addPin('inlink.webp', 'BOTW Link LE50 <br>by InsomniaP.', "Ordered")
 .addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br> by Paper*****ns', "Ordered")
 .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br> by Paper*****ns', "Ordered")
 .addPin('hades.webp', 'Thanzag Chibi <br>by Leaphere', "Ordered")
@@ -51,10 +51,10 @@ addCategory("Waiting for / Ordered Pins")
 .addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Ordered")
 .addPin('hualianterrarium.png', 'Hualian Terrarium <br>by Peonypinsco', "Ordered")
 .addPin('wangxianterrarium.png', 'Wangxian Terrarium <br>by Peonypinsco', "Ordered")
-
 .addPin('lolly.webp', 'Dreaming Lolly <br>by haiyun', "Ordered")
 .addPin('raymondsleep.webp', 'Dreaming Raymond <br>by haiyun', "Ordered")
 .addPin('marshal.webp', 'Dreaming Marshal <br>by haiyun', "Ordered")
+    
 .addPin('sherb.webp', 'Dreaming Sherb <br>by haiyun', "Ordered")
 .addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Ordered")
 
