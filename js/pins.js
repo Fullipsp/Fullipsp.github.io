@@ -22,6 +22,15 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 // ==================================================================================================================================================================================================================================================
 
 addCategory("Waiting for / Ordered Pins")
+
+.addPin('inlink.webp', 'BOTW Link LE50 <br>by InsomniaP.', "Ordered")
+.addPin('inzelda.webp', 'BOTW Zelda LE50 <br>by InsomniaP.', "Ordered")
+.addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br> by Paper*****ns', "Ordered")
+.addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br> by Paper*****ns', "Ordered")
+.addPin('hades.webp', 'Thanzag Chibi <br>by Leaphere', "Ordered")
+.addPin('gachagorou.jpg', 'Chibi Gorou <br>by hideawaymelon', "Ordered")
+.addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
+
 .addPin('peiming.jpg', 'Pei Ming Window <br>by Foxipins', "Ordered")
 .addPin('lingwen.jpg', 'Ling Wen Window <br>by Foxipins', "Ordered")
 .addPin('shiwudu.jpg', 'Shi Wudu Window <br>by Foxipins', "Ordered")
@@ -39,16 +48,10 @@ addCategory("Waiting for / Ordered Pins")
 .addPin('babies.webp', 'Cute but Deadly <br>by kwaaru', "Waiting")
 
 .addPin('wuming.webp', 'Thank you, Wuming <br>by kwaaru', "Waiting")
-
 .addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Ordered")
 .addPin('hualianterrarium.png', 'Hualian Terrarium <br>by Peonypinsco', "Ordered")
 .addPin('wangxianterrarium.png', 'Wangxian Terrarium <br>by Peonypinsco', "Ordered")
-.addPin('hades.webp', 'Thanzag Chibi <br>by Leaphere', "Ordered")
-.addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br> by Paper*****ns', "Ordered")
-.addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br> by Paper*****ns', "Ordered")
-.addPin('gachagorou.jpg', 'Chibi Gorou <br>by hideawaymelon', "Ordered")
 
-.addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
 .addPin('lolly.webp', 'Dreaming Lolly <br>by haiyun', "Ordered")
 .addPin('raymondsleep.webp', 'Dreaming Raymond <br>by haiyun', "Ordered")
 .addPin('marshal.webp', 'Dreaming Marshal <br>by haiyun', "Ordered")
