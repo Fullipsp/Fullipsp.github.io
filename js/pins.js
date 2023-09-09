@@ -25,12 +25,12 @@ addCategory("Waiting for / Ordered Pins")
 
 .addPin('inzelda.webp', 'BOTW Zelda <br>LE50 by Ins***Pins', "Ordered")
 .addPin('inlink.webp', 'BOTW Link <br>LE50 by Ins***Pins.', "Ordered")
+.addPin('skyward.webp', 'Skyward Link Profile <br>by MarshMeollow.', "Ordered")
+.addPin('zonailink.webp', 'TOTK Link Profile <br>by MarshMeollow.', "Ordered")
+.addPin('zonaizelda.webp', 'TOTK Zonai Zelda Profile <br>by MarshMeollow.', "Ordered")
 .addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Ordered")
 .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Ordered")
-.addPin('hades.webp', 'Thanzag Chibi <br>by Leaphere', "Ordered")
-.addPin('gachagorou.jpg', 'Chibi Gorou <br>by hideawaymelon', "Ordered")
-.addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
-
+    
 .addPin('peiming.jpg', 'Pei Ming Window <br>LE65 by Foxipins', "Ordered")
 .addPin('lingwen.jpg', 'Ling Wen Window <br>LE65 by Foxipins', "Ordered")
 .addPin('shiwudu.jpg', 'Shi Wudu Window <br>LE65 by Foxipins', "Ordered")
@@ -57,6 +57,9 @@ addCategory("Waiting for / Ordered Pins")
     
 .addPin('sherb.webp', 'Dreaming Sherb <br>by haiyun', "Ordered")
 .addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Ordered")
+.addPin('hades.webp', 'Thanzag Chibi <br>by Leaphere', "Ordered")
+.addPin('gachagorou.jpg', 'Chibi Gorou <br>by hideawaymelon', "Ordered")
+.addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
 
 
 addGap();
