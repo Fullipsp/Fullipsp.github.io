@@ -91,9 +91,9 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
     
 .addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Owned")
 .addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Owned")
-.addPin('wigglyhc.webp', 'Wiggly Fox HC', "Owned")
-.addPin('wigglyxl.webp', 'Wiggly Ferret XL', "Owned")
-.addPin('magicalhualian.webp', 'Hualian Being Cute', "Owned")
+.addPin('wigglyhc.webp', 'Wiggly Fox HC <br>by naixaie', "Owned")
+.addPin('wigglyxl.webp', 'Wiggly Ferret XL <br>by naixaie', "Owned")
+.addPin('magicalhualian.webp', 'Hualian Cuddles <br>by xevnne', "Owned")
 .addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Owned")
 
 //Beefleaf
