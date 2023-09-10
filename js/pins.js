@@ -37,28 +37,26 @@ addCategory("Waiting for / Ordered Pins")
 .addPin('lwjpanel.jpg', 'Lan Wangji Window <br>by Foxipins', "Waiting")
 .addPin('xichen.jpg', 'Lan Xichen Window <br>by Foxipins', "Waiting")
 .addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Waiting")
+.addPin('hualianwindow.webp', 'Hualian Window <br>by SerenaDanmeiPins', "Ordered")
+    
 .addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Ordered")
-
 .addPin('lovelikeyou.webp', 'Love Like You <br>by Peonypinsco', "Waiting")
 .addPin('wangxiankiss.webp', 'Wangxian Kiss <br>by SerenaDanmeiPins', "Ordered")
-    
 .addPin('sanlang.jpg', 'Thousand Lights <br>by Califlair', "Ordered")
 .addPin('wedding.jpg', 'His Heavenly Bride <br>by Califlair', "Ordered")
 .addPin('believer.jpg', 'God & King <br>by Califlair', "Ordered")
 .addPin('dianxia.webp', 'Dancing Flowers <br>by kwaaru', "Waiting")
+    
 .addPin('catchyou.webp', 'Catch You ~ <br>by kwaaru', "Waiting")
 .addPin('catchme.webp', 'Catch Me ~ <br>by kwaaru', "Waiting")
 .addPin('babies.webp', 'Cute but Deadly <br>by kwaaru', "Waiting")
-
 .addPin('wuming.webp', 'Thank you, Wuming <br>by kwaaru', "Waiting")
-
-.addPin('hualianwindow.webp', 'Hualian Window <br>by SerenaDanmeiPins', "Ordered")
 .addPin('hualianterrarium.png', 'Hualian Terrarium <br>by Peonypinsco', "Ordered")
 .addPin('wangxianterrarium.png', 'Wangxian Terrarium <br>by Peonypinsco', "Ordered")
 .addPin('lolly.webp', 'Dreaming Lolly <br>by haiyun', "Ordered")
+    
 .addPin('raymondsleep.webp', 'Dreaming Raymond <br>by haiyun', "Ordered")
 .addPin('marshal.webp', 'Dreaming Marshal <br>by haiyun', "Ordered")
-    
 .addPin('sherb.webp', 'Dreaming Sherb <br>by haiyun', "Ordered")
 .addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Ordered")
 .addPin('hades.webp', 'Thanzag Chibi <br>by Leaphere', "Ordered")
