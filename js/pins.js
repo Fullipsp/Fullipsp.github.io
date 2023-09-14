@@ -38,6 +38,7 @@ addCategory("Waiting for / Ordered Pins")
 .addPin('xichen.jpg', 'Lan Xichen Window <br>by Foxipins', "Waiting")
 .addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Waiting")
 .addPin('hualianwindow.webp', 'Hualian Window <br>by SerenaDanmeiPins', "Ordered")
+.addPin('insomniahualian.webp', 'Hualian <br>LE? by Ins***Pins.', "Ordered")
     
 .addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Ordered")
 .addPin('lovelikeyou.webp', 'Love Like You <br>by Peonypinsco', "Waiting")
