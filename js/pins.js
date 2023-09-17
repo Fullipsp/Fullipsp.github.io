@@ -49,10 +49,7 @@ addCategory("Ordered (u Babci)")
 
   addGap();
 // =====================================================================================================================================================================================================================
-addCategory("Ordered (do mnie)")
-    
-.addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Ordered")
-.addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Ordered")
+addCategory("Ordered (do mine)")
     
 .addPin('peiming.jpg', 'Pei Ming Window <br>LE65 by Foxipins', "Ordered")
 .addPin('lingwen.jpg', 'Ling Wen Window <br>LE65 by Foxipins', "Ordered")
@@ -61,18 +58,20 @@ addCategory("Ordered (do mnie)")
 .addPin('xichen.jpg', 'Lan Xichen Window <br>by Foxipins', "Waiting")
 .addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Waiting")
 .addPin('hualianwindow.webp', 'Hualian Window <br>by SerenaDanmeiPins', "Ordered")
-.addPin('insomniahualian.webp', 'Hualian Panel <br>LE? by Ins***Pins.', "Ordered")
     
-.addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Ordered")
-.addPin('lovelikeyou.webp', 'Love Like You <br>by Peonypinsco', "Waiting")
-.addPin('wangxiankiss.webp', 'Wangxian Kiss <br>by SerenaDanmeiPins', "Ordered")
+.addPin('insomniahualian.webp', 'Hualian Panel <br>LE? by Ins***Pins.', "Ordered")
 .addPin('sanlang.jpg', 'Thousand Lights <br>by Califlair', "Ordered")
 .addPin('wedding.jpg', 'His Heavenly Bride <br>by Califlair', "Ordered")
 .addPin('believer.jpg', 'God & King <br>by Califlair', "Ordered")
-
-.addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
+.addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Ordered")
 .addPin('hualianterrarium.png', 'Hualian Terrarium <br>by Peonypinsco', "Ordered")
 .addPin('wangxianterrarium.png', 'Wangxian Terrarium <br>by Peonypinsco', "Ordered")
+
+.addPin('lovelikeyou.webp', 'Love Like You <br>by Peonypinsco', "Waiting")
+.addPin('wangxiankiss.webp', 'Wangxian Kiss <br>by SerenaDanmeiPins', "Ordered")
+.addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Ordered")
+.addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Ordered")
+.addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
 
 addGap();
 
