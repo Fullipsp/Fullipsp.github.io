@@ -39,7 +39,7 @@ addCategory("Ordered (u Babci)")
 .addPin('meg.webp', 'Meg (Hades) <br>by BlueAndRedWares', "Ordered")
 .addPin('hk.webp', 'Hollow Knight & Radience <br>by BlueAndRedWares', "Ordered")
     
-.addPin('snorlax.webp', 'Snorlax "Be Happy!" <br>by BlueAndRedWares', "Ordered")
+.addPin('snorlax.webp', 'Snorlax - Be Happy! <br>by BlueAndRedWares', "Ordered")
 .addPin('lolly.webp', 'Dreaming Lolly <br>by haiyun', "Ordered")
 .addPin('raymondsleep.webp', 'Dreaming Raymond <br>by haiyun', "Ordered")
 .addPin('marshal.webp', 'Dreaming Marshal <br>by haiyun', "Ordered")
