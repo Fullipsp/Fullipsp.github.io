@@ -49,7 +49,7 @@ addCategory("Ordered (u Babci)")
 
   addGap();
 // =====================================================================================================================================================================================================================
-addCategory("Ordered (do mine)")
+addCategory("Ordered (do Mnie)")
     
 .addPin('peiming.jpg', 'Pei Ming Window <br>LE65 by Foxipins', "Ordered")
 .addPin('lingwen.jpg', 'Ling Wen Window <br>LE65 by Foxipins', "Ordered")
