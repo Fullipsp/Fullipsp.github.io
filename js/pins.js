@@ -43,8 +43,7 @@ addCategory("Ordered (u Babci)")
 .addPin('sherb.webp', 'Dreaming Sherb <br>by haiyun', "Ordered")
 .addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Ordered")
 .addPin('gachagorou.jpg', 'Chibi Gorou <br>by hideawaymelon', "Ordered")
-
-addGap();    
+  
 // =====================================================================================================================================================================================================================
 .addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Ordered")
 .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Ordered")
