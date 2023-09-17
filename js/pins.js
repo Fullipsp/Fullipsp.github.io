@@ -28,17 +28,20 @@ addCategory("Ordered (u Babci)")
 .addPin('skyward.webp', 'Skyward Link Profile <br>by MarshMeollow.', "Ordered")
 .addPin('zonailink.webp', 'TOTK Link Profile <br>by MarshMeollow.', "Ordered")
 .addPin('zonaizelda.webp', 'TOTK Zonai Zelda Profile <br>by MarshMeollow.', "Ordered")
-.addPin('wuming.webp', 'Thank you, Wuming <br>by kwaaru', "Waiting")
-.addPin('dianxia.webp', 'Dancing Flowers <br>by kwaaru', "Waiting")
+.addPin('wuming.webp', 'Thank you, Wuming <br>by kwaaru', "Ordered")
+.addPin('dianxia.webp', 'Dancing Flowers <br>by kwaaru', "Ordered")
     
-.addPin('catchyou.webp', 'Catch You ~ <br>by kwaaru', "Waiting")
-.addPin('catchme.webp', 'Catch Me ~ <br>by kwaaru', "Waiting")
-.addPin('babies.webp', 'Cute but Deadly <br>by kwaaru', "Waiting")
-.addPin('hualianterrarium.png', 'Hualian Terrarium <br>by Peonypinsco', "Ordered")
-.addPin('wangxianterrarium.png', 'Wangxian Terrarium <br>by Peonypinsco', "Ordered")
+.addPin('catchyou.webp', 'Catch You ~ <br>by kwaaru', "Ordered")
+.addPin('catchme.webp', 'Catch Me ~ <br>by kwaaru', "Ordered")
+.addPin('babies.webp', 'Cute but Deadly <br>by kwaaru', "Ordered")
+.addPin('thanatos.webp', 'Thanatos (Hades) <br>by BlueAndRedWares', "Ordered")
+.addPin('hypnos.webp', 'Hypnos (Hades) <br>by BlueAndRedWares', "Ordered")
+.addPin('meg.webp', 'Meg (Hades) <br>by BlueAndRedWares', "Ordered")
+.addPin('hk.webp', 'Hollow Knight & Radience <br>by BlueAndRedWares', "Ordered")
+    
+.addPin('snorlax.webp', 'Snorlax "Be Happy!" <br>by BlueAndRedWares', "Ordered")
 .addPin('lolly.webp', 'Dreaming Lolly <br>by haiyun', "Ordered")
 .addPin('raymondsleep.webp', 'Dreaming Raymond <br>by haiyun', "Ordered")
-    
 .addPin('marshal.webp', 'Dreaming Marshal <br>by haiyun', "Ordered")
 .addPin('sherb.webp', 'Dreaming Sherb <br>by haiyun', "Ordered")
 .addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Ordered")
@@ -68,7 +71,8 @@ addCategory("Ordered (do mnie)")
 .addPin('believer.jpg', 'God & King <br>by Califlair', "Ordered")
 
 .addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
-
+.addPin('hualianterrarium.png', 'Hualian Terrarium <br>by Peonypinsco', "Ordered")
+.addPin('wangxianterrarium.png', 'Wangxian Terrarium <br>by Peonypinsco', "Ordered")
 
 addGap();
 
