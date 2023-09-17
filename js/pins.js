@@ -21,13 +21,31 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 
 // ==================================================================================================================================================================================================================================================
 
-addCategory("Waiting for / Ordered Pins")
+addCategory("Ordered (u Babci)")
 
 .addPin('inzelda.webp', 'BOTW Zelda <br>LE50 by Ins***Pins', "Ordered")
 .addPin('inlink.webp', 'BOTW Link <br>LE50 by Ins***Pins.', "Ordered")
 .addPin('skyward.webp', 'Skyward Link Profile <br>by MarshMeollow.', "Ordered")
 .addPin('zonailink.webp', 'TOTK Link Profile <br>by MarshMeollow.', "Ordered")
 .addPin('zonaizelda.webp', 'TOTK Zonai Zelda Profile <br>by MarshMeollow.', "Ordered")
+.addPin('wuming.webp', 'Thank you, Wuming <br>by kwaaru', "Waiting")
+.addPin('dianxia.webp', 'Dancing Flowers <br>by kwaaru', "Waiting")
+    
+.addPin('catchyou.webp', 'Catch You ~ <br>by kwaaru', "Waiting")
+.addPin('catchme.webp', 'Catch Me ~ <br>by kwaaru', "Waiting")
+.addPin('babies.webp', 'Cute but Deadly <br>by kwaaru', "Waiting")
+.addPin('hualianterrarium.png', 'Hualian Terrarium <br>by Peonypinsco', "Ordered")
+.addPin('wangxianterrarium.png', 'Wangxian Terrarium <br>by Peonypinsco', "Ordered")
+.addPin('lolly.webp', 'Dreaming Lolly <br>by haiyun', "Ordered")
+.addPin('raymondsleep.webp', 'Dreaming Raymond <br>by haiyun', "Ordered")
+    
+.addPin('marshal.webp', 'Dreaming Marshal <br>by haiyun', "Ordered")
+.addPin('sherb.webp', 'Dreaming Sherb <br>by haiyun', "Ordered")
+.addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Ordered")
+.addPin('gachagorou.jpg', 'Chibi Gorou <br>by hideawaymelon', "Ordered")
+
+addGap();    
+// =====================================================================================================================================================================================================================
 .addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Ordered")
 .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Ordered")
     
@@ -46,22 +64,7 @@ addCategory("Waiting for / Ordered Pins")
 .addPin('sanlang.jpg', 'Thousand Lights <br>by Califlair', "Ordered")
 .addPin('wedding.jpg', 'His Heavenly Bride <br>by Califlair', "Ordered")
 .addPin('believer.jpg', 'God & King <br>by Califlair', "Ordered")
-.addPin('dianxia.webp', 'Dancing Flowers <br>by kwaaru', "Waiting")
-    
-.addPin('catchyou.webp', 'Catch You ~ <br>by kwaaru', "Waiting")
-.addPin('catchme.webp', 'Catch Me ~ <br>by kwaaru', "Waiting")
-.addPin('babies.webp', 'Cute but Deadly <br>by kwaaru', "Waiting")
-.addPin('wuming.webp', 'Thank you, Wuming <br>by kwaaru', "Waiting")
-.addPin('hualianterrarium.png', 'Hualian Terrarium <br>by Peonypinsco', "Ordered")
-.addPin('wangxianterrarium.png', 'Wangxian Terrarium <br>by Peonypinsco', "Ordered")
-.addPin('lolly.webp', 'Dreaming Lolly <br>by haiyun', "Ordered")
-    
-.addPin('raymondsleep.webp', 'Dreaming Raymond <br>by haiyun', "Ordered")
-.addPin('marshal.webp', 'Dreaming Marshal <br>by haiyun', "Ordered")
-.addPin('sherb.webp', 'Dreaming Sherb <br>by haiyun', "Ordered")
-.addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Ordered")
-.addPin('hades.webp', 'Thanzag Chibi <br>by Leaphere', "Ordered")
-.addPin('gachagorou.jpg', 'Chibi Gorou <br>by hideawaymelon', "Ordered")
+
 .addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
 
 
@@ -164,6 +167,10 @@ addCategory("Genshin Impact / Anime Pins")
    .addPin('BottleKirby.webp', 'Poyo in a Bottle', "Owned")
    .addPin('SakuraKirby.webp', 'Sakura Kirby', "Sold")
  
+// Hades
+.addPin('hades.webp', 'Thanzag Chibi <br>by Leaphere', "Owned")
+    
+
 // Genshin Impact
     .addPin('ChildeTraditional.webp', 'Childe <br>by BirbsNest', "Owned")
     .addPin('XiaoTraditional.webp', 'Xiao <br>by BirbsNest', "Owned")
