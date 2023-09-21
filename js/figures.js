@@ -13,11 +13,14 @@ addCategory("MXTX Figures")
 
 
 addCategory("Shoujo / Game Nendoroids")
+.addFigure('hollowknight.webp', 'Hollow Knight', "Ordered")
+.addFigure('marius.webp', 'Marius von Hagen', "Ordered")
 .addFigure('aether.webp', 'Aether', "Owned")
 .addFigure('lumine.webp', 'Lumine', "Owned")
 .addFigure('ozymandias.webp', 'Ozymandias <br>Fate Grand Order', "Owned")
 .addFigure('link.webp', 'Link <br>Breath of the Wild', "Owned")
 .addFigure('sylvanas.webp', 'Sylvanas <br>World of Warcraft', "Owned")
+    
 .addFigure('zag.jpg', 'Zagreus <br>Hades', "Owned")
 .addFigure('kogitsunemaru.webp', 'Kogitsunemaru <br>Touken Ranbu', "Owned")
 .addFigure('mizuki.webp', 'Mikazuki <br>Touken Ranbu', "Owned")
@@ -25,6 +28,7 @@ addCategory("Shoujo / Game Nendoroids")
 .addFigure('shirogane.webp', 'Shirogane Miyuki', "Owned")
 .addFigure('kaguya.webp', 'Shinomiya Kaguya', "Owned")
 .addFigure('miyamura.webp', 'Miyamura Izumi <br>Horimiya', "Owned")
+    
 .addFigure('miku.webp', 'Miku Nakano <br>Quintessential Quintuplets', "Sold")
 
 
@@ -36,15 +40,17 @@ addCategory("Shounen Figures")
 .addFigure('mikasa.webp', 'Mikasa Ackerman', "Owned")
 .addFigure('levi.webp', 'Levi Ackerman', "Owned")
 .addFigure('s4eren.webp', 'Eren Yeager (Season 4)', "Owned")
+.addFigure('todoroki.webp', 'Shoto Torodoki Movie Ver. <br>My Hero Academia', "Owned")
 
+.addFigure('muichironendo.webp', 'Tokito Muichiro', "Ordered")
 .addFigure('giyu.webp', 'Tomioka Giyu', "Owned")
 .addFigure('rengoku.webp', 'Rengoku Kyojuro', "Owned")
 .addFigure('uzui.jpg', 'Uzui Tengen', "Owned")
 .addFigure('muichiro.webp', 'Chokonose Muichiro', "Owned")
 .addFigure('giyuchoko.webp', 'Chokonose Giyu T.', "Owned")
     
-.addFigure('todoroki.webp', 'Shoto Torodoki Movie Ver. <br>My Hero Academia', "Owned")
 .addFigure('02.webp', 'Zero Two <br>Darling in the Franxx', "Owned")
+    
 .addFigure('dumpling.webp', 'Gyoza Fairy <br>Dorohedoro', "Owned")
 
 
