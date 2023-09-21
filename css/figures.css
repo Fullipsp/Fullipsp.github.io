@@ -88,6 +88,11 @@ a.category-title:hover {
     color: var(--pin-shipped-color);
 }
 
+.figure-item .status.ordered {
+    background-color: var(--pin-ordered-bg-color);
+    color: var(--pin-ordered-color);
+}
+
 .figure-item .status.pre-ordered {
     background-color: var(--pin-pre-ordered-bg-color);
     color: var(--pin-pre-ordered-color);
