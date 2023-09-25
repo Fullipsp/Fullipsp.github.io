@@ -138,7 +138,7 @@ addCategory("Fantasy Couples")
    .addPin('heartmlb.jpg', 'Ladynoir <3 <br> by MariC****Cafe', "Owned")
    .addPin('Ladynoir.webp', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Owned")
   .addPin('Zelink.webp', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
-  .addPin('calilink.webp', 'Zelink <br>by Califlair', "Owned")
+  .addPin('calilink.webp', 'The Princess And Her Knight <br>by Califlair', "Owned")
   .addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
 
 // =========================================================================================================================================================================================================================
