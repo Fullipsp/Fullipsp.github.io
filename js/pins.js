@@ -118,8 +118,8 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
      .addPin('furrybfl.webp', 'Cutie Beefleaf <br>by kmoripins', "Owned")
      .addPin('sitbfl.webp', 'Funny Beefleaf <br>by qqnzhe', "Owned")
      .addPin('lunechibfl.webp', 'Oriental Beefleaf <br>by MyLunechi', "Owned")
-     .addPin('bbysqx.webp', 'Snow White Beefleaf <br>by unknown', "Owned")
-     .addPin('chibileaf.jpg', 'Chibi Beefleaf', "Sold")
+     .addPin('bbysqx.webp', 'Snow White Beefleaf <br>by idontknow:(', "Owned")
+     .addPin('chibileaf.jpg', 'Chibi Beefleaf <be>by @jeanadraws', "Sold")
    //
    //MDZS
     .addPin('bachwangxian.jpg', 'Lilypad Wangxian <br>by Bachoochi', "Owned")
