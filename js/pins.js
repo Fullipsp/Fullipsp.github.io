@@ -61,9 +61,7 @@ addCategory("Ordered (do Mnie)")
 .addPin('hualianwindow.webp', 'Hualian Window <br>by SerenaDanmeiPins', "Ordered")
     
 .addPin('insomniahualian.webp', 'Hualian Panel <br>LE? by Ins***Pins.', "Ordered")
-.addPin('sanlang.jpg', 'Thousand Lights <br>by Califlair', "Ordered")
-.addPin('wedding.jpg', 'His Heavenly Bride <br>by Califlair', "Ordered")
-.addPin('believer.jpg', 'God & King <br>by Califlair', "Ordered")
+
 .addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Ordered")
 .addPin('hualianterrarium.png', 'Hualian Terrarium <br>by Peonypinsco', "Ordered")
 .addPin('wangxianterrarium.png', 'Wangxian Terrarium <br>by Peonypinsco', "Ordered")
@@ -88,19 +86,23 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 .addPin('charityhc.webp', 'Hua Cheng Charity Pin <br>by Peonypinsco', "Owned")
 .addPin('xltea.jpg', 'Teacup Xie Lian <br>by Peonypinsco', "Owned")
 .addPin('hctea.jpg', 'Teacup Hua Cheng <br>by Peonypinsco', "Owned")
-
-.addPin('poppins.jpg', 'Fafa Poppins <br>by Pap00sh', "Owned") 
+ 
+.addPin('sanlang.jpg', 'Thousand Lights <br>by Califlair', "Ordered")
+.addPin('wedding.jpg', 'His Heavenly Bride <br>by Califlair', "Ordered")
+.addPin('believer.jpg', 'God & King <br>by Califlair', "Ordered")
 .addPin('flowerxl.jpg', 'Flower Xie Lian <br>by Sinycath', "Owned")
 .addPin('flowerhands.jpg', 'Flower Hualian Hands <br>by Sinycath', "Owned")   
 .addPin('flowerhc.jpg', 'Flower Hua Cheng <br>by Sinycath', "Owned")
+.addPin('poppins.jpg', 'Fafa Poppins <br>by Pap00sh', "Owned") 
+ 
 .addPin('bachhualian2.jpg', 'Lilypad Hualian <br>by Bachoochi', "Owned")
 .addPin('lilypadxl.webp', 'Lilypad Xie Lian <br>by Peonypinsco', "Owned")
 .addPin('lilypadhc.webp', 'Lilypad Hua Cheng <br>by Peonypinsco', "Owned")
-    
 .addPin('summerxl.webp', 'Summer Xie Lian <br>by Peonypinsco', "Owned")
 .addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "Owned")
 .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Owned")
 .addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Owned") 
+ 
 .addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Owned")
 .addPin('papoosh2.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")   
 .addPin('ecstasy.webp', 'Pleasure&Ecstasy Hualian <br>by ihavetobenkyou', "Owned")
