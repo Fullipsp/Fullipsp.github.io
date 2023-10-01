@@ -1,5 +1,3 @@
-
-
 const drawingUrls = [];
 const imageLength = () => drawingUrls.length;
 const changeAfter = 10; // seconds
