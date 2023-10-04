@@ -63,13 +63,17 @@ addCategory("Ordered (do Mnie)")
 
 .addPin('hualianterrarium.png', 'Hualian Terrarium <br>by Peonypinsco', "Ordered")
 .addPin('wangxianterrarium.png', 'Wangxian Terrarium <br>by Peonypinsco', "Ordered")
+.addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
 .addPin('lovelikeyou.webp', 'Love Like You <br>by Peonypinsco', "Waiting")
 .addPin('wangxiankiss.webp', 'Wangxian Kiss <br>by SerenaDanmeiPins', "Ordered")
 
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Ordered")
 .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Ordered")
-.addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
+.addPin('lucky.webp', 'Lucky Bug <br> by crow.creations', "Ordered")
+.addPin('unlucky.webp', 'Unlucky Kitty <br> by crow.creations', "Ordered")
+.addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Ordered")
+
 
 addGap();
 
