@@ -132,14 +132,16 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 // =========================================================================================================================================================================================================================
 
 addCategory("Fantasy Couples")
-   .addPin('mlbjapanese.jpg', 'Japanese Adrinette <br> by MariC****Cafe', "Owned")
-   .addPin('ladynoirkiss.jpg', 'Ladynoir Kiss <br> by MariC****Cafe', "Owned")
-   .addPin('marichat.jpg', 'Marichat <br> by MariC****Cafe', "Owned")
-   .addPin('heartmlb.jpg', 'Ladynoir <3 <br> by MariC****Cafe', "Owned")
-   .addPin('Ladynoir.webp', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Owned")
+  .addPin('mlbjapanese.jpg', 'Japanese Adrinette <br> by MariC****Cafe', "Owned")
+  .addPin('ladynoirkiss.jpg', 'Ladynoir Kiss <br> by MariC****Cafe', "Owned")
+  .addPin('marichat.jpg', 'Marichat <br> by MariC****Cafe', "Owned")
+  .addPin('heartmlb.jpg', 'Ladynoir <3 <br> by MariC****Cafe', "Owned")
+  .addPin('Ladynoir.webp', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Owned")
   .addPin('Zelink.webp', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
   .addPin('calilink.webp', 'The Princess And Her Knight <br>by Califlair', "Owned")
   .addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
+  .addPin('donotseperate.webp', 'Do Not Seperate Them <br> by WoupsShop', "Owned")
+  .addPin('beloved.webp', 'My Beloved <br> by WoupsShop', "Owned")
 
 // =========================================================================================================================================================================================================================
 
