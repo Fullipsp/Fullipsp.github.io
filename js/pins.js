@@ -60,7 +60,7 @@ addCategory("Ordered (do Mnie)")
 .addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Waiting")
 .addPin('hualianwindow.webp', 'Hualian Window <br>by SerenaDanmeiPins', "Ordered")
  .addPin('insomniahualian.webp', 'Hualian Panel <br>LE? by Ins***Pins.', "Ordered")
-.addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Ordered")
+
 .addPin('hualianterrarium.png', 'Hualian Terrarium <br>by Peonypinsco', "Ordered")
 .addPin('wangxianterrarium.png', 'Wangxian Terrarium <br>by Peonypinsco', "Ordered")
 .addPin('lovelikeyou.webp', 'Love Like You <br>by Peonypinsco', "Waiting")
@@ -101,15 +101,16 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Owned")
 .addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Owned") 
  
-.addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Owned")
-.addPin('papoosh2.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")   
 .addPin('ecstasy.webp', 'Pleasure&Ecstasy Hualian <br>by ihavetobenkyou', "Owned")
-    
 .addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Owned")
 .addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Owned")
+.addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Owned")
+.addPin('papoosh2.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")   
+.addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Ordered")
+.addPin('magicalhualian.webp', 'Hualian Cuddles <br>by xevnne', "Owned")
+
 .addPin('wigglyhc.webp', 'Wiggly Fox HC <br>by naixaie', "Owned")
 .addPin('wigglyxl.webp', 'Wiggly Ferret XL <br>by naixaie', "Owned")
-.addPin('magicalhualian.webp', 'Hualian Cuddles <br>by xevnne', "Owned")
 .addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Owned")
 
 //Beefleaf
