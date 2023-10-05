@@ -64,7 +64,7 @@ addCategory("Ordered (do Mnie)")
 .addPin('wangxianterrarium.png', 'Wangxian Terrarium <br>by Peonypinsco', "Ordered")
 .addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
 .addPin('insomniahualian.webp', 'Autumn Hualian Panel <br>LE? by Ins***Pins.', "Ordered")
-.addPin('honger.webp', 'Flower Honger Patreon Oct. 2023 <br> by Butchinelle', "Ordered")
+.addPin('honger.webp', 'Flower Honger Patreon <br> by Butchinelle', "Ordered")
 .addPin('lucky.webp', 'Lucky Bug <br> by crow.creations', "Ordered")
 .addPin('unlucky.webp', 'Unlucky Kitty <br> by crow.creations', "Ordered")
  
