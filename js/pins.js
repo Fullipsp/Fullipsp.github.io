@@ -64,13 +64,13 @@ addCategory("Ordered (do Mnie)")
 .addPin('hualianterrarium.png', 'Hualian Terrarium <br>by Peonypinsco', "Ordered")
 .addPin('wangxianterrarium.png', 'Wangxian Terrarium <br>by Peonypinsco', "Ordered")
 .addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
-.addPin('wangxiankiss.webp', 'Wangxian Kiss <br>by SerenaDanmeiPins', "Ordered")
-
-.addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
-.addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Ordered")
-.addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Ordered")
+.addPin('honger.webp', 'Flower Honger Patreon Oct. 2023 <br> by Butchinelle', "Ordered")
 .addPin('lucky.webp', 'Lucky Bug <br> by crow.creations', "Ordered")
 .addPin('unlucky.webp', 'Unlucky Kitty <br> by crow.creations', "Ordered")
+.addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Ordered")
+.addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Ordered")
+.addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
+.addPin('wangxiankiss.webp', 'Wangxian Kiss <br>by SerenaDanmeiPins', "Ordered")
 .addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Ordered")
 
 
