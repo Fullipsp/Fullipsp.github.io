@@ -71,8 +71,8 @@ addCategory("Ordered (do Mnie)")
 .addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Ordered")
 .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Ordered")
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
-.addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Ordered")
 .addPin('wangxiankiss.webp', 'Wangxian Kiss <br>by SerenaDanmeiPins', "Ordered")
+.addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Ordered")
 
 
 addGap();
