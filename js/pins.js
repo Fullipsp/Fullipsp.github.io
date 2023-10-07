@@ -58,22 +58,27 @@ addCategory("Ordered (do Mnie)")
 .addPin('lwjpanel.jpg', 'Lan Wangji Window <br>by Foxipins', "Waiting")
 .addPin('xichen.jpg', 'Lan Xichen Window <br>by Foxipins', "Waiting")
 .addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Waiting")
-.addPin('hualianwindow.webp', 'Hualian Window <br>by SerenaDanmeiPins', "Ordered")
- 
+.addPin('hualianwindow.webp', 'Hualian Window x2 <br>by SerenaDanmeiPins', "Ordered")
+
+.addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered") 
 .addPin('hualianterrarium.png', 'Hualian Terrarium <br>by Peonypinsco', "Ordered")
 .addPin('wangxianterrarium.png', 'Wangxian Terrarium <br>by Peonypinsco', "Ordered")
-.addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered")
+.addPin('peterpan.webp', 'Peter Pan Hualian <br>by simplelunacy', "Ordered") 
+.addPin('raphc.webp', 'Rapunzel Hua Cheng <br>by xevnne', "Ordered") 
+.addPin('rapxl.webp', 'Rapunzel Xie Lian <br>by xevnne', "Ordered") 
+.addPin('sanlangdiamond.webp', 'Husbando San Lang <br>by FantasyChibiPins', "Ordered") 
+
 .addPin('insomniahualian.webp', 'Autumn Hualian Panel <br>LE? by Ins***Pins.', "Ordered")
 .addPin('derpyhc.webp', 'Super Derpy Hua <br> LE15 by crystal****ppe', "Ordered")
 .addPin('derpyxl.webp', 'Super Derpy Lian <br> LE15 by crystal****ppe', "Ordered")
 .addPin('honger.webp', 'Flower Honger Patreon <br> by Butchinelle', "Ordered")
 .addPin('lucky.webp', 'Lucky Bug <br> by crow.creations', "Ordered")
 .addPin('unlucky.webp', 'Unlucky Kitty <br> by crow.creations', "Ordered")
+.addPin('wangxiankiss.webp', 'Wangxian Kiss <br>by SerenaDanmeiPins', "Ordered")
  
 .addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Ordered")
 .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Ordered")
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
-.addPin('wangxiankiss.webp', 'Wangxian Kiss <br>by SerenaDanmeiPins', "Ordered")
 .addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Ordered")
 
 
