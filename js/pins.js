@@ -17,7 +17,7 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
  .addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "For-Sale")
  .addPin('VioletEvergarden.webp', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "For-Sale")
  .addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "For-Sale")
- .addPin('anemo.webp', 'Anemoculus (GLOW IN DARK) <br>by Theartthatran', "For-Sale")
+ .addPin('anemo.webp', 'Anemoculus (GLOWS) <br>by Theartthatran', "For-Sale")
 
 // ==================================================================================================================================================================================================================================================
 
