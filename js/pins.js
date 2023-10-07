@@ -125,7 +125,7 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
      .addPin('furrybfl.webp', 'Cutie Beefleaf <br>by kmoripins', "Owned")
      .addPin('sitbfl.webp', 'Funny Beefleaf <br>by qqnzhe', "Owned")
      .addPin('lunechibfl.webp', 'Oriental Beefleaf <br>by MyLunechi', "Owned")
-     .addPin('bbysqx.webp', 'Snow White Beefleaf <br>by idontknow:(', "Owned")
+     .addPin('bbysqx.webp', 'Snow White Beefleaf <br>by cirono', "Owned")
      .addPin('chibileaf.jpg', 'Chibi Beefleaf <br>by jeanadraws', "Sold")
    //
    //MDZS
@@ -134,7 +134,7 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
     .addPin('bluhroof.webp', 'Wangxian on Roof <br>by Bluhtack', "Owned")
     .addPin('weiying.webp', 'Valentine Wei Ying <br>by Billacookie', "Owned")
     .addPin('MyBuns.webp', 'Wangxian Bunnies <br>by Lilycli', "Owned")
-    .addPin('woodenwangxian.jpg', 'Wooden Wangxian Bunniess', "Owned")
+    .addPin('woodenwangxian.jpg', 'Wooden Wangxian Bunnies <br> by @AumaEbi', "Owned")
 
 // =========================================================================================================================================================================================================================
 
