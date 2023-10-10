@@ -170,6 +170,12 @@
     opacity: 0.6;
     margin-top: 5px;
 }
+.profile .profile-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: auto;
+}
 
 .socials {
     display: flex;
