@@ -69,8 +69,7 @@ addCategory("Ordered (do Mnie)")
 .addPin('sanlangdiamond.webp', 'Husbando San Lang <br>by FantasyChibiPins', "Ordered") 
 
 .addPin('insomniahualian.webp', 'Autumn Hualian Panel <br>LE? by Ins***Pins.', "Ordered")
-.addPin('derpyhc.webp', 'Super Derpy Hua <br> LE15 by crystal****ppe', "Ordered")
-.addPin('derpyxl.webp', 'Super Derpy Lian <br> LE15 by crystal****ppe', "Ordered")
+
 .addPin('honger.webp', 'Flower Honger Patreon <br> by Butchinelle', "Ordered")
 .addPin('lucky.webp', 'Lucky Bug <br> by crow.creations', "Ordered")
 .addPin('unlucky.webp', 'Unlucky Kitty <br> by crow.creations', "Ordered")
@@ -103,6 +102,9 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 .addPin('flowerhands.jpg', 'Flower Hualian Hands <br>by Sinycath', "Owned")   
 .addPin('flowerhc.jpg', 'Flower Hua Cheng <br>by Sinycath', "Owned")
 .addPin('poppins.jpg', 'Fafa Poppins <br>by Pap00sh', "Owned") 
+
+.addPin('derpyhc.webp', 'Super Derpy Hua <br> LE15 by crystal****ppe', "Ordered")
+.addPin('derpyxl.webp', 'Super Derpy Lian <br> LE15 by crystal****ppe', "Ordered")
  
 .addPin('bachhualian2.jpg', 'Lilypad Hualian <br>by Bachoochi', "Owned")
 .addPin('lilypadxl.webp', 'Lilypad Xie Lian <br>by Peonypinsco', "Owned")
