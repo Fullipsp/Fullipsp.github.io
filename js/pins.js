@@ -103,8 +103,8 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 .addPin('flowerhc.jpg', 'Flower Hua Cheng <br>by Sinycath', "Owned")
 .addPin('poppins.jpg', 'Fafa Poppins <br>by Pap00sh', "Owned") 
 
-.addPin('derpyhc.webp', 'Super Derpy Hua <br> LE15 by crystal****ppe', "Ordered")
-.addPin('derpyxl.webp', 'Super Derpy Lian <br> LE15 by crystal****ppe', "Ordered")
+.addPin('derpyhc.webp', 'Super Derpy Hua <br> LE15 by crystal****ppe', "Owned")
+.addPin('derpyxl.webp', 'Super Derpy Lian <br> LE15 by crystal****ppe', "Owned")
  
 .addPin('bachhualian2.jpg', 'Lilypad Hualian <br>by Bachoochi', "Owned")
 .addPin('lilypadxl.webp', 'Lilypad Xie Lian <br>by Peonypinsco', "Owned")
