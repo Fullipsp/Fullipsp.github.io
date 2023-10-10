@@ -142,6 +142,13 @@
     margin-right: 50px;
 
 }
+
+.profile #avatar-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+}
 .profile .title {
     font-size: 18px;
     font-weight: bold;
@@ -156,6 +163,7 @@
     background-color: #362b2d;
     margin-bottom: 10px;
     flex-shrink: 0;
+    overflow: hidden;
 }
 .profile .tags {
     font-size: 14px;
@@ -209,9 +217,32 @@
 
 @media (max-width: 800px) {
     .content {
+        flex-direction: column;
+        align-items: center;
         margin-left: 10px;
         margin-right: 10px;
         overflow: initial;
+        height: initial;
+    }
+    .profile {
+        order: 1;
+        margin-bottom: 10px;
+    }
+    .images {
+        margin-top: 0;
+        max-width: 80%;
+    }
+    .images-right {
+        order: 1
+    }
+    .images-left {
+        order: 2
+    }
+    .image-above-slideshow {
+        order: 2;
+    }
+    .slideshow-outer {
+        order: 1;
     }
 
     .profile-inner {
@@ -221,7 +252,5 @@
         margin-right: 0;
         padding-bottom: 30px;
     }
-    .images {
-        display: none;
-    }
+
 }

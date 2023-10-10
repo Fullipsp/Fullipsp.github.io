@@ -39,7 +39,6 @@ let index = Math.floor(Math.random() * favicons.length);
 
 function randomizeFavicon() {
     const favicon = favicons[index];
-    console.log(favicon)
     var link = document.querySelector("link[rel~='icon']");
     if (!link) {
         link = document.createElement('link');
