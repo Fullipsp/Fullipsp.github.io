@@ -142,7 +142,7 @@ addCategory("Wangxian Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
 
 // ===========================================================================================================================================================================================================================
 
-addCategory("Fantasy Couples")
+addCategory("Fantasy Couples 🗡🏹 🌺🤍 🐞🐱")
 .addPin('lucky.webp', 'Lucky Bug <br> by crow.creations', "Owned")
 .addPin('unlucky.webp', 'Unlucky Kitty <br> by crow.creations', "Owned")
 .addPin('mlbjapanese.jpg', 'Japanese Adrinette <br> by MariC****Cafe', "Owned")
