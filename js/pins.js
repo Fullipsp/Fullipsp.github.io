@@ -153,9 +153,9 @@ addCategory("Fantasy Couples 🗡🏹 🌺💙 🐞🐱")
  
 .addPin('calilink.webp', 'The Princess & Knight <br>by Califlair', "Owned")
 .addPin('Zelink.webp', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
-.addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
 .addPin('donotseperate.webp', 'Do Not Seperate Them <br> by WoupsShop', "Owned")
 .addPin('beloved.webp', 'My Beloved <br> by WoupsShop', "Owned")
+.addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
 
 // =========================================================================================================================================================================================================================
 
