@@ -92,7 +92,7 @@ addCategory("Foxipins MXTX Windows")
 .addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Waiting")
 
 // ========================================================================================================================================================================================================================
-addCategory("Hualian Pins ☂️🦋", "https://shorturl.at/iwxT3")
+addCategory("Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 
 .addPin('insomniahualian.webp', 'Autumn Hualian Panel <br>LE? by Ins***Pins.', "Owned")
 .addPin('xlwindow.jpg', 'Xie Lian Window <br>by Peonypinsco', "Owned")
