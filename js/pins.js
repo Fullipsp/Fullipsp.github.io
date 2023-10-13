@@ -144,7 +144,7 @@ addCategory("Beefleaf Pins 🍖🍃", "https://shorturl.at/iwxT3")
  .addPin('bbysqx.webp', 'Snow White Beefleaf <br>by cirono', "Owned")
  .addPin('chibileaf.jpg', 'Chibi Beefleaf <br>by jeanadraws', "Sold")
 
-addCategory("Wangxian Pins 🍖🍃", "https://shorturl.at/iwxT3")
+addCategory("Wangxian Pins 🐰🪷", "https://shorturl.at/iwxT3")
  .addPin('bachwangxian.jpg', 'Lilypad Wangxian <br>by Bachoochi', "Owned")
  .addPin('bluhdonkey.webp', 'Wangxian Donkey <br>by Bluhtack', "Owned")
  .addPin('bluhroof.webp', 'Wangxian on Roof <br>by Bluhtack', "Owned")
