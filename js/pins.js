@@ -38,16 +38,7 @@ addCategory("Ordered (do Mnie)")
 .addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered") 
 .addPin('honger.webp', 'Flower Honger Patreon <br> by Butchinelle', "Ordered")
 
-
-
-
-
-
-
-
-
-
-  addGap();
+ addGap();
 // =====================================================================================================================================================================================================================
 addCategory("Ordered (u Babci)")
 
@@ -74,8 +65,6 @@ addCategory("Ordered (u Babci)")
 .addPin('marshal.webp', 'Dreaming Marshal <br>by haiyun', "Ordered")
 .addPin('sherb.webp', 'Dreaming Sherb <br>by haiyun', "Ordered")
 .addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Ordered")
-
-
 
 
 addGap();
@@ -138,7 +127,7 @@ addCategory("Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
    //MDZS
    
 // =========================================================================================================================================================================================================================
-addCategory("Beefleaf Pins 🍖🍃", "https://shorturl.at/iwxT3")
+addCategory("Beefleaf Pins 🍖🍃", "https://tinyurl.com/whosbeefleaf")
  .addPin('bigsqx.webp', 'Shi Qingxuan <br>by Siilvxr', "Owned")
  .addPin('bighx.webp', 'He Xuan <br>by Siilvxr', "Owned")
  .addPin('furrybfl.webp', 'Cutie Beefleaf <br>by kmoripins', "Owned")
@@ -147,7 +136,7 @@ addCategory("Beefleaf Pins 🍖🍃", "https://shorturl.at/iwxT3")
  .addPin('bbysqx.webp', 'Snow White Beefleaf <br>by cirono', "Owned")
  .addPin('chibileaf.jpg', 'Chibi Beefleaf <br>by jeanadraws', "Sold")
 
-addCategory("Wangxian Pins 🐰🪷", "https://shorturl.at/iwxT3")
+addCategory("Wangxian Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
  .addPin('bachwangxian.jpg', 'Lilypad Wangxian <br>by Bachoochi', "Owned")
  .addPin('bluhdonkey.webp', 'Wangxian Donkey <br>by Bluhtack', "Owned")
  .addPin('bluhroof.webp', 'Wangxian on Roof <br>by Bluhtack', "Owned")
