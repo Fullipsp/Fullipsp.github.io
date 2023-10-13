@@ -134,12 +134,12 @@ addCategory("Beefleaf Pins 🍖🍃", "https://tinyurl.com/whosbeefleaf")
 // ===========================================================================================================================================================================================================================
 
 addCategory("Wangxian Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
- .addPin('bachwangxian.jpg', 'Lilypad Wangxian <br>by Bachoochi', "Owned")
- .addPin('bluhdonkey.webp', 'Wangxian Donkey <br>by Bluhtack', "Owned")
- .addPin('bluhroof.webp', 'Wangxian on Roof <br>by Bluhtack', "Owned")
- .addPin('weiying.webp', 'Valentine Wei Ying <br>by Billacookie', "Owned")
- .addPin('MyBuns.webp', 'Wangxian Bunnies <br>by Lilycli', "Owned")
- .addPin('woodenwangxian.jpg', 'Wooden Wangxian Bunnies <br> by @AumaEbi', "Owned")
+.addPin('bluhdonkey.webp', 'Wangxian Donkey <br>by Bluhtack', "Owned")
+.addPin('bluhroof.webp', 'Wangxian on Roof <br>by Bluhtack', "Owned")
+.addPin('MyBuns.webp', 'Wangxian Bunnies <br>by Lilycli', "Owned")
+.addPin('weiying.webp', 'Valentine Wei Ying <br>by Billacookie', "Owned")
+.addPin('bachwangxian.jpg', 'Lilypad Wangxian <br>by Bachoochi', "Owned")
+.addPin('woodenwangxian.jpg', 'Wooden Wangxian Bunnies <br> by @AumaEbi', "Owned")
 
 // ===========================================================================================================================================================================================================================
 
