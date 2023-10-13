@@ -19,6 +19,7 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "For-Sale")
 .addPin('anemo.webp', 'Anemoculus (GLOWS) <br>by Theartthatran', "For-Sale")
 
+addGap();
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered (do Mnie)")
 .addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Ordered")
@@ -67,7 +68,6 @@ addCategory("Ordered (u Babci)")
 
 
 addGap();
-
 // =====================================================================================================================================================================================================================================================
 
 addCategory("Foxipins MXTX Windows")
