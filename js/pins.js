@@ -100,23 +100,22 @@ addCategory("Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 
 .addPin('derpyhc.webp', 'Super Derpy Hua <br> LE15 by crystal****ppe', "Owned")
 .addPin('derpyxl.webp', 'Super Derpy Lian <br> LE15 by crystal****ppe', "Owned")
- 
-.addPin('bachhualian2.jpg', 'Lilypad Hualian <br>by Bachoochi', "Owned")
-.addPin('lilypadxl.webp', 'Lilypad Xie Lian <br>by Peonypinsco', "Owned")
-.addPin('lilypadhc.webp', 'Lilypad Hua Cheng <br>by Peonypinsco', "Owned")
 .addPin('summerxl.webp', 'Summer Xie Lian <br>by Peonypinsco', "Owned")
 .addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "Owned")
+.addPin('lilypadxl.webp', 'Lilypad Xie Lian <br>by Peonypinsco', "Owned")
+.addPin('lilypadhc.webp', 'Lilypad Hua Cheng <br>by Peonypinsco', "Owned")
+.addPin('bachhualian2.jpg', 'Lilypad Hualian <br>by Bachoochi', "Owned")
+
+ .addPin('ecstasy.webp', 'Pleasure&Ecstasy Hualian <br>by ihavetobenkyou', "Owned")
 .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Owned")
 .addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Owned") 
- 
-.addPin('ecstasy.webp', 'Pleasure&Ecstasy Hualian <br>by ihavetobenkyou', "Owned")
 .addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Owned")
 .addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Owned")
 .addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Owned")
 .addPin('papoosh2.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")   
+
 .addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")
 .addPin('magicalhualian.webp', 'Hualian Cuddles <br>by xevnne', "Owned")
-
 .addPin('wigglyhc.webp', 'Wiggly Fox HC <br>by naixaie', "Owned")
 .addPin('wigglyxl.webp', 'Wiggly Ferret XL <br>by naixaie', "Owned")
 .addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Owned")
