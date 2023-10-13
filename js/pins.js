@@ -20,7 +20,35 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
  .addPin('anemo.webp', 'Anemoculus (GLOWS) <br>by Theartthatran', "For-Sale")
 
 // ==================================================================================================================================================================================================================================================
+addCategory("Ordered (do Mnie)")
+.addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Ordered")
+.addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Ordered")
+.addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
+.addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Ordered")
+.addPin('wangxiankiss.webp', 'Wangxian Kiss <br>by SerenaDanmeiPins', "Ordered")
 
+.addPin('hualianwindow.webp', 'Hualian Window x2 <br>by SerenaDanmeiPins', "Ordered")
+.addPin('peterpan.webp', 'Peter Pan Hualian <br>by simplelunacy', "Ordered") 
+.addPin('raphc.webp', 'Rapunzel Hua Cheng <br>by xevnne', "Ordered") 
+.addPin('rapxl.webp', 'Rapunzel Xie Lian <br>by xevnne', "Ordered") 
+.addPin('sanlangdiamond.webp', 'Husbando San Lang <br>by FantasyChibiPins', "Ordered") 
+
+.addPin('hualianterrarium.png', 'Hualian Terrarium <br>by Peonypinsco', "Ordered")
+.addPin('wangxianterrarium.png', 'Wangxian Terrarium <br>by Peonypinsco', "Ordered")
+.addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered") 
+.addPin('honger.webp', 'Flower Honger Patreon <br> by Butchinelle', "Ordered")
+
+
+
+
+
+
+
+
+
+
+  addGap();
+// =====================================================================================================================================================================================================================
 addCategory("Ordered (u Babci)")
 
 .addPin('inzelda.webp', 'BOTW Zelda <br>LE50 by Ins***Pins', "Ordered")
@@ -48,31 +76,6 @@ addCategory("Ordered (u Babci)")
 .addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Ordered")
 
 
-  addGap();
-// =====================================================================================================================================================================================================================
-addCategory("Ordered (do Mnie)")
-    
-
-.addPin('hualianwindow.webp', 'Hualian Window x2 <br>by SerenaDanmeiPins', "Ordered")
-
-.addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered") 
-.addPin('hualianterrarium.png', 'Hualian Terrarium <br>by Peonypinsco', "Ordered")
-.addPin('wangxianterrarium.png', 'Wangxian Terrarium <br>by Peonypinsco', "Ordered")
-.addPin('peterpan.webp', 'Peter Pan Hualian <br>by simplelunacy', "Ordered") 
-.addPin('raphc.webp', 'Rapunzel Hua Cheng <br>by xevnne', "Ordered") 
-.addPin('rapxl.webp', 'Rapunzel Xie Lian <br>by xevnne', "Ordered") 
-.addPin('sanlangdiamond.webp', 'Husbando San Lang <br>by FantasyChibiPins', "Ordered") 
-
-
-.addPin('honger.webp', 'Flower Honger Patreon <br> by Butchinelle', "Ordered")
-.addPin('lucky.webp', 'Lucky Bug <br> by crow.creations', "Owned")
-.addPin('unlucky.webp', 'Unlucky Kitty <br> by crow.creations', "Owned")
-.addPin('wangxiankiss.webp', 'Wangxian Kiss <br>by SerenaDanmeiPins', "Ordered")
- 
-.addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Ordered")
-.addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Ordered")
-.addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
-.addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Ordered")
 
 
 addGap();
@@ -154,16 +157,19 @@ addCategory("Wangxian Pins 🐰🪷", "https://shorturl.at/iwxT3")
 
 
 addCategory("Fantasy Couples")
-  .addPin('mlbjapanese.jpg', 'Japanese Adrinette <br> by MariC****Cafe', "Owned")
-  .addPin('ladynoirkiss.jpg', 'Ladynoir Kiss <br> by MariC****Cafe', "Owned")
-  .addPin('marichat.jpg', 'Marichat <br> by MariC****Cafe', "Owned")
-  .addPin('heartmlb.jpg', 'Ladynoir <3 <br> by MariC****Cafe', "Owned")
-  .addPin('Ladynoir.webp', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Owned")
-  .addPin('Zelink.webp', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
-  .addPin('calilink.webp', 'The Princess & Knight <br>by Califlair', "Owned")
-  .addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
-  .addPin('donotseperate.webp', 'Do Not Seperate Them <br> by WoupsShop', "Owned")
-  .addPin('beloved.webp', 'My Beloved <br> by WoupsShop', "Owned")
+.addPin('lucky.webp', 'Lucky Bug <br> by crow.creations', "Owned")
+.addPin('unlucky.webp', 'Unlucky Kitty <br> by crow.creations', "Owned")
+.addPin('mlbjapanese.jpg', 'Japanese Adrinette <br> by MariC****Cafe', "Owned")
+.addPin('ladynoirkiss.jpg', 'Ladynoir Kiss <br> by MariC****Cafe', "Owned")
+.addPin('marichat.jpg', 'Marichat <br> by MariC****Cafe', "Owned")
+.addPin('heartmlb.jpg', 'Ladynoir <3 <br> by MariC****Cafe', "Owned")
+.addPin('Ladynoir.webp', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Owned")
+ 
+.addPin('Zelink.webp', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
+.addPin('calilink.webp', 'The Princess & Knight <br>by Califlair', "Owned")
+.addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
+.addPin('donotseperate.webp', 'Do Not Seperate Them <br> by WoupsShop', "Owned")
+.addPin('beloved.webp', 'My Beloved <br> by WoupsShop', "Owned")
 
 // =========================================================================================================================================================================================================================
 
