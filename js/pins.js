@@ -9,7 +9,7 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .addPin('albedochibiprofile.webp', 'Chibi Albedo <br>by AkuoArt', "For-Sale")
 .addPin('zhonglichibiprofile.webp', 'Chibi Zhongli <br>by AkuoArt', "For-Sale") 
 .addPin('luminechibiprofile.webp', 'Chibi Lumine <br>by AkuoArt', "For-Sale")
-.addPin('lumine.webp', 'Lumine <br>by Sugar Cubed Studios', "For-Sale")\
+.addPin('lumine.webp', 'Lumine <br>by Sugar Cubed Studios', "For-Sale")
  
 .addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "For-Sale")
 .addPin('promise.webp', 'Snezhnayan Promise <br>by Hollichoo', "For-Sale")
