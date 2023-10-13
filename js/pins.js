@@ -159,7 +159,7 @@ addCategory("Fantasy Couples 🗡🏹 🌺🤍 🐞🐱")
 
 // =========================================================================================================================================================================================================================
 
-addCategory("MYSME Pins", "http://msg.cheritz.com/")
+addCategory("MYSME Pins 🌼🤍", "http://msg.cheritz.com/")
     .addPin('gebby.webp', 'GE Saeran Chibi <br>by Alicehwyy', "Owned")
     .addPin('raybby.webp', 'Ray Chibi <br>by Alicehwyy', "Owned")
     .addPin('suitbby.webp', 'Suit Saeran Chibi <br>by Alicehwyy', "Owned")
@@ -178,7 +178,7 @@ addCategory("MYSME Pins", "http://msg.cheritz.com/")
 
 // =========================================================================================================================================================================================================================
 
-addCategory("Genshin Impact / Anime Pins")
+addCategory("Genshin Impact / Anime Pins ✨")
  
 //Demon Slayer
    .addPin('obamitsu3.webp', 'Obanai & Mitsuri 3 <br>by Nandemopins', "Owned")
@@ -218,7 +218,7 @@ addCategory("Genshin Impact / Anime Pins")
 
 // =========================================================================================================================================================================================================================
 
-addCategory("Cute Animal Pins")
+addCategory("Cute Animal Pins 💕🌷")
 
 // Goldfishkang
     .addPin('LaundroCat.webp', 'Laundrocats Pin: Dawn ☆ <br>by Goldfishkang', "Owned")
@@ -256,13 +256,13 @@ addCategory("Cute Animal Pins")
 addInlineCategory()
 
     
-addCategory('Xhilyn', "https://xhilyn.carrd.co")
+addCategory('Xhilyn 🌌', "https://xhilyn.carrd.co")
     .addPin('Cinamoroll.webp', 'Cinnamoroll Sprinkle Bunny', "Owned")
     .addPin('StarBun.webp', 'Star Bunny Witch', "Owned")
     .addPin('Aurora.webp', 'Aurora Borealis Cutie (Limited Edition)<br>Thank you, SleepyIvy!', "Owned")
     .addPin('gamerkitty.webp', 'Gamer Kitty Girl (March 2020 Pin Club)<br>Thank you SO much, Kyra! ♡', "Owned")
 
-addCategory('Mamobot Fashion Nostalgia Pins', "https://linktr.ee/mamobot")
+addCategory('Mamobot Fashion Nostalgia Pins 👠', "https://linktr.ee/mamobot")
     .addPin('helioschibiusa.webp', 'Chibiusa and Helios', "Owned")
     .addPin('SSailor.webp', 'Super Sailor Moon', "Sold")
     .addPin('SSerenity.webp', 'Serenity Sailor Moon', "Sold")
