@@ -24,7 +24,7 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 addCategory("Ordered (u Babci)")
 
 .addPin('inzelda.webp', 'BOTW Zelda <br>LE50 by Ins***Pins', "Ordered")
-.addPin('inlink.webp', 'BOTW Link x2 <br>LE50 by Ins***Pins.', "Ordered")
+.addPin('inlink.webp', 'BOTW Link x2 <br>LE50 by Ins***Pins.', "Owned")
 .addPin('skyward.webp', 'Skyward Link Profile <br>by MarshMeollow.', "Ordered")
 .addPin('zonailink.webp', 'TOTK Link Profile <br>by MarshMeollow.', "Ordered")
 .addPin('zonaizelda.webp', 'TOTK Zonai Zelda Profile <br>by MarshMeollow.', "Ordered")
@@ -52,12 +52,7 @@ addCategory("Ordered (u Babci)")
 // =====================================================================================================================================================================================================================
 addCategory("Ordered (do Mnie)")
     
-.addPin('peiming.jpg', 'Pei Ming Window <br>LE65 by Foxipins', "Ordered")
-.addPin('lingwen.jpg', 'Ling Wen Window <br>LE65 by Foxipins', "Ordered")
-.addPin('shiwudu.jpg', 'Shi Wudu Window <br>LE65 by Foxipins', "Ordered")
-.addPin('lwjpanel.jpg', 'Lan Wangji Window <br>by Foxipins', "Waiting")
-.addPin('xichen.jpg', 'Lan Xichen Window <br>by Foxipins', "Waiting")
-.addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Waiting")
+
 .addPin('hualianwindow.webp', 'Hualian Window x2 <br>by SerenaDanmeiPins', "Ordered")
 
 .addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered") 
@@ -68,11 +63,10 @@ addCategory("Ordered (do Mnie)")
 .addPin('rapxl.webp', 'Rapunzel Xie Lian <br>by xevnne', "Ordered") 
 .addPin('sanlangdiamond.webp', 'Husbando San Lang <br>by FantasyChibiPins', "Ordered") 
 
-.addPin('insomniahualian.webp', 'Autumn Hualian Panel <br>LE? by Ins***Pins.', "Ordered")
 
 .addPin('honger.webp', 'Flower Honger Patreon <br> by Butchinelle', "Ordered")
-.addPin('lucky.webp', 'Lucky Bug <br> by crow.creations', "Ordered")
-.addPin('unlucky.webp', 'Unlucky Kitty <br> by crow.creations', "Ordered")
+.addPin('lucky.webp', 'Lucky Bug <br> by crow.creations', "Owned")
+.addPin('unlucky.webp', 'Unlucky Kitty <br> by crow.creations', "Owned")
 .addPin('wangxiankiss.webp', 'Wangxian Kiss <br>by SerenaDanmeiPins', "Ordered")
  
 .addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Ordered")
@@ -85,9 +79,19 @@ addGap();
 
 // =====================================================================================================================================================================================================================================================
 
-addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
-
+addCategory("Foxipins MXTX Windows")
 .addPin('yinyu.jpg', 'Yin Yu Window <br>LE65 by Foxipins', "Owned")
+.addPin('peiming.jpg', 'Pei Ming Window <br>LE65 by Foxipins', "Ordered")
+.addPin('lingwen.jpg', 'Ling Wen Window <br>LE65 by Foxipins', "Ordered")
+.addPin('shiwudu.jpg', 'Shi Wudu Window <br>LE65 by Foxipins', "Ordered")
+.addPin('lwjpanel.jpg', 'Lan Wangji Window <br>by Foxipins', "Waiting")
+.addPin('xichen.jpg', 'Lan Xichen Window <br>by Foxipins', "Waiting")
+.addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Waiting")
+
+// ========================================================================================================================================================================================================================
+addCategory("Hualian Pins ☂️🦋", "https://shorturl.at/iwxT3")
+
+.addPin('insomniahualian.webp', 'Autumn Hualian Panel <br>LE? by Ins***Pins.', "Owned")
 .addPin('xlwindow.jpg', 'Xie Lian Window <br>by Peonypinsco', "Owned")
 .addPin('hcwindow.jpg', 'Hua Cheng Window <br>by Peonypinsco', "Owned")
 .addPin('charityxl.webp', 'Xie Lian Charity Pin <br>by Peonypinsco', "Owned")
@@ -126,24 +130,28 @@ addCategory("MXTX Pins", "https://shorturl.at/iwxT3")
 .addPin('wigglyxl.webp', 'Wiggly Ferret XL <br>by naixaie', "Owned")
 .addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Owned")
 
-//Beefleaf
-     .addPin('bigsqx.webp', 'Shi Qingxuan <br>by Siilvxr', "Owned")
-     .addPin('bighx.webp', 'He Xuan <br>by Siilvxr', "Owned")
-     .addPin('furrybfl.webp', 'Cutie Beefleaf <br>by kmoripins', "Owned")
-     .addPin('sitbfl.webp', 'Funny Beefleaf <br>by qqnzhe', "Owned")
-     .addPin('lunechibfl.webp', 'Oriental Beefleaf <br>by MyLunechi', "Owned")
-     .addPin('bbysqx.webp', 'Snow White Beefleaf <br>by cirono', "Owned")
-     .addPin('chibileaf.jpg', 'Chibi Beefleaf <br>by jeanadraws', "Sold")
+
    //
    //MDZS
-    .addPin('bachwangxian.jpg', 'Lilypad Wangxian <br>by Bachoochi', "Owned")
-    .addPin('bluhdonkey.webp', 'Wangxian Donkey <br>by Bluhtack', "Owned")
-    .addPin('bluhroof.webp', 'Wangxian on Roof <br>by Bluhtack', "Owned")
-    .addPin('weiying.webp', 'Valentine Wei Ying <br>by Billacookie', "Owned")
-    .addPin('MyBuns.webp', 'Wangxian Bunnies <br>by Lilycli', "Owned")
-    .addPin('woodenwangxian.jpg', 'Wooden Wangxian Bunnies <br> by @AumaEbi', "Owned")
-
+   
 // =========================================================================================================================================================================================================================
+addCategory("Beefleaf Pins 🍖🍃", "https://shorturl.at/iwxT3")
+ .addPin('bigsqx.webp', 'Shi Qingxuan <br>by Siilvxr', "Owned")
+ .addPin('bighx.webp', 'He Xuan <br>by Siilvxr', "Owned")
+ .addPin('furrybfl.webp', 'Cutie Beefleaf <br>by kmoripins', "Owned")
+ .addPin('sitbfl.webp', 'Funny Beefleaf <br>by qqnzhe', "Owned")
+ .addPin('lunechibfl.webp', 'Oriental Beefleaf <br>by MyLunechi', "Owned")
+ .addPin('bbysqx.webp', 'Snow White Beefleaf <br>by cirono', "Owned")
+ .addPin('chibileaf.jpg', 'Chibi Beefleaf <br>by jeanadraws', "Sold")
+
+addCategory("Wangxian Pins 🍖🍃", "https://shorturl.at/iwxT3")
+ .addPin('bachwangxian.jpg', 'Lilypad Wangxian <br>by Bachoochi', "Owned")
+ .addPin('bluhdonkey.webp', 'Wangxian Donkey <br>by Bluhtack', "Owned")
+ .addPin('bluhroof.webp', 'Wangxian on Roof <br>by Bluhtack', "Owned")
+ .addPin('weiying.webp', 'Valentine Wei Ying <br>by Billacookie', "Owned")
+ .addPin('MyBuns.webp', 'Wangxian Bunnies <br>by Lilycli', "Owned")
+ .addPin('woodenwangxian.jpg', 'Wooden Wangxian Bunnies <br> by @AumaEbi', "Owned")
+
 
 addCategory("Fantasy Couples")
   .addPin('mlbjapanese.jpg', 'Japanese Adrinette <br> by MariC****Cafe', "Owned")
