@@ -10,9 +10,10 @@ setAvatar("./images/pfp.jpg");
 // 3 images max
 addImages([
     
-    './images/pins/autumnpins.jpg',
+    
     './images/drawings/catnoir.webp',
     './images/frames.jpg',
+    './images/pins/autumnpins.jpg',
 ])
 
 addSlideshow([
