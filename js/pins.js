@@ -214,7 +214,8 @@ addCategory("Genshin Impact / Anime Pins ✨")
  .addPin('scara.webp', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
  .addPin('scarachibiprofile.webp', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
  .addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "Owned")
- .addPin('eggkazuha.webp', 'Kazuha <br>by angryeggmerch', "Owned")
+ .addPin('eggkazuha.webp', 'Kitty Kazuha <br>by angryeggmerch', "Owned")
+ .addPin('lunalbedo.webp', 'Kitty Albedo <br>by angryeggmerch', "Owned")
 
 // =========================================================================================================================================================================================================================
 
