@@ -1,24 +1,32 @@
-
-
-const drawingUrls = [];
+let drawingUrls = [];
 const imageLength = () => drawingUrls.length;
 const changeAfter = 10; // seconds
 let currentSeconds = 1;
 let currentIndex = 0;
 
 
-addDrawing('hualianp.webp');
-addDrawing('AxL.webp');
-addDrawing('gorouarcher.webp');
-addDrawing('catxiao.webp');
-addDrawing('catnoir.webp');
-addDrawing('childe.webp');
-addDrawing('kazuhabday.webp');
-addDrawing('tomo.webp');
-addDrawing('celestial.webp');
-addDrawing('winterxiao.webp');
-addDrawing('belpher.webp');
+setAvatar("./images/drawings/hualianp.webp");
 
+// 3 images max
+addImages([
+    './images/frames.jpg',
+    './images/drawings/catnoir.webp',
+    './images/drawings/catnoir.webp',
+])
+
+addSlideshow([
+    './images/drawings/hualianp.webp',
+    './images/drawings/AxL.webp',
+    './images/drawings/gorouarcher.webp',
+    './images/drawings/catxiao.webp',
+    './images/drawings/catnoir.webp',
+    './images/drawings/childe.webp',
+    './images/drawings/kazuhabday.webp',
+    './images/drawings/tomo.webp',
+    './images/drawings/celestial.webp',
+    './images/drawings/winterxiao.webp',
+    './images/drawings/belpher.webp'
+])
 
 
 
@@ -64,6 +72,17 @@ function resetProgressBar() {
 }
 
 
-function addDrawing(image) {
-    drawingUrls.push(`images/drawings/${image}`)
+function addSlideshow(images) {
+    drawingUrls = images;
+}
+
+
+function setAvatar(src) {
+    document.getElementById("avatar-image").src = src;
+}
+
+function addImages([image1, image2, image3]) {
+    document.getElementById("image-1").src = image1;
+    document.getElementById("image-2").src = image2;
+    document.getElementById("image-3").src = image3;
 }

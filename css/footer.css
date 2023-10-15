@@ -3,12 +3,13 @@ footer {
   align-items: center;
   background-color: var(--footer-bg-color);
   min-height: 35px;
+  padding: 5px;
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
   position: static;
   bottom:0;
-  font-size: 14px;
+  font-size: 12px;
   padding-left: 10px;
   padding-right: 10px;
   z-index: 11;

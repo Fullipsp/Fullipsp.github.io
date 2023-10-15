@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,41 +11,117 @@
     <link href="https://fonts.googleapis.com/css2?family=Courgette&family=Quicksand&display=swap" rel="stylesheet">
     <script src="https://counterapi.com/c.js" async></script>
 
+
     <title>Fullipsp</title>
 </head>
 
 <body>
     <header></header>
+    <div id="preview"></div>
     <div class="content">
-        <div class="section">
-            <div class="left">
-                <div class="image">
-                    <img oncontextmenu="return false;" src="./images/frames.jpg"></img>
-                </div>
 
-            </div>
-            <div class="center">
-                <div class="title">Hej!</div>
-                <div class="description">
-                    <p>I'm a Polish artist and collector obsessed with anime characters. I designed this website myself ･ﾟ✧</p>
-                    <p>You can find more pictures of my goodies and drawings on my socials below (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</p>
+        <div class="images images-left">
+            <div class="img-outer">
+                <div class="img-inner">
+                    <img id="image-1" oncontextmenu="return false;" src="./images/frames.jpg"></img>
                 </div>
-                <a class="social" href="https://twitter.com/fullipsp" target="_blank" rel="noopener noreferrer"> <img src="./images/social-logos/twitter.svg" alt=""> Twitter</a>
-                <a class="social" href="https://www.instagram.com/fullipsp/" target="_blank" rel="noopener noreferrer"> <img src="./images/social-logos/instagram.svg" alt=""> Instagram</a>
-                <a class="social" href="https://myanimelist.net/profile/Fullipsp" target="_blank" rel="noopener noreferrer"> <img src="./images/social-logos/myanimelist.svg" alt=""> My Anime List</a>
-                <a class="social" href="https://myfigurecollection.net/profile/Fullipsp" target="_blank" rel="noopener noreferrer"> <img src="./images/social-logos/myfigurecollection.svg" alt=""> My Figure Collection</a>
-                <a class="social" href="https://ko-fi.com/fullipsp" target="_blank" rel="noopener noreferrer"> <img src="./images/social-logos/ko-fi.svg" alt=""> Buy Me A Coffee</a>
             </div>
-            <div class="right">
-                <div class="slideshow">
+            <div class="img-outer">
+                <div class="img-inner">
+                    <img id="image-2" oncontextmenu="return false;" src="./images/frames.jpg"></img>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="profile">
+            <div class="profile-inner">
+                <div class="avatar">
+                    <img id="avatar-image" alt="">
+                </div>
+                <div class="profile-info">
+                    <div class="title">Fullipsp</div>
+                    <div class="tags">Artist • Collector • Seller • Gamer</div>
+
+                    <div class="information">
+                        <p>I'm a Polish artist and collector obsessed with anime characters. I designed this website
+                            myself ･ﾟ✧</p>
+                        <p>You can find more pictures of my goodies and drawings on my socials below (´• ω •`)</p>
+                    </div>
+
+                    <div class="separator"></div>
+                    <div class="sub-title">Socials <img src="./images/socials-title-icon.webp" alt=""></div>
+                    <div class="socials">
+
+                        <!-- Ko-fi -->
+                        <a class="social" href="https://ko-fi.com/fullipsp" target="_blank" rel="noopener noreferrer">
+                            <img src="./images/social-logos/ko-fi.svg" alt=""> Buy Me A Kofi</a>
+
+                        <!-- Instagram  -->
+                        <a class="social" href="https://www.instagram.com/fullipsp/" target="_blank"
+                            rel="noopener noreferrer"> <img src="./images/social-logos/instagram.svg" alt="">
+                            Instagram</a>
+
+                        <!-- Reddit -->
+                        <a class="social" href="https://www.reddit.com/user/Ryzuakii" target="_blank"
+                            rel="noopener noreferrer">
+                            <img src="./images/social-logos/reddit.svg" alt=""> Reddit</a>
+
+                        <!-- Twitter -->
+                        <a class="social" href="https://twitter.com/fullipsp" target="_blank" rel="noopener noreferrer">
+                            <img src="./images/social-logos/twitter.svg" alt=""> Twitter</a>
+
+
+                        <!-- DeviantArt -->
+                        <a class="social" href="https://www.deviantart.com/fullipsp" target="_blank"
+                            rel="noopener noreferrer">
+                            <img src="./images/social-logos/deviantart.svg" alt=""> DeviantArt</a>
+
+                        <!-- MyFigureCollection -->
+                        <a class="social" href="https://myfigurecollection.net/profile/Fullipsp" target="_blank"
+                            rel="noopener noreferrer"> <img src="./images/social-logos/myfigurecollection.svg" alt="">
+                            My
+                            Figure Collection</a>
+
+                        <!-- MyAnimeList -->
+                        <a class="social" href="https://myanimelist.net/profile/Fullipsp" target="_blank"
+                            rel="noopener noreferrer"> <img src="./images/social-logos/myanimelist.svg" alt=""> My Anime
+                            List</a>
+                    </div>
+                    <div class="information sub-info">
+                        I designed this website
+                            myself ･ﾟ✧
+                    </div>
+                    <img class="wpm-image" src="./images/wpm.png" alt="">
+                    <div class="wpm-text">Oh and also, I type really fast</div>
+                    
+                </div>
+            </div>
+
+        </div>  
+
+
+        <div class="images images-right">
+            <div class="img-outer image-above-slideshow">
+                <div class="img-inner">
+                    <img id="image-3" oncontextmenu="return false;" src="./images/frames.jpg"></img>
+                </div>
+            </div>
+            <div class="img-outer slideshow-outer">
+                <div class="img-inner">
                     <img oncontextmenu="return false;" id="slideshow-image"></img>
+                    <div class="progress">
+                        <div id="progress-bar">
+                            <div id="bar"></div>
+                        </div>
+                        <div id="image-index"></div>
+                    </div>
                 </div>
-                <div id="progress-bar"><div id="bar"></div></div>
-                <div id="image-index"></div>
             </div>
         </div>
     </div>
-    <div class="counterapi" unique="true" noLink="true" bg="rgba(255,255,255,0.1)" color="var(--primary-color)" key="fullipsp"></div>
+    <div class="counterapi" unique="true" noLink="true" bg="rgba(255,255,255,0.1)" color="var(--primary-color)"
+        key="fullipsp"></div>
     <footer></footer>
     <script src="js/global.js"></script>
     <script src="./js/home.js"></script>
