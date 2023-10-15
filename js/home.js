@@ -10,7 +10,7 @@ setAvatar("./images/drawings/hualianp.webp");
 // 3 images max
 addImages([
     './images/frames.jpg',
-    './images/drawings/catnoir.webp',
+    './images/drawings/belpher.webp',
     './images/drawings/catnoir.webp',
 ])
 
