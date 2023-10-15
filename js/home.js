@@ -9,9 +9,10 @@ setAvatar("./images/drawings/hualianp.webp");
 
 // 3 images max
 addImages([
-    './images/frames.jpg',
+    
     './images/drawings/belpher.webp',
     './images/drawings/catnoir.webp',
+    './images/frames.jpg',
 ])
 
 addSlideshow([
