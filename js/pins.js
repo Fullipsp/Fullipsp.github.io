@@ -3,7 +3,7 @@ let categoryIndex = 0;
 
 addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 
-.addPin('Clefairy.webp', 'Clefairy Tamagotchi', "For-Sale")
+.addPin('Clefairy.webp', 'Clefairy Tamagotchi <br>by Arcade Healer', "For-Sale")
 .addPin('childechibiprofile.webp', 'Chibi Childe Bust <br>by AkuoArt', "For-Sale")
 .addPin('xiaochibiprofile.webp', 'Chibi Xiao <br>by AkuoArt', "For-Sale")
 .addPin('albedochibiprofile.webp', 'Chibi Albedo <br>by AkuoArt', "For-Sale")
@@ -186,10 +186,10 @@ addCategory("Genshin Impact / Anime Pins ✨")
    .addPin('obamitsu2.webp', 'Obanai & Mitsuri 2 <br>by Nandemopins', "Owned")
 
  // Kirby
-   .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️', "Owned")
-   .addPin('ClownKirby.webp', 'Mirror Poyo', "Owned")
-   .addPin('BottleKirby.webp', 'Poyo in a Bottle', "Owned")
-   .addPin('SakuraKirby.webp', 'Sakura Kirby', "Sold")
+   .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️ <br>by Arcade Healer', "Owned")
+   .addPin('ClownKirby.webp', 'Mirror Poyo <br>by Arcade Healer', "Owned")
+   .addPin('BottleKirby.webp', 'Poyo in a Bottle <br>by Arcade Healer', "Owned")
+   .addPin('SakuraKirby.webp', 'Sakura Kirby <br>by Arcade Healer', "Sold")
  
 // Hades
 .addPin('hades.webp', 'Thanzag Chibi <br>by Leaphere', "Owned")
