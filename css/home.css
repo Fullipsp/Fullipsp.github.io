@@ -91,6 +91,20 @@
     align-self: flex-start;
     margin-bottom: 5px;
 }
+.wpm-text {
+    font-size: 12px;
+    margin: 0;
+    align-self: center;
+    text-align: center;
+}
+.wpm-image {
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 16px;
+    padding: 10px;
+    padding-bottom: 6px;
+
+}
 
 .information {
     display: flex;
@@ -175,6 +189,7 @@
     flex-direction: column;
     align-items: center;
     overflow: auto;
+    height: 100%;
 }
 
 .socials {
@@ -182,6 +197,7 @@
     flex-direction: column;
     gap: 2px;
     align-self: stretch;
+    margin-bottom: auto;
 }
 .socials .social {
     display: flex;
@@ -217,7 +233,6 @@
         width: 100%;
         margin-left: 10px;
         margin-right: 10px;
-        padding-bottom: 30px;
     }
 }
 
@@ -230,7 +245,7 @@
         overflow: initial;
         height: initial;
     }
-    .profile {
+    .profile {  
         order: 1;
         margin-bottom: 10px;
     }
@@ -256,7 +271,6 @@
         width: 100%;
         margin-left: 0;
         margin-right: 0;
-        padding-bottom: 30px;
     }
 
 }
