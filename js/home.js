@@ -11,7 +11,7 @@ setAvatar("./images/pfp.jpg");
 addImages([
     
     
-    './images/drawings/catnoir.webp',
+    './images/heartfig.jpg',
     './images/frames.jpg',
     './images/pins/autumnpins.jpg',
 ])
