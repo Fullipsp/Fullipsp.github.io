@@ -5,7 +5,7 @@ let currentSeconds = 1;
 let currentIndex = 0;
 
 
-setAvatar("./images/drawings/hualianp.webp");
+setAvatar("./images/pfp.jpg");
 
 // 3 images max
 addImages([
