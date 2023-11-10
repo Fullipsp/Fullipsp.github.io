@@ -58,7 +58,7 @@ addCategory("Ordered (u Babci)")
 .addPin('snorlax.webp', 'Snorlax - Be Happy! <br>by BlueAndRedWares', "Ordered")
     
 .addPin('hk.webp', 'Hollow Knight & Radience <br>by BlueAndRedWares', "Ordered")
-.addPin('gachagorou.jpg', 'Chibi Gorou <br>by hideawaymelon', "Ordered")
+
 .addPin('lolly.webp', 'Dreaming Lolly <br>by haiyun', "Ordered")
 .addPin('raymondsleep.webp', 'Dreaming Raymond <br>by haiyun', "Ordered")
 .addPin('marshal.webp', 'Dreaming Marshal <br>by haiyun', "Ordered")
@@ -128,7 +128,7 @@ addCategory("Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 
 
 
-.addPin('heartkazuha.webp', 'Valentine Kazuha <br>by cafhune', "Owned") 
+
    
 // =========================================================================================================================================================================================================================
 addCategory("Beefleaf Pins 🍖🍃", "https://tinyurl.com/whosbeefleaf")
@@ -217,6 +217,8 @@ addCategory("Genshin Impact / Anime Pins ✨")
     .addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Owned")
     .addPin('fivethoma.webp', 'Thoma <br>by Fiveonthe', "Owned")
 
+    .addPin('gachagorou.jpg', 'Chibi Gorou <br>by hideawaymelon', "Owned")
+
     .addPin('lengorou.webp', 'Gorou <br>by Lenacchi', "Owned")
     .addPin('lenzhongli.webp', 'Zhongli <br>by Lenacchi', "Owned")
     .addPin('lenayato.webp', 'Ayato <br>by Lenacchi', "Owned")
@@ -228,8 +230,9 @@ addCategory("Genshin Impact / Anime Pins ✨")
  .addPin('scara.webp', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
  .addPin('scarachibiprofile.webp', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
  .addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "Owned")
- .addPin('eggkazuha.webp', 'Kitty Kazuha <br>by angryeggmerch', "Owned")
  .addPin('lunalbedo.webp', 'Kitty Albedo <br>by angryeggmerch', "Owned")
+ .addPin('eggkazuha.webp', 'Kitty Kazuha <br>by angryeggmerch', "Owned")
+ .addPin('heartkazuha.webp', 'Valentine Kazuha <br>by cafhune', "Owned") 
 
 // =========================================================================================================================================================================================================================
 
