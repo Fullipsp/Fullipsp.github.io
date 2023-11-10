@@ -41,8 +41,7 @@ addCategory("Ordered (do Mnie)")
 // =====================================================================================================================================================================================================================
 addCategory("Ordered (u Babci)")
 
-.addPin('inzelda.webp', 'BOTW Zelda <br>LE50 by Ins***Pins', "Ordered")
-.addPin('inlink.webp', 'BOTW Link x2 <br>LE50 by Ins***Pins.', "Owned")
+
 .addPin('skyward.webp', 'Skyward Link Profile <br>by MarshMeollow.', "Ordered")
 .addPin('zonailink.webp', 'TOTK Link Profile <br>by MarshMeollow.', "Ordered")
 .addPin('zonaizelda.webp', 'TOTK Zonai Zelda Profile <br>by MarshMeollow.', "Ordered")
@@ -55,7 +54,6 @@ addCategory("Ordered (u Babci)")
 .addPin('thanatos.webp', 'Thanatos (Hades) <br>by BlueAndRedWares', "Ordered")
 .addPin('meg.webp', 'Meg (Hades) <br>by BlueAndRedWares', "Ordered")
 .addPin('hypnos.webp', 'Hypnos (Hades) <br>by BlueAndRedWares', "Ordered")
-.addPin('snorlax.webp', 'Snorlax - Be Happy! <br>by BlueAndRedWares', "Ordered")
     
 .addPin('hk.webp', 'Hollow Knight & Radience <br>by BlueAndRedWares', "Ordered")
 
@@ -159,6 +157,8 @@ addCategory("Fantasy Couples 🗡🏹 🌺💙 🐞🐱")
 .addPin('heartmlb.jpg', 'Ladynoir <3 <br> by MariC****Cafe', "Owned")
 .addPin('Ladynoir.webp', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Owned")
  
+.addPin('inzelda.webp', 'BOTW Zelda <br>LE50 by Ins***Pins', "Owned")
+.addPin('inlink.webp', 'BOTW Link x2 <br>LE50 by Ins***Pins.', "Owned")
 .addPin('calilink.webp', 'The Princess & Knight <br>by Califlair', "Owned")
 .addPin('Zelink.webp', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
 .addPin('donotseperate.webp', 'Do Not Seperate Them <br> by WoupsShop', "Owned")
