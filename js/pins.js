@@ -27,15 +27,16 @@ addCategory("Ordered (do Mnie)")
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Ordered")
 .addPin('wangxiankiss.webp', 'Wangxian Kiss <br>by SerenaDanmeiPins', "Ordered")
-.addPin('peterpan.webp', 'Peter Pan Hualian <br>by simplelunacy', "Ordered") 
+
 .addPin('hualianwindow.webp', 'Hualian Window x2 <br>by SerenaDanmeiPins', "Ordered")
 
-.addPin('sanlangdiamond.webp', 'Husbando San Lang <br>by FantasyChibiPins', "Ordered") 
-.addPin('raphc.webp', 'Rapunzel Hua Cheng <br>by xevnne', "Ordered") 
-.addPin('rapxl.webp', 'Rapunzel Xie Lian <br>by xevnne', "Ordered") 
-.addPin('hualianterrarium.png', 'Hualian Terrarium <br>by Peonypinsco', "Ordered")
-.addPin('wangxianterrarium.png', 'Wangxian Terrarium <br>by Peonypinsco', "Ordered")
-.addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Ordered") 
+.addPin('peterpan.webp', 'Peter Pan Hualian <br>by simplelunacy', "Owned") 
+.addPin('sanlangdiamond.webp', 'Husbando San Lang <br>by FantasyChibiPins', "Owned") 
+.addPin('raphc.webp', 'Rapunzel Hua Cheng <br>by xevnne', "Owned") 
+.addPin('rapxl.webp', 'Rapunzel Xie Lian <br>by xevnne', "Owned") 
+.addPin('hualianterrarium.png', 'Hualian Terrarium <br>by Peonypinsco', "Owned")
+.addPin('wangxianterrarium.png', 'Wangxian Terrarium <br>by Peonypinsco', "Owned")
+.addPin('heartkazuha.png', 'Valentine Kazuha <br>by cafhune', "Owned") 
 .addPin('honger.webp', 'Flower Honger Patreon <br> by Butchinelle', "Ordered")
 
  addGap();
