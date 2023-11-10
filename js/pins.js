@@ -268,7 +268,7 @@ addCategory("Cute Animal Pins 💕🌷")
 addInlineCategory()
 
     
-addCategory('Xhilyn 🌌', "https://xhilyn.carrd.co")
+addCategory("Xhilyn 🌌")
     .addPin('Cinamoroll.webp', 'Cinnamoroll Sprinkle Bunny', "Owned")
     .addPin('StarBun.webp', 'Star Bunny Witch', "Owned")
     .addPin('Aurora.webp', 'Aurora Borealis Cutie (Limited Edition)<br>Thank you, SleepyIvy!', "Owned")
