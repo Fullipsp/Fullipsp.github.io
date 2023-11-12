@@ -45,15 +45,9 @@ addCategory("Ordered (do Mnie)")
 addCategory("Ordered (u Babci)")
 
 
-.addPin('skyward.webp', 'Skyward Link Profile <br>by MarshMeollow.', "Ordered")
-.addPin('zonailink.webp', 'TOTK Link Profile <br>by MarshMeollow.', "Ordered")
-.addPin('zonaizelda.webp', 'TOTK Zonai Zelda Profile <br>by MarshMeollow.', "Ordered")
-.addPin('wuming.webp', 'Thank you, Wuming <br>by kwaaru', "Ordered")
-.addPin('dianxia.webp', 'Dancing Flowers <br>by kwaaru', "Ordered")
-    
-.addPin('catchyou.webp', 'Catch You ~ <br>by kwaaru', "Ordered")
-.addPin('catchme.webp', 'Catch Me ~ <br>by kwaaru', "Ordered")
-.addPin('babies.webp', 'Cute but Deadly <br>by kwaaru', "Ordered")
+
+
+
 .addPin('thanatos.webp', 'Thanatos (Hades) <br>by BlueAndRedWares', "Ordered")
 .addPin('meg.webp', 'Meg (Hades) <br>by BlueAndRedWares', "Ordered")
 .addPin('hypnos.webp', 'Hypnos (Hades) <br>by BlueAndRedWares', "Ordered")
@@ -96,8 +90,15 @@ addCategory("Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('flowerxl.jpg', 'Flower Xie Lian <br>by Sinycath', "Owned")
 .addPin('flowerhands.jpg', 'Flower Hualian Hands <br>by Sinycath', "Owned")   
 .addPin('flowerhc.jpg', 'Flower Hua Cheng <br>by Sinycath', "Owned")
-
 .addPin('sanlangdiamond.webp', 'Husbando San Lang <br>by FantasyChibiPins', "Owned") 
+
+.addPin('dianxia.webp', 'Dancing Flowers <br>by kwaaru', "Ordered")
+.addPin('catchyou.webp', 'Catch You ~ <br>by kwaaru', "Ordered")
+.addPin('catchme.webp', 'Catch Me ~ <br>by kwaaru', "Ordered")
+.addPin('wuming.webp', 'Thank you, Wuming <br>by kwaaru', "Ordered")
+.addPin('ruoye.webp', 'Cute but Deadly Ruoye <br>by kwaaru', "Ordered")
+.addPin('eming.webp', 'Cute but Deadly Eming <br>by kwaaru', "Ordered")
+
 
 .addPin('derpyhc.webp', 'Super Derpy Hua <br> LE15 by crystal****ppe', "Owned")
 .addPin('derpyxl.webp', 'Super Derpy Lian <br> LE15 by crystal****ppe', "Owned")
@@ -169,6 +170,10 @@ addCategory("Fantasy Couples 🗡🏹 🌺💙 🐞🐱")
 .addPin('donotseperate.webp', 'Do Not Seperate Them <br> by WoupsShop', "Owned")
 .addPin('beloved.webp', 'My Beloved <br> by WoupsShop', "Owned")
 .addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
+
+.addPin('skyward.webp', 'Skyward Link Profile <br>by MarshMeollow.', "Ordered")
+.addPin('zonailink.webp', 'TOTK Link Profile <br>by MarshMeollow.', "Ordered")
+.addPin('zonaizelda.webp', 'TOTK Zonai Zelda Profile <br>by MarshMeollow.', "Ordered")
 
 // =========================================================================================================================================================================================================================
 
