@@ -4,6 +4,8 @@ let categoryIndex = 0;
 addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 
 .addPin('Clefairy.webp', 'Clefairy Tamagotchi <br>by Arcade Healer', "For-Sale")
+
+.addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "For-Sale")
 .addPin('childechibiprofile.webp', 'Chibi Childe Bust <br>by AkuoArt', "For-Sale")
 .addPin('xiaochibiprofile.webp', 'Chibi Xiao <br>by AkuoArt', "For-Sale")
 .addPin('albedochibiprofile.webp', 'Chibi Albedo <br>by AkuoArt', "For-Sale")
@@ -12,7 +14,8 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .addPin('bunnywitch.jpg', 'Snow Bunny Witch <br>by Mamobot', "For-Sale")
  
 .addPin('lumine.webp', 'Lumine <br>by Sugar Cubed Studios', "For-Sale")
-.addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "For-Sale")
+.addPin('childebby.webp', 'Childe (Tartaglia) <br>by Sugar Cubed Studios', "For-Sale")
+
 .addPin('promise.webp', 'Snezhnayan Promise <br>by Hollichoo', "For-Sale")
 .addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "For-Sale")
 .addPin('VioletEvergarden.webp', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "For-Sale")
@@ -222,13 +225,13 @@ addCategory("Genshin Impact / Anime Pins ✨")
     .addPin('lenxiao.webp', 'Xiao <br>by Lenacchi', "Owned")
     
  .addPin('xiao.webp', 'Xiao <br>by Sugar Cubed Studios', "Owned")
- .addPin('childebby.webp', 'Childe (Tartaglia) <br>by Sugar Cubed Studios', "Owned")
  .addPin('scara.webp', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
  .addPin('scarachibiprofile.webp', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
- .addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "Owned")
+ 
  .addPin('lunalbedo.webp', 'Kitty Albedo <br>by angryeggmerch', "Owned")
  .addPin('eggkazuha.webp', 'Kitty Kazuha <br>by angryeggmerch', "Owned")
  .addPin('heartkazuha.webp', 'Valentine Kazuha <br>by cafhune', "Owned") 
+.addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "For-Sale")
 
 // =========================================================================================================================================================================================================================
 
