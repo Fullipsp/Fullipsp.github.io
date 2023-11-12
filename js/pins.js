@@ -14,7 +14,7 @@ addCategory("Ordered (do Mnie)")
 
  addGap();
 // =====================================================================================================================================================================================================================
-addCategory("Ordered (u Babci)")
+addCategory("Owned - Left to sort <3")
 
 .addPin('thanatos.webp', 'Thanatos (Hades) <br>by BlueAndRedWares', "Ordered")
 .addPin('meg.webp', 'Meg (Hades) <br>by BlueAndRedWares', "Ordered")
