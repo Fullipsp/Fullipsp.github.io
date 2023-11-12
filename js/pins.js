@@ -134,6 +134,8 @@ addCategory("Fantasy Couples 🗡🏹 🌺💙 🐞🐱")
 .addPin('Zelink.webp', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
 .addPin('donotseperate.webp', 'Do Not Seperate Them <br> by WoupsShop', "Owned")
 .addPin('beloved.webp', 'My Beloved <br> by WoupsShop', "Owned")
+.addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "Owned")
+
 .addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
 
 .addPin('skyward.webp', 'Skyward Link Profile <br>by MarshMeollow.', "Ordered")
@@ -201,7 +203,7 @@ addCategory("Genshin Impact / Anime Pins ✨")
  .addPin('lunalbedo.webp', 'Kitty Albedo <br>by angryeggmerch', "Owned")
  .addPin('eggkazuha.webp', 'Kitty Kazuha <br>by angryeggmerch', "Owned")
  .addPin('heartkazuha.webp', 'Valentine Kazuha <br>by cafhune', "Owned") 
-.addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "For-Sale")
+
 
 // =========================================================================================================================================================================================================================
 
