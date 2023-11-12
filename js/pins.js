@@ -98,7 +98,7 @@ addCategory("Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('wuming.webp', 'Thank you, Wuming <br>by kwaaru', "Ordered")
 .addPin('ruoye.webp', 'Cute but Deadly Ruoye <br>by kwaaru', "Ordered")
 .addPin('eming.webp', 'Cute but Deadly Eming <br>by kwaaru', "Ordered")
-
+.addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Owned")
 
 .addPin('derpyhc.webp', 'Super Derpy Hua <br> LE15 by crystal****ppe', "Owned")
 .addPin('derpyxl.webp', 'Super Derpy Lian <br> LE15 by crystal****ppe', "Owned")
@@ -113,8 +113,6 @@ addCategory("Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('rapxl.webp', 'Rapunzel Xie Lian <br>by xevnne', "Owned") 
 .addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Owned")
 .addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Owned")
-.addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Owned")
-
 .addPin('poppins.jpg', 'Fafa Poppins <br>by Pap00sh', "Owned") 
  
 .addPin('papoosh2.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")   
