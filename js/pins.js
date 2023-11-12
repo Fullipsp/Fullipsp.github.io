@@ -21,9 +21,9 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .addPin('VioletEvergarden.webp', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "For-Sale")
 .addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "For-Sale")
 .addPin('anemo.webp', 'Anemoculus (GLOWS) <br>by Theartthatran', "For-Sale")
-.addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "For-Sale")
-.addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "For-Sale")
-.addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "For-Sale") 
+.addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Sold")
+.addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Sold")
+.addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Sold") 
 
 addGap();
 // ==================================================================================================================================================================================================================================================
