@@ -198,13 +198,13 @@ addCategory("Genshin / Anime Pins ✨")
  .addPin('lenayato.webp', 'Ayato <br>by Lenacchi', "Owned")
  .addPin('lenkazuha.webp', 'Kazuha <br>by Lenacchi', "Owned")
  .addPin('lenxiao.webp', 'Xiao <br>by Lenacchi', "Owned")
-
-    .addPin('fivexiao.webp', 'Xiao <br>by Fiveonthe', "Owned")
-    .addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Owned")
-    .addPin('fivethoma.webp', 'Thoma <br>by Fiveonthe', "Owned")
-    .addPin('xiao.webp', 'Xiao <br>by Sugar Cubed Studios', "Owned")
-  .addPin('scara.webp', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
- .addPin('scarachibiprofile.webp', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
+.addPin('xiao.webp', 'Xiao <br>by Sugar Cubed Studios', "Owned")
+ 
+   .addPin('fivexiao.webp', 'Xiao <br>by Fiveonthe', "Owned")
+   .addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Owned")
+   .addPin('fivethoma.webp', 'Thoma <br>by Fiveonthe', "Owned")
+   .addPin('scara.webp', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
+   .addPin('scarachibiprofile.webp', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
 
 
 
