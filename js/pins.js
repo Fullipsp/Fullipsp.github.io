@@ -14,18 +14,7 @@ addCategory("Ordered (do Mnie)")
 
  addGap();
 // =====================================================================================================================================================================================================================
-addCategory("Owned - Left to sort <3")
 
-.addPin('thanatos.webp', 'Thanatos (Hades) <br>by BlueAndRedWares', "Ordered")
-.addPin('meg.webp', 'Meg (Hades) <br>by BlueAndRedWares', "Ordered")
-.addPin('hypnos.webp', 'Hypnos (Hades) <br>by BlueAndRedWares', "Ordered")
-   .addPin('hk.webp', 'Hollow Knight & Radience <br>by BlueAndRedWares', "Ordered")
-
-.addPin('lolly.webp', 'Dreaming Lolly <br>by haiyun', "Ordered")
-.addPin('raymondsleep.webp', 'Dreaming Raymond <br>by haiyun', "Ordered")
-.addPin('marshal.webp', 'Dreaming Marshal <br>by haiyun', "Ordered")
-.addPin('sherb.webp', 'Dreaming Sherb <br>by haiyun', "Ordered")
-.addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Ordered")
 
 
 addGap();
@@ -132,15 +121,16 @@ addCategory("Fantasy Couples 🗡🏹 🌺💙 🐞🐱")
 .addPin('inlink.webp', 'BOTW Link x2 <br>LE50 by Ins***Pins.', "Owned")
 .addPin('calilink.webp', 'The Princess & Knight <br>by Califlair', "Owned")
 .addPin('Zelink.webp', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
+.addPin('skyward.webp', 'Skyward Link Profile <br>by MarshMeollow.', "Ordered")
+.addPin('zonailink.webp', 'TOTK Link Profile <br>by MarshMeollow.', "Ordered")
+.addPin('zonaizelda.webp', 'TOTK Zonai Zelda Profile <br>by MarshMeollow.', "Ordered")
+
 .addPin('donotseperate.webp', 'Do Not Seperate Them <br> by WoupsShop', "Owned")
 .addPin('beloved.webp', 'My Beloved <br> by WoupsShop', "Owned")
 .addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "Owned")
 
 .addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
 
-.addPin('skyward.webp', 'Skyward Link Profile <br>by MarshMeollow.', "Ordered")
-.addPin('zonailink.webp', 'TOTK Link Profile <br>by MarshMeollow.', "Ordered")
-.addPin('zonaizelda.webp', 'TOTK Zonai Zelda Profile <br>by MarshMeollow.', "Ordered")
 
 // =========================================================================================================================================================================================================================
 
@@ -163,6 +153,27 @@ addCategory("MYSME Pins 🌼🤍", "http://msg.cheritz.com/")
 
 // =========================================================================================================================================================================================================================
 
+addCategory("Indie Games 🗡💜")
+.addPin('hades.webp', 'Thanzag Chibi <br>by Leaphere', "Owned")
+.addPin('thanatos.webp', 'Thanatos (Hades) <br>by BlueAndRedWares', "Owned")
+.addPin('meg.webp', 'Meg (Hades) <br>by BlueAndRedWares', "Owned")
+.addPin('hypnos.webp', 'Hypnos (Hades) <br>by BlueAndRedWares', "Owned")
+.addPin('charon.webp', 'Charon (Hades) <br>by BlueAndRedWares', "Owned")
+.addPin('hk.webp', 'Hollow Knight & Radience <br>by BlueAndRedWares', "Owned")
+
+// =========================================================================================================================================================================================================================
+
+addCategory("Animal Crossing 🌺🌷🤍")
+.addPin('raymond.webp', 'Raymond Joy-Con <br>by Quirkory', "Owned")
+.addPin('raymondsleep.webp', 'Dreaming Raymond <br>by haiyun', "Ordered")
+.addPin('marshal.webp', 'Dreaming Marshal <br>by haiyun', "Ordered")
+.addPin('sherb.webp', 'Dreaming Sherb <br>by haiyun', "Ordered")
+.addPin('lolly.webp', 'Dreaming Lolly <br>by haiyun', "Ordered")
+.addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Ordered")
+.addPin('Isabelle.webp', 'Animal Crossing: New Horizons Vacation Isabelle (Seconds)', "Sold")
+
+// =========================================================================================================================================================================================================================
+
 addCategory("Genshin Impact / Anime Pins ✨")
  
 //Demon Slayer
@@ -177,7 +188,7 @@ addCategory("Genshin Impact / Anime Pins ✨")
    .addPin('SakuraKirby.webp', 'Sakura Kirby <br>by Arcade Healer', "Sold")
  
 // Hades
-.addPin('hades.webp', 'Thanzag Chibi <br>by Leaphere', "Owned")
+
     
 
 // Genshin Impact
@@ -223,8 +234,7 @@ addCategory("Cute Animal Pins 💕🌷")
 
     .addPin('Weishi.webp', 'Lily`s Hanami (September 2020 Pin Club)', "Owned")
     .addPin('WishingWell.webp', 'Bunny`s Wishing Pond (August 2020 Pin Club) <br>(Seconds)', "Owned")
-    .addPin('raymond.webp', 'Raymond Joy-Con <br>by Quirkory', "Owned")
-    .addPin('Isabelle.webp', 'Animal Crossing: New Horizons Vacation Isabelle (Seconds)', "Sold")
+    
     .addPin('BirthdayBun.webp', 'Sprinkle Birthday Bunny <br>by Sharodactylart', "Owned")
     
     .addPin('wooloo.webp', 'Wooloo ♡ Pokemon <br>by Birduyen', "Owned")
