@@ -2,7 +2,7 @@
 let categoryIndex = 0;
 
 // ==================================================================================================================================================================================================================================================
-addCategory("Ordered (do Mnie)")
+addCategory("Ordered 🛒🛍")
 .addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Ordered")
 .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Ordered")
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
