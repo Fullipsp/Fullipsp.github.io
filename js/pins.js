@@ -64,17 +64,17 @@ addCategory("Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('rapxl.webp', 'Rapunzel Xie Lian <br>by xevnne', "Owned") 
 .addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Owned")
 .addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Owned")
-.addPin('poppins.jpg', 'Fafa Poppins <br>by Pap00sh', "Owned") 
- 
-.addPin('papoosh2.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")   
-.addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")
 .addPin('peterpan.webp', 'Peter Pan Hualian <br>by simplelunacy', "Owned") 
 .addPin('hualianterrarium.webp', 'Hualian Terrarium <br>by Peonypinsco', "Owned")
+ 
+.addPin('poppins.jpg', 'Fafa Poppins <br>by Pap00sh', "Owned") 
+.addPin('papoosh2.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")   
+.addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")
 .addPin('wigglyhc.webp', 'Wiggly Fox HC <br>by naixaie', "Owned")
 .addPin('wigglyxl.webp', 'Wiggly Ferret XL <br>by naixaie', "Owned")
- 
-.addPin('xlcake.webp', 'Xie Lian Treat <br>by torikii_art', "Owned")
+ .addPin('xlcake.webp', 'Xie Lian Treat <br>by torikii_art', "Owned")
 .addPin('hccake.webp', 'Hua Cheng Treat <br>by torikii_art', "Owned")
+ 
 .addPin('magicalhualian.webp', 'Hualian Cuddles <br>by xevnne', "Owned")
  // SOLD
 .addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Sold")
