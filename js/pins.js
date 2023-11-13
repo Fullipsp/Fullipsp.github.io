@@ -189,15 +189,15 @@ addCategory("Genshin / Anime Pins ✨")
  .addPin('eggkazuha.webp', 'Kitty Kazuha <br>by angryeggmerch', "Owned")
  .addPin('heartkazuha.webp', 'Valentine Kazuha <br>by cafhune', "Owned") 
  .addPin('gachagorou.jpg', 'Chibi Gorou <br>by hideawaymelon', "Owned")
+ .addPin('ChildeTraditional.webp', 'Childe <br>by BirbsNest', "Owned")
+ .addPin('XiaoTraditional.webp', 'Xiao <br>by BirbsNest', "Owned")
+ 
+ .addPin('lunalbedo.webp', 'Kitty Albedo <br>by angryeggmerch', "Owned")
  .addPin('lengorou.webp', 'Gorou <br>by Lenacchi', "Owned")
  .addPin('lenzhongli.webp', 'Zhongli <br>by Lenacchi', "Owned")
- 
  .addPin('lenayato.webp', 'Ayato <br>by Lenacchi', "Owned")
  .addPin('lenkazuha.webp', 'Kazuha <br>by Lenacchi', "Owned")
  .addPin('lenxiao.webp', 'Xiao <br>by Lenacchi', "Owned")
-
-    .addPin('ChildeTraditional.webp', 'Childe <br>by BirbsNest', "Owned")
-    .addPin('XiaoTraditional.webp', 'Xiao <br>by BirbsNest', "Owned")
 
     .addPin('fivexiao.webp', 'Xiao <br>by Fiveonthe', "Owned")
     .addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Owned")
@@ -205,7 +205,7 @@ addCategory("Genshin / Anime Pins ✨")
     .addPin('xiao.webp', 'Xiao <br>by Sugar Cubed Studios', "Owned")
   .addPin('scara.webp', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
  .addPin('scarachibiprofile.webp', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
-  .addPin('lunalbedo.webp', 'Kitty Albedo <br>by angryeggmerch', "Owned")
+
 
 
 
