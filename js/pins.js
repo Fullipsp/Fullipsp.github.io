@@ -75,7 +75,10 @@ addCategory("Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('xlcake.webp', 'Xie Lian Treat <br>by torikii_art', "Owned")
 .addPin('hccake.webp', 'Hua Cheng Treat <br>by torikii_art', "Owned")
 .addPin('magicalhualian.webp', 'Hualian Cuddles <br>by xevnne', "Owned")
-
+ // SOLD
+.addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Sold")
+.addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Sold")
+.addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Sold") 
    
 // =========================================================================================================================================================================================================================
 addCategory("Beefleaf Pins 🍖🍃", "https://tinyurl.com/whosbeefleaf")
@@ -178,10 +181,6 @@ addCategory("Genshin Impact / Anime Pins ✨")
    .addPin('ClownKirby.webp', 'Mirror Poyo <br>by Arcade Healer', "Owned")
    .addPin('BottleKirby.webp', 'Poyo in a Bottle <br>by Arcade Healer', "Owned")
    .addPin('SakuraKirby.webp', 'Sakura Kirby <br>by Arcade Healer', "Sold")
- 
-// Hades
-
-    
 
 // Genshin Impact
     .addPin('ChildeTraditional.webp', 'Childe <br>by BirbsNest', "Owned")
@@ -299,9 +298,7 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .addPin('VioletEvergarden.webp', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "For-Sale")
 .addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "For-Sale")
 .addPin('anemo.webp', 'Anemoculus (GLOWS) <br>by Theartthatran', "For-Sale")
-.addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Sold")
-.addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Sold")
-.addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Sold") 
+
 
 
 
