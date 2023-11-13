@@ -243,10 +243,11 @@ addInlineCategory()
 
     
 addCategory("Xhilyn 🌌")
-    .addPin('Cinamoroll.webp', 'Cinnamoroll Sprinkle Bunny <br>by Xhilyn', "Owned")
-    .addPin('StarBun.webp', 'Star Bunny Witch <br>by Xhilyn', "Owned")
-    .addPin('Aurora.webp', 'Aurora Borealis Cutie (LE)<br>Thank you, SleepyIvy!', "Owned")
-    .addPin('gamerkitty.webp', 'Gamer Kitty Girl <br>Thank you SM, Kyra! ♡', "Owned")
+.addPin('gamerkitty.webp', 'Gamer Kitty Girl <br>Thank you SM, Kyra! ♡', "Owned")
+.addPin('Cinamoroll.webp', 'Cinnamoroll Sprinkle Bunny <br>by Xhilyn', "Owned")
+.addPin('StarBun.webp', 'Star Bunny Witch <br>by Xhilyn', "Owned")
+.addPin('Aurora.webp', 'Aurora Borealis Cutie (LE)<br>Thank you, SleepyIvy!', "Owned")
+    
 
 addCategory('Mamobot Fashion Nostalgia Pins 👠', "https://linktr.ee/mamobot")
     .addPin('helioschibiusa.webp', 'Chibiusa and Helios', "Owned")
