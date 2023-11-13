@@ -7,10 +7,14 @@ addCategory("Ordered 🛒🛍")
 .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Ordered")
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Ordered")
-
 .addPin('hualianwindow.webp', 'Hualian Window x2 <br>by SerenaDanmeiPins', "Ordered")
 .addPin('honger.webp', 'Flower Honger Patreon <br> by Butchinelle', "Ordered")
 .addPin('babylian.webp', 'Baby Xie Lian Patreon <br> by Butchinelle', "Ordered")
+
+.addPin('gremlinqr.webp', 'Gremlin Qi Rong <br> by Peonypinsco', "Ordered")
+.addPin('gremlinhc.webp', 'Gremlin Hua Cheng <br> by Peonypinsco', "Ordered")
+.addPin('gremlinhx.webp', 'Gremlin He Xuan <br> by Peonypinsco', "Ordered")
+.addPin('gremlinbwx.webp', 'Gremlin Bai Wuxiang <br> by Peonypinsco', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
