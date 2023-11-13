@@ -167,7 +167,7 @@ addCategory("Animal Crossing Pins 🌺🌷🤍")
 .addPin('sherb.webp', 'Dreaming Sherb <br>by haiyun', "Owned")
 .addPin('lolly.webp', 'Dreaming Lolly <br>by haiyun', "Owned")
 .addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Owned")
-.addPin('Isabelle.webp', 'Animal Crossing: New Horizons Isabelle <br>by Weishi', "Sold")
+.addPin('Isabelle.webp', 'Vacation Isabelle <br>by Weishi', "Sold")
 
 // =========================================================================================================================================================================================================================
 
