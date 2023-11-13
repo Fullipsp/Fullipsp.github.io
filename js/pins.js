@@ -169,18 +169,19 @@ addCategory("Animal Crossing Pins 🌺🌷🤍")
 
 // =========================================================================================================================================================================================================================
 
-addCategory("Genshin Impact / Anime Pins ✨")
- 
-//Demon Slayer
-   .addPin('obamitsu3.webp', 'Obanai & Mitsuri 3 <br>by Nandemopins', "Owned")
-   .addPin('obamitsu1.webp', 'Obanai & Mitsuri 1 <br>by Nandemopins', "Owned")
-   .addPin('obamitsu2.webp', 'Obanai & Mitsuri 2 <br>by Nandemopins', "Owned")
-
+addCategory("Genshin / Anime Pins ✨")
  // Kirby
    .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️ <br>by Arcade Healer', "Owned")
    .addPin('ClownKirby.webp', 'Mirror Poyo <br>by Arcade Healer', "Owned")
    .addPin('BottleKirby.webp', 'Poyo in a Bottle <br>by Arcade Healer', "Owned")
    .addPin('SakuraKirby.webp', 'Sakura Kirby <br>by Arcade Healer', "Sold")
+ 
+//Demon Slayer
+   .addPin('obamitsu3.webp', 'Obanai & Mitsuri 3 <br>by Nandemopins', "Owned")
+   .addPin('obamitsu1.webp', 'Obanai & Mitsuri 1 <br>by Nandemopins', "Owned")
+   .addPin('obamitsu2.webp', 'Obanai & Mitsuri 2 <br>by Nandemopins', "Owned")
+   .addPin('mouseakaza.webp', 'Chibi Cute Akaza <br>by MailMousePins', "Owned")
+   .addPin('crazyakaza.webp', 'Crazy Chibi Akaza <br>by ???', "Owned")
 
 // Genshin Impact
     .addPin('ChildeTraditional.webp', 'Childe <br>by BirbsNest', "Owned")
