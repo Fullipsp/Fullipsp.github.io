@@ -15,6 +15,8 @@ addCategory("Ordered 🛒🛍")
 .addPin('gremlinhc.webp', 'Gremlin Hua Cheng <br> by Peonypinsco', "Ordered")
 .addPin('gremlinhx.webp', 'Gremlin He Xuan <br> by Peonypinsco', "Ordered")
 .addPin('gremlinbwx.webp', 'Gremlin Bai Wuxiang <br> by Peonypinsco', "Ordered")
+.addPin('megumiheadphones.webp', 'Lo-Fi Megumi <br> by Flying Canoe Pins', "Ordered")
+.addPin('megumicream.webp', 'Ice Cream Megumi <br> by Flying Canoe Pins', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
