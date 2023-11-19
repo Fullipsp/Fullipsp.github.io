@@ -7,7 +7,7 @@ addCategory("Ordered 🛒🛍")
 .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Ordered")
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Ordered")
-.addPin('hualianwindow.webp', 'Hualian Window x2 <br>by SerenaDanmeiPins', "Owned")
+
 .addPin('honger.webp', 'Flower Honger Patreon <br> by Butchinelle', "Ordered")
 .addPin('babylian.webp', 'Baby Xie Lian Patreon <br> by Butchinelle', "Ordered")
 
@@ -59,8 +59,12 @@ addCategory("Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 
 .addPin('derpyhc.webp', 'Super Derpy Hua <br> LE15 by crystal****ppe', "Owned")
 .addPin('derpyxl.webp', 'Super Derpy Lian <br> LE15 by crystal****ppe', "Owned")
+.addPin('chromahc.webp', 'Chroma V2 Hua <br> LE20 by crystal****ppe', "Owned")
+.addPin('chromaxl.webp', 'Chroma V2 Lian <br> LE20 by crystal****ppe', "Owned")
+.addPin('hualianwindow.webp', 'Hualian Window x2 <br>by SerenaDanmeiPins', "Owned")
 .addPin('summerxl.webp', 'Summer Xie Lian <br>by Peonypinsco', "Owned")
 .addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "Owned")
+
 .addPin('lilypadxl.webp', 'Lilypad Xie Lian <br>by Peonypinsco', "Owned")
 .addPin('lilypadhc.webp', 'Lilypad Hua Cheng <br>by Peonypinsco', "Owned")
 .addPin('bachhualian2.jpg', 'Lilypad Hualian <br>by Bachoochi', "Owned")
@@ -68,20 +72,22 @@ addCategory("Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('ecstasy.webp', 'Pleasure&Ecstasy Hualian <br>by ihavetobenkyou', "Owned")
 .addPin('raphc.webp', 'Rapunzel Hua Cheng <br>by xevnne', "Owned") 
 .addPin('rapxl.webp', 'Rapunzel Xie Lian <br>by xevnne', "Owned") 
+.addPin('magicalhualian.webp', 'Hualian Cuddles <br>by xevnne', "Owned")
+ 
 .addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Owned")
 .addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Owned")
 .addPin('peterpan.webp', 'Peter Pan Hualian <br>by simplelunacy', "Owned") 
 .addPin('hualianterrarium.webp', 'Hualian Terrarium <br>by Peonypinsco', "Owned")
- 
 .addPin('poppins.jpg', 'Fafa Poppins <br>by Pap00sh', "Owned") 
 .addPin('papoosh2.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")   
 .addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")
+ 
 .addPin('wigglyhc.webp', 'Wiggly Fox HC <br>by naixaie', "Owned")
 .addPin('wigglyxl.webp', 'Wiggly Ferret XL <br>by naixaie', "Owned")
  .addPin('xlcake.webp', 'Xie Lian Treat <br>by torikii_art', "Owned")
 .addPin('hccake.webp', 'Hua Cheng Treat <br>by torikii_art', "Owned")
  
-.addPin('magicalhualian.webp', 'Hualian Cuddles <br>by xevnne', "Owned")
+
  // SOLD
 .addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Sold")
 .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Sold")
