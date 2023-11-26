@@ -3,7 +3,11 @@ let categoryIndex = 0;
 
 addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 
+.addPin('inzelda.webp', 'BOTW Zelda <br>LE50 by Ins***Pins', "Owned")
 .addPin('Clefairy.webp', 'Clefairy Tamagotchi <br>by Arcade Healer', "For-Sale")
+.addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Owned")
+.addPin('fivethoma.webp', 'Thoma <br>by Fiveonthe', "Owned")
+.addPin('lunalbedo.webp', 'Kitty Albedo <br>by angryeggmerch', "Owned")
 
 .addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "For-Sale")
 .addPin('childechibiprofile.webp', 'Chibi Childe Bust <br>by AkuoArt', "For-Sale")
