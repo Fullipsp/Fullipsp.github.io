@@ -8,6 +8,7 @@ const header = `
             <a class="link" href="./drawings.html"> <span class="material-icons">draw</span> My Drawings</a>
             <a class="link" href="./pins.html"> <span class="material-icons">collections</span> My Pins</a>
             <a class="link" href="./figures.html"> <span class="material-icons">settings_accessibility</span> My Figures</a>
+            <a class="link" href="./for-sale.html"> <span class="material-icons">shopping_bag</span> For Sale</a>
         </div>
     </header>
 `;
