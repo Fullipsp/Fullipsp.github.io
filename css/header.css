@@ -44,6 +44,7 @@ header .link {
     cursor: pointer;
     transition: color 0.2s, background-color 0.2s;
     border-radius: 8px;
+    text-wrap: nowrap;
 }
 
 
@@ -80,7 +81,7 @@ header .links {
         margin-left: auto;
     }
 }
-@media (max-width: 580px) {
+@media (max-width: 600px) {
     header .title {
         font-size: 24px;
         margin-left: auto;
@@ -98,7 +99,7 @@ header .links {
     }
 }
 
-@media (max-width: 429px) {
+@media (max-width: 540px) {
     header {
         height: initial;
         padding-bottom: 5px;

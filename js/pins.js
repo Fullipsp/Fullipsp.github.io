@@ -287,30 +287,6 @@ addCategory('Mamobot Fashion Nostalgia Pins 👠', "https://linktr.ee/mamobot")
 
 // ------------------------------------------------------------------------------------------------
 
-addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
-
-.addPin('Clefairy.webp', 'Clefairy Tamagotchi <br>by Arcade Healer', "For-Sale")
-
-.addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "For-Sale")
-.addPin('childechibiprofile.webp', 'Chibi Childe Bust <br>by AkuoArt', "For-Sale")
-.addPin('xiaochibiprofile.webp', 'Chibi Xiao <br>by AkuoArt', "For-Sale")
-.addPin('albedochibiprofile.webp', 'Chibi Albedo <br>by AkuoArt', "For-Sale")
-.addPin('zhonglichibiprofile.webp', 'Chibi Zhongli <br>by AkuoArt', "For-Sale") 
-.addPin('luminechibiprofile.webp', 'Chibi Lumine <br>by AkuoArt', "For-Sale")
-.addPin('bunnywitch.jpg', 'Snow Bunny Witch <br>by Mamobot', "For-Sale")
- 
-.addPin('lumine.webp', 'Lumine <br>by Sugar Cubed Studios', "For-Sale")
-.addPin('childebby.webp', 'Childe (Tartaglia) <br>by Sugar Cubed Studios', "For-Sale")
-
-.addPin('promise.webp', 'Snezhnayan Promise <br>by Hollichoo', "For-Sale")
-.addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "For-Sale")
-.addPin('VioletEvergarden.webp', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "For-Sale")
-.addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "For-Sale")
-.addPin('anemo.webp', 'Anemoculus (GLOWS) <br>by Theartthatran', "For-Sale")
-
-
-
-
 
 function closePin() {
     const el = document.getElementById("preview");
