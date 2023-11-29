@@ -9,9 +9,9 @@ addCategory("Ordered 🛒🛍")
 .addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Ordered")
 .addPin('honger.webp', 'Flower Honger Patreon <br> by Butchinelle', "Ordered")
 .addPin('babylian.webp', 'Baby Xie Lian Patreon <br> by Butchinelle', "Ordered")
-.addPin('megumiheadphones.webp', 'Lo-Fi Megumi <br> by Flying Canoe Pins', "Ordered")
 
-.addPin('megumicream.webp', 'Ice Cream Megumi <br> by Flying Canoe Pins', "Ordered")
+
+
 .addPin('gremlinqr.webp', 'Gremlin Qi Rong <br> by Peonypinsco', "Ordered")
 .addPin('gremlinhc.webp', 'Gremlin Hua Cheng <br> by Peonypinsco', "Ordered")
 .addPin('gremlinhx.webp', 'Gremlin He Xuan <br> by Peonypinsco', "Ordered")
@@ -182,18 +182,19 @@ addCategory("Animal Crossing Pins 🌺🌷🤍")
 
 // =========================================================================================================================================================================================================================
 addCategory("Genshin / Anime Pins ✨")
- // Kirby
-   .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️ <br>by Arcade Healer', "Owned")
-   .addPin('ClownKirby.webp', 'Mirror Poyo <br>by Arcade Healer', "Owned")
-   .addPin('BottleKirby.webp', 'Poyo in a Bottle <br>by Arcade Healer', "Owned")
-   .addPin('SakuraKirby.webp', 'Sakura Kirby <br>by Arcade Healer', "Sold")
- 
-//Demon Slayer
+//Anime
+   .addPin('megumicream.webp', 'Ice Cream Megumi <br> by Flying Canoe Pins', "Owned")
    .addPin('obamitsu3.webp', 'Obanai & Mitsuri 3 <br>by Nandemopins', "Owned")
    .addPin('obamitsu1.webp', 'Obanai & Mitsuri 1 <br>by Nandemopins', "Owned")
    .addPin('obamitsu2.webp', 'Obanai & Mitsuri 2 <br>by Nandemopins', "Owned")
    .addPin('mouseakaza.webp', 'Chibi Cute Akaza <br>by MailMousePins', "Owned")
    .addPin('crazyakaza.webp', 'Crazy Chibi Akaza <br>by ???', "Owned")
+
+ // Kirby
+   .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️ <br>by Arcade Healer', "Owned")
+   .addPin('ClownKirby.webp', 'Mirror Poyo <br>by Arcade Healer', "Owned")
+   .addPin('BottleKirby.webp', 'Poyo in a Bottle <br>by Arcade Healer', "Owned")
+   .addPin('SakuraKirby.webp', 'Sakura Kirby <br>by Arcade Healer', "Sold")
 
 // Genshin Impact
  .addPin('eggkazuha.webp', 'Kitty Kazuha <br>by angryeggmerch', "Owned")
