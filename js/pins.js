@@ -7,7 +7,7 @@ addCategory("Ordered 🛒🛍")
 .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Ordered")
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
-.addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Ordered")
+.addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Owned")
 .addPin('honger.webp', 'Flower Honger Patreon <br> by Butchinelle', "Ordered")
 .addPin('babylian.webp', 'Baby Xie Lian Patreon <br> by Butchinelle', "Ordered")
 
