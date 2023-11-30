@@ -10,12 +10,6 @@ addCategory("Ordered 🛒🛍")
 .addPin('honger.webp', 'Flower Honger Patreon <br> by Butchinelle', "Ordered")
 .addPin('babylian.webp', 'Baby Xie Lian Patreon <br> by Butchinelle', "Ordered")
 
-.addPin('gremlinqr.webp', 'Gremlin Qi Rong <br> by Peonypinsco', "Owned")
-.addPin('gremlinhc.webp', 'Gremlin Hua Cheng <br> by Peonypinsco', "Owned")
-.addPin('gremlinhx.webp', 'Gremlin He Xuan <br> by Peonypinsco', "Owned")
-.addPin('gremlinbwx.webp', 'Gremlin Bai Wuxiang <br> by Peonypinsco', "Owned")
-
-
 addGap();
 // =====================================================================================================================================================================================================================================================
 
@@ -27,6 +21,15 @@ addCategory("Foxipins MXTX Windows")
 .addPin('lwjpanel.jpg', 'Lan Wangji Window <br>by Foxipins', "Waiting")
 .addPin('xichen.jpg', 'Lan Xichen Window <br>by Foxipins', "Waiting")
 .addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Waiting")
+
+// =====================================================================================================================================================================================================================================================
+
+addCategory("Gremlin Calamity Pins 💚❤️🖤🤍")
+.addPin('gremlinqr.webp', 'Gremlin Qi Rong <br> by Peonypinsco', "Owned")
+.addPin('gremlinhc.webp', 'Gremlin Hua Cheng <br> by Peonypinsco', "Owned")
+.addPin('gremlinhx.webp', 'Gremlin He Xuan <br> by Peonypinsco', "Owned")
+.addPin('gremlinbwx.webp', 'Gremlin Bai Wuxiang <br> by Peonypinsco', "Owned")
+
 
 // ========================================================================================================================================================================================================================
 addCategory("Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
