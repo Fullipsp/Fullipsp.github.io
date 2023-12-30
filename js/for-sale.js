@@ -6,10 +6,8 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .addPin('inlink.webp', 'BOTW Link <br>LE50 by Ins***Pins.', "For-Sale")
 .addPin('Clefairy.webp', 'Clefairy Tamagotchi <br>by Arcade Healer', "For-Sale")
 .addPin('megumiheadphones.webp', 'Lo-Fi Megumi <br> by Flying Canoe Pins', "For-Sale")
-.addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "For-Sale")
 .addPin('fivethoma.webp', 'Thoma <br>by Fiveonthe', "For-Sale")
 .addPin('lunalbedo.webp', 'Kitty Albedo <br>by angryeggmerch', "For-Sale")
-    
 .addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "For-Sale")
 .addPin('childechibiprofile.webp', 'Chibi Childe Bust <br>by AkuoArt', "For-Sale")
 .addPin('xiaochibiprofile.webp', 'Chibi Xiao <br>by AkuoArt', "For-Sale")
@@ -25,6 +23,7 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "For-Sale")
 .addPin('anemo.webp', 'Anemoculus (GLOWS) <br>by Theartthatran', "For-Sale")
 .addPin('bunnywitch.jpg', 'Snow Bunny Witch <br>by Mamobot', "For-Sale")
+.addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Sold")
 .addPin('FS.jpg', 'Hualian Window <br>by SerenaDanmeiPins', "Sold")
 
 // ------------------------------------------------------------------------------------------------
