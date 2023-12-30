@@ -10,7 +10,7 @@ addCategory("Ordered 🛒🛍")
 .addPin('babylian.webp', 'Baby Xie Lian Patreon <br> by Butchinelle', "Ordered")
 .addPin('kaguprez.webp', 'Love is War Valentines <br> by FantasyChibiPns', "Ordered")
 .addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Ordered")
-.addPin('ottzelda.webp', 'Ocarina of Time Zelda Pin <br>LE50 by PastelShootingStar', "Ordered")
+.addPin('ootzelda.webp', 'Ocarina of Time Zelda Pin <br>LE50 by PastelShootingStar', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
