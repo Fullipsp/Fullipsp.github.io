@@ -40,22 +40,23 @@ addCategory("Shoujo / Game Nendoroids")
 .addFigure('shirogane.webp', 'Shirogane Miyuki <br>Love is War', "Owned")
 .addFigure('kaguya.webp', 'Shinomiya Kaguya <br>Love is War', "Owned")
 .addFigure('miyamura.webp', 'Miyamura Izumi <br>Horimiya', "Owned")
+.addFigure('02.webp', 'Zero Two <br>Darling in the Franxx', "Owned")
 .addFigure('miku.webp', 'Miku Nakano <br>Quintessential Quintuplets', "Sold")
 
 // =================================================================================================================
 addCategory("Shounen Figures")
-
-.addFigure('yuta.webp', 'Okkotsu Yuta <br>Jujutsu Kaisen', "Owned")
-.addFigure('gojo.webp', 'Gojo Satoru <br>Jujutsu Kaisen', "Owned")
-.addFigure('todoroki.webp', 'Shoto Torodoki Movie Ver. <br>My Hero Academia', "Owned")
 .addFigure('giyu.webp', 'Tomioka Giyu <br>Demon Slayer', "Owned")
 .addFigure('rengoku.webp', 'Rengoku Kyojuro <br>Demon Slayer', "Owned")
 .addFigure('uzui.jpg', 'Uzui Tengen <br>Demon Slayer', "Owned")
+.addFigure('gemuzui.webp', 'Uzui Tengen G.E.M 1/8 Scale', "Owned")
 .addFigure('muichirochoko.webp', 'Tokito Muichiro Prize Fig <br>Demon Slayer', "Owned")
 .addFigure('giyuchoko.webp', 'Chokonose Giyu T. <br>Demon Slayer', "Owned")
-.addFigure('hatsune.webp', 'Hatsune Miku Summer Prize Fig', "Owned")
-.addFigure('gemuzui.webp', 'Uzui Tengen G.E.M 1/8 Scale', "Owned")
-.addFigure('02.webp', 'Zero Two <br>Darling in the Franxx', "Owned")
+.addFigure('hatsune.webp', 'Hatsune Miku Summer Prize Fig', "Sold")
+    
+.addFigure('yuta.webp', 'Okkotsu Yuta <br>Jujutsu Kaisen', "Owned")
+.addFigure('gojo.webp', 'Gojo Satoru <br>Jujutsu Kaisen', "Owned")
+.addFigure('todoroki.webp', 'Shoto Torodoki Movie Ver. <br>My Hero Academia', "Owned")
+
 .addFigure('dumpling.webp', 'Gyoza Fairy <br>Dorohedoro', "Owned")
 
 // =================================================================================================================
