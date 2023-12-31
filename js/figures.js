@@ -6,7 +6,7 @@ addCategory("Pre-Ordered Nendos")
 .addFigure('marius.png', 'Marius von Hagen <br>Tears of Themis', "Ordered")
 .addFigure('luke.png', 'Luke Pearce <br>Tears of Themis', "Ordered")
 
-
+// =================================================================================================================
 
 addCategory("MXTX Figures")
 .addFigure('reachheart.webp', 'Until I Reach Your Heart', "Owned")
@@ -16,10 +16,18 @@ addCategory("MXTX Figures")
 .addFigure('wwx.webp', 'Wei Wuxian DX', "Owned")
 .addFigure('lwj.webp', 'Lan Wangji DX', "Owned")
 .addFigure('yllzwwx.webp', 'YLLZ Wei Wuxian', "Owned")
-
+// =================================================================================================================
+addCategory("Attack on Titan Nendoroids")
+.addFigure('eren.webp', 'Eren Yeager', "Owned")
+.addFigure('mikasa.webp', 'Mikasa Ackerman', "Owned")
+.addFigure('armin.webp', 'Armin Arlert', "Owned")
+.addFigure('levi.webp', 'Levi Ackerman', "Owned")
+.addFigure('s4eren.webp', 'Eren Yeager (Season 4)', "Owned")
+.addFigure('s4mikasa.webp', 'Eren Yeager (Season 4)', "Owned")
+.addFigure('santa.webp', 'Eren Yeager (Santa ver.)', "Owned")
 
 addCategory("Shoujo / Game Nendoroids")
-.addFigure('hollowknight.webp', 'Hollow Knight', "Ordered")
+.addFigure('hollowknight.webp', 'Hollow Knight', "Owned")
 
 .addFigure('aether.webp', 'Aether', "Owned")
 .addFigure('lumine.webp', 'Lumine', "Owned")
@@ -37,15 +45,12 @@ addCategory("Shoujo / Game Nendoroids")
     
 .addFigure('miku.webp', 'Miku Nakano <br>Quintessential Quintuplets', "Sold")
 
-
+// =================================================================================================================
 addCategory("Shounen Figures")
 .addFigure('yuta.webp', 'Okkotsu Yuta', "Owned")
 .addFigure('gojo.webp', 'Gojo Satoru', "Owned")
 
-.addFigure('eren.webp', 'Eren Yeager', "Owned")
-.addFigure('mikasa.webp', 'Mikasa Ackerman', "Owned")
-.addFigure('levi.webp', 'Levi Ackerman', "Owned")
-.addFigure('s4eren.webp', 'Eren Yeager (Season 4)', "Owned")
+
 .addFigure('todoroki.webp', 'Shoto Torodoki Movie Ver. <br>My Hero Academia', "Owned")
 
 
@@ -59,6 +64,7 @@ addCategory("Shounen Figures")
     
 .addFigure('dumpling.webp', 'Gyoza Fairy <br>Dorohedoro', "Owned")
 
+// =================================================================================================================
 
 function closeFigure() {
     const el = document.getElementById("preview");
