@@ -44,6 +44,7 @@ addCategory("Shoujo / Game Nendoroids")
 
 // =================================================================================================================
 addCategory("Shounen Figures")
+
 .addFigure('yuta.webp', 'Okkotsu Yuta <br>Jujutsu Kaisen', "Owned")
 .addFigure('gojo.webp', 'Gojo Satoru <br>Jujutsu Kaisen', "Owned")
 .addFigure('todoroki.webp', 'Shoto Torodoki Movie Ver. <br>My Hero Academia', "Owned")
@@ -52,6 +53,7 @@ addCategory("Shounen Figures")
 .addFigure('uzui.jpg', 'Uzui Tengen <br>Demon Slayer', "Owned")
 .addFigure('muichirochoko.webp', 'Tokito Muichiro Prize Fig <br>Demon Slayer', "Owned")
 .addFigure('giyuchoko.webp', 'Chokonose Giyu T. <br>Demon Slayer', "Owned")
+.addFigure('hatsune.webp', 'Hatsune Miku Summer Prize Fig', "Owned")
 .addFigure('gemuzui.webp', 'Uzui Tengen G.E.M 1/8 Scale', "Owned")
 .addFigure('02.webp', 'Zero Two <br>Darling in the Franxx', "Owned")
 .addFigure('dumpling.webp', 'Gyoza Fairy <br>Dorohedoro', "Owned")
