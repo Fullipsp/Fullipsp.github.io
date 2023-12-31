@@ -1,6 +1,12 @@
 // cSpell:disable
 let categoryIndex = 0;
 
+addCategory("Pre-Ordered Nendos")
+.addFigure('muichironendo.webp', 'Tokito Muichiro <br>Demon Slayer', "Ordered")
+.addFigure('marius.png', 'Marius von Hagen <br>Tears of Themis', "Ordered")
+.addFigure('luke.png', 'Luke Pearce <br>Tears of Themis', "Ordered")
+
+
 
 addCategory("MXTX Figures")
 .addFigure('reachheart.webp', 'Until I Reach Your Heart', "Owned")
@@ -14,7 +20,7 @@ addCategory("MXTX Figures")
 
 addCategory("Shoujo / Game Nendoroids")
 .addFigure('hollowknight.webp', 'Hollow Knight', "Ordered")
-.addFigure('marius.webp', 'Marius von Hagen', "Ordered")
+
 .addFigure('aether.webp', 'Aether', "Owned")
 .addFigure('lumine.webp', 'Lumine', "Owned")
 .addFigure('ozymandias.webp', 'Ozymandias <br>Fate Grand Order', "Owned")
@@ -42,7 +48,7 @@ addCategory("Shounen Figures")
 .addFigure('s4eren.webp', 'Eren Yeager (Season 4)', "Owned")
 .addFigure('todoroki.webp', 'Shoto Torodoki Movie Ver. <br>My Hero Academia', "Owned")
 
-.addFigure('muichironendo.webp', 'Tokito Muichiro', "Ordered")
+
 .addFigure('giyu.webp', 'Tomioka Giyu', "Owned")
 .addFigure('rengoku.webp', 'Rengoku Kyojuro', "Owned")
 .addFigure('uzui.jpg', 'Uzui Tengen', "Owned")
