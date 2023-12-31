@@ -7,7 +7,6 @@ addCategory("Pre-Ordered Nendos")
 .addFigure('luke.png', 'Luke Pearce <br>Tears of Themis', "Ordered")
 
 // =================================================================================================================
-
 addCategory("MXTX Figures")
 .addFigure('reachheart.webp', 'Until I Reach Your Heart', "Owned")
 .addFigure('amonglotus.webp', 'Among The Lotus', "Owned")
@@ -25,43 +24,35 @@ addCategory("Attack on Titan Nendoroids")
 .addFigure('s4eren.webp', 'Eren Yeager (Season 4)', "Owned")
 .addFigure('s4mikasa.webp', 'Eren Yeager (Season 4)', "Owned")
 .addFigure('santa.webp', 'Eren Yeager (Santa ver.)', "Owned")
-
+// =======================================================================================================================
 addCategory("Shoujo / Game Nendoroids")
 .addFigure('hollowknight.webp', 'Hollow Knight', "Owned")
-
 .addFigure('aether.webp', 'Aether', "Owned")
 .addFigure('lumine.webp', 'Lumine', "Owned")
 .addFigure('ozymandias.webp', 'Ozymandias <br>Fate Grand Order', "Owned")
 .addFigure('link.webp', 'Link <br>Breath of the Wild', "Owned")
 .addFigure('sylvanas.webp', 'Sylvanas <br>World of Warcraft', "Owned")
-    
 .addFigure('zag.jpg', 'Zagreus <br>Hades', "Owned")
+    
 .addFigure('kogitsunemaru.webp', 'Kogitsunemaru <br>Touken Ranbu', "Owned")
 .addFigure('mizuki.webp', 'Mikazuki <br>Touken Ranbu', "Owned")
 .addFigure('joker.webp', 'Joker <br>Persona 5', "Owned")
 .addFigure('shirogane.webp', 'Shirogane Miyuki', "Owned")
 .addFigure('kaguya.webp', 'Shinomiya Kaguya', "Owned")
 .addFigure('miyamura.webp', 'Miyamura Izumi <br>Horimiya', "Owned")
-    
 .addFigure('miku.webp', 'Miku Nakano <br>Quintessential Quintuplets', "Sold")
 
 // =================================================================================================================
 addCategory("Shounen Figures")
 .addFigure('yuta.webp', 'Okkotsu Yuta', "Owned")
 .addFigure('gojo.webp', 'Gojo Satoru', "Owned")
-
-
 .addFigure('todoroki.webp', 'Shoto Torodoki Movie Ver. <br>My Hero Academia', "Owned")
-
-
 .addFigure('giyu.webp', 'Tomioka Giyu', "Owned")
 .addFigure('rengoku.webp', 'Rengoku Kyojuro', "Owned")
 .addFigure('uzui.jpg', 'Uzui Tengen', "Owned")
 .addFigure('muichiro.webp', 'Chokonose Muichiro', "Owned")
 .addFigure('giyuchoko.webp', 'Chokonose Giyu T.', "Owned")
-    
 .addFigure('02.webp', 'Zero Two <br>Darling in the Franxx', "Owned")
-    
 .addFigure('dumpling.webp', 'Gyoza Fairy <br>Dorohedoro', "Owned")
 
 // =================================================================================================================
