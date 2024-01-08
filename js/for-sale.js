@@ -64,8 +64,8 @@ addCategory("Sold Pins 👠")
     .addPin('SakuraKirby.webp', 'Sakura Kirby <br>by Arcade Healer', "Sold")
     .addPin('Isabelle.webp', 'Vacation Isabelle <br>by Weishi', "Sold")
     .addPin('froggie pin bag.webp', 'Froggie Pond Pal <br>by Blushsprout', "Sold")
-    .addPin('daffodil.webp', 'Daffodil Duckling Floranimals Series <br>by Blushsprout', "Sold")
-    .addPin('kitten.webp', 'Cherry Blossom Spring Kitten Mini Pin <br>by Blushsprout', "Sold")
+    .addPin('daffodil.webp', 'Daffodil Duckling Mini <br>by Blushsprout', "Sold")
+    .addPin('kitten.webp', 'Cherry Blossom Kitten Mini <br>by Blushsprout', "Sold")
     .addPin('egg.webp', 'Egg Froggie Mini Pin <br>by Rainylune', "Sold")
 
 // ------------------------------------------------------------------------------------------------
