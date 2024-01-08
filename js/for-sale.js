@@ -25,9 +25,6 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .addPin('VioletEvergarden.webp', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "For-Sale")
 .addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "For-Sale")
 .addPin('anemo.webp', 'Anemoculus (GLOWS) <br>by Theartthatran', "For-Sale")
-.addPin('bunnywitch.jpg', 'Snow Bunny Witch <br>by Mamobot', "Sold")
-.addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Sold")
-.addPin('FS.jpg', 'Hualian Window <br>by SerenaDanmeiPins', "Sold")
 
 addGap();
 // =======================================================================================================================================================================================================================
@@ -51,10 +48,13 @@ addCategory("Sold Pins 👠")
     .addPin('WickedLadyMirror.webp', 'Wicked Lady Mirror', "Sold")
     .addPin('Nethelenia.webp', 'Nethelenia Mirror', "Sold")
     .addPin('MermaidMoon.webp', 'Sailor Moon Chibi Mermaid', "Sold")
+    .addPin('bunnywitch.jpg', 'Snow Bunny Witch <br>by Mamobot', "Sold")
     .addPin('bunneh.jpg', 'Snow Witch Bunny', "Sold")
     .addPin('lettuce.jpg', 'Lettuce by Theartthatran', "Sold")
+    .addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Sold")
     
             // TGCF
+    .addPin('FS.jpg', 'Hualian Window <br>by SerenaDanmeiPins', "Sold")
     .addPin('chibileaf.jpg', 'Chibi Beefleaf <br>by jeanadraws', "Sold")
     .addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Sold")
     .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Sold")
