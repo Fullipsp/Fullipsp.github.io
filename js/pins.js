@@ -65,21 +65,21 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('raphc.webp', 'Rapunzel Hua Cheng <br>by xevnne', "Owned") 
 .addPin('rapxl.webp', 'Rapunzel Xie Lian <br>by xevnne', "Owned") 
 .addPin('honger.webp', 'Flower Honger Patreon <br> by Butchinelle', "Owned")
+
+.addPin('gremlinqr.webp', 'Gremlin Qi Rong <br> by Peonypinsco', "Owned")
+.addPin('gremlinhc.webp', 'Gremlin Hua Cheng <br> by Peonypinsco', "Owned")
+.addPin('gremlinhx.webp', 'Gremlin He Xuan <br> by Peonypinsco', "Owned")
+.addPin('gremlinbwx.webp', 'Gremlin Bai Wuxiang <br> by Peonypinsco', "Owned")
+
+
 .addPin('magicalhualian.webp', 'Hualian Cuddles <br>by xevnne', "Owned")
- 
 .addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Owned")
 .addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Owned")
 .addPin('peterpan.webp', 'Peter Pan Hualian <br>by simplelunacy', "Owned") 
 .addPin('hualianterrarium.webp', 'Hualian Terrarium <br>by Peonypinsco', "Owned")
 .addPin('poppins.jpg', 'Fafa Poppins <br>by Pap00sh', "Owned") 
 .addPin('papoosh2.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")   
-.addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")
- 
-.addPin('gremlinqr.webp', 'Gremlin Qi Rong <br> by Peonypinsco', "Owned")
-.addPin('gremlinhc.webp', 'Gremlin Hua Cheng <br> by Peonypinsco', "Owned")
-.addPin('gremlinhx.webp', 'Gremlin He Xuan <br> by Peonypinsco', "Owned")
-.addPin('gremlinbwx.webp', 'Gremlin Bai Wuxiang <br> by Peonypinsco', "Owned")
- 
+.addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Owned") 
 .addPin('wigglyhc.webp', 'Wiggly Fox HC <br>by naixaie', "Owned")
 .addPin('wigglyxl.webp', 'Wiggly Ferret XL <br>by naixaie', "Owned")
  .addPin('xlcake.webp', 'Xie Lian Treat <br>by torikii_art', "Owned")
