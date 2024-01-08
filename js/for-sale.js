@@ -31,8 +31,8 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 
 addGap();
 // =======================================================================================================================================================================================================================
-addCategory('Mamobot Fashion Nostalgia Pins 👠', "https://linktr.ee/mamobot")
-
+addCategory("Sold Pins 👠")
+           // MAMOBOT
     .addPin('helioschibiusa.webp', 'Chibiusa and Helios', "Owned")
     .addPin('SSailor.webp', 'Super Sailor Moon', "Sold")
     .addPin('SSerenity.webp', 'Serenity Sailor Moon', "Sold")
@@ -53,8 +53,14 @@ addCategory('Mamobot Fashion Nostalgia Pins 👠', "https://linktr.ee/mamobot")
     .addPin('MermaidMoon.webp', 'Sailor Moon Chibi Mermaid', "Sold")
     .addPin('bunneh.jpg', 'Snow Witch Bunny', "Sold")
     .addPin('lettuce.jpg', 'Lettuce by Theartthatran', "Sold")
+    
+            // TGCF
     .addPin('chibileaf.jpg', 'Chibi Beefleaf <br>by jeanadraws', "Sold")
+    .addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Sold")
+    .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Sold")
+    .addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Sold") 
 
+         // Kirby / Animal pins
     .addPin('SakuraKirby.webp', 'Sakura Kirby <br>by Arcade Healer', "Sold")
     .addPin('Isabelle.webp', 'Vacation Isabelle <br>by Weishi', "Sold")
     .addPin('froggie pin bag.webp', 'Froggie Pond Pal <br>by Blushsprout', "Sold")
