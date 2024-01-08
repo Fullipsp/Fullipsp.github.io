@@ -182,6 +182,8 @@ addCategory("Animal Crossing Pins 🌺🌷🤍")
 addCategory("Genshin / Anime Pins ✨")
 
 .addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
+.addPin('kaguprez.webp', 'Love is War Valentines <br> by FantasyChibiPns', "Owned")
+ 
 //Anime
    .addPin('megumicream.webp', 'Ice Cream Megumi <br> by Flying Canoe Pins', "Owned")
    .addPin('megumiheadphones.webp', 'Lo-Fi Megumi <br> by Flying Canoe Pins', "For-Sale")
@@ -190,8 +192,6 @@ addCategory("Genshin / Anime Pins ✨")
    .addPin('obamitsu2.webp', 'Obanai & Mitsuri 2 <br>by Nandemopins', "Owned")
    .addPin('mouseakaza.webp', 'Chibi Cute Akaza <br>by MailMousePins', "Owned")
    .addPin('crazyakaza.webp', 'Crazy Chibi Akaza <br>by ???', "Owned")
-
-.addPin('kaguprez.webp', 'Love is War Valentines <br> by FantasyChibiPns', "Owned")
 
  // Kirby
    .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️ <br>by Arcade Healer', "Owned")
