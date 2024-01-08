@@ -13,6 +13,8 @@ addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
 .addPin('yinyu.jpg', 'Yin Yu Window <br>LE65 by Foxipins', "Owned")
+.addPin('wenning.webp', 'Wen Ning Window <br>LE65 by Foxipins', "Ordered")
+.addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Ordered")
 .addPin('peiming.jpg', 'Pei Ming Window <br>LE65 by Foxipins', "Ordered")
 .addPin('lingwen.jpg', 'Ling Wen Window <br>LE65 by Foxipins', "Ordered")
 .addPin('shiwudu.jpg', 'Shi Wudu Window <br>LE65 by Foxipins', "Ordered")
