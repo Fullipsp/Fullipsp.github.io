@@ -20,6 +20,7 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
     
 .addPin('lumine.webp', 'Lumine <br>by Sugar Cubed Studios', "For-Sale")
 .addPin('promise.webp', 'Snezhnayan Promise <br>by Hollichoo', "For-Sale")
+.addPin('Aurora.webp', 'Aurora Borealis Cutie (LE)', "For-Sale")
 .addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "For-Sale")
 .addPin('VioletEvergarden.webp', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "For-Sale")
 .addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "For-Sale")
