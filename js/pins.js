@@ -214,11 +214,8 @@ addCategory("Genshin / Anime Pins ✨")
 .addPin('xiao.webp', 'Xiao <br>by Sugar Cubed Studios', "Owned")
  
    .addPin('fivexiao.webp', 'Xiao <br>by Fiveonthe', "Owned")
-   .addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "For-Sale")
-   .addPin('fivethoma.webp', 'Thoma <br>by Fiveonthe', "For-Sale")
    .addPin('scara.webp', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
    .addPin('scarachibiprofile.webp', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
- .addPin('lunalbedo.webp', 'Kitty Albedo <br>by angryeggmerch', "Owned")
 // =========================================================================================================================================================================================================================
 
 addCategory("Cute Animal Pins 💕🌷")
@@ -262,9 +259,7 @@ addCategory("Xhilyn 🌌")
 .addPin('gamerkitty.webp', 'Gamer Kitty Girl <br>Thank you SM, Kyra! ♡', "Owned")
 .addPin('Cinamoroll.webp', 'Cinnamoroll Sprinkle Bunny <br>by Xhilyn', "Owned")
 .addPin('StarBun.webp', 'Star Bunny Witch <br>by Xhilyn', "Owned")
-.addPin('Aurora.webp', 'Aurora Borealis Cutie (LE)<br>Thank you, SleepyIvy!', "For-Sale")
     
-
 addCategory('Mamobot Fashion Nostalgia Pins 👠', "https://linktr.ee/mamobot")
     .addPin('helioschibiusa.webp', 'Chibiusa and Helios', "Owned")
     .addPin('SSailor.webp', 'Super Sailor Moon', "Sold")
