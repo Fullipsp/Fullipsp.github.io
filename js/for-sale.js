@@ -25,9 +25,42 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .addPin('VioletEvergarden.webp', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "For-Sale")
 .addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "For-Sale")
 .addPin('anemo.webp', 'Anemoculus (GLOWS) <br>by Theartthatran', "For-Sale")
-.addPin('bunnywitch.jpg', 'Snow Bunny Witch <br>by Mamobot', "For-Sale")
+.addPin('bunnywitch.jpg', 'Snow Bunny Witch <br>by Mamobot', "Sold")
 .addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Sold")
 .addPin('FS.jpg', 'Hualian Window <br>by SerenaDanmeiPins', "Sold")
+
+addGap();
+// =======================================================================================================================================================================================================================
+addCategory('Mamobot Fashion Nostalgia Pins 👠', "https://linktr.ee/mamobot")
+
+    .addPin('helioschibiusa.webp', 'Chibiusa and Helios', "Owned")
+    .addPin('SSailor.webp', 'Super Sailor Moon', "Sold")
+    .addPin('SSerenity.webp', 'Serenity Sailor Moon', "Sold")
+    .addPin('SCosmos.webp', 'Cosmos Sailor Moon', "Sold")
+    .addPin('boosette.webp', 'Boosette - 1st Twitch C. Pin', "Sold")
+    .addPin('Zelda.jpg', 'Smash Zelda Nintendoll', "Sold")
+    .addPin('Ahri.webp', 'K/DA Ahri', "Sold")
+    .addPin('WeddingPeach.webp', 'Wedding Princess Peach', "Sold")
+    .addPin('humanluna.webp', 'Human Luna', "Sold")
+    .addPin('smfamily.webp', 'Luna, Artemis and Diana', "Sold")
+    .addPin('Rosalina.webp', 'Rosalina Nintendoll', "Sold")
+    .addPin('BikerRosalina.webp', 'Biker Rosalina', "Sold")
+    .addPin('Bowsette.webp', 'Biker Bowsette', "Sold")
+    .addPin('SailorV.webp', 'Sailor Moon V', "Sold")
+    .addPin('SailorVMirror.webp', 'Sailor Moon V Mirror', "Sold")
+    .addPin('WickedLadyMirror.webp', 'Wicked Lady Mirror', "Sold")
+    .addPin('Nethelenia.webp', 'Nethelenia Mirror', "Sold")
+    .addPin('MermaidMoon.webp', 'Sailor Moon Chibi Mermaid', "Sold")
+    .addPin('bunneh.jpg', 'Snow Witch Bunny', "Sold")
+    .addPin('lettuce.jpg', 'Lettuce by Theartthatran', "Sold")
+    .addPin('chibileaf.jpg', 'Chibi Beefleaf <br>by jeanadraws', "Sold")
+
+    .addPin('SakuraKirby.webp', 'Sakura Kirby <br>by Arcade Healer', "Sold")
+    .addPin('Isabelle.webp', 'Vacation Isabelle <br>by Weishi', "Sold")
+    .addPin('froggie pin bag.webp', 'Froggie Pond Pal <br>by Blushsprout', "Sold")
+    .addPin('daffodil.webp', 'Daffodil Duckling Floranimals Series <br>by Blushsprout', "Sold")
+    .addPin('kitten.webp', 'Cherry Blossom Spring Kitten Mini Pin <br>by Blushsprout', "Sold")
+    .addPin('egg.webp', 'Egg Froggie Mini Pin <br>by Rainylune', "Sold")
 
 // ------------------------------------------------------------------------------------------------
 
