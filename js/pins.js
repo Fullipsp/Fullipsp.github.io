@@ -8,9 +8,9 @@ addCategory("Ordered 🛒🛍")
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('babylian.webp', 'Baby Xie Lian Patreon <br> by Butchinelle', "Ordered")
-.addPin('kaguprez.webp', 'Love is War Valentines <br> by FantasyChibiPns', "Ordered")
-.addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Ordered")
-.addPin('ootzelda.webp', 'Ocarina of Time Zelda Pin <br>LE50 by PastelShootingStar', "Ordered")
+
+
+
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -142,6 +142,7 @@ addCategory("Zelda Pins 🗡🏹 🌺💙")
 .addPin('skyward.webp', 'Skyward Link Profile <br>by MarshMeollow.', "Owned")
 .addPin('zonailink.webp', 'TOTK Link Profile <br>by MarshMeollow.', "Owned")
 .addPin('zonaizelda.webp', 'TOTK Zonai Zelda Profile <br>by MarshMeollow.', "Owned")
+.addPin('ootzelda.webp', 'Ocarina of Time Zelda Pin <br>LE50 by PastelShootingStar', "Owned")
 
 // =========================================================================================================================================================================================================================
 addCategory("Indie Game Pins 🗡💜")
@@ -182,6 +183,8 @@ addCategory("Animal Crossing Pins 🌺🌷🤍")
 
 // =========================================================================================================================================================================================================================
 addCategory("Genshin / Anime Pins ✨")
+
+.addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
 //Anime
    .addPin('megumicream.webp', 'Ice Cream Megumi <br> by Flying Canoe Pins', "Owned")
    .addPin('obamitsu3.webp', 'Obanai & Mitsuri 3 <br>by Nandemopins', "Owned")
@@ -189,6 +192,8 @@ addCategory("Genshin / Anime Pins ✨")
    .addPin('obamitsu2.webp', 'Obanai & Mitsuri 2 <br>by Nandemopins', "Owned")
    .addPin('mouseakaza.webp', 'Chibi Cute Akaza <br>by MailMousePins', "Owned")
    .addPin('crazyakaza.webp', 'Crazy Chibi Akaza <br>by ???', "Owned")
+
+.addPin('kaguprez.webp', 'Love is War Valentines <br> by FantasyChibiPns', "Owned")
 
  // Kirby
    .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️ <br>by Arcade Healer', "Owned")
@@ -203,7 +208,6 @@ addCategory("Genshin / Anime Pins ✨")
  .addPin('ChildeTraditional.webp', 'Childe <br>by BirbsNest', "Owned")
  .addPin('XiaoTraditional.webp', 'Xiao <br>by BirbsNest', "Owned")
  
- .addPin('lunalbedo.webp', 'Kitty Albedo <br>by angryeggmerch', "Owned")
  .addPin('lengorou.webp', 'Gorou <br>by Lenacchi', "Owned")
  .addPin('lenzhongli.webp', 'Zhongli <br>by Lenacchi', "Owned")
  .addPin('lenayato.webp', 'Ayato <br>by Lenacchi', "Owned")
@@ -216,6 +220,7 @@ addCategory("Genshin / Anime Pins ✨")
    .addPin('fivethoma.webp', 'Thoma <br>by Fiveonthe', "Owned")
    .addPin('scara.webp', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
    .addPin('scarachibiprofile.webp', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
+ .addPin('lunalbedo.webp', 'Kitty Albedo <br>by angryeggmerch', "Owned")
 // =========================================================================================================================================================================================================================
 
 addCategory("Cute Animal Pins 💕🌷")
