@@ -18,7 +18,6 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .addPin('luminechibiprofile.webp', 'Chibi Lumine <br>by AkuoArt', "For-Sale")
 .addPin('childebby.webp', 'Childe (Tartaglia) <br>by Sugar Cubed Studios', "For-Sale")
     
-.addPin('lumine.webp', 'Lumine <br>by Sugar Cubed Studios', "For-Sale")
 .addPin('promise.webp', 'Snezhnayan Promise <br>by Hollichoo', "For-Sale")
 .addPin('Aurora.webp', 'Aurora Borealis Cutie (LE)', "For-Sale")
 .addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "For-Sale")
@@ -51,6 +50,7 @@ addCategory("Sold Pins 👠")
     .addPin('bunnywitch.jpg', 'Snow Bunny Witch <br>by Mamobot', "Sold")
     .addPin('bunneh.jpg', 'Snow Witch Bunny', "Sold")
     .addPin('lettuce.jpg', 'Lettuce by Theartthatran', "Sold")
+.addPin('lumine.webp', 'Lumine <br>by Sugar Cubed Studios', "Sold")
     .addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Sold")
     
             // TGCF
