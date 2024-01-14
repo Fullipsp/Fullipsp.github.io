@@ -10,10 +10,10 @@ addCategory("Ordered 🛒🛍")
 .addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('babylian.webp', 'Baby Xie Lian Patreon <br> by Butchinelle', "Ordered")
 
-.addPin('bwbgeto.webp', 'BWB Geto Window <br>LE145 by karinadoesartshop', "Ordered")
-.addPin('bwbgojo.webp', 'BWB Gojo Window <br>LE175 by karinadoesartshop', "Ordered")
-.addPin('cutegeto.webp', 'Cutest Lil Killer <br>LE40 by karinadoesartshop', "Ordered")
-.addPin('pinkgeto.webp', 'Lil Pink Geto <br>LE40 by karinadoesartshop', "Ordered")
+.addPin('bwbgeto.webp', 'BWB Geto Window <br>LE145 by karina****op', "Ordered")
+.addPin('bwbgojo.webp', 'BWB Gojo Window <br>LE175 by karina****op', "Ordered")
+.addPin('cutegeto.webp', 'Cutest Lil Killer <br>LE40 by karina****op', "Ordered")
+.addPin('pinkgeto.webp', 'Lil Pink Geto <br>LE40 by karina****op', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
