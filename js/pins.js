@@ -3,16 +3,17 @@ let categoryIndex = 0;
 
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
-.addPin('bwbgojo.webp', 'BWB Gojo Window <br>LE175 by karinadoesartshop', "Ordered")
-.addPin('bwbgeto.webp', 'BWB Geto Window <br>LE145 by karinadoesartshop', "Ordered")
-.addPin('cutegeto.webp', 'Cutest Lil Killer <br>LE40 by karinadoesartshop', "Ordered")
-.addPin('pinkgeto.webp', 'Lil Pink Geto <br>LE40 by karinadoesartshop', "Ordered")
 
 .addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Ordered")
 .addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Ordered")
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('babylian.webp', 'Baby Xie Lian Patreon <br> by Butchinelle', "Ordered")
+
+.addPin('bwbgojo.webp', 'BWB Gojo Window <br>LE175 by karinadoesartshop', "Ordered")
+.addPin('bwbgeto.webp', 'BWB Geto Window <br>LE145 by karinadoesartshop', "Ordered")
+.addPin('cutegeto.webp', 'Cutest Lil Killer <br>LE40 by karinadoesartshop', "Ordered")
+.addPin('pinkgeto.webp', 'Lil Pink Geto <br>LE40 by karinadoesartshop', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
