@@ -56,16 +56,15 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Owned")
 
 .addPin('derpyhc.webp', 'Super Derpy Hua <br> LE15 by crystal****ppe', "Owned")
-.addPin('derpyxl.webp', 'Super Derpy Lian <br> LE15 by crystal****ppe', "Owned")
+
 .addPin('chromahc.webp', 'Chroma V2 Hua <br> LE20 by crystal****ppe', "Owned")
 .addPin('chromaxl.webp', 'Chroma V2 Lian <br> LE20 by crystal****ppe', "Owned")
 .addPin('hualianwindow.webp', 'Hualian Window <br>by SerenaDanmeiPins', "Owned")
-.addPin('summerxl.webp', 'Summer Xie Lian <br>by Peonypinsco', "Owned")
-.addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "Owned")
-
 .addPin('lilypadxl.webp', 'Lilypad Xie Lian <br>by Peonypinsco', "Owned")
 .addPin('lilypadhc.webp', 'Lilypad Hua Cheng <br>by Peonypinsco', "Owned")
 .addPin('bachhualian2.jpg', 'Lilypad Hualian <br>by Bachoochi', "Owned")
+.addPin('summerxl.webp', 'Summer Xie Lian <br>by Peonypinsco', "Owned")
+.addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "Owned")
 
 .addPin('ecstasy.webp', 'Pleasure&Ecstasy Hualian <br>by ihavetobenkyou', "Owned")
 .addPin('raphc.webp', 'Rapunzel Hua Cheng <br>by xevnne', "Owned") 
