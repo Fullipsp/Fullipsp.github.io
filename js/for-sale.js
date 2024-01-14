@@ -54,6 +54,7 @@ addCategory("Sold Pins 👠")
     .addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Sold")
     
             // TGCF
+     .addPin('derpyxl.webp', 'Super Derpy Lian <br> LE15 by crystal****ppe', "Sold")
     .addPin('FS.jpg', 'Hualian Window <br>by SerenaDanmeiPins', "Sold")
     .addPin('chibileaf.jpg', 'Chibi Beefleaf <br>by jeanadraws', "Sold")
     .addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Sold")
