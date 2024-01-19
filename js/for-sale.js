@@ -56,10 +56,10 @@ addCategory("Sold Pins 👠")
             // TGCF
      .addPin('derpyxl.webp', 'Super Derpy Lian <br> LE15 by crystal****ppe', "Sold")
     .addPin('FS.jpg', 'Hualian Window <br>by SerenaDanmeiPins', "Sold")
-    .addPin('chibileaf.jpg', 'Chibi Beefleaf <br>by jeanadraws', "Sold")
     .addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Sold")
     .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Sold")
     .addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Sold") 
+    .addPin('chibileaf.jpg', 'Chibi Beefleaf <br>by jeanadraws', "Sold")
 
          // Kirby / Animal pins
     .addPin('SakuraKirby.webp', 'Sakura Kirby <br>by Arcade Healer', "Sold")
