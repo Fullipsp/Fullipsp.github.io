@@ -4,8 +4,10 @@ let categoryIndex = 0;
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
 
-.addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Ordered")
-.addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Ordered")
+.addPin('ootzelda.webp', 'Ocarina of Time Zelda Pin <br>LE50 by PastelShootingStar', "For-Sale")
+
+.addPin('tarotbug.png', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Owned")
+.addPin('tarotnoir.jpg', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Owned")
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
 
@@ -90,12 +92,6 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
  .addPin('xlcake.webp', 'Xie Lian Treat <br>by torikii_art', "Owned")
 .addPin('hccake.webp', 'Hua Cheng Treat <br>by torikii_art', "Owned")
  
-
- // SOLD
-.addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Sold")
-.addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Sold")
-.addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Sold") 
-   
 // =========================================================================================================================================================================================================================
 addCategory("Beefleaf Pins 🍖🍃", "https://tinyurl.com/whosbeefleaf")
  .addPin('bigsqx.webp', 'Shi Qingxuan <br>by Siilvxr', "Owned")
@@ -145,7 +141,6 @@ addCategory("Zelda Pins 🗡🏹 🌺💙")
 .addPin('skyward.webp', 'Skyward Link Profile <br>by MarshMeollow.', "Owned")
 .addPin('zonailink.webp', 'TOTK Link Profile <br>by MarshMeollow.', "Owned")
 .addPin('zonaizelda.webp', 'TOTK Zonai Zelda Profile <br>by MarshMeollow.', "Owned")
-.addPin('ootzelda.webp', 'Ocarina of Time Zelda Pin <br>LE50 by PastelShootingStar', "For-Sale")
 
 // =========================================================================================================================================================================================================================
 addCategory("Indie Game Pins 🗡💜")
