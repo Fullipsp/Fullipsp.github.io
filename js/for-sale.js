@@ -3,11 +3,7 @@ let categoryIndex = 0;
 
 addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 
-.addFigure('02.webp', 'Zero Two <br>Darling in the Franxx', "Owned")
-.addFigure('kogitsunemaru.webp', 'Kogitsunemaru <br>Touken Ranbu', "Owned")
-.addFigure('mizuki.webp', 'Mikazuki <br>Touken Ranbu', "Owned")
-.addFigure('joker.webp', 'Joker <br>Persona 5', "Owned")
-.addFigure('gojo.webp', 'Gojo Satoru <br>Jujutsu Kaisen', "Owned")
+
 
 .addPin('ootzelda.webp', 'Ocarina of Time Zelda Pin <br>LE50 by PastelShootingStar', "For-Sale")
 .addPin('inlink.webp', 'BOTW Link <br>LE50 by Ins***Pins.', "For-Sale")
