@@ -16,6 +16,7 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .addPin('Teacup.webp', 'Luna the Bookworm ♡ <br>by Goldfishkang', "For-Sale")
 .addPin('Adventurer.webp', 'Little Adventurer ❀ <br>by Goldfishkang', "For-Sale")
 .addPin('Cinamoroll.webp', 'Cinnamoroll Sprinkle Bunny <br>by Xhilyn', "For-Sale")
+.addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "For-Sale")
 .addPin('sylveon.webp', 'Sylveon ♡ Pokemon <br>by Birduyen', "For-Sale")
     
 .addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "For-Sale")
@@ -32,7 +33,7 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 
 .addPin('promise.webp', 'Snezhnayan Promise <br>by Hollichoo', "For-Sale")
 .addPin('Aurora.webp', 'Aurora Borealis Cutie (LE)', "For-Sale")
-.addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "For-Sale")
+
 .addPin('VioletEvergarden.webp', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "For-Sale")
 .addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "For-Sale")
 .addPin('anemo.webp', 'Anemoculus (GLOWS) <br>by Theartthatran', "For-Sale")
