@@ -1,17 +1,17 @@
 // cSpell:disable
 let categoryIndex = 0;
 
+addCategory("Pre-Ordered Nendos")
+.addFigure('muichiro.webp', 'Tokito Muichiro <br>Demon Slayer', "Ordered")
+.addFigure('marius.png', 'Marius von Hagen <br>Tears of Themis', "Ordered")
+.addFigure('luke.png', 'Luke Pearce <br>Tears of Themis', "Ordered")
+
 addCategory("FOR SALE")
 .addFigure('02.webp', 'Zero Two <br>Darling in the Franxx', "Owned")
 .addFigure('kogitsunemaru.webp', 'Kogitsunemaru <br>Touken Ranbu', "Owned")
 .addFigure('mizuki.webp', 'Mikazuki <br>Touken Ranbu', "Owned")
 .addFigure('joker.webp', 'Joker <br>Persona 5', "Owned")
 .addFigure('gojo.webp', 'Gojo Satoru <br>Jujutsu Kaisen', "Owned")
-
-addCategory("Pre-Ordered Nendos")
-.addFigure('muichiro.webp', 'Tokito Muichiro <br>Demon Slayer', "Ordered")
-.addFigure('marius.png', 'Marius von Hagen <br>Tears of Themis', "Ordered")
-.addFigure('luke.png', 'Luke Pearce <br>Tears of Themis', "Ordered")
 
 // =================================================================================================================
 addCategory("MXTX Figures")
