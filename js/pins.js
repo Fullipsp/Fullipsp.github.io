@@ -189,10 +189,6 @@ addCategory("Genshin / Anime Pins ✨")
    .addPin('mouseakaza.webp', 'Chibi Cute Akaza <br>by MailMousePins', "Owned")
    .addPin('crazyakaza.webp', 'Crazy Chibi Akaza <br>by ???', "Owned")
 
- // Kirby
-
-   .addPin('BottleKirby.webp', 'Poyo in a Bottle <br>by Arcade Healer', "Owned")
-
 // Genshin Impact
  .addPin('eggkazuha.webp', 'Kitty Kazuha <br>by angryeggmerch', "Owned")
  .addPin('heartkazuha.webp', 'Valentine Kazuha <br>by cafhune', "Owned") 
@@ -212,30 +208,23 @@ addCategory("Genshin / Anime Pins ✨")
    .addPin('scarachibiprofile.webp', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
 // =========================================================================================================================================================================================================================
 
-addCategory("Cute Animal Pins 💕🌷")
-
-// Goldfishkang
+addCategory("Cute Pins 💕🌷")
+    .addPin('BottleKirby.webp', 'Poyo in a Bottle <br>by Arcade Healer', "Owned")
     .addPin('LaundroCat.webp', 'Laundrocats Pin: Dawn ☆ <br>by Goldfishkang', "Owned")
-
     .addPin('PainterFox.webp', 'Artsy Fox: Cloud Painter☆ <br>by Goldfishkang', "Owned")
-//////////////
     .addPin('LavenderBun.webp', 'Spring Bunny ☼ <br>by Birduyen', "Owned")
     .addPin('lionm.webp', 'Lion Meringue Pie ☆ <br>by Blushsprout', "Owned")
     .addPin('Weishi.webp', 'Lily`s Hanami (September 2020 Pin Club)', "Owned")
     .addPin('BirthdayBun.webp', 'Sprinkle Birthday Bunny <br>by Sharodactylart', "Owned")
     .addPin('raspbunny.webp', 'Raspbunny Crepe ☆ Rainbow Food Animals Series', "Owned")
     .addPin('Sloth.webp', 'Cute Sloth ☆ <br>by Blushsprout', "Owned")
-    .addPin('night.webp', 'Froggie ITA (Nighttime) Bag (Kickstarter) (Peach and Holo inserts)', "Owned")
+.addPin('gamerkitty.webp', 'Gamer Kitty Girl <br>Thank you SM, Kyra! ♡', "Owned")
+.addPin('StarBun.webp', 'Star Bunny Witch <br>by Xhilyn', "Owned")
+.addPin('night.webp', 'Froggie ITA (Nighttime) Bag (Kickstarter) (Peach and Holo inserts)', "Owned")
 
 
 addInlineCategory()
 
-
-addCategory("Xhilyn 🌌")
-.addPin('gamerkitty.webp', 'Gamer Kitty Girl <br>Thank you SM, Kyra! ♡', "Owned")
-
-.addPin('StarBun.webp', 'Star Bunny Witch <br>by Xhilyn', "Owned")
-    
 // ------------------------------------------------------------------------------------------------
 
 
