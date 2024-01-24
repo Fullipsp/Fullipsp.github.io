@@ -50,7 +50,7 @@ addCategory("Sold Pins 👠")
     .addPin('bunnywitch.jpg', 'Snow Bunny Witch <br>by Mamobot', "Sold")
     .addPin('bunneh.jpg', 'Snow Witch Bunny', "Sold")
     .addPin('lettuce.jpg', 'Lettuce by Theartthatran', "Sold")
-.addPin('lumine.webp', 'Lumine <br>by Sugar Cubed Studios', "Sold")
+    .addPin('lumine.webp', 'Lumine <br>by Sugar Cubed Studios', "Sold")
     .addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Sold")
     
             // TGCF
@@ -59,6 +59,7 @@ addCategory("Sold Pins 👠")
     .addPin('bachhualian2.webp', 'Hualian <br>by Bachoochi', "Sold")
     .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Sold")
     .addPin('honeyxl.webp', 'Bee-Pleasing Prince <br>by Honey Gokko', "Sold") 
+    .addPin('bbysqx.webp', 'Snow White Beefleaf <br>by cirono', "Sold")
     .addPin('chibileaf.jpg', 'Chibi Beefleaf <br>by jeanadraws', "Sold")
 
          // Kirby / Animal pins
