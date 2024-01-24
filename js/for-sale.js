@@ -5,8 +5,19 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 
 .addPin('ootzelda.webp', 'Ocarina of Time Zelda Pin <br>LE50 by PastelShootingStar', "For-Sale")
 .addPin('inlink.webp', 'BOTW Link <br>LE50 by Ins***Pins.', "For-Sale")
-
+.addPin('OGKirby.webp', 'Star Wand Kirby ⭐️ <br>by Arcade Healer', "For-Sale")
+.addPin('ClownKirby.webp', 'Mirror Poyo <br>by Arcade Healer', "For-Sale")
 .addPin('Clefairy.webp', 'Clefairy Tamagotchi <br>by Arcade Healer', "For-Sale")
+.addPin('WishingWell.webp', 'Bunny`s Wishing Pond (August 2020 Pin Club) <br>(Seconds)', "For-Sale")
+.addPin('witchfroggie.webp', 'Witch Froggie <br>(October 2020 Pin Club) <br>by Blushsprout', "For-Sale")
+.addPin('sylveon.webp', 'Sylveon ♡ Pokemon <br>by Birduyen', "For-Sale")
+.addPin('Mousie.webp', 'Spring Mouse ☼ <br>by Birduyen', "For-Sale")
+.addPin('Birb.webp', 'Spring Tit ☼ <br>by Birduyen', "For-Sale")
+.addPin('Lily.webp', 'Lily ❀ Studio Ghibli <br>by Birduyen', "For-Sale")
+.addPin('Teacup.webp', 'Luna the Bookworm ♡ <br>by Goldfishkang', "For-Sale")
+.addPin('Adventurer.webp', 'Little Adventurer ❀ <br>by Goldfishkang', "For-Sale")
+.addPin('Cinamoroll.webp', 'Cinnamoroll Sprinkle Bunny <br>by Xhilyn', "For-Sale")
+    
 .addPin('megumiheadphones.webp', 'Lo-Fi Megumi <br> by Flying Canoe Pins', "For-Sale")
 .addPin('fivethoma.webp', 'Thoma <br>by Fiveonthe', "For-Sale")
 .addPin('lunalbedo.webp', 'Kitty Albedo <br>by angryeggmerch', "For-Sale")
@@ -69,6 +80,10 @@ addCategory("Sold Pins 👠")
     .addPin('daffodil.webp', 'Daffodil Duckling Mini <br>by Blushsprout', "Sold")
     .addPin('kitten.webp', 'Cherry Blossom Kitten Mini <br>by Blushsprout', "Sold")
     .addPin('egg.webp', 'Egg Froggie Mini Pin <br>by Rainylune', "Sold")
+    .addPin('Fawnfetti.webp', 'Fawnfetti ☆ <br>by Blushsprout', "Sold")
+    .addPin('wooloo.webp', 'Wooloo ♡ Pokemon <br>by Birduyen', "Sold")
+    .addPin('eevee.webp', 'Eevee ♡ Pokemon <br>by Birduyen', "Sold")
+
 
 // ------------------------------------------------------------------------------------------------
 
