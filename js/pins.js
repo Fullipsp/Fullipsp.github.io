@@ -6,8 +6,7 @@ addCategory("Ordered 🛒🛍")
 
 .addPin('ootzelda.webp', 'Ocarina of Time Zelda Pin <br>LE50 by PastelShootingStar', "For-Sale")
 
-.addPin('tarotbug.webp', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Owned")
-.addPin('tarotnoir.webp', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Owned")
+
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
 
@@ -118,6 +117,8 @@ addCategory("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
 // ===========================================================================================================================================================================================================================
 // Fantasy Couples
 addCategory("Fantasy Couples 🐞🐱")
+.addPin('tarotbug.webp', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Owned")
+.addPin('tarotnoir.webp', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Owned")
 .addPin('lucky.webp', 'Lucky Bug <br> by crow.creations', "Owned")
 .addPin('unlucky.webp', 'Unlucky Kitty <br> by crow.creations', "Owned")
 .addPin('mlbjapanese.jpg', 'Japanese Adrinette <br> by MariC****Cafe', "Owned")
@@ -125,7 +126,6 @@ addCategory("Fantasy Couples 🐞🐱")
 .addPin('marichat.jpg', 'Marichat <br> by MariC****Cafe', "Owned")
 .addPin('heartmlb.jpg', 'Ladynoir <3 <br> by MariC****Cafe', "Owned")
 .addPin('Ladynoir.webp', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Owned")
- 
 .addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
 .addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Owned")
 .addPin('donotseperate.webp', 'Do Not Seperate Them <br> by WoupsShop', "Owned")
