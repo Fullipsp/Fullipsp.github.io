@@ -95,7 +95,6 @@ addCategory("Beefleaf Pins 🍖🍃", "https://tinyurl.com/whosbeefleaf")
  .addPin('furrybfl.webp', 'Cutie Beefleaf <br>by kmoripins', "Owned")
  .addPin('sitbfl.webp', 'Funny Beefleaf <br>by qqnzhe', "Owned")
  .addPin('lunechibfl.webp', 'Oriental Beefleaf <br>by MyLunechi', "Owned")
- .addPin('bbysqx.webp', 'Snow White Beefleaf <br>by cirono', "Owned")
 
 // ===========================================================================================================================================================================================================================
 
