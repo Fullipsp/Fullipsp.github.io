@@ -1,6 +1,13 @@
 // cSpell:disable
 let categoryIndex = 0;
 
+addCategory("FOR SALE")
+.addFigure('02.webp', 'Zero Two <br>Darling in the Franxx', "Owned")
+.addFigure('kogitsunemaru.webp', 'Kogitsunemaru <br>Touken Ranbu', "Owned")
+.addFigure('mizuki.webp', 'Mikazuki <br>Touken Ranbu', "Owned")
+.addFigure('joker.webp', 'Joker <br>Persona 5', "Owned")
+.addFigure('gojo.webp', 'Gojo Satoru <br>Jujutsu Kaisen', "Owned")
+
 addCategory("Pre-Ordered Nendos")
 .addFigure('muichiro.webp', 'Tokito Muichiro <br>Demon Slayer', "Ordered")
 .addFigure('marius.png', 'Marius von Hagen <br>Tears of Themis', "Ordered")
@@ -33,14 +40,9 @@ addCategory("Shoujo / Game Nendoroids")
 .addFigure('link.webp', 'Link <br>Breath of the Wild', "Owned")
 .addFigure('sylvanas.webp', 'Sylvanas <br>World of Warcraft', "Owned")
 .addFigure('zag.jpg', 'Zagreus <br>Hades', "Owned")
-    
-.addFigure('kogitsunemaru.webp', 'Kogitsunemaru <br>Touken Ranbu', "Owned")
-.addFigure('mizuki.webp', 'Mikazuki <br>Touken Ranbu', "Owned")
-.addFigure('joker.webp', 'Joker <br>Persona 5', "Owned")
 .addFigure('shirogane.webp', 'Shirogane Miyuki <br>Love is War', "Owned")
 .addFigure('kaguya.webp', 'Shinomiya Kaguya <br>Love is War', "Owned")
 .addFigure('miyamura.webp', 'Miyamura Izumi <br>Horimiya', "Owned")
-.addFigure('02.webp', 'Zero Two <br>Darling in the Franxx', "Owned")
 .addFigure('miku.webp', 'Miku Nakano <br>Quintessential Quintuplets', "Sold")
 
 // =================================================================================================================
