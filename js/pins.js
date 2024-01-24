@@ -190,8 +190,7 @@ addCategory("Genshin / Anime Pins ✨")
    .addPin('crazyakaza.webp', 'Crazy Chibi Akaza <br>by ???', "Owned")
 
  // Kirby
-   .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️ <br>by Arcade Healer', "Owned")
-   .addPin('ClownKirby.webp', 'Mirror Poyo <br>by Arcade Healer', "Owned")
+
    .addPin('BottleKirby.webp', 'Poyo in a Bottle <br>by Arcade Healer', "Owned")
 
 // Genshin Impact
