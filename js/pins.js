@@ -217,29 +217,15 @@ addCategory("Cute Animal Pins 💕🌷")
 
 // Goldfishkang
     .addPin('LaundroCat.webp', 'Laundrocats Pin: Dawn ☆ <br>by Goldfishkang', "Owned")
-    .addPin('Teacup.webp', 'Luna the Bookworm ♡ <br>by Goldfishkang', "Owned")
-    .addPin('Adventurer.webp', 'Little Adventurer ❀ <br>by Goldfishkang', "Owned")
+
     .addPin('PainterFox.webp', 'Artsy Fox: Cloud Painter☆ <br>by Goldfishkang', "Owned")
 //////////////
-    .addPin('Mousie.webp', 'Spring Mouse ☼ <br>by Birduyen', "Owned")
-    .addPin('Birb.webp', 'Spring Tit ☼ <br>by Birduyen', "Owned")
     .addPin('LavenderBun.webp', 'Spring Bunny ☼ <br>by Birduyen', "Owned")
-    .addPin('Lily.webp', 'Lily ❀ Studio Ghibli <br>by Birduyen', "Owned")
     .addPin('lionm.webp', 'Lion Meringue Pie ☆ <br>by Blushsprout', "Owned")
-
     .addPin('Weishi.webp', 'Lily`s Hanami (September 2020 Pin Club)', "Owned")
-    .addPin('WishingWell.webp', 'Bunny`s Wishing Pond (August 2020 Pin Club) <br>(Seconds)', "Owned")
-    
     .addPin('BirthdayBun.webp', 'Sprinkle Birthday Bunny <br>by Sharodactylart', "Owned")
-    
-    .addPin('wooloo.webp', 'Wooloo ♡ Pokemon <br>by Birduyen', "Owned")
-    .addPin('sylveon.webp', 'Sylveon ♡ Pokemon <br>by Birduyen', "Owned")
-    .addPin('eevee.webp', 'Eevee ♡ Pokemon <br>by Birduyen', "Owned")
     .addPin('raspbunny.webp', 'Raspbunny Crepe ☆ Rainbow Food Animals Series', "Owned")
-    .addPin('Fawnfetti.webp', 'Fawnfetti ☆ <br>by Blushsprout', "Owned")
     .addPin('Sloth.webp', 'Cute Sloth ☆ <br>by Blushsprout', "Owned")
-    .addPin('witchfroggie.webp', 'Witch Froggie <br>(October 2020 Pin Club) <br>by Blushsprout', "Owned")
-   
     .addPin('night.webp', 'Froggie ITA (Nighttime) Bag (Kickstarter) (Peach and Holo inserts)', "Owned")
 
 
@@ -248,7 +234,7 @@ addInlineCategory()
 
 addCategory("Xhilyn 🌌")
 .addPin('gamerkitty.webp', 'Gamer Kitty Girl <br>Thank you SM, Kyra! ♡', "Owned")
-.addPin('Cinamoroll.webp', 'Cinnamoroll Sprinkle Bunny <br>by Xhilyn', "Owned")
+
 .addPin('StarBun.webp', 'Star Bunny Witch <br>by Xhilyn', "Owned")
     
 // ------------------------------------------------------------------------------------------------
