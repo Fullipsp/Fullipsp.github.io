@@ -4,7 +4,8 @@ let categoryIndex = 0;
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
 
-.addPin('ootzelda.webp', 'Ocarina of Time Zelda Pin <br>LE50 by PastelShootingStar', "For-Sale")
+.addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Ordered")
+.addPin('guqinlbh.webp', 'Guqin Masters: LBH <br>by Virinali', "Ordered")
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('bwbgeto.webp', 'BWB Geto Window <br>LE145 by karina****op', "Ordered")
