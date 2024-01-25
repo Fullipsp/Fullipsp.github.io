@@ -6,6 +6,8 @@ addCategory("Ordered 🛒🛍")
 
 .addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Ordered")
 .addPin('guqinlbh.webp', 'Guqin Masters: LBH <br>by Virinali', "Ordered")
+.addPin('bchibibingqiu.webp', 'Chibi Bingqiu <br>by Bachoochi', "Ordered")
+.addPin('bchibihualian.webp', 'Chibi Hualian <br>by Bachoochi', "Ordered")
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('bwbgeto.webp', 'BWB Geto Window <br>LE145 by karina****op', "Ordered")
