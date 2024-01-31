@@ -146,6 +146,7 @@ addCategory("JJK Pins 🤍🖤")
 .addPin('cutegeto.webp', 'Cutest Lil Killer <br>LE40 by karina****op', "Owned")
 .addPin('pinkgeto.webp', 'Lil Pink Geto <br>LE40 by karina****op', "Owned")
 .addPin('megumicream.webp', 'Ice Cream Megumi <br> by Flying Canoe Pins', "Owned")
+.addPin('megumiheadphones.webp', 'Lo-Fi Megumi <br> by Flying Canoe Pins', "For-Sale")
 // =========================================================================================================================================================================================================================
 addCategory("Indie Game Pins 🗡💜")
 .addPin('hades.webp', 'Thanzag Chibi <br>by Leaphere', "Owned")
