@@ -9,9 +9,6 @@ addCategory("Ordered 🛒🛍")
 .addPin('profilebingqiu.webp', 'Profile Bingqiu <br>by Sourboxes', "Ordered")
 .addPin('weddingbingqiu.webp', 'Wedding Bingqiu <br>by Sourboxes', "Ordered")
 .addPin('bingbow.webp', 'Binghe Bow <br>by Sourboxes', "Ordered")
-.addPin('bchibibingqiu.webp', 'Chibi Bingqiu <br>by Bachoochi', "Ordered")
-.addPin('bchibihualian.webp', 'Chibi Hualian <br>by Bachoochi', "Ordered")
-.addPin('bachbingqiu.webp', 'Bamboo Bingqiu <br>by Bachoochi', "Ordered")
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
 
@@ -76,11 +73,11 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('gremlinhc.webp', 'Gremlin Hua Cheng <br> by Peonypinsco', "Owned")
 .addPin('gremlinhx.webp', 'Gremlin He Xuan <br> by Peonypinsco', "Owned")
 .addPin('gremlinbwx.webp', 'Gremlin Bai Wuxiang <br> by Peonypinsco', "Owned")
-
-
-.addPin('magicalhualian.webp', 'Hualian Cuddles <br>by xevnne', "Owned")
+.addPin('bchibihualian.webp', 'Chibi Hualian <br>by Bachoochi', "Owned")
 .addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Owned")
 .addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Owned")
+ 
+.addPin('magicalhualian.webp', 'Hualian Cuddles <br>by xevnne', "Owned")
 .addPin('peterpan.webp', 'Peter Pan Hualian <br>by simplelunacy', "Owned") 
 .addPin('hualianterrarium.webp', 'Hualian Terrarium <br>by Peonypinsco', "Owned")
 .addPin('poppins.jpg', 'Fafa Poppins <br>by Pap00sh', "Owned") 
@@ -90,14 +87,17 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('wigglyxl.webp', 'Wiggly Ferret XL <br>by naixaie', "Owned")
  .addPin('xlcake.webp', 'Xie Lian Treat <br>by torikii_art', "Owned")
 .addPin('hccake.webp', 'Hua Cheng Treat <br>by torikii_art', "Owned")
- 
-// =========================================================================================================================================================================================================================
-addCategory("Beefleaf Pins 🍖🍃", "https://tinyurl.com/whosbeefleaf")
+// Beefleaf
  .addPin('bigsqx.webp', 'Shi Qingxuan <br>by Siilvxr', "Owned")
  .addPin('bighx.webp', 'He Xuan <br>by Siilvxr', "Owned")
  .addPin('furrybfl.webp', 'Cutie Beefleaf <br>by kmoripins', "Owned")
  .addPin('sitbfl.webp', 'Funny Beefleaf <br>by qqnzhe', "Owned")
  .addPin('lunechibfl.webp', 'Oriental Beefleaf <br>by MyLunechi', "Owned")
+ 
+// =========================================================================================================================================================================================================================
+addCategory("Scum Villain Pins🍃", "https://tinyurl.com/whosbingqiu")
+.addPin('bchibibingqiu.webp', 'Chibi Bingqiu <br>by Bachoochi', "Owned")
+.addPin('bachbingqiu.webp', 'Bamboo Bingqiu <br>by Bachoochi', "Owned")
 
 // ===========================================================================================================================================================================================================================
 
@@ -120,6 +120,7 @@ addCategory("Fantasy Couples 🐞🐱")
 .addPin('tarotnoir.webp', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Owned")
 .addPin('lucky.webp', 'Lucky Bug <br> by crow.creations', "Owned")
 .addPin('unlucky.webp', 'Unlucky Kitty <br> by crow.creations', "Owned")
+.addPin('kwamis.webp', 'Ladybug Kwamis <br> by crow.creations', "Owned")
 .addPin('mlbjapanese.jpg', 'Japanese Adrinette <br> by MariC****Cafe', "Owned")
 .addPin('ladynoirkiss.jpg', 'Ladynoir Kiss <br> by MariC****Cafe', "Owned")
 .addPin('marichat.jpg', 'Marichat <br> by MariC****Cafe', "Owned")
@@ -129,7 +130,8 @@ addCategory("Fantasy Couples 🐞🐱")
 .addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Owned")
 .addPin('donotseperate.webp', 'Do Not Seperate Them <br> by WoupsShop', "Owned")
 .addPin('beloved.webp', 'My Beloved <br> by WoupsShop', "Owned")
-.addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "Owned")
+
+
 // ===========================================================================================================================================================================================================================
 addCategory("Zelda Pins 🗡🏹 🌺💙")
 .addPin('inzelda.webp', 'BOTW Zelda <br>LE50 by Ins***Pins', "Owned")
@@ -207,6 +209,7 @@ addCategory("Genshin / Anime Pins ✨")
 .addPin('fivexiao.webp', 'Xiao <br>by Fiveonthe', "Owned")
 .addPin('scara.webp', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
 .addPin('scarachibiprofile.webp', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
+.addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "Owned")
 // =========================================================================================================================================================================================================================
 
 addCategory("Cute Pins 💕🌷")
