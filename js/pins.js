@@ -95,7 +95,7 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
  .addPin('lunechibfl.webp', 'Oriental Beefleaf <br>by MyLunechi', "Owned")
  
 // =========================================================================================================================================================================================================================
-addCategory("Scum Villain Pins🍃", "https://tinyurl.com/whosbingqiu")
+addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
 .addPin('bchibibingqiu.webp', 'Chibi Bingqiu <br>by Bachoochi', "Owned")
 .addPin('bachbingqiu.webp', 'Bamboo Bingqiu <br>by Bachoochi', "Owned")
 
