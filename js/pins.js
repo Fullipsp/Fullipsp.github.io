@@ -6,9 +6,7 @@ addCategory("Ordered 🛒🛍")
 
 .addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Ordered")
 .addPin('guqinlbh.webp', 'Guqin Masters: LBH <br>by Virinali', "Ordered")
-.addPin('profilebingqiu.webp', 'Profile Bingqiu <br>by Sourboxes', "Ordered")
-.addPin('weddingbingqiu.webp', 'Wedding Bingqiu <br>by Sourboxes', "Ordered")
-.addPin('bingbow.webp', 'Binghe Bow <br>by Sourboxes', "Ordered")
+
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
 
@@ -96,6 +94,10 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
  
 // =========================================================================================================================================================================================================================
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
+.addPin('profilebinghe.webp', 'Profile Binghe <br>by Sourboxes', "Owned")
+.addPin('profileshizun.webp', 'Profile Shizun <br>by Sourboxes', "Owned")
+.addPin('weddingbingqiu.webp', 'Wedding Bingqiu <br>by Sourboxes', "Owned")
+.addPin('bingbow.webp', 'Binghe Bow <br>by Sourboxes', "Owned")
 .addPin('bchibibingqiu.webp', 'Chibi Bingqiu <br>by Bachoochi', "Owned")
 .addPin('bachbingqiu.webp', 'Bamboo Bingqiu <br>by Bachoochi', "Owned")
 
