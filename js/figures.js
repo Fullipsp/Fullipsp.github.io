@@ -2,7 +2,7 @@
 let categoryIndex = 0;
 
 addCategory("Pre-Ordered Nendos")
-.addFigure('muichiro.webp', 'Tokito Muichiro <br>Demon Slayer', "Ordered")
+
 .addFigure('marius.png', 'Marius von Hagen <br>Tears of Themis', "Ordered")
 .addFigure('luke.png', 'Luke Pearce <br>Tears of Themis', "Ordered")
 
@@ -47,6 +47,7 @@ addCategory("Shoujo / Game Nendoroids")
 
 // =================================================================================================================
 addCategory("Shounen Figures")
+.addFigure('muichiro.webp', 'Tokito Muichiro <br>Demon Slayer', "Owned")
 .addFigure('giyu.webp', 'Tomioka Giyu <br>Demon Slayer', "Owned")
 .addFigure('rengoku.webp', 'Rengoku Kyojuro <br>Demon Slayer', "Owned")
 .addFigure('uzui.jpg', 'Uzui Tengen <br>Demon Slayer', "Owned")
