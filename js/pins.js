@@ -9,6 +9,9 @@ addCategory("Ordered 🛒🛍")
 
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
+.addPin('elation.webp', 'Elation Chibis <br> by MariC****Cafe', "Ordered")
+.addPin('evilbug.webp', 'Evil Bug <br> by MSPaint Palette', "Ordered")
+.addPin('evilcat.webp', 'Evil Kitty <br> by MSPaint Palette', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
