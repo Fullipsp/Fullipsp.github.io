@@ -3,7 +3,6 @@ let categoryIndex = 0;
 
 addCategory("Pre-Ordered Nendos")
 
-.addFigure('marius.png', 'Marius von Hagen <br>Tears of Themis', "Ordered")
 .addFigure('luke.png', 'Luke Pearce <br>Tears of Themis', "Ordered")
 
 addCategory("FOR SALE")
