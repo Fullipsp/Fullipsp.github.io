@@ -6,6 +6,8 @@ addCategory("Ordered 🛒🛍")
 
 .addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Ordered")
 .addPin('guqinlbh.webp', 'Guqin Masters: LBH <br>by Virinali', "Ordered")
+.addPin('WLLBH.webp', 'White Lotus Binghe Chibi <br>by Peach&CreamCo', "Ordered")
+.addPin('SQQ.webp', 'Shen Qingqiu Chibi <br>by Peach&CreamCo', "Ordered")
 
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
@@ -13,11 +15,8 @@ addCategory("Ordered 🛒🛍")
 .addPin('evilbug.webp', 'Evil Bug <br> by MSPaint Palette', "Ordered")
 .addPin('evilcat.webp', 'Evil Kitty <br> by MSPaint Palette', "Ordered")
 
-.addPin('ascastie.webp', 'Bloody Astarion Chibi <br>by Peach&CreamCo', "Ordered")
 .addPin('chibiastie.webp', 'Hehe Astarion Chibi <br>by Peach&CreamCo', "Ordered")
-.addPin('WLLBH.webp', 'White Lotus Binghe Chibi <br>by Peach&CreamCo', "Ordered")
-.addPin('SQQ.webp', 'Shen Qingqiu Chibi <br>by Peach&CreamCo', "Ordered")
-
+.addPin('ascastie.webp', 'Bloody Astarion Chibi <br>by Peach&CreamCo', "Ordered")
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
