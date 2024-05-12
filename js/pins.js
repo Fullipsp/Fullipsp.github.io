@@ -37,8 +37,6 @@ addCategory("Foxipins MXTX Windows")
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
 
 .addPin('foxifairy.webp', 'Fairy Window <br>by Foxipins', "Ordered")
-
-
 // ========================================================================================================================================================================================================================
 addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 
