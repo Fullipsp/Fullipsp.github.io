@@ -36,7 +36,7 @@ addCategory("Foxipins MXTX Windows")
 .addPin('shiwudu.jpg', 'Shi Wudu Window <br>LE65 by Foxipins', "Ordered")
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
 
-.addPin('fairy.webp', 'Fairy Window <br>by Foxipins', "Ordered")
+.addPin('foxifairy.webp', 'Fairy Window <br>by Foxipins', "Ordered")
 
 
 // ========================================================================================================================================================================================================================
