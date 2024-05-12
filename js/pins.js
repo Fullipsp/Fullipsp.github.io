@@ -4,6 +4,7 @@ let categoryIndex = 0;
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
 
+.addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Ordered")
 .addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Ordered")
 .addPin('guqinlbh.webp', 'Guqin Masters: LBH <br>by Virinali', "Ordered")
 .addPin('WLLBH.webp', 'White Lotus Binghe Chibi <br>by Peach&CreamCo', "Ordered")
