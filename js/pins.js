@@ -7,17 +7,13 @@ addCategory("Ordered 🛒🛍")
 .addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Ordered")
 .addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Ordered")
 .addPin('guqinlbh.webp', 'Guqin Masters: LBH <br>by Virinali', "Ordered")
-.addPin('WLLBH.webp', 'White Lotus Binghe Chibi <br>by Peach&CreamCo', "Ordered")
-.addPin('SQQ.webp', 'Shen Qingqiu Chibi <br>by Peach&CreamCo', "Ordered")
 
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('elation.webp', 'Elation Chibis <br> by MariC****Cafe', "Ordered")
-.addPin('evilbug.webp', 'Evil Bug <br> by MSPaint Palette', "Ordered")
-.addPin('evilcat.webp', 'Evil Kitty <br> by MSPaint Palette', "Ordered")
 
-.addPin('chibiastie.webp', 'Hehe Astarion Chibi <br>by Peach&CreamCo', "Ordered")
-.addPin('ascastie.webp', 'Bloody Astarion Chibi <br>by Peach&CreamCo', "Ordered")
+
+
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
@@ -114,6 +110,8 @@ addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
 .addPin('profileshizun.webp', 'Profile Shizun <br>by Sourboxes', "Owned")
 .addPin('weddingbingqiu.webp', 'Wedding Bingqiu <br>by Sourboxes', "Owned")
 .addPin('bingbow.webp', 'Binghe Bow <br>by Sourboxes', "Owned")
+.addPin('WLLBH.webp', 'White Lotus Binghe Chibi <br>by Peach&CreamCo', "Owned")
+.addPin('SQQ.webp', 'Shen Qingqiu Chibi <br>by Peach&CreamCo', "Owned")
 .addPin('bchibibingqiu.webp', 'Chibi Bingqiu <br>by Bachoochi', "Owned")
 .addPin('bachbingqiu.webp', 'Bamboo Bingqiu <br>by Bachoochi', "Owned")
 
@@ -146,9 +144,8 @@ addCategory("Fantasy Couples 🐞🐱")
 .addPin('Ladynoir.webp', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Owned")
 .addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
 .addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Owned")
-.addPin('donotseperate.webp', 'Do Not Seperate Them <br> by WoupsShop', "Owned")
-.addPin('beloved.webp', 'My Beloved <br> by WoupsShop', "Owned")
-
+.addPin('evilbug.webp', 'Evil Bug <br> by MSPaint Palette', "Owned")
+.addPin('evilcat.webp', 'Evil Kitty <br> by MSPaint Palette', "Owned")
 
 // ===========================================================================================================================================================================================================================
 addCategory("Zelda Pins 🗡🏹 🌺💙")
@@ -203,6 +200,10 @@ addCategory("Animal Crossing Pins 🌺🌷🤍")
 .addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Owned")
 
 // =========================================================================================================================================================================================================================
+addCategory("Baldur's Gate 3 Pins 🖤")
+.addPin('chibiastie.webp', 'Hehe Astarion Chibi <br>by Peach&CreamCo', "Owned")
+.addPin('ascastie.webp', 'Bloody Astarion Chibi <br>by Peach&CreamCo', "Owned")
+// =========================================================================================================================================================================================================================
 addCategory("Genshin / Anime Pins ✨")
 .addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
 .addPin('kaguprez.webp', 'Love is War Valentines <br> by FantasyChibiPns', "Owned")
@@ -210,6 +211,10 @@ addCategory("Genshin / Anime Pins ✨")
    .addPin('obamitsu3.webp', 'Obanai & Mitsuri 3 <br>by Nandemopins', "Owned")
    .addPin('obamitsu1.webp', 'Obanai & Mitsuri 1 <br>by Nandemopins', "Owned")
    .addPin('obamitsu2.webp', 'Obanai & Mitsuri 2 <br>by Nandemopins', "Owned")
+
+.addPin('donotseperate.webp', 'Do Not Seperate Them <br> by WoupsShop', "Owned")
+.addPin('beloved.webp', 'My Beloved <br> by WoupsShop', "Owned")
+
    .addPin('mouseakaza.webp', 'Chibi Cute Akaza <br>by MailMousePins', "Owned")
    .addPin('crazyakaza.webp', 'Crazy Chibi Akaza <br>by ???', "Owned")
 // Genshin Impact
