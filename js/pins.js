@@ -12,7 +12,8 @@ addCategory("Ordered 🛒🛍")
 .addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('elation.webp', 'Elation Chibis <br> by MariC****Cafe', "Ordered")
 
-
+.addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
+.addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
