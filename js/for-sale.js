@@ -3,8 +3,8 @@ let categoryIndex = 0;
 
 addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 
-.addPin('ootzelda.webp', 'Ocarina of Time Zelda Pin <br>LE50 by PastelShootingStar', "For-Sale")
-.addPin('inlink.webp', 'BOTW Link <br>LE50 by Ins***Pins.', "For-Sale")
+.addPin('ootzelda.webp', 'Ocarina of Time Zelda Pin <br>LE50 by PastelShootingStar', "Sold")
+.addPin('inlink.webp', 'BOTW Link <br>LE50 by Ins***Pins.', "Sold")
 .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️ <br>by Arcade Healer', "For-Sale")
 .addPin('ClownKirby.webp', 'Mirror Poyo <br>by Arcade Healer', "For-Sale")
 .addPin('Clefairy.webp', 'Clefairy Tamagotchi <br>by Arcade Healer', "For-Sale")
