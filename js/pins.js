@@ -3,21 +3,21 @@ let categoryIndex = 0;
 
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
-
+// MLB
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
 
 .addPin('elation.webp', 'Elation Chibis <br> by MariC****Cafe', "Ordered")
 .addPin('yingyang.webp', 'Yingyang Chibis <br> by MariC****Cafe', "Ordered")
 .addPin('ladrienchibi.webp', 'Napping Chibis <br> by MariC****Cafe', "Ordered")
-
+// VASH STAMPEDE
+.addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
+.addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
+// MXTX
 .addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Ordered")
 .addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Ordered")
 .addPin('guqinlbh.webp', 'Guqin Masters: LBH <br>by Virinali', "Ordered")
- 
-.addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
-.addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
-
+// HELLUVA BOSS
 .addPin('2minfizz.webp', '2 Minutes Fizz -Gold- <br> by karina****op', "Ordered")
 .addPin('2minfizzay.webp', '2 Minutes Fizz -Chrome- <br> by karina****op', "Ordered")
 .addPin('fizzygold.webp', 'Heart Fizz -Gold- <br> by karina****op', "Ordered")
