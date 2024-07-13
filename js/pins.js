@@ -4,15 +4,20 @@ let categoryIndex = 0;
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
 
+.addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
+.addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
+
+.addPin('elation.webp', 'Elation Chibis <br> by MariC****Cafe', "Ordered")
+.addPin('yingyang.webp', 'Yingyang Chibis <br> by MariC****Cafe', "Ordered")
+.addPin('ladrien.webp', 'Napping Chibis <br> by MariC****Cafe', "Ordered")
+
 .addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Ordered")
 .addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Ordered")
 .addPin('guqinlbh.webp', 'Guqin Masters: LBH <br>by Virinali', "Ordered")
-
-.addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
-.addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
+ 
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
-.addPin('elation.webp', 'Elation Chibis <br> by MariC****Cafe', "Ordered")
+
 
 addGap();
 // =====================================================================================================================================================================================================================================================
