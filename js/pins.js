@@ -9,7 +9,7 @@ addCategory("Ordered 🛒🛍")
 
 .addPin('elation.webp', 'Elation Chibis <br> by MariC****Cafe', "Ordered")
 .addPin('yingyang.webp', 'Yingyang Chibis <br> by MariC****Cafe', "Ordered")
-.addPin('ladrien.webp', 'Napping Chibis <br> by MariC****Cafe', "Ordered")
+.addPin('ladrienchibi.webp', 'Napping Chibis <br> by MariC****Cafe', "Ordered")
 
 .addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Ordered")
 .addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Ordered")
