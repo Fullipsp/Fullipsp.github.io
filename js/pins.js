@@ -142,15 +142,18 @@ addCategory("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
 // ===========================================================================================================================================================================================================================
 // Fantasy Couples
 addCategory("Fantasy Couples 🐞🐱")
+.addPin('shadyclaw.webp', 'Shadyclaw Pair <br>LE75 by LP***ns', "Owned")
 .addPin('tarotbug.webp', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Owned")
 .addPin('tarotnoir.webp', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Owned")
-.addPin('lucky.webp', 'Lucky Bug <br> by crow.creations', "Owned")
-.addPin('unlucky.webp', 'Unlucky Kitty <br> by crow.creations', "Owned")
-.addPin('kwamis.webp', 'Ladybug Kwamis <br> by crow.creations', "Owned")
 .addPin('mlbjapanese.jpg', 'Japanese Adrinette <br> by MariC****Cafe', "Owned")
+
+
 .addPin('ladynoirkiss.jpg', 'Ladynoir Kiss <br> by MariC****Cafe', "Owned")
 .addPin('marichat.jpg', 'Marichat <br> by MariC****Cafe', "Owned")
 .addPin('heartmlb.jpg', 'Ladynoir <3 <br> by MariC****Cafe', "Owned")
+.addPin('lucky.webp', 'Lucky Bug <br> by crow.creations', "Owned")
+.addPin('unlucky.webp', 'Unlucky Kitty <br> by crow.creations', "Owned")
+.addPin('kwamis.webp', 'Ladybug Kwamis <br> by crow.creations', "Owned")
 .addPin('Ladynoir.webp', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Owned")
 .addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
 .addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Owned")
