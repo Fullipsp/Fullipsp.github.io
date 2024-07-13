@@ -18,6 +18,11 @@ addCategory("Ordered 🛒🛍")
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
 
+.addPin('2minfizz.webp', '2 Minutes Fizz -Gold- <br> by karina****op', "Ordered")
+.addPin('2minfizzay.webp', '2 Minutes Fizz -Chrome- <br> by karina****op', "Ordered")
+.addPin('fizzygold.webp', 'Heart Fizz -Gold- <br> by karina****op', "Ordered")
+.addPin('fizzycopper.webp', 'Heart Fizz -Copper- <br> by karina****op', "Ordered")
+
 
 addGap();
 // =====================================================================================================================================================================================================================================================
