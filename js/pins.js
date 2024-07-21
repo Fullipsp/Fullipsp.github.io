@@ -22,7 +22,8 @@ addCategory("Ordered 🛒🛍")
 .addPin('2minfizzay.webp', '2 Minutes Fizz -Chrome- <br> by karina****op', "Ordered")
 .addPin('fizzygold.webp', 'Heart Fizz -Gold- <br> by karina****op', "Ordered")
 .addPin('fizzycopper.webp', 'Heart Fizz -Copper- <br> by karina****op', "Ordered")
-
+.addPin('blitzo40.webp', 'Blitzo Window <br> LE40 by karina****op', "Ordered")
+.addPin('stolas40.webp', 'Stolas Window <br> LE40 by karina****op', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
