@@ -148,9 +148,9 @@ addCategory("Fantasy Couples 🐞🐱")
 .addPin('unlucky.webp', 'Unlucky Kitty <br> by crow.creations', "Owned")
 .addPin('kwamis.webp', 'Ladybug Kwamis <br> by crow.creations', "Owned")
 .addPin('Ladynoir.webp', 'Ladybug x Cat Noir Pin <br>(Nostalgia Couples KS)', "Owned")
-.addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Owned")
 .addPin('evilbug.webp', 'Evil Bug <br> by MSPaint Palette', "Owned")
 .addPin('evilcat.webp', 'Evil Kitty <br> by MSPaint Palette', "Owned")
+.addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Owned")
 .addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
 
 // ===========================================================================================================================================================================================================================
