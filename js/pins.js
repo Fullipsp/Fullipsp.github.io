@@ -7,9 +7,9 @@ addCategory("Ordered 🛒🛍")
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
 
-.addPin('elation.webp', 'Elation Chibis <br> by MariC****Cafe', "Ordered")
-.addPin('yingyang.webp', 'Yingyang Chibis <br> by MariC****Cafe', "Ordered")
-.addPin('ladrienchibi.webp', 'Napping Chibis <br> by MariC****Cafe', "Ordered")
+.addPin('elation.webp', 'Elation Chibis <br> by MariC****Cafe', "Owned")
+.addPin('yingyang.webp', 'Yingyang Chibis <br> by MariC****Cafe', "Owned")
+.addPin('ladrienchibi.webp', 'Napping Chibis <br> by MariC****Cafe', "Owned")
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
@@ -18,12 +18,12 @@ addCategory("Ordered 🛒🛍")
 .addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Ordered")
 .addPin('guqinlbh.webp', 'Guqin Masters: LBH <br>by Virinali', "Ordered")
 // HELLUVA BOSS
-.addPin('2minfizz.webp', '2 Minutes Fizz -Gold- <br> by karina****op', "Ordered")
-.addPin('2minfizzay.webp', '2 Minutes Fizz -Chrome- <br> by karina****op', "Ordered")
-.addPin('fizzygold.webp', 'Heart Fizz -Gold- <br> by karina****op', "Ordered")
-.addPin('fizzycopper.webp', 'Heart Fizz -Copper- <br> by karina****op', "Ordered")
-.addPin('blitzo40.webp', 'Blitzo Window <br> LE40 by karina****op', "Ordered")
-.addPin('stolas40.webp', 'Stolas Window <br> LE40 by karina****op', "Ordered")
+.addPin('2minfizz.webp', '2 Minutes Fizz -Gold- <br> by karina****op', "Owned")
+.addPin('2minfizzay.webp', '2 Minutes Fizz -Chrome- <br> by karina****op', "Sold")
+.addPin('fizzygold.webp', 'Heart Fizz -Gold- <br> by karina****op', "Sold")
+.addPin('fizzycopper.webp', 'Heart Fizz -Copper- <br> by karina****op', "Owned")
+.addPin('blitzo40.webp', 'Blitzo Window <br> LE40 by karina****op', "Owned")
+.addPin('stolas40.webp', 'Stolas Window <br> LE40 by karina****op', "Owned")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
