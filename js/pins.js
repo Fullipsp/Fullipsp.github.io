@@ -17,13 +17,7 @@ addCategory("Ordered 🛒🛍")
 .addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Ordered")
 .addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Ordered")
 .addPin('guqinlbh.webp', 'Guqin Masters: LBH <br>by Virinali', "Ordered")
-// HELLUVA BOSS
-.addPin('2minfizz.webp', '2 Minutes Fizz -Gold- <br> by karina****op', "Owned")
-.addPin('2minfizzay.webp', '2 Minutes Fizz -Chrome- <br> by karina****op', "Sold")
-.addPin('fizzygold.webp', 'Heart Fizz -Gold- <br> by karina****op', "Sold")
-.addPin('fizzycopper.webp', 'Heart Fizz -Copper- <br> by karina****op', "Owned")
-.addPin('blitzo40.webp', 'Blitzo Window <br> LE40 by karina****op', "Owned")
-.addPin('stolas40.webp', 'Stolas Window <br> LE40 by karina****op', "Owned")
+
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -159,6 +153,15 @@ addCategory("Fantasy Couples 🐞🐱")
 .addPin('chibicatnoir.webp', 'Chibi Cat Noir <br> by AkuoArt', "Owned")
 
 // ===========================================================================================================================================================================================================================
+addCategory("Helluva Boss ❤️‍🔥😈👅")
+.addPin('blitzo40.webp', 'Blitzo Window <br> LE40 by karina****op', "Owned")
+.addPin('stolas40.webp', 'Stolas Window <br> LE40 by karina****op', "Owned")
+.addPin('2minfizz.webp', '2 Minutes Fizz -Gold- <br> by karina****op', "Owned")
+.addPin('fizzycopper.webp', 'Heart Fizz -Copper- <br> by karina****op', "Owned")
+
+.addPin('2minfizzay.webp', '2 Minutes Fizz -Chrome- <br> by karina****op', "Sold")
+.addPin('fizzygold.webp', 'Heart Fizz -Gold- <br> by karina****op', "Sold")
+// ==========================================================================================================================================================================================================================
 addCategory("Zelda Pins 🗡🏹 🌺💙")
 .addPin('inzelda.webp', 'BOTW Zelda <br>LE50 by Ins***Pins', "Owned")
 .addPin('inlink.webp', 'BOTW Link x2 <br>LE50 by Ins***Pins.', "Owned")
