@@ -216,6 +216,8 @@ addCategory("Baldur's Gate 3 Pins 🖤")
 .addPin('ascastie.webp', 'Bloody Astarion Chibi <br>by Peach&CreamCo', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Genshin / Anime Pins ✨")
+.addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
+.addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
 .addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
 .addPin('kaguprez.webp', 'Love is War Valentines <br> by FantasyChibiPns', "Owned")
 //Anime
