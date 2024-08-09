@@ -14,6 +14,15 @@ addCategory("Ordered 🛒🛍")
 .addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Ordered")
 .addPin('guqinlbh.webp', 'Guqin Masters: LBH <br>by Virinali', "Ordered")
 
+.addPin('yookisophie.webp', 'HMC: Sophie Chibi <br>by YookiStudios', "Ordered")
+.addPin('yookihowl.webp', 'HMC: Howl Chibi <br>by YookiStudios', "Ordered")
+.addPin('yookimitsuri.webp', 'Kitsune Mitsuri <br>by YookiStudios', "Ordered")
+.addPin('yookiobanai.webp', 'Snake Obanai <br>by YookiStudios', "Ordered")
+.addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "Ordered")
+.addPin('yookiyor.webp', 'Yor Mirror <br>by YookiStudios', "Ordered")
+.addPin('yookianya.webp', 'Anya Mirror <br>by YookiStudios', "Ordered")
+.addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "Ordered")
+
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
