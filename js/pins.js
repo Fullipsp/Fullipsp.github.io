@@ -21,6 +21,7 @@ addCategory("Ordered 🛒🛍")
 .addPin('yookihowl.webp', 'HMC: Howl Chibi <br>by YookiStudios', "Ordered")
 .addPin('yookimitsuri.webp', 'Kitsune Mitsuri <br>by YookiStudios', "Ordered")
 .addPin('yookiobanai.webp', 'Snake Obanai <br>by YookiStudios', "Ordered")
+.addPin('insomniacynari.webp', 'Cynari Diamond Pins <br>LE by Ins***Pins.', "Owned")
 
 .addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "Ordered")
 
