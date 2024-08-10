@@ -30,7 +30,7 @@ addGap();
 addCategory("Foxipins MXTX Windows")
 .addPin('yinyu.webp', 'Yin Yu Window <br>LE65 by Foxipins', "Owned")
 .addPin('wenning.webp', 'Wen Ning Window <br>LE65 by Foxipins', "Owned")
-.addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Owned")
+.addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Sold")
 .addPin('hxwindow.webp', 'He Xuan Window <br>LE? by Foxipins', "Ordered")
 .addPin('sqxwindow.webp', 'Shi Qingxuan Window <br>LE? by Foxipins', "Ordered")
 
@@ -57,7 +57,7 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('hctea.jpg', 'Teacup Hua Cheng <br>by Peonypinsco', "Owned")
  
 .addPin('sanlang.webp', 'Thousand Lights <br>by Califlair', "Owned")
-.addPin('wedding.webp', 'His Heavenly Bride <br>by Califlair', "Owned")
+.addPin('wedding.webp', 'His Heavenly Bride <br>by Califlair', "Sold")
 .addPin('believer.webp', 'God & King <br>by Califlair', "Owned")
 .addPin('flowerxl.jpg', 'Flower Xie Lian <br>by Sinycath', "Owned")
 .addPin('flowerhands.jpg', 'Flower Hualian Hands <br>by Sinycath', "Owned")   
