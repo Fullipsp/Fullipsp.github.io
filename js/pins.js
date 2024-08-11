@@ -13,18 +13,25 @@ addCategory("Ordered 🛒🛍")
 .addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Ordered")
 .addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Ordered")
 .addPin('guqinlbh.webp', 'Guqin Masters: LBH <br>by Virinali', "Ordered")
-
+//Haiimeo SatoSugu
+.addPin('bikegold.webp', 'STSG: Better Days (Gold) <br>by Haiimeo', "Ordered")
+.addPin('bikerose.webp', 'STSG: Better Days (Rose) <br>by Haiimeo', "Ordered")
+.addPin('rainydays.webp', 'STSG: Rainy Day <br>by Haiimeo', "Ordered")
+.addPin('catfriend.webp', 'STSG: Cat Friend <br>by Haiimeo', "Ordered")
+.addPin('stsgnuuh.webp', 'STSG: Nu Uh <br>by Haiimeo', "Ordered")
+.addPin('getoboba.webp', 'Geto Boba Slider Pin <br>by Haiimeo', "Ordered")
+// Genshin
+.addPin('insomniacynari.webp', 'Cynari Diamond Pins <br>LE by Ins***Pins.', "Ordered")
+//YookiStudios
 .addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "Ordered")
 .addPin('yookiyor.webp', 'Yor Mirror <br>by YookiStudios', "Ordered")
 .addPin('yookianya.webp', 'Anya Mirror <br>by YookiStudios', "Ordered")
 .addPin('yookimitsuri.webp', 'Kitsune Mitsuri <br>by YookiStudios', "Ordered")
 .addPin('yookiobanai.webp', 'Snake Obanai <br>by YookiStudios', "Ordered")
-.addPin('insomniacynari.webp', 'Cynari Diamond Pins <br>LE by Ins***Pins.', "Ordered")
-.addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "Ordered")
 .addPin('yookispohie.webp', 'HMC: Sophie Chibi <br>by YookiStudios', "Ordered")
 .addPin('yookihowl.webp', 'HMC: Howl Chibi <br>by YookiStudios', "Ordered")
 
-
+.addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "Ordered")
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
