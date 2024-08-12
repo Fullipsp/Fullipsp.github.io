@@ -20,6 +20,9 @@ addCategory("Ordered 🛒🛍")
 .addPin('catfriend.webp', 'STSG: Cat Friend <br>by Haiimeo', "Ordered")
 .addPin('stsgnuuh.webp', 'STSG: Nu Uh <br>by Haiimeo', "Ordered")
 .addPin('getoboba.webp', 'Geto Boba Slider Pin <br>by Haiimeo', "Ordered")
+.addPin('xqstsg.webp', 'Gojo x Geto Set <br>by XQIU', "Ordered")
+.addPin('xqonepiece.webp', 'ASL One Piece Set <br>by XQIU', "Ordered")
+.addPin('xqobamitsu.webp', 'Obanai x Mitsuri Set <br>by XQIU', "Ordered")
 // Genshin
 .addPin('insomniacynari.webp', 'Cynari Diamond Pins <br>LE by Ins***Pins.', "Ordered")
 //YookiStudios
