@@ -3,7 +3,7 @@ let categoryIndex = 0;
 
 addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 
-
+.addPin('helioschibiusa.webp', 'Chibiusa and Helios', "Owned")
 .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️ <br>by Arcade Healer', "For-Sale")
 .addPin('ClownKirby.webp', 'Mirror Poyo <br>by Arcade Healer', "For-Sale")
 .addPin('witchfroggie.webp', 'Witch Froggie <br>(October 2020 Pin Club) <br>by Blushsprout', "Sold")
@@ -38,7 +38,7 @@ addCategory("Sold Pins 👠")
 .addPin('SakuraKirby.webp', 'Sakura Kirby <br>by Arcade Healer', "Sold")
 
            // MAMOBOT
-    .addPin('helioschibiusa.webp', 'Chibiusa and Helios', "Owned")
+    
     .addPin('SSailor.webp', 'Super Sailor Moon', "Sold")
     .addPin('SSerenity.webp', 'Serenity Sailor Moon', "Sold")
     .addPin('SCosmos.webp', 'Cosmos Sailor Moon', "Sold")
