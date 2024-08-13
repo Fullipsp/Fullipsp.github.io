@@ -78,7 +78,7 @@ addCategory("Sold Pins 👠")
 
          // Kirby / Animal pins
     
-    .addPin('WishingWell.webp', 'Bunny`s Wishing Pond (August 2020 Pin Club) <br>(Seconds)', "Sold")
+    .addPin('WishingWell.webp', 'Bunny`s Wishing Pond (August 2020 Pin Club)', "Sold")
     .addPin('Isabelle.webp', 'Vacation Isabelle <br>by Weishi', "Sold")
     .addPin('Teacup.webp', 'Luna the Bookworm ♡ <br>by Goldfishkang', "Sold")
     .addPin('froggie pin bag.webp', 'Froggie Pond Pal <br>by Blushsprout', "Sold")
