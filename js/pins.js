@@ -52,9 +52,9 @@ addCategory("Foxipins MXTX Windows")
 .addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Ordered")
 .addPin('bingpup.webp', 'Bingpup Window <br>by Foxipins', "Ordered")
 .addPin('foxifairy.webp', 'Fairy Window <br>by Foxipins', "Ordered")
-.addPin('peiming.jpg', 'Pei Ming Window <br>LE65 by Foxipins', "Ordered")
-.addPin('lingwen.jpg', 'Ling Wen Window <br>LE65 by Foxipins', "Ordered")
-.addPin('shiwudu.jpg', 'Shi Wudu Window <br>LE65 by Foxipins', "Ordered")
+.addPin('peiming.jpg', 'Pei Ming Window <br>LE65 by Foxipins', "Owned")
+.addPin('lingwen.jpg', 'Ling Wen Window <br>LE65 by Foxipins', "Owned")
+.addPin('shiwudu.jpg', 'Shi Wudu Window <br>LE65 by Foxipins', "Owned")
 
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
 // ========================================================================================================================================================================================================================
