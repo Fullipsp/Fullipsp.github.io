@@ -43,6 +43,9 @@ addCategory("Foxipins MXTX Windows")
 .addPin('yinyu.webp', 'Yin Yu Window <br>LE65 by Foxipins', "Owned")
 .addPin('wenning.webp', 'Wen Ning Window <br>LE65 by Foxipins', "Owned")
 .addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Sold")
+.addPin('peiming.jpg', 'Pei Ming Window <br>LE65 by Foxipins', "Owned")
+.addPin('lingwen.jpg', 'Ling Wen Window <br>LE65 by Foxipins', "Owned")
+.addPin('shiwudu.jpg', 'Shi Wudu Window <br>LE65 by Foxipins', "Owned")
 .addPin('hxwindow.webp', 'He Xuan Window <br>LE? by Foxipins', "Ordered")
 .addPin('sqxwindow.webp', 'Shi Qingxuan Window <br>LE? by Foxipins', "Ordered")
 
@@ -52,9 +55,7 @@ addCategory("Foxipins MXTX Windows")
 .addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Ordered")
 .addPin('bingpup.webp', 'Bingpup Window <br>by Foxipins', "Ordered")
 .addPin('foxifairy.webp', 'Fairy Window <br>by Foxipins', "Ordered")
-.addPin('peiming.jpg', 'Pei Ming Window <br>LE65 by Foxipins', "Owned")
-.addPin('lingwen.jpg', 'Ling Wen Window <br>LE65 by Foxipins', "Owned")
-.addPin('shiwudu.jpg', 'Shi Wudu Window <br>LE65 by Foxipins', "Owned")
+
 
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
 // ========================================================================================================================================================================================================================
