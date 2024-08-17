@@ -33,10 +33,12 @@ addCategory("Ordered 🛒🛍")
 .addPin('yookimitsuri.webp', 'Kitsune Mitsuri <br>by YookiStudios', "Ordered")
 .addPin('yookiobanai.webp', 'Snake Obanai <br>by YookiStudios', "Ordered")
 // Genshin
-.addPin('insomniacynari.webp', 'Cynari Diamond Pins <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniatighnari.webp', 'Tighnari Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
 
 
-.addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "Ordered")
+.addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "Owned")
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
@@ -46,13 +48,12 @@ addCategory("Foxipins MXTX Windows")
 .addPin('peiming.jpg', 'Pei Ming Window <br>LE65 by Foxipins', "Owned")
 .addPin('lingwen.jpg', 'Ling Wen Window <br>LE65 by Foxipins', "Owned")
 .addPin('shiwudu.jpg', 'Shi Wudu Window <br>LE65 by Foxipins', "Owned")
+.addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Ordered")
 .addPin('hxwindow.webp', 'He Xuan Window <br>LE? by Foxipins', "Ordered")
 .addPin('sqxwindow.webp', 'Shi Qingxuan Window <br>LE? by Foxipins', "Ordered")
-
 .addPin('lwjpanel.jpg', 'Lan Wangji Window <br>by Foxipins', "Ordered")
 .addPin('foxiwwx.webp', 'Wei Wuxian Window <br>by Foxipins', "Ordered")
 .addPin('xichen.jpg', 'Lan Xichen Window <br>by Foxipins', "Ordered")
-.addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Ordered")
 .addPin('bingpup.webp', 'Bingpup Window <br>by Foxipins', "Ordered")
 .addPin('foxifairy.webp', 'Fairy Window <br>by Foxipins', "Ordered")
 
