@@ -3,11 +3,6 @@ let categoryIndex = 0;
 
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
-// VASH STAMPEDE
-.addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
-.addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
-// MXTX
-.addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Ordered")
 
 //Haiimeo 
 .addPin('bikegold.webp', 'STSG: Better Days (Gold) <br>by Haiimeo', "Ordered")
@@ -35,8 +30,14 @@ addCategory("Ordered 🛒🛍")
 .addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
 //JJK
-
 .addPin('bbychoso.webp', 'Chibi Choso Diamond <br>byLE ???', "Ordered")
+
+// VASH STAMPEDE
+.addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
+.addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
+// MXTX
+.addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Ordered")
+
  
 
 addGap();
