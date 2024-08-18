@@ -36,6 +36,10 @@ addCategory("Ordered 🛒🛍")
 .addPin('insomniatighnari.webp', 'Tighnari Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
+//JJK
+.addPin('bbychoso.webp', 'Chibi Choso Diamond <br>byLE ???', "Ordered")
+.addPin('pandamaki.webp', 'Panda & Inumaki Chibi <br>by Haiimeo', "Ordered")
+.addPin('flowermaki.webp', 'Bouquet Inumaki Chibi <br>by Haiimeo', "Ordered")
 
 .addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "Owned")
 addGap();
