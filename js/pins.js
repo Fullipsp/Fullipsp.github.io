@@ -3,15 +3,13 @@ let categoryIndex = 0;
 
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
-// MLB
-
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
 // MXTX
 .addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Ordered")
 
-//Haiimeo SatoSugu
+//Haiimeo 
 .addPin('bikegold.webp', 'STSG: Better Days (Gold) <br>by Haiimeo', "Ordered")
 .addPin('bikerose.webp', 'STSG: Better Days (Rose) <br>by Haiimeo', "Ordered")
 .addPin('rainydays.webp', 'STSG: Rainy Day <br>by Haiimeo', "Ordered")
@@ -22,6 +20,8 @@ addCategory("Ordered 🛒🛍")
 .addPin('xqonepiece.webp', 'ASL One Piece Set <br>by XQIU', "Ordered")
 .addPin('xqobamitsu.webp', 'Obanai x Mitsuri Set <br>by XQIU', "Ordered")
 
+.addPin('pandamaki.webp', 'Panda & Inumaki Chibi <br>by Haiimeo', "Ordered")
+.addPin('flowermaki.webp', 'Bouquet Inumaki Chibi <br>by Haiimeo', "Ordered")
 //YookiStudios
 .addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "Ordered")
 .addPin('yookiyor.webp', 'Yor Mirror <br>by YookiStudios', "Ordered")
@@ -35,8 +35,7 @@ addCategory("Ordered 🛒🛍")
 .addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
 //JJK
-.addPin('pandamaki.webp', 'Panda & Inumaki Chibi <br>by Haiimeo', "Ordered")
-.addPin('flowermaki.webp', 'Bouquet Inumaki Chibi <br>by Haiimeo', "Ordered")
+
 .addPin('bbychoso.webp', 'Chibi Choso Diamond <br>byLE ???', "Ordered")
  
 
