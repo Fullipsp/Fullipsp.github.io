@@ -3,6 +3,7 @@ let categoryIndex = 0;
 
 addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 
+.addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "Owned")
 .addPin('helioschibiusa.webp', 'Chibiusa and Helios', "Owned")
 .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️ <br>by Arcade Healer', "For-Sale")
 .addPin('ClownKirby.webp', 'Mirror Poyo <br>by Arcade Healer', "For-Sale")
