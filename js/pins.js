@@ -4,15 +4,13 @@ let categoryIndex = 0;
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
 // MLB
-.addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
-.addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
+
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
 // MXTX
 .addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Ordered")
-.addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Ordered")
-.addPin('guqinlbh.webp', 'Guqin Masters: LBH <br>by Virinali', "Ordered")
+
 //Haiimeo SatoSugu
 .addPin('bikegold.webp', 'STSG: Better Days (Gold) <br>by Haiimeo', "Ordered")
 .addPin('bikerose.webp', 'STSG: Better Days (Rose) <br>by Haiimeo', "Ordered")
@@ -41,7 +39,7 @@ addCategory("Ordered 🛒🛍")
 .addPin('flowermaki.webp', 'Bouquet Inumaki Chibi <br>by Haiimeo', "Ordered")
 .addPin('bbychoso.webp', 'Chibi Choso Diamond <br>byLE ???', "Ordered")
  
-.addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "Owned")
+
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
@@ -133,6 +131,8 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
  
 // =========================================================================================================================================================================================================================
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
+.addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Ordered")
+.addPin('guqinlbh.webp', 'Guqin Masters: LBH <br>by Virinali', "Ordered")
 .addPin('profilebinghe.webp', 'Profile Binghe <br>by Sourboxes', "Owned")
 .addPin('profileshizun.webp', 'Profile Shizun <br>by Sourboxes', "Owned")
 .addPin('weddingbingqiu.webp', 'Wedding Bingqiu <br>by Sourboxes', "Owned")
@@ -159,6 +159,9 @@ addCategory("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
 // ===========================================================================================================================================================================================================================
 // Fantasy Couples
 addCategory("Fantasy Couples 🐞🐱")
+.addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
+.addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
+
 .addPin('shadyclaw.webp', 'Shadyclaw Pair <br>LE75 by LP***ns', "Owned")
 .addPin('tarotbug.webp', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Owned")
 .addPin('tarotnoir.webp', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Owned")
@@ -246,6 +249,7 @@ addCategory("Baldur's Gate 3 Pins 🖤")
 .addPin('ascastie.webp', 'Bloody Astarion Chibi <br>by Peach&CreamCo', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Genshin / Anime Pins ✨")
+.addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "Owned")
 .addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
 .addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
 .addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
