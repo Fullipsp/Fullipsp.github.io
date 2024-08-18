@@ -38,8 +38,6 @@ addCategory("Ordered 🛒🛍")
 // MXTX
 .addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Ordered")
 
- 
-
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
@@ -58,10 +56,9 @@ addCategory("Foxipins MXTX Windows")
 .addPin('bingpup.webp', 'Bingpup Window <br>by Foxipins', "Ordered")
 .addPin('foxifairy.webp', 'Fairy Window <br>by Foxipins', "Ordered")
 
-
-.addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
 // ========================================================================================================================================================================================================================
 addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
+.addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
 
 .addPin('insomniahualian.webp', 'Autumn Hualian Panel <br>LE? by Ins***Pins.', "Owned")
 .addPin('xlwindow.jpg', 'Xie Lian Window <br>by Peonypinsco', "Owned")
