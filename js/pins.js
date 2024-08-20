@@ -14,11 +14,11 @@ addCategory("Ordered 🛒🛍")
 .addPin('pandamaki.webp', 'Panda & Inumaki Chibi <br>by Haiimeo', "Ordered")
 .addPin('flowermaki.webp', 'Bouquet Inumaki Chibi <br>by Haiimeo', "Ordered")
 
-.addPin('flowermaki.webp', 'Bouquet Inumaki Chibi <br>by Haiimeo', "Ordered")
 .addPin('gloomygeto.webp', 'Gloomy Geto Panel <br>LE by ZeninPins', "Ordered")
 .addPin('gloomygojo.webp', 'Gloomy Gojo Panel <br>LE by ZeninPins', "Ordered")
 .addPin('cloudygeto.webp', 'Cloudy Satosugu <br>LE by ???', "Ordered")
 .addPin('bbychoso.webp', 'Chibi Choso Diamond <br>LE by ???', "Ordered")
+.addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
 //YookiStudios
 .addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "Ordered")
 .addPin('yookiyor.webp', 'Yor Mirror <br>by YookiStudios', "Ordered")
@@ -27,7 +27,7 @@ addCategory("Ordered 🛒🛍")
 .addPin('yookihowl.webp', 'HMC: Howl Chibi <br>by YookiStudios', "Ordered")
 .addPin('yookimitsuri.webp', 'Kitsune Mitsuri <br>by YookiStudios', "Ordered")
 .addPin('yookiobanai.webp', 'Snake Obanai <br>by YookiStudios', "Ordered")
-.addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
+
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
