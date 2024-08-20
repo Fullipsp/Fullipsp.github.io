@@ -15,8 +15,8 @@ addCategory("Ordered 🛒🛍")
 .addPin('flowermaki.webp', 'Bouquet Inumaki Chibi <br>by Haiimeo', "Ordered")
 
 .addPin('flowermaki.webp', 'Bouquet Inumaki Chibi <br>by Haiimeo', "Ordered")
-.addPin('gloomygojo.webp', 'Gloomy Gojo Panel <br>LE by ZeninPins', "Ordered")
 .addPin('gloomygeto.webp', 'Gloomy Geto Panel <br>LE by ZeninPins', "Ordered")
+.addPin('gloomygojo.webp', 'Gloomy Gojo Panel <br>LE by ZeninPins', "Ordered")
 .addPin('cloudygeto.webp', 'Cloudy Satosugu <br>LE by ???', "Ordered")
 .addPin('bbychoso.webp', 'Chibi Choso Diamond <br>LE by ???', "Ordered")
 //YookiStudios
