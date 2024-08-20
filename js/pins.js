@@ -4,7 +4,7 @@ let categoryIndex = 0;
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
 
-//Haiimeo 
+//Haiimeo / JJK
 .addPin('bikegold.webp', 'STSG: Better Days (Gold) <br>by Haiimeo', "Ordered")
 .addPin('bikerose.webp', 'STSG: Better Days (Rose) <br>by Haiimeo', "Ordered")
 .addPin('rainydays.webp', 'STSG: Rainy Day <br>by Haiimeo', "Ordered")
@@ -13,6 +13,7 @@ addCategory("Ordered 🛒🛍")
 .addPin('getoboba.webp', 'Geto Boba Slider Pin <br>by Haiimeo', "Ordered")
 .addPin('pandamaki.webp', 'Panda & Inumaki Chibi <br>by Haiimeo', "Ordered")
 .addPin('flowermaki.webp', 'Bouquet Inumaki Chibi <br>by Haiimeo', "Ordered")
+.addPin('bbychoso.webp', 'Chibi Choso Diamond <br>byLE ???', "Ordered")
 //YookiStudios
 .addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "Ordered")
 .addPin('yookiyor.webp', 'Yor Mirror <br>by YookiStudios', "Ordered")
@@ -21,16 +22,13 @@ addCategory("Ordered 🛒🛍")
 .addPin('yookihowl.webp', 'HMC: Howl Chibi <br>by YookiStudios', "Ordered")
 .addPin('yookimitsuri.webp', 'Kitsune Mitsuri <br>by YookiStudios', "Ordered")
 .addPin('yookiobanai.webp', 'Snake Obanai <br>by YookiStudios', "Ordered")
+// VASH STAMPEDE
+.addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
+.addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
 // Genshin
 .addPin('insomniatighnari.webp', 'Tighnari Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
-//JJK
-.addPin('bbychoso.webp', 'Chibi Choso Diamond <br>byLE ???', "Ordered")
-
-// VASH STAMPEDE
-.addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
-.addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
 // MXTX
 .addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Ordered")
 
