@@ -13,6 +13,10 @@ addCategory("Ordered 🛒🛍")
 .addPin('getoboba.webp', 'Geto Boba Slider Pin <br>by Haiimeo', "Ordered")
 .addPin('pandamaki.webp', 'Panda & Inumaki Chibi <br>by Haiimeo', "Ordered")
 .addPin('flowermaki.webp', 'Bouquet Inumaki Chibi <br>by Haiimeo', "Ordered")
+
+.addPin('flowermaki.webp', 'Bouquet Inumaki Chibi <br>by Haiimeo', "Ordered")
+.addPin('gloomygojo.webp', 'Gloomy Gojo Panel <br>LE by ZeninPins', "Ordered")
+.addPin('gloomygeto.webp', 'Gloomy Geto Panel <br>LE by ZeninPins', "Ordered")
 .addPin('bbychoso.webp', 'Chibi Choso Diamond <br>byLE ???', "Ordered")
 //YookiStudios
 .addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "Ordered")
