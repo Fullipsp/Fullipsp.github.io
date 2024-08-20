@@ -11,10 +11,6 @@ addCategory("Ordered 🛒🛍")
 .addPin('catfriend.webp', 'STSG: Cat Friend <br>by Haiimeo', "Ordered")
 .addPin('stsgnuuh.webp', 'STSG: Nu Uh <br>by Haiimeo', "Ordered")
 .addPin('getoboba.webp', 'Geto Boba Slider Pin <br>by Haiimeo', "Ordered")
-.addPin('xqstsg.webp', 'Gojo x Geto Set <br>by XQIU', "Ordered")
-.addPin('xqonepiece.webp', 'ASL One Piece Set <br>by XQIU', "Ordered")
-.addPin('xqobamitsu.webp', 'Obanai x Mitsuri Set <br>by XQIU', "Ordered")
-
 .addPin('pandamaki.webp', 'Panda & Inumaki Chibi <br>by Haiimeo', "Ordered")
 .addPin('flowermaki.webp', 'Bouquet Inumaki Chibi <br>by Haiimeo', "Ordered")
 //YookiStudios
@@ -192,13 +188,13 @@ addCategory("Zelda Pins 🗡🏹 🌺💙")
 addCategory("Helluva Boss ❤️‍🔥😈👅")
 .addPin('blitzo40.webp', 'Blitzo Window <br> LE40 by karina****op', "Owned")
 .addPin('stolas40.webp', 'Stolas Window <br> LE40 by karina****op', "Owned")
-.addPin('2minfizz.webp', '2 Minutes Fizz -Gold- <br> by karina****op', "Owned")
 .addPin('fizzycopper.webp', 'Heart Fizz -Copper- <br> by karina****op', "Owned")
-
+.addPin('2minfizz.webp', '2 Minutes Fizz -Gold- <br> by karina****op', "Sold")
 .addPin('2minfizzay.webp', '2 Minutes Fizz -Chrome- <br> by karina****op', "Sold")
 .addPin('fizzygold.webp', 'Heart Fizz -Gold- <br> by karina****op', "Sold")
 // ========================================================================================================================================================================================================================
 addCategory("JJK Pins 🤍🖤")
+.addPin('xqstsg.webp', 'Gojo x Geto Set <br>by XQIU', "Owned")
 .addPin('bwbgeto.webp', 'BWB Geto Window <br>LE145 by karina****op', "Owned")
 .addPin('bwbgojo.webp', 'BWB Gojo Window <br>LE175 by karina****op', "Owned")
 .addPin('cutegeto.webp', 'Cutest Lil Killer <br>LE40 by karina****op', "Owned")
@@ -251,13 +247,15 @@ addCategory("Genshin / Anime Pins ✨")
 .addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
 .addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
 .addPin('kaguprez.webp', 'Love is War Valentines <br> by FantasyChibiPns', "Owned")
-//Anime
+.addPin('donotseperate.webp', 'Do Not Seperate Them <br> by WoupsShop', "Owned")
+.addPin('beloved.webp', 'My Beloved <br> by WoupsShop', "Owned")
+//Obamitsu
+   .addPin('xqobamitsu.webp', 'Obanai x Mitsuri Set <br>by XQIU', "Owned")
    .addPin('obamitsu3.webp', 'Obanai & Mitsuri 3 <br>by Nandemopins', "Owned")
    .addPin('obamitsu1.webp', 'Obanai & Mitsuri 1 <br>by Nandemopins', "Owned")
    .addPin('obamitsu2.webp', 'Obanai & Mitsuri 2 <br>by Nandemopins', "Owned")
-
-.addPin('donotseperate.webp', 'Do Not Seperate Them <br> by WoupsShop', "Owned")
-.addPin('beloved.webp', 'My Beloved <br> by WoupsShop', "Owned")
+ 
+   .addPin('xqonepiece.webp', 'ASL One Piece Set <br>by XQIU', "Owned")
 
    .addPin('mouseakaza.webp', 'Chibi Cute Akaza <br>by MailMousePins', "Owned")
    .addPin('crazyakaza.webp', 'Crazy Chibi Akaza <br>by ???', "Owned")
