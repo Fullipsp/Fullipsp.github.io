@@ -27,6 +27,7 @@ addCategory("Ordered 🛒🛍")
 .addPin('yookihowl.webp', 'HMC: Howl Chibi <br>by YookiStudios', "Ordered")
 .addPin('yookimitsuri.webp', 'Kitsune Mitsuri <br>by YookiStudios', "Ordered")
 .addPin('yookiobanai.webp', 'Snake Obanai <br>by YookiStudios', "Ordered")
+.addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
@@ -35,7 +36,7 @@ addCategory("Ordered 🛒🛍")
 .addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
 // MXTX
-.addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Ordered")
+
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -57,7 +58,7 @@ addCategory("Foxipins MXTX Windows")
 
 // ========================================================================================================================================================================================================================
 addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
-.addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
+.addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Ordered")
 
 .addPin('xlwindow.jpg', 'Xie Lian Window <br>by Peonypinsco', "Owned")
 .addPin('hcwindow.jpg', 'Hua Cheng Window <br>by Peonypinsco', "Owned")
