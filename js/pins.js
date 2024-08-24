@@ -35,8 +35,11 @@ addCategory("Ordered 🛒🛍")
 .addPin('insomniatighnari.webp', 'Tighnari Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
-// MXTX
-
+// Karina Helluva
+.addPin('stolitzblack.webp', 'Stolitz Miscommunication (B. Nickel) <br> LE25 by karina****op', "Ordered")
+.addPin('stolitzgold.webp', 'Stolitz Miscommunication (Gold) <br> LE25 by karina****op', "Ordered")
+.addPin('bbyclownsblack.webp', 'Baby Clowns (Fizz & Blitz) (B.Nickel) <br>by karina****op', "Ordered")
+.addPin('bbyclownsgold.webp', 'Baby Clowns (Fizz & Blitz) (Gold) <br>by karina****op', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
