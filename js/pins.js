@@ -37,8 +37,8 @@ addCategory("Ordered 🛒🛍")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
 
 // Karina Helluva
-.addPin('stolitzblack.webp', 'Stolitz Miscommunication (B. Nickel) <br> LE25 by karina****op', "Ordered")
-.addPin('stolitzgold.webp', 'Stolitz Miscommunication (Gold) <br> LE25 by karina****op', "Ordered")
+.addPin('stolitzblack.webp', 'Miscommunication (B. Nickel) <br> LE25 by karina****op', "Ordered")
+.addPin('stolitzgold.webp', 'Miscommunication (Gold) <br> LE25 by karina****op', "Ordered")
 .addPin('bbyclownsblack.webp', 'Baby Clowns (Fizz & Blitz) (B.Nickel) <br>by karina****op', "Ordered")
 .addPin('bbyclownsgold.webp', 'Baby Clowns (Fizz & Blitz) (Gold) <br>by karina****op', "Ordered")
 
