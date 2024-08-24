@@ -19,22 +19,23 @@ addCategory("Ordered 🛒🛍")
 .addPin('cloudygeto.webp', 'Cloudy Satosugu <br>LE by ???', "Ordered")
 .addPin('bbychoso.webp', 'Chibi Choso Diamond <br>LE by ???', "Ordered")
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
+//genshin
+.addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniatighnari.webp', 'Tighnari Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 //YookiStudios
+.addPin('yookimitsuri.webp', 'Kitsune Mitsuri <br>by YookiStudios', "Ordered")
+.addPin('yookiobanai.webp', 'Snake Obanai <br>by YookiStudios', "Ordered")
 .addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "Ordered")
 .addPin('yookiyor.webp', 'Yor Mirror <br>by YookiStudios', "Ordered")
 .addPin('yookianya.webp', 'Anya Mirror <br>by YookiStudios', "Ordered")
 .addPin('yookispohie.webp', 'HMC: Sophie Chibi <br>by YookiStudios', "Ordered")
 .addPin('yookihowl.webp', 'HMC: Howl Chibi <br>by YookiStudios', "Ordered")
-.addPin('yookimitsuri.webp', 'Kitsune Mitsuri <br>by YookiStudios', "Ordered")
-.addPin('yookiobanai.webp', 'Snake Obanai <br>by YookiStudios', "Ordered")
 
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
-// Genshin
-.addPin('insomniatighnari.webp', 'Tighnari Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-.addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-.addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
+
 // Karina Helluva
 .addPin('stolitzblack.webp', 'Stolitz Miscommunication (B. Nickel) <br> LE25 by karina****op', "Ordered")
 .addPin('stolitzgold.webp', 'Stolitz Miscommunication (Gold) <br> LE25 by karina****op', "Ordered")
