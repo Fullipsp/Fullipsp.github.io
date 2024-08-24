@@ -36,6 +36,13 @@ addCategory("Ordered 🛒🛍")
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
 
+//astarion
+.addPin('90sastarion.webp', '90s Panel Astarion <br>by Punishedmiqote', "Ordered")
+.addPin('moonastarion.webp', 'Blood Moon Astarion <br>by Punishedmiqote', "Ordered")
+.addPin('wineastarion.webp', 'Wine Astarion <br>by Punishedmiqote', "Ordered")
+.addPin('bloodyastarion.webp', 'Feral Bloody Astarion <br>by ???', "Ordered")
+
+
 // Karina Helluva
 .addPin('stolitzblack.webp', 'Stolitz Miscommunication (B. Nickel) <br> LE25 by karina****op', "Ordered")
 .addPin('stolitzgold.webp', 'Stolitz Miscommunication (Gold) <br> LE25 by karina****op', "Ordered")
