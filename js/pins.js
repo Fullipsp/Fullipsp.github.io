@@ -56,12 +56,13 @@ addCategory("Foxipins MXTX Windows")
 .addPin('peiming.jpg', 'Pei Ming Window <br>LE65 by Foxipins', "Owned")
 .addPin('lingwen.jpg', 'Ling Wen Window <br>LE65 by Foxipins', "Owned")
 .addPin('shiwudu.jpg', 'Shi Wudu Window <br>LE65 by Foxipins', "Owned")
+.addPin('gongyixiao.webp', 'Gongyi Xiao Window <br>by Foxipins', "Ordered")
+.addPin('jiangcheng.webp', 'Jiang Cheng Window <br>by Foxipins', "Ordered")
+.addPin('yanli.webp', 'Jiang Yanli Window <br>by Foxipins', "Ordered")
+.addPin('wenqing.webp', 'Wen Qing Window <br>by Foxipins', "Ordered")
 .addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Sold")
 
-.addPin('yanli.webp', 'Jiang Yanli Window <br>by Foxipins', "Ordered")
-.addPin('jiangcheng.webp', 'Jiang Cheng Window <br>by Foxipins', "Ordered")
-.addPin('wenqing.webp', 'Wen Qing Window <br>by Foxipins', "Ordered")
-.addPin('gongyixiao.webp', 'Gongyi Xiao Window <br>by Foxipins', "Ordered")
+
 
 .addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Ordered")
 .addPin('hxwindow.webp', 'He Xuan Window <br>LE? by Foxipins', "Ordered")
