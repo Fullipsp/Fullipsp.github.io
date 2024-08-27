@@ -20,17 +20,11 @@ addCategory("Ordered 🛒🛍")
 .addPin('bbychoso.webp', 'Chibi Choso Diamond <br>LE by ???', "Ordered")
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
 //genshin
-.addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
-.addPin('insomniatighnari.webp', 'Tighnari Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+
 .addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 //YookiStudios
-.addPin('yookimitsuri.webp', 'Kitsune Mitsuri <br>by YookiStudios', "Ordered")
-.addPin('yookiobanai.webp', 'Snake Obanai <br>by YookiStudios', "Ordered")
-.addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "Ordered")
-.addPin('yookiyor.webp', 'Yor Mirror <br>by YookiStudios', "Ordered")
-.addPin('yookianya.webp', 'Anya Mirror <br>by YookiStudios', "Ordered")
-.addPin('yookispohie.webp', 'HMC: Sophie Chibi <br>by YookiStudios', "Ordered")
-.addPin('yookihowl.webp', 'HMC: Howl Chibi <br>by YookiStudios', "Ordered")
+
+
 
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
@@ -266,7 +260,10 @@ addCategory("Genshin / Anime Pins ✨")
 .addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "Owned")
 .addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
 .addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
+.addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniatighnari.webp', 'Tighnari Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
+ 
 .addPin('kaguprez.webp', 'Love is War Valentines <br> by FantasyChibiPns', "Owned")
 .addPin('donotseperate.webp', 'Do Not Seperate Them <br> by WoupsShop', "Owned")
 .addPin('beloved.webp', 'My Beloved <br> by WoupsShop', "Owned")
@@ -275,11 +272,18 @@ addCategory("Genshin / Anime Pins ✨")
    .addPin('obamitsu3.webp', 'Obanai & Mitsuri 3 <br>by Nandemopins', "Owned")
    .addPin('obamitsu1.webp', 'Obanai & Mitsuri 1 <br>by Nandemopins', "Owned")
    .addPin('obamitsu2.webp', 'Obanai & Mitsuri 2 <br>by Nandemopins', "Owned")
- 
-   .addPin('xqonepiece.webp', 'ASL One Piece Set <br>by XQIU', "Owned")
-
+  .addPin('yookimitsuri.webp', 'Kitsune Mitsuri <br>by YookiStudios', "Owned")
+   .addPin('yookiobanai.webp', 'Snake Obanai <br>by YookiStudios', "Owned")
    .addPin('mouseakaza.webp', 'Chibi Cute Akaza <br>by MailMousePins', "Owned")
    .addPin('crazyakaza.webp', 'Crazy Chibi Akaza <br>by ???', "Owned")
+
+   .addPin('xqonepiece.webp', 'ASL One Piece Set <br>by XQIU', "Owned")
+//yooki stuffs
+.addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "Ordered")
+.addPin('yookiyor.webp', 'Yor Mirror <br>by YookiStudios', "Ordered")
+.addPin('yookianya.webp', 'Anya Mirror <br>by YookiStudios', "Ordered")
+.addPin('yookispohie.webp', 'HMC: Sophie Chibi <br>by YookiStudios', "Ordered")
+.addPin('yookihowl.webp', 'HMC: Howl Chibi <br>by YookiStudios', "Ordered")
 // Genshin Impact
  .addPin('eggkazuha.webp', 'Kitty Kazuha <br>by angryeggmerch', "Owned")
  .addPin('heartkazuha.webp', 'Valentine Kazuha <br>by cafhune', "Owned") 
