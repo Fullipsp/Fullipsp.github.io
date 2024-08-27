@@ -21,11 +21,9 @@ addCategory("Ordered 🛒🛍")
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
 //genshin
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
-
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
-
 //astarion
 .addPin('bloodyastarion.webp', 'Feral Bloody Astarion <br>by mermeladazul', "Ordered")
 .addPin('90sastarion.webp', '90s Panel Astarion <br>by Punishedmiqote', "Ordered")
@@ -127,11 +125,9 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
  .addPin('xlcake.webp', 'Xie Lian Treat <br>by torikii_art', "Owned")
 .addPin('hccake.webp', 'Hua Cheng Treat <br>by torikii_art', "Owned")
 // Beefleaf
- .addPin('bigsqx.webp', 'Shi Qingxuan <br>by Siilvxr', "Sold")
- .addPin('bighx.webp', 'He Xuan <br>by Siilvxr', "Sold")
  .addPin('furrybfl.webp', 'Cutie Beefleaf <br>by kmoripins', "Owned")
  .addPin('sitbfl.webp', 'Funny Beefleaf <br>by qqnzhe', "Owned")
- .addPin('lunechibfl.webp', 'Oriental Beefleaf <br>by MyLunechi', "Sold")
+
 
 // =========================================================================================================================================================================================================================
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
