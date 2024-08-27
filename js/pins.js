@@ -20,11 +20,7 @@ addCategory("Ordered 🛒🛍")
 .addPin('bbychoso.webp', 'Chibi Choso Diamond <br>LE by ???', "Ordered")
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
 //genshin
-
-.addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-//YookiStudios
-
-
+.addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
 
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
@@ -260,8 +256,10 @@ addCategory("Genshin / Anime Pins ✨")
 .addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "Owned")
 .addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
 .addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
-.addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
+
+
 .addPin('insomniatighnari.webp', 'Tighnari Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
  
 .addPin('kaguprez.webp', 'Love is War Valentines <br> by FantasyChibiPns', "Owned")
