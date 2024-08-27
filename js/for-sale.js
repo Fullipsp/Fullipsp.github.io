@@ -3,6 +3,14 @@ let categoryIndex = 0;
 
 addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 
+.addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "For-Sale")
+.addPin('yookiyor.webp', 'Yor Mirror <br>by YookiStudios', "For-Sale")
+.addPin('yookianya.webp', 'Anya Mirror <br>by YookiStudios', "For-Sale")
+.addPin('yookispohie.webp', 'HMC: Sophie Chibi <br>by YookiStudios', "For-Sale")
+.addPin('yookihowl.webp', 'HMC: Howl Chibi <br>by YookiStudios', "For-Sale")
+.addPin('yookimitsuri.webp', 'Kitsune Mitsuri <br>by YookiStudios', "For-Sale")
+.addPin('yookiobanai.webp', 'Snake Obanai <br>by YookiStudios', "For-Sale")
+
 .addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "Owned")
 .addPin('helioschibiusa.webp', 'Chibiusa and Helios', "Owned")
 .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️ <br>by Arcade Healer', "For-Sale")
