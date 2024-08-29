@@ -197,6 +197,7 @@ addCategory("JJK Pins 🤍🖤")
 .addPin('cutegeto.webp', 'Cutest Lil Killer <br>LE40 by karina****op', "Owned")
 .addPin('pinkgeto.webp', 'Lil Pink Geto <br>LE40 by karina****op', "Owned")
 .addPin('megumicream.webp', 'Ice Cream Megumi <br> by Flying Canoe Pins', "Owned")
+.addPin('megumiheadphones.webp', 'Lo-Fi Megumi <br> by Flying Canoe Pins', "For-Sale")
 .addPin('bbychoso.webp', 'Chibi Choso Diamond <br>LE by Mittsuketah', "Owned")
 //
 .addPin('bikegold.webp', 'STSG: Better Days (Gold) <br>by Haiimeo', "Owned")
@@ -207,7 +208,7 @@ addCategory("JJK Pins 🤍🖤")
 .addPin('getoboba.webp', 'Geto Boba Slider Pin <br>by Haiimeo', "Owned")
 .addPin('pandamaki.webp', 'Panda & Inumaki Chibi <br>by Haiimeo', "Owned")
 .addPin('flowermaki.webp', 'Bouquet Inumaki Chibi <br>by Haiimeo', "Owned")
-.addPin('megumiheadphones.webp', 'Lo-Fi Megumi <br> by Flying Canoe Pins', "For-Sale")
+
 
 // =========================================================================================================================================================================================================================
 addCategory("Indie Game Pins 🗡💜")
