@@ -3,15 +3,11 @@ let categoryIndex = 0;
 
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
-
-//Haiimeo / JJK
-
+ 
 .addPin('gloomygeto.webp', 'Gloomy Geto Panel <br>LE by ZeninPins', "Ordered")
 .addPin('gloomygojo.webp', 'Gloomy Gojo Panel <br>LE by ZeninPins', "Ordered")
 .addPin('cloudygeto.webp', 'Cloudy Satosugu <br>LE by ???', "Ordered")
-
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
-//genshin
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
@@ -21,7 +17,6 @@ addCategory("Ordered 🛒🛍")
 .addPin('90sastarion.webp', '90s Panel Astarion <br>by Punishedmiqote', "Ordered")
 .addPin('wineastarion.webp', 'Wine Astarion <br>by Punishedmiqote', "Ordered")
 .addPin('moonastarion.webp', 'Blood Moon Astarion <br>by Punishedmiqote', "Ordered")
-
 // Karina Helluva
 .addPin('stolitzblack.webp', 'Stolitz Miscommunication (B. Nickel) <br> LE25 by karina****op', "Ordered")
 .addPin('stolitzgold.webp', 'Stolitz Miscommunication (Gold) <br> LE25 by karina****op', "Ordered")
@@ -33,14 +28,13 @@ addGap();
 addCategory("Foxipins MXTX Windows")
 .addPin('yinyu.webp', 'Yin Yu Window <br>LE65 by Foxipins', "Owned")
 .addPin('wenning.webp', 'Wen Ning Window <br>LE65 by Foxipins', "Owned")
+.addPin('gongyixiao.webp', 'Gongyi Xiao Window <br>by Foxipins', "Owned")
+.addPin('wenqing.webp', 'Wen Qing Window <br>by Foxipins', "Owned")
+.addPin('yanli.webp', 'Jiang Yanli Window <br>by Foxipins', "Owned")
+.addPin('jiangcheng.webp', 'Jiang Cheng Window <br>by Foxipins', "Owned")
 .addPin('peiming.jpg', 'Pei Ming Window <br>LE65 by Foxipins', "Owned")
 .addPin('lingwen.jpg', 'Ling Wen Window <br>LE65 by Foxipins', "Owned")
 .addPin('shiwudu.jpg', 'Shi Wudu Window <br>LE65 by Foxipins', "Owned")
-
-.addPin('gongyixiao.webp', 'Gongyi Xiao Window <br>by Foxipins', "Ordered")
-.addPin('jiangcheng.webp', 'Jiang Cheng Window <br>by Foxipins', "Ordered")
-.addPin('yanli.webp', 'Jiang Yanli Window <br>by Foxipins', "Ordered")
-.addPin('wenqing.webp', 'Wen Qing Window <br>by Foxipins', "Ordered")
 .addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Sold")
 
 .addPin('hxwindow.webp', 'He Xuan Window <br>LE? by Foxipins', "Ordered")
