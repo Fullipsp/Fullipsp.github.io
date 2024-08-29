@@ -5,19 +5,11 @@ let categoryIndex = 0;
 addCategory("Ordered 🛒🛍")
 
 //Haiimeo / JJK
-.addPin('bikegold.webp', 'STSG: Better Days (Gold) <br>by Haiimeo', "Ordered")
-.addPin('bikerose.webp', 'STSG: Better Days (Rose) <br>by Haiimeo', "Ordered")
-.addPin('rainydays.webp', 'STSG: Rainy Day <br>by Haiimeo', "Ordered")
-.addPin('catfriend.webp', 'STSG: Cat Friend <br>by Haiimeo', "Ordered")
-.addPin('stsgnuuh.webp', 'STSG: Nu Uh <br>by Haiimeo', "Ordered")
-.addPin('getoboba.webp', 'Geto Boba Slider Pin <br>by Haiimeo', "Ordered")
-.addPin('pandamaki.webp', 'Panda & Inumaki Chibi <br>by Haiimeo', "Ordered")
-.addPin('flowermaki.webp', 'Bouquet Inumaki Chibi <br>by Haiimeo', "Ordered")
 
 .addPin('gloomygeto.webp', 'Gloomy Geto Panel <br>LE by ZeninPins', "Ordered")
 .addPin('gloomygojo.webp', 'Gloomy Gojo Panel <br>LE by ZeninPins', "Ordered")
 .addPin('cloudygeto.webp', 'Cloudy Satosugu <br>LE by ???', "Ordered")
-.addPin('bbychoso.webp', 'Chibi Choso Diamond <br>LE by ???', "Ordered")
+
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
 //genshin
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
@@ -180,8 +172,6 @@ addCategory("Fantasy Couples 🐞🐱")
 .addPin('evilbug.webp', 'Evil Bug <br> by MSPaint Palette', "Owned")
 .addPin('evilcat.webp', 'Evil Kitty <br> by MSPaint Palette', "Owned")
 .addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Owned")
-
-
 // ===========================================================================================================================================================================================================================
 addCategory("Zelda Pins 🗡🏹 🌺💙")
 .addPin('inzelda.webp', 'BOTW Zelda <br>LE50 by Ins***Pins', "Owned")
@@ -207,7 +197,18 @@ addCategory("JJK Pins 🤍🖤")
 .addPin('cutegeto.webp', 'Cutest Lil Killer <br>LE40 by karina****op', "Owned")
 .addPin('pinkgeto.webp', 'Lil Pink Geto <br>LE40 by karina****op', "Owned")
 .addPin('megumicream.webp', 'Ice Cream Megumi <br> by Flying Canoe Pins', "Owned")
+.addPin('bbychoso.webp', 'Chibi Choso Diamond <br>LE by Mittsuketah', "Owned")
+//
+.addPin('bikegold.webp', 'STSG: Better Days (Gold) <br>by Haiimeo', "Owned")
+.addPin('bikerose.webp', 'STSG: Better Days (Rose) <br>by Haiimeo', "Owned")
+.addPin('rainydays.webp', 'STSG: Rainy Day <br>by Haiimeo', "Owned")
+.addPin('catfriend.webp', 'STSG: Cat Friend <br>by Haiimeo', "Owned")
+.addPin('stsgnuuh.webp', 'STSG: Nu Uh <br>by Haiimeo', "Owned")
+.addPin('getoboba.webp', 'Geto Boba Slider Pin <br>by Haiimeo', "Owned")
+.addPin('pandamaki.webp', 'Panda & Inumaki Chibi <br>by Haiimeo', "Owned")
+.addPin('flowermaki.webp', 'Bouquet Inumaki Chibi <br>by Haiimeo', "Owned")
 .addPin('megumiheadphones.webp', 'Lo-Fi Megumi <br> by Flying Canoe Pins', "For-Sale")
+
 // =========================================================================================================================================================================================================================
 addCategory("Indie Game Pins 🗡💜")
 .addPin('hades.webp', 'Thanzag Chibi <br>by Leaphere', "Owned")
