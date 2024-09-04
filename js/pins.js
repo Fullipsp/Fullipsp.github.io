@@ -4,17 +4,19 @@ let categoryIndex = 0;
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
  
-.addPin('gloomygeto.webp', 'Gloomy Geto Panel <br>LE by ZeninPins', "Ordered")
-.addPin('gloomygojo.webp', 'Gloomy Gojo Panel <br>LE by ZeninPins', "Ordered")
-.addPin('cloudygeto.webp', 'Cloudy Satosugu <br>LE by ???', "Ordered")
+.addPin('gloomygeto.webp', 'Gloomy Geto Panel <br>LE by ZeninPins', "Owned")
+.addPin('gloomygojo.webp', 'Gloomy Gojo Panel <br>LE by ZeninPins', "Owned")
+.addPin('cloudygeto.webp', 'Cloudy Satosugu <br>LE by ???', "Owned")
+.addPin('bloodyastarion.webp', 'Feral Bloody Astarion <br>by mermeladazul', "Owned")
+.addPin('90sastarion.webp', '90s Panel Astarion <br>by Punishedmiqote', "Owned")
+.addPin('wineastarion.webp', 'Wine Astarion <br>by Punishedmiqote', "Owned")
+.addPin('moonastarion.webp', 'Blood Moon Astarion <br>by Punishedmiqote', "Owned")
+
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
 //astarion
-.addPin('bloodyastarion.webp', 'Feral Bloody Astarion <br>by mermeladazul', "Ordered")
-.addPin('90sastarion.webp', '90s Panel Astarion <br>by Punishedmiqote', "Ordered")
-.addPin('wineastarion.webp', 'Wine Astarion <br>by Punishedmiqote', "Ordered")
-.addPin('moonastarion.webp', 'Blood Moon Astarion <br>by Punishedmiqote', "Ordered")
+
 // Karina Helluva
 .addPin('stolitzblack.webp', 'Stolitz Miscommunication (B. Nickel) <br> LE25 by karina****op', "Ordered")
 .addPin('stolitzgold.webp', 'Stolitz Miscommunication (Gold) <br> LE25 by karina****op', "Ordered")
