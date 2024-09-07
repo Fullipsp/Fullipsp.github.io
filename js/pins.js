@@ -3,9 +3,6 @@ let categoryIndex = 0;
 
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
-.addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
-.addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
-
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
@@ -18,6 +15,9 @@ addCategory("Ordered 🛒🛍")
 .addPin('kassielanga.webp', 'Langa Diamond <br> by KassieArts', "Ordered")
 .addPin('protectrenga.webp', 'He Protecc, Beach! <br> by ???', "Ordered")
 .addPin('icecreamrenga.webp', 'Ice Cream Renga <br> by ???', "Ordered")
+// PREORDERS
+.addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
+.addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -188,9 +188,8 @@ addCategory("JJK Pins 🤍🖤")
 .addPin('bwbgojo.webp', 'BWB Gojo Window <br>LE175 by karina****op', "Owned")
 .addPin('cutegeto.webp', 'Cutest Lil Killer <br>LE40 by karina****op', "Owned")
 .addPin('pinkgeto.webp', 'Lil Pink Geto <br>LE40 by karina****op', "Owned")
-.addPin('cloudygeto.webp', 'Cloudy Satosugu <br>LE by ???', "Owned")
-.addPin('bbychoso.webp', 'Chibi Choso Diamond <br>LE by Mittsuketah', "Owned")
 //
+.addPin('bbychoso.webp', 'Chibi Choso Diamond <br>LE by Mittsuketah', "Owned")
 .addPin('bikegold.webp', 'STSG: Better Days (Gold) <br>by Haiimeo', "Owned")
 .addPin('bikerose.webp', 'STSG: Better Days (Rose) <br>by Haiimeo', "Owned")
 .addPin('rainydays.webp', 'STSG: Rainy Day <br>by Haiimeo', "Owned")
@@ -199,6 +198,8 @@ addCategory("JJK Pins 🤍🖤")
 .addPin('getoboba.webp', 'Geto Boba Slider Pin <br>by Haiimeo', "Owned")
 .addPin('pandamaki.webp', 'Panda & Inumaki Chibi <br>by Haiimeo', "Owned")
 .addPin('flowermaki.webp', 'Bouquet Inumaki Chibi <br>by Haiimeo', "Owned")
+ 
+.addPin('cloudygeto.webp', 'Cloudy Satosugu <br>LE by ???', "Owned")
 .addPin('megumicream.webp', 'Ice Cream Megumi <br> by Flying Canoe Pins', "Owned")
 .addPin('megumiheadphones.webp', 'Lo-Fi Megumi <br> by Flying Canoe Pins', "For-Sale")
 // =========================================================================================================================================================================================================================
