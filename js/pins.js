@@ -4,9 +4,7 @@ let categoryIndex = 0;
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
  
-.addPin('gloomygeto.webp', 'Gloomy Geto Panel <br>LE by ZeninPins', "Owned")
-.addPin('gloomygojo.webp', 'Gloomy Gojo Panel <br>LE by ZeninPins', "Owned")
-.addPin('cloudygeto.webp', 'Cloudy Satosugu <br>LE by ???', "Owned")
+
 
 
 // VASH STAMPEDE
@@ -185,13 +183,14 @@ addCategory("Helluva Boss ❤️‍🔥😈👅")
 .addPin('fizzygold.webp', 'Heart Fizz -Gold- <br> by karina****op', "Sold")
 // ========================================================================================================================================================================================================================
 addCategory("JJK Pins 🤍🖤")
+.addPin('gloomygeto.webp', 'Gloomy Geto Panel <br>LE by ZeninPins', "Owned")
+.addPin('gloomygojo.webp', 'Gloomy Gojo Panel <br>LE by ZeninPins', "Owned")
 .addPin('xqstsg.webp', 'Gojo x Geto Set <br>by XQIU', "Owned")
 .addPin('bwbgeto.webp', 'BWB Geto Window <br>LE145 by karina****op', "Owned")
 .addPin('bwbgojo.webp', 'BWB Gojo Window <br>LE175 by karina****op', "Owned")
 .addPin('cutegeto.webp', 'Cutest Lil Killer <br>LE40 by karina****op', "Owned")
 .addPin('pinkgeto.webp', 'Lil Pink Geto <br>LE40 by karina****op', "Owned")
-.addPin('megumicream.webp', 'Ice Cream Megumi <br> by Flying Canoe Pins', "Owned")
-.addPin('megumiheadphones.webp', 'Lo-Fi Megumi <br> by Flying Canoe Pins', "For-Sale")
+.addPin('cloudygeto.webp', 'Cloudy Satosugu <br>LE by ???', "Owned")
 .addPin('bbychoso.webp', 'Chibi Choso Diamond <br>LE by Mittsuketah', "Owned")
 //
 .addPin('bikegold.webp', 'STSG: Better Days (Gold) <br>by Haiimeo', "Owned")
@@ -202,6 +201,8 @@ addCategory("JJK Pins 🤍🖤")
 .addPin('getoboba.webp', 'Geto Boba Slider Pin <br>by Haiimeo', "Owned")
 .addPin('pandamaki.webp', 'Panda & Inumaki Chibi <br>by Haiimeo', "Owned")
 .addPin('flowermaki.webp', 'Bouquet Inumaki Chibi <br>by Haiimeo', "Owned")
+.addPin('megumicream.webp', 'Ice Cream Megumi <br> by Flying Canoe Pins', "Owned")
+.addPin('megumiheadphones.webp', 'Lo-Fi Megumi <br> by Flying Canoe Pins', "For-Sale")
 // =========================================================================================================================================================================================================================
 addCategory("Astarion Pins (BG3) 🖤")
 .addPin('90sastarion.webp', '90s Panel Astarion <br>by Punishedmiqote', "Owned")
