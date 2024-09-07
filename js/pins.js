@@ -245,9 +245,11 @@ addCategory("Animal Crossing Pins 🌺🌷🤍")
 .addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Genshin / Anime Pins ✨")
-.addPin('kassiehisoka.webp', 'Hisoka Diamond <br>by KassieArts', "Owned")
-.addPin('kassiehar.webp', 'Har Diamond <br>by KassieArts', "Owned")
 .addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "Owned")
+.addPin('kassievanitas.webp', 'Vanitas Diamond <br>LE65 by KassieArts', "Owned")
+.addPin('kassiehisoka.webp', 'Hisoka Diamond <br>380 by KassieArts', "Owned")
+.addPin('kassiehar.webp', 'Har Diamond <br>by KassieArts', "Owned")
+
 .addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
 .addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
 .addPin('insomniatighnari.webp', 'Tighnari Diamond Pin <br>LE by Ins***Pins.', "Owned")
