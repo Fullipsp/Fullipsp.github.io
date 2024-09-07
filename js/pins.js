@@ -245,15 +245,16 @@ addCategory("Animal Crossing Pins 🌺🌷🤍")
 .addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Genshin / Anime Pins ✨")
+.addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
+.addPin('insomniatighnari.webp', 'Tighnari Diamond Pin <br>LE by Ins***Pins.', "Owned")
+.addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Owned")
+.addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
+ 
 .addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "Owned")
 .addPin('kassievanitas.webp', 'Vanitas Diamond <br>LE65 by KassieArts', "Owned")
 .addPin('kassiehisoka.webp', 'Hisoka Diamond <br>380 by KassieArts', "Owned")
 .addPin('kassiehar.webp', 'Har Diamond <br>by KassieArts', "Owned")
-
-.addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
-.addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
-.addPin('insomniatighnari.webp', 'Tighnari Diamond Pin <br>LE by Ins***Pins.', "Owned")
-.addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Owned")
+ 
 .addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
 .addPin('kaguprez.webp', 'Love is War Valentines <br> by FantasyChibiPns', "Owned")
 .addPin('donotseperate.webp', 'Do Not Seperate Them <br> by WoupsShop', "Owned")
