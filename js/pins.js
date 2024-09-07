@@ -7,10 +7,7 @@ addCategory("Ordered 🛒🛍")
 .addPin('gloomygeto.webp', 'Gloomy Geto Panel <br>LE by ZeninPins', "Owned")
 .addPin('gloomygojo.webp', 'Gloomy Gojo Panel <br>LE by ZeninPins', "Owned")
 .addPin('cloudygeto.webp', 'Cloudy Satosugu <br>LE by ???', "Owned")
-.addPin('bloodyastarion.webp', 'Feral Bloody Astarion <br>by mermeladazul', "Owned")
-.addPin('90sastarion.webp', '90s Panel Astarion <br>by Punishedmiqote', "Owned")
-.addPin('wineastarion.webp', 'Wine Astarion <br>by Punishedmiqote', "Owned")
-.addPin('moonastarion.webp', 'Blood Moon Astarion <br>by Punishedmiqote', "Owned")
+
 
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
@@ -147,7 +144,7 @@ addCategory("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
 
 // ===========================================================================================================================================================================================================================
 // Fantasy Couples
-addCategory("Fantasy Couples 🐞🐱")
+addCategory("MLB Fantasy Couples 🐞🐱")
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
 
@@ -205,8 +202,14 @@ addCategory("JJK Pins 🤍🖤")
 .addPin('getoboba.webp', 'Geto Boba Slider Pin <br>by Haiimeo', "Owned")
 .addPin('pandamaki.webp', 'Panda & Inumaki Chibi <br>by Haiimeo', "Owned")
 .addPin('flowermaki.webp', 'Bouquet Inumaki Chibi <br>by Haiimeo', "Owned")
-
-
+// =========================================================================================================================================================================================================================
+addCategory("Astarion Pins (BG3) 🖤")
+.addPin('90sastarion.webp', '90s Panel Astarion <br>by Punishedmiqote', "Owned")
+.addPin('moonastarion.webp', 'Blood Moon Astarion <br>by Punishedmiqote', "Owned")
+.addPin('bloodyastarion.webp', 'Feral Bloody Astarion <br>by mermeladazul', "Owned")
+.addPin('wineastarion.webp', 'Wine Astarion <br>by Punishedmiqote', "Owned")
+.addPin('chibiastie.webp', 'Hehe Astarion Chibi <br>by Peach&CreamCo', "Owned")
+.addPin('ascastie.webp', 'Bloody Astarion Chibi <br>by Peach&CreamCo', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Indie Game Pins 🗡💜")
 .addPin('hades.webp', 'Thanzag Chibi <br>by Leaphere', "Owned")
@@ -232,7 +235,6 @@ addCategory("MYSME Pins 🌼🤍", "http://msg.cheritz.com/")
     .addPin('napring.webp', 'Wedding Saeran Ring <br>by Napporin', "Owned")
     .addPin('saeranwood.webp', 'Saeran Wooden Pin <br>by MiauMiauSweet', "Owned")
     .addPin('saeyoungwood.webp', '707 Wooden Pin <br>by MiauMiauSweet', "Owned")
-
 // =========================================================================================================================================================================================================================
 addCategory("Animal Crossing Pins 🌺🌷🤍")
 .addPin('raymond.webp', 'Raymond Joy-Con <br>by Quirkory', "Owned")
@@ -241,13 +243,10 @@ addCategory("Animal Crossing Pins 🌺🌷🤍")
 .addPin('sherb.webp', 'Dreaming Sherb <br>by haiyun', "Owned")
 .addPin('lolly.webp', 'Dreaming Lolly <br>by haiyun', "Owned")
 .addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Owned")
-
-// =========================================================================================================================================================================================================================
-addCategory("Baldur's Gate 3 Pins 🖤")
-.addPin('chibiastie.webp', 'Hehe Astarion Chibi <br>by Peach&CreamCo', "Owned")
-.addPin('ascastie.webp', 'Bloody Astarion Chibi <br>by Peach&CreamCo', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Genshin / Anime Pins ✨")
+.addPin('kassiehisoka.webp', 'Hisoka Diamond <br>by KassieArts', "Owned")
+.addPin('kassiehar.webp', 'Har Diamond <br>by KassieArts', "Owned")
 .addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "Owned")
 .addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
 .addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
