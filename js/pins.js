@@ -3,23 +3,21 @@ let categoryIndex = 0;
 
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
- 
-
-
+.addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
+.addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
 
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
-//astarion
-
 // Karina Helluva
 .addPin('stolitzblack.webp', 'Stolitz Miscommunication (B. Nickel) <br> LE25 by karina****op', "Ordered")
 .addPin('stolitzgold.webp', 'Stolitz Miscommunication (Gold) <br> LE25 by karina****op', "Ordered")
 .addPin('bbyclownsblack.webp', 'Baby Clowns (Fizz & Blitz) (B.Nickel) <br>by karina****op', "Ordered")
 .addPin('bbyclownsgold.webp', 'Baby Clowns (Fizz & Blitz) (Gold) <br>by karina****op', "Ordered")
- 
-.addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
-.addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
+ // SK8
+.addPin('kassielanga.webp', 'Langa Diamond <br> by KassieArts', "Ordered")
+.addPin('protectrenga.webp', 'He Protecc, Beach! <br> by ???', "Ordered")
+.addPin('icecreamrenga.webp', 'Ice Cream Renga <br> by ???', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
