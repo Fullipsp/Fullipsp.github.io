@@ -2,7 +2,11 @@
 let categoryIndex = 0;
 
 addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
-
+//kassiearts
+.addPin('kassiehisoka.webp', 'Hisoka Diamond <br>by KassieArts', "For-Sale")
+.addPin('kassiehar.webp', 'Har Diamond <br>by KassieArts', "For-Sale")
+.addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "For-Sale")
+//yooiki
 .addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "For-Sale")
 .addPin('yookiyor.webp', 'Yor Mirror <br>by YookiStudios', "For-Sale")
 .addPin('yookianya.webp', 'Anya Mirror <br>by YookiStudios', "For-Sale")
@@ -11,7 +15,6 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .addPin('yookimitsuri.webp', 'Kitsune Mitsuri <br>by YookiStudios', "For-Sale")
 .addPin('yookiobanai.webp', 'Snake Obanai <br>by YookiStudios', "For-Sale")
 
-.addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "For-Sale")
 .addPin('helioschibiusa.webp', 'Chibiusa and Helios', "For-Sale")
 .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️ <br>by Arcade Healer', "For-Sale")
 .addPin('ClownKirby.webp', 'Mirror Poyo <br>by Arcade Healer', "For-Sale")
