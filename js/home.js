@@ -11,9 +11,11 @@ setAvatar("./images/pfp.jpg");
 addImages([
     
     
-    './images/heartfig.jpg',
-    './images/frames.jpg',
+    
     './images/pinzie.jpg',
+    './images/frames.jpg',
+    './images/heartfig.jpg',
+    
 ])
 
 addSlideshow([
