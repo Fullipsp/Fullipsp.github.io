@@ -13,7 +13,7 @@ addImages([
     
     './images/heartfig.jpg',
     './images/frames.jpg',
-    './images/pins/autumnpins.jpg',
+    './images/pinzie.jpg',
 ])
 
 addSlideshow([
