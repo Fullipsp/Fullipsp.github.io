@@ -6,8 +6,6 @@ addCategory("Ordered 🛒🛍")
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
-// Karina Helluva
-
  // SK8
 .addPin('kassielanga.webp', 'Langa Diamond <br> by KassieArts', "Ordered")
 .addPin('protectrenga.webp', 'He Protecc, Beach! <br> by ???', "Ordered")
