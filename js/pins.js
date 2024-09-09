@@ -7,10 +7,10 @@ addCategory("Ordered 🛒🛍")
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
 // Karina Helluva
-.addPin('stolitzblack.webp', 'Stolitz Miscommunication (B. Nickel) <br> LE25 by karina****op', "Ordered")
-.addPin('stolitzgold.webp', 'Stolitz Miscommunication (Gold) <br> LE25 by karina****op', "Ordered")
-.addPin('bbyclownsblack.webp', 'Baby Clowns (Fizz & Blitz) (B.Nickel) <br>by karina****op', "Ordered")
-.addPin('bbyclownsgold.webp', 'Baby Clowns (Fizz & Blitz) (Gold) <br>by karina****op', "Ordered")
+.addPin('stolitzblack.webp', 'Stolitz Miscommunication (B. Nickel) <br> LE25 by karina****op', "Owned")
+.addPin('stolitzgold.webp', 'Stolitz Miscommunication (Gold) <br> LE25 by karina****op', "Owned")
+.addPin('bbyclownsblack.webp', 'Baby Clowns (Fizz & Blitz) (B.Nickel) <br>by karina****op', "Owned")
+.addPin('bbyclownsgold.webp', 'Baby Clowns (Fizz & Blitz) (Gold) <br>by karina****op', "Owned")
  // SK8
 .addPin('kassielanga.webp', 'Langa Diamond <br> by KassieArts', "Ordered")
 .addPin('protectrenga.webp', 'He Protecc, Beach! <br> by ???', "Ordered")
@@ -22,6 +22,17 @@ addCategory("Ordered 🛒🛍")
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
+ 
+.addPin('hxwindow.webp', 'He Xuan Window <br>LE65 by Foxipins', "Ordered")
+.addPin('sqxwindow.webp', 'Shi Qingxuan Window <br>LE65 by Foxipins', "Ordered")
+.addPin('foxihc.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Ordered")
+.addPin('binghe.jpg', 'Luo Binghe Window <br>LE65 by Foxipins', "Ordered")
+.addPin('foxiqr.webp', 'Qi Rong Window <br>LE65 by Foxipins', "Ordered")
+.addPin('lwjpanel.jpg', 'Lan Wangji Window <br>LE65 by Foxipins', "Ordered")
+.addPin('foxiwwx.webp', 'Wei Wuxian Window <br>LE65 by Foxipins', "Ordered")
+.addPin('xichen.jpg', 'Lan Xichen Window <br>LE65 by Foxipins', "Ordered")
+.addPin('foxinhs.webp', 'Nie Huaisang Window <br>LE65 by Foxipins', "Ordered")
+
 .addPin('yinyu.webp', 'Yin Yu Window <br>LE65 by Foxipins', "Owned")
 .addPin('wenning.webp', 'Wen Ning Window <br>LE65 by Foxipins', "Owned")
 .addPin('gongyixiao.webp', 'Gongyi Xiao Window <br>by Foxipins', "Owned")
@@ -33,13 +44,6 @@ addCategory("Foxipins MXTX Windows")
 .addPin('shiwudu.jpg', 'Shi Wudu Window <br>LE65 by Foxipins', "Owned")
 .addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Sold")
 
-.addPin('hxwindow.webp', 'He Xuan Window <br>LE? by Foxipins', "Ordered")
-.addPin('sqxwindow.webp', 'Shi Qingxuan Window <br>LE? by Foxipins', "Ordered")
-.addPin('binghe.jpg', 'Luo Binghe Window <br>by Foxipins', "Ordered")
-.addPin('xichen.jpg', 'Lan Xichen Window <br>by Foxipins', "Ordered")
-.addPin('lwjpanel.jpg', 'Lan Wangji Window <br>by Foxipins', "Ordered")
-.addPin('foxiwwx.webp', 'Wei Wuxian Window <br>by Foxipins', "Ordered")
- 
 .addPin('bingpup.webp', 'Bingpup Window <br>by Foxipins', "Ordered")
 .addPin('foxifairy.webp', 'Fairy Window <br>by Foxipins', "Ordered")
 
