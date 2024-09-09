@@ -7,10 +7,7 @@ addCategory("Ordered 🛒🛍")
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
 // Karina Helluva
-.addPin('stolitzblack.webp', 'Stolitz Miscommunication (B. Nickel) <br> LE25 by karina****op', "Owned")
-.addPin('stolitzgold.webp', 'Stolitz Miscommunication (Gold) <br> LE25 by karina****op', "Owned")
-.addPin('bbyclownsblack.webp', 'Baby Clowns (Fizz & Blitz) (B.Nickel) <br>by karina****op', "Owned")
-.addPin('bbyclownsgold.webp', 'Baby Clowns (Fizz & Blitz) (Gold) <br>by karina****op', "Owned")
+
  // SK8
 .addPin('kassielanga.webp', 'Langa Diamond <br> by KassieArts', "Ordered")
 .addPin('protectrenga.webp', 'He Protecc, Beach! <br> by ???', "Ordered")
@@ -180,6 +177,11 @@ addCategory("Helluva Boss ❤️‍🔥😈👅")
 .addPin('blitzo40.webp', 'Blitzo Window <br> LE40 by karina****op', "Owned")
 .addPin('stolas40.webp', 'Stolas Window <br> LE40 by karina****op', "Owned")
 .addPin('fizzycopper.webp', 'Heart Fizz -Copper- <br> by karina****op', "Owned")
+.addPin('stolitzblack.webp', 'Stolitz Miscommunication (B. Nickel) <br> LE25 by karina****op', "Owned")
+.addPin('stolitzgold.webp', 'Stolitz Miscommunication (Gold) <br> LE25 by karina****op', "Owned")
+.addPin('bbyclownsblack.webp', 'Baby Clowns (Fizz & Blitz) (B.Nickel) <br>by karina****op', "Owned")
+.addPin('bbyclownsgold.webp', 'Baby Clowns (Fizz & Blitz) (Gold) <br>by karina****op', "Owned")
+ 
 .addPin('2minfizz.webp', '2 Minutes Fizz -Gold- <br> by karina****op', "Sold")
 .addPin('2minfizzay.webp', '2 Minutes Fizz -Chrome- <br> by karina****op', "Sold")
 .addPin('fizzygold.webp', 'Heart Fizz -Gold- <br> by karina****op', "Sold")
