@@ -7,23 +7,20 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .addPin('kassiehisoka.webp', 'Hisoka Diamond <br>by KassieArts', "For-Sale")
 .addPin('kassiehar.webp', 'Har Diamond <br>by KassieArts', "For-Sale")
 .addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "For-Sale")
-//yooiki
+// YOOKI
 .addPin('yookispohie.webp', 'HMC: Sophie Chibi <br>by YookiStudios', "For-Sale")
 .addPin('yookihowl.webp', 'HMC: Howl Chibi <br>by YookiStudios', "For-Sale")
 .addPin('yookimitsuri.webp', 'Kitsune Mitsuri <br>by YookiStudios', "For-Sale")
 .addPin('yookiobanai.webp', 'Snake Obanai <br>by YookiStudios', "For-Sale")
-           
 .addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "For-Sale")
 .addPin('yookiyor.webp', 'Yor Mirror <br>by YookiStudios', "For-Sale")
 .addPin('yookianya.webp', 'Anya Mirror <br>by YookiStudios', "For-Sale")
-
-.addPin('helioschibiusa.webp', 'Chibiusa and Helios', "For-Sale")
+// CUTE PINS
 .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️ <br>by Arcade Healer', "For-Sale")
 .addPin('Lily.webp', 'Lily ❀ Studio Ghibli <br>by Birduyen', "For-Sale")
 .addPin('Cinamoroll.webp', 'Cinnamoroll Sprinkle Bunny <br>by Xhilyn', "For-Sale")
 .addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "For-Sale")
-
-
+// GENSHIN
 .addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "For-Sale")
 .addPin('childechibiprofile.webp', 'Chibi Childe Bust <br>by AkuoArt', "For-Sale")
 .addPin('xiaochibiprofile.webp', 'Chibi Xiao <br>by AkuoArt', "For-Sale")
@@ -38,12 +35,10 @@ addGap();
 // =======================================================================================================================================================================================================================
 addCategory("Sold Pins 👠")
 
-
 .addPin('inlink.webp', 'BOTW Link <br>LE50 by Ins***Pins.', "Sold")
 .addPin('Clefairy.webp', 'Clefairy Tamagotchi <br>by Arcade Healer', "Sold")
 .addPin('ClownKirby.webp', 'Mirror Poyo <br>by Arcade Healer', "Sold")
 .addPin('SakuraKirby.webp', 'Sakura Kirby <br>by Arcade Healer', "Sold")
-
            // MAMOBOT
     
     .addPin('SSailor.webp', 'Super Sailor Moon <br>by Mamobot', "Sold")
@@ -52,9 +47,10 @@ addCategory("Sold Pins 👠")
     .addPin('boosette.webp', 'Boosette - 1st Twitch C. Pin', "Sold")
     .addPin('Zelda.jpg', 'Smash Zelda Nintendoll', "Sold")
     .addPin('Ahri.webp', 'K/DA Ahri', "Sold")
-    .addPin('WeddingPeach.webp', 'Wedding Princess Peach', "Sold")
+    .addPin('helioschibiusa.webp', 'Chibiusa and Helios', "Sold")
     .addPin('humanluna.webp', 'Human Luna', "Sold")
     .addPin('smfamily.webp', 'Luna, Artemis and Diana', "Sold")
+    .addPin('WeddingPeach.webp', 'Wedding Princess Peach', "Sold")
     .addPin('Rosalina.webp', 'Rosalina Nintendoll', "Sold")
     .addPin('BikerRosalina.webp', 'Biker Rosalina', "Sold")
     .addPin('Bowsette.webp', 'Biker Bowsette', "Sold")
