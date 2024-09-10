@@ -8,13 +8,14 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .addPin('kassiehar.webp', 'Har Diamond <br>by KassieArts', "For-Sale")
 .addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "For-Sale")
 // YOOKI
+.addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "For-Sale")
+.addPin('yookiyor.webp', 'Yor Mirror <br>by YookiStudios', "For-Sale")
+.addPin('yookianya.webp', 'Anya Mirror <br>by YookiStudios', "For-Sale")
 .addPin('yookispohie.webp', 'HMC: Sophie Chibi <br>by YookiStudios', "For-Sale")
 .addPin('yookihowl.webp', 'HMC: Howl Chibi <br>by YookiStudios', "For-Sale")
 .addPin('yookimitsuri.webp', 'Kitsune Mitsuri <br>by YookiStudios', "For-Sale")
 .addPin('yookiobanai.webp', 'Snake Obanai <br>by YookiStudios', "For-Sale")
-.addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "For-Sale")
-.addPin('yookiyor.webp', 'Yor Mirror <br>by YookiStudios', "For-Sale")
-.addPin('yookianya.webp', 'Anya Mirror <br>by YookiStudios', "For-Sale")
+
 // CUTE PINS
 .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️ <br>by Arcade Healer', "For-Sale")
 .addPin('Lily.webp', 'Lily ❀ Studio Ghibli <br>by Birduyen', "For-Sale")
