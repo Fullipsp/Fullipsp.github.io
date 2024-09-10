@@ -18,7 +18,7 @@ addCategory("Ordered 🛒🛍")
 .addPin('insomniapunzie.webp', 'Rapunzie Panel <br>LE50 by Ins***Pins.', "Ordered")
 .addPin('bluelock.webp', 'Blue Lock - Michael Kaiser <br> by MidnightMoonpins.', "Ordered")
 .addPin('mhamomo.webp', 'MHA - Momo Yaoyorozu <br> by MidnightMoonpins.', "Ordered")
-.addPin('giyu.webp', 'KNY - Giyu Tomioka <br> by MidnightMoonpins.', "Ordered")
+.addPin('giyumidnight.webp', 'KNY - Giyu Tomioka <br> by MidnightMoonpins.', "Ordered")
 .addPin('silverash.webp', 'Arknights Silverash <br>LE by TorikiiArt.', "Ordered")
 .addPin('inkei.webp', 'Raiden Shogun Pin <br>LE by Innkbean.', "Ordered")
 
