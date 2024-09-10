@@ -6,9 +6,6 @@ addCategory("Ordered 🛒🛍")
 // PREORDERS
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
-// VASH STAMPEDE
-.addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
-.addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
  // SK8
 .addPin('kassielanga.webp', 'Langa Diamond <br> by KassieArts', "Ordered")
 .addPin('pastellanga.webp', 'Pastel Langa Diamond <br>LE by KassieArts', "Ordered")
@@ -17,6 +14,11 @@ addCategory("Ordered 🛒🛍")
 .addPin('malingreki.webp', 'Reki Diamond <br> by MalingMouse', "Ordered")
 .addPin('protectrenga.webp', 'He Protecc, Beach! <br> by ???', "Ordered")
 .addPin('icecreamrenga.webp', 'Ice Cream Renga <br> by ???', "Ordered")
+//
+.addPin('insomniachilde.webp', 'Childe Purple Chrome Var. <br>LE50 by Ins***Pins.', "Ordered")
+.addPin('insomniapunzie.webp', 'Rapunzie Panel <br>LE50 by Ins***Pins.', "Ordered")
+.addPin('inkei.webp', 'Raiden Shogun Pin <br>LE by Innkbean.', "Ordered")
+
 //FREEPINS
 .addPin('bluelock.webp', 'Blue Lock - Michael Kaiser <br> by MidnightMoonpins.', "Ordered")
 .addPin('mhamomo.webp', 'MHA - Momo Yaoyorozu <br> by MidnightMoonpins.', "Ordered")
@@ -27,10 +29,9 @@ addCategory("Ordered 🛒🛍")
 .addPin('violetbach.webp', 'Violet x Emi/Isabella Chibi <br> by Bachoochi.', "Ordered")
 .addPin('nierbach.webp', 'Nier Automata Chibi <br> by Bachoochi.', "Ordered")
 
-.addPin('insomniachilde.webp', 'Childe Purple Chrome Var. <br>LE50 by Ins***Pins.', "Ordered")
-.addPin('insomniapunzie.webp', 'Rapunzie Panel <br>LE50 by Ins***Pins.', "Ordered")
-.addPin('inkei.webp', 'Raiden Shogun Pin <br>LE by Innkbean.', "Ordered")
-
+// VASH STAMPEDE
+.addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
+.addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
