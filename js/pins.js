@@ -14,20 +14,18 @@ addCategory("Ordered 🛒🛍")
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
 
-.addPin('insomniapunzie.webp', 'Rapunzie Panel <br>LE50 by Ins***Pins.', "Ordered")
 .addPin('insomniachilde.webp', 'Childe Purple Chrome Var. <br>LE50 by Ins***Pins.', "Ordered")
+.addPin('insomniapunzie.webp', 'Rapunzie Panel <br>LE50 by Ins***Pins.', "Ordered")
+.addPin('bluelock.webp', 'Blue Lock - Michael Kaiser <br> by MidnightMoonpins.', "Ordered")
+.addPin('mhamomo.webp', 'MHA - Momo Yaoyorozu <br> by MidnightMoonpins.', "Ordered")
+.addPin('giyu.webp', 'KNY - Giyu Tomioka <br> by MidnightMoonpins.', "Ordered")
+.addPin('silverash.webp', 'Arknights Silverash <br>LE by TorikiiArt.', "Ordered")
 .addPin('inkei.webp', 'Raiden Shogun Pin <br>LE by Innkbean.', "Ordered")
 
 .addPin('tanjirobach.webp', 'Tanjiro Chibi <br> by Bachoochi.', "Ordered")
 .addPin('kleebach.webp', 'Klee Chibi <br> by Bachoochi.', "Ordered")
 .addPin('violetbach.webp', 'Violet x Emi/Isabella Chibi <br> by Bachoochi.', "Ordered")
 .addPin('nierbach.webp', 'Nier Automata Chibi <br> by Bachoochi.', "Ordered")
-
-.addPin('bluelock.webp', 'Blue Lock - Michael Kaiser <br> by MidnightMoonpins.', "Ordered")
-.addPin('mhamomo.webp', 'MHA - Momo Yaoyorozu <br> by MidnightMoonpins.', "Ordered")
-.addPin('giyu.webp', 'KNY - Giyu Tomioka <br> by MidnightMoonpins.', "Ordered")
-.addPin('silverash.webp', 'Arknights Silverash <br>LE by TorikiiArt.', "Ordered")
-
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
