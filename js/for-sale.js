@@ -3,6 +3,7 @@ let categoryIndex = 0;
 
 addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 //kassiearts
+.addPin('kassievanitas.webp', 'Vanitas Diamond <br>LE65 by KassieArts', "For-Sale")
 .addPin('kassiehisoka.webp', 'Hisoka Diamond <br>by KassieArts', "For-Sale")
 .addPin('kassiehar.webp', 'Har Diamond <br>by KassieArts', "For-Sale")
 .addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "For-Sale")
@@ -25,7 +26,7 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 
 .addPin('Cinamoroll.webp', 'Cinnamoroll Sprinkle Bunny <br>by Xhilyn', "For-Sale")
 .addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "For-Sale")
-.addPin('Aurora.webp', 'Aurora Borealis Cutie (LE)', "For-Sale")
+.addPin('Aurora.webp', 'Aurora Borealis Cutie (LE)', "Sold")
 
 .addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "For-Sale")
 .addPin('childechibiprofile.webp', 'Chibi Childe Bust <br>by AkuoArt', "For-Sale")
@@ -33,8 +34,8 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .addPin('albedochibiprofile.webp', 'Chibi Albedo <br>by AkuoArt', "For-Sale")
 .addPin('zhonglichibiprofile.webp', 'Chibi Zhongli <br>by AkuoArt', "For-Sale") 
 .addPin('childebby.webp', 'Childe (Tartaglia) <br>by Sugar Cubed Studios', "For-Sale")
-.addPin('megumiheadphones.webp', 'Lo-Fi Megumi <br> by Flying Canoe Pins', "For-Sale")
-.addPin('fivethoma.webp', 'Thoma <br>by Fiveonthe', "For-Sale")
+
+
 .addPin('lunalbedo.webp', 'Kitty Albedo <br>by angryeggmerch', "For-Sale")
 
 .addPin('lenpaimon.webp', 'Paimon <br>by Lenacchi', "For-Sale")
@@ -51,9 +52,9 @@ addCategory("Sold Pins 👠")
 
            // MAMOBOT
     
-    .addPin('SSailor.webp', 'Super Sailor Moon', "Sold")
-    .addPin('SSerenity.webp', 'Serenity Sailor Moon', "Sold")
-    .addPin('SCosmos.webp', 'Cosmos Sailor Moon', "Sold")
+    .addPin('SSailor.webp', 'Super Sailor Moon <br>by Mamobot', "Sold")
+    .addPin('SSerenity.webp', 'Serenity Sailor Moon <br>by Mamobot', "Sold")
+    .addPin('SCosmos.webp', 'Cosmos Sailor Moon <br>by Mamobot', "Sold")
     .addPin('boosette.webp', 'Boosette - 1st Twitch C. Pin', "Sold")
     .addPin('Zelda.jpg', 'Smash Zelda Nintendoll', "Sold")
     .addPin('Ahri.webp', 'K/DA Ahri', "Sold")
@@ -71,7 +72,9 @@ addCategory("Sold Pins 👠")
     .addPin('bunnywitch.jpg', 'Snow Bunny Witch <br>by Mamobot', "Sold")
     .addPin('bunneh.jpg', 'Snow Witch Bunny', "Sold")
 
+    .addPin('megumiheadphones.webp', 'Lo-Fi Megumi <br> by Flying Canoe Pins', "Sold")
     .addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Sold")
+    .addPin('fivethoma.webp', 'Thoma <br>by Fiveonthe', "Sold")
     .addPin('VioletEvergarden.webp', 'Violet x Gilbert Pin <br>(Nostalgia Couples KS)', "Sold")
     .addPin('lumine.webp', 'Lumine <br>by Sugar Cubed Studios', "Sold")
     .addPin('luminechibiprofile.webp', 'Chibi Lumine <br>by AkuoArt', "Sold")
