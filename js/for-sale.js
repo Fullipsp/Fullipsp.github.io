@@ -22,7 +22,7 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .addPin('Lily.webp', 'Lily ❀ Studio Ghibli <br>by Birduyen', "For-Sale")
 .addPin('Cinamoroll.webp', 'Cinnamoroll Sprinkle Bunny <br>by Xhilyn', "For-Sale")
 .addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "For-Sale")
-.addPin('Aurora.webp', 'Aurora Borealis Cutie (LE)', "Sold")
+
 
 .addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "For-Sale")
 .addPin('childechibiprofile.webp', 'Chibi Childe Bust <br>by AkuoArt', "For-Sale")
@@ -90,7 +90,7 @@ addCategory("Sold Pins 👠")
     .addPin('chibileaf.jpg', 'Chibi Beefleaf <br>by jeanadraws', "Sold")
 
          // Kirby / Animal pins
-    
+    .addPin('Aurora.webp', 'Aurora Borealis Cutie (LE)', "Sold")
     .addPin('Mousie.webp', 'Spring Mouse ☼ <br>by Birduyen', "Sold")
     .addPin('Birb.webp', 'Spring Tit ☼ <br>by Birduyen', "Sold")
     .addPin('WishingWell.webp', 'Bunny`s Wishing Pond (August 2020 Pin Club)', "Sold")
