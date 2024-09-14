@@ -2,6 +2,9 @@
 let categoryIndex = 0;
 
 addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
+// VASH STAMPEDE
+.addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "For-Sale")
+.addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "For-Sale")
 //kassiearts
 .addPin('kassievanitas.webp', 'Vanitas Diamond <br>LE65 by KassieArts', "For-Sale")
 .addPin('kassiehisoka.webp', 'Hisoka Diamond <br>by KassieArts', "For-Sale")
