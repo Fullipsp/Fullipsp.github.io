@@ -21,9 +21,9 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 
 // CUTE PINS
 .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️ <br>by Arcade Healer', "For-Sale")
-.addPin('Lily.webp', 'Lily ❀ Studio Ghibli <br>by Birduyen', "For-Sale")
-.addPin('Cinamoroll.webp', 'Cinnamoroll Sprinkle Bunny <br>by Xhilyn', "For-Sale")
-.addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "For-Sale")
+.addPin('Lily.webp', 'Lily ❀ Studio Ghibli <br>by Birduyen', "Sold")
+.addPin('Cinamoroll.webp', 'Cinnamoroll Sprinkle Bunny <br>by Xhilyn', "Sold")
+.addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "Sold")
 // GENSHIN
 .addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "For-Sale")
 .addPin('childechibiprofile.webp', 'Chibi Childe Bust <br>by AkuoArt', "For-Sale")
