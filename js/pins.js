@@ -26,9 +26,10 @@ addCategory("Ordered 🛒🛍")
 // PREORDERS
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
-// VASH STAMPEDE
-.addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Ordered")
-.addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Ordered")
+//KARINA helluva
+.addPin('gfizzmodeus.webp', 'Wonderland Fizzmodeus (Gold) <br> LE40 by karina****op', "Owned")
+.addPin('rainbowfizzmodeus.webp', 'Wonderland Fizzmodeus (Chrome) <br> LE40 by karina****op', "Owned")
+
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
@@ -266,19 +267,21 @@ addCategory("Animal Crossing Pins 🌺🌷🤍")
 .addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Genshin / Anime Pins ✨")
+// VASH STAMPEDE
+.addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Owned")
+.addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Owned")
 .addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
+//GENSHIN
 .addPin('insomniatighnari.webp', 'Tighnari Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
+.addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
+.addPin('kaguprez.webp', 'Love is War Valentines <br> by FantasyChibiPns', "Owned")
  
 .addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "Owned")
 .addPin('kassievanitas.webp', 'Vanitas Diamond <br>LE65 by KassieArts', "Owned")
 .addPin('kassiehisoka.webp', 'Hisoka Diamond <br>380 by KassieArts', "Owned")
 .addPin('kassiehar.webp', 'Har Diamond <br>by KassieArts', "Owned")
- 
-.addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
-.addPin('kaguprez.webp', 'Love is War Valentines <br> by FantasyChibiPns', "Owned")
-
 //Obamitsu
    .addPin('obamitsu3.webp', 'Obanai & Mitsuri 3 <br>by Nandemopins', "Owned")
    .addPin('obamitsu1.webp', 'Obanai & Mitsuri 1 <br>by Nandemopins', "Owned")
