@@ -5,6 +5,9 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "For-Sale")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "For-Sale")
+           
+.addPin('insomniapunzie.webp', 'Rapunzie Panel <br>LE50 by Ins***Pins.', "For-Sale")
+.addPin('inkei.webp', 'Raiden Shogun Pin <br>LE by Innkbean.', "For-Sale")
 //kassiearts
 .addPin('kassievanitas.webp', 'Vanitas Diamond <br>LE65 by KassieArts', "For-Sale")
 .addPin('kassiehisoka.webp', 'Hisoka Diamond <br>by KassieArts', "For-Sale")
