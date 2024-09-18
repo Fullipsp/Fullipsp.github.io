@@ -2,17 +2,15 @@
 let categoryIndex = 0;
 
 addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
-// VASH STAMPEDE
-.addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "For-Sale")
-.addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "For-Sale")
-           
 .addPin('insomniapunzie.webp', 'Rapunzie Panel <br>LE50 by Ins***Pins.', "For-Sale")
-.addPin('inkei.webp', 'Raiden Shogun Pin <br>LE by Innkbean.', "For-Sale")
 //kassiearts
 .addPin('kassievanitas.webp', 'Vanitas Diamond <br>LE65 by KassieArts', "For-Sale")
 .addPin('kassiehisoka.webp', 'Hisoka Diamond <br>by KassieArts', "For-Sale")
 .addPin('kassiehar.webp', 'Har Diamond <br>by KassieArts', "For-Sale")
 .addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "For-Sale")
+// VASH STAMPEDE
+.addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "For-Sale")
+.addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "For-Sale")
 // YOOKI
 .addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "For-Sale")
 .addPin('yookiyor.webp', 'Yor Mirror <br>by YookiStudios', "For-Sale")
@@ -21,7 +19,7 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .addPin('yookihowl.webp', 'HMC: Howl Chibi <br>by YookiStudios', "For-Sale")
 .addPin('yookimitsuri.webp', 'Kitsune Mitsuri <br>by YookiStudios', "For-Sale")
 .addPin('yookiobanai.webp', 'Snake Obanai <br>by YookiStudios', "For-Sale")
-
+.addPin('inkei.webp', 'Raiden Shogun Pin <br>LE by Innkbean.', "For-Sale")
 // CUTE PINS
 .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️ <br>by Arcade Healer', "For-Sale")
 .addPin('Lily.webp', 'Lily ❀ Studio Ghibli <br>by Birduyen', "Sold")
