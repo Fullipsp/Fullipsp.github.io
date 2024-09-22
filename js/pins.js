@@ -11,22 +11,21 @@ addCategory("Ordered 🛒🛍")
 .addPin('kleebach.webp', 'Klee Chibi <br> by Bachoochi.', "Ordered")
 .addPin('violetbach.webp', 'Violet x Emi/Isabella Chibi <br> by Bachoochi.', "Ordered")
 .addPin('nierbach.webp', 'Nier Automata Chibi <br> by Bachoochi.', "Ordered")
-// PREORDERS
-.addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
-.addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
-//KARINA helluva
-.addPin('gfizzmodeus.webp', 'Wonderland Fizzmodeus (Gold) <br> LE40 by karina****op', "Ordered")
-.addPin('rainbowfizzmodeus.webp', 'Wonderland Fizzmodeus (Chrome) <br> LE40 by karina****op', "Ordered")
-
 //MXTX NAIXAIE
 .addPin('wulian.webp', 'Will O The Wisp ✦ Wulian <br>by naixaie', "Ordered")
 .addPin('whitehualian.webp', 'Fluttering Dreams ✦ Hualian <br>by naixaie', "Ordered")
 .addPin('xianletrio.webp', 'Serene Slumber ✦ Xian Le Trio <br>by naixaie', "Ordered")
 .addPin('bingliushen.webp', 'Springtime Trio ✦ Bingliushen <br>by naixaie', "Ordered")
+//KARINA helluva
+.addPin('gfizzmodeus.webp', 'Wonderland Fizzmodeus (Gold) <br> LE40 by karina****op', "Ordered")
+.addPin('rainbowfizzmodeus.webp', 'Wonderland Fizzmodeus (Chrome) <br> LE40 by karina****op', "Ordered")
 //LINK CLICK
 .addPin('cxschibi.webp', 'Cheng Xiaoshi Chibi <br>by flyingcanoepins', "Ordered")
 .addPin('lgchibi.webp', 'Lu Guang Chibi <br>by flyingcanoepins', "Ordered")
 .addPin('qlchibi.webp', 'Qiao Ling Chibi <br>by flyingcanoepins', "Ordered")
+// PREORDERS
+.addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
+.addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
