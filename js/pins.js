@@ -24,6 +24,9 @@ addCategory("Ordered 🛒🛍")
 .addPin('xianletrio.webp', 'Serene Slumber ✦ Xian Le Trio <br>by naixaie', "Ordered")
 .addPin('bingliushen.webp', 'Springtime Trio ✦ Bingliushen <br>by naixaie', "Ordered")
 //LINK CLICK
+.addPin('cxchibi.webp', 'Cheng Xiaoshi Chibi <br>by flyingcanoepins', "Ordered")
+.addPin('lgchibi.webp', 'Lu Guang Chibi <br>by flyingcanoepins', "Ordered")
+.addPin('qlchibi.webp', 'Qiao Ling Chibi <br>by flyingcanoepins', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
