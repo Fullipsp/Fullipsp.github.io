@@ -18,6 +18,13 @@ addCategory("Ordered 🛒🛍")
 .addPin('gfizzmodeus.webp', 'Wonderland Fizzmodeus (Gold) <br> LE40 by karina****op', "Ordered")
 .addPin('rainbowfizzmodeus.webp', 'Wonderland Fizzmodeus (Chrome) <br> LE40 by karina****op', "Ordered")
 
+//MXTX NAIXAIE
+.addPin('wulian.webp', 'Will O' The Wisp ✦ Wulian <br>by naixaie', "Ordered")
+.addPin('whitehualian.webp', 'Fluttering Dreams ✦ Hualian <br>by naixaie', "Ordered")
+.addPin('xianletrio.webp', 'Serene Slumber ✦ Xian Le Trio <br>by naixaie', "Ordered")
+.addPin('bingliushen.webp', 'Springtime Trio ✦ Bingliushen <br>by naixaie', "Ordered")
+//LINK CLICK
+
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
