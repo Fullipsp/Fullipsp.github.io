@@ -30,19 +30,19 @@ addCategory("Ordered 🛒🛍")
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
- 
+ // PREORDER FOXI
 .addPin('hxwindow.webp', 'He Xuan Window <br>LE65 by Foxipins', "Ordered")
 .addPin('sqxwindow.webp', 'Shi Qingxuan Window <br>LE65 by Foxipins', "Ordered")
 .addPin('foxihc.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Ordered")
 .addPin('binghe.jpg', 'Luo Binghe Window <br>LE65 by Foxipins', "Ordered")
 .addPin('foxiqr.webp', 'Qi Rong Window <br>LE65 by Foxipins', "Ordered")
 .addPin('lwjpanel.jpg', 'Lan Wangji Window <br>LE65 by Foxipins', "Ordered")
-.addPin('foxiwwx.webp', 'Wei Wuxian Window <br>LE65 by Foxipins', "Ordered")
 .addPin('xichen.jpg', 'Lan Xichen Window <br>LE65 by Foxipins', "Ordered")
 .addPin('foxinhs.webp', 'Nie Huaisang Window <br>LE65 by Foxipins', "Ordered")
-
-.addPin('yinyu.webp', 'Yin Yu Window <br>LE65 by Foxipins', "Owned")
-.addPin('wenning.webp', 'Wen Ning Window <br>LE65 by Foxipins', "Owned")
+ //OWNED FOXI
+.addPin('foxiwwx.webp', 'Wei Wuxian Window <br>LE65 by Foxipins', "Ordered")
+.addPin('bingpup.webp', 'Bingpup Window <br>by Foxipins', "Ordered")
+.addPin('foxifairy.webp', 'Fairy Window <br>by Foxipins', "Ordered")
 .addPin('gongyixiao.webp', 'Gongyi Xiao Window <br>by Foxipins', "Owned")
 .addPin('wenqing.webp', 'Wen Qing Window <br>by Foxipins', "Owned")
 .addPin('yanli.webp', 'Jiang Yanli Window <br>by Foxipins', "Owned")
@@ -50,11 +50,9 @@ addCategory("Foxipins MXTX Windows")
 .addPin('peiming.jpg', 'Pei Ming Window <br>LE65 by Foxipins', "Owned")
 .addPin('lingwen.jpg', 'Ling Wen Window <br>LE65 by Foxipins', "Owned")
 .addPin('shiwudu.jpg', 'Shi Wudu Window <br>LE65 by Foxipins', "Owned")
+.addPin('yinyu.webp', 'Yin Yu Window <br>LE65 by Foxipins', "Owned")
+.addPin('wenning.webp', 'Wen Ning Window <br>LE65 by Foxipins', "Owned")
 .addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Sold")
-
-.addPin('bingpup.webp', 'Bingpup Window <br>by Foxipins', "Ordered")
-.addPin('foxifairy.webp', 'Fairy Window <br>by Foxipins', "Ordered")
-
 // ========================================================================================================================================================================================================================
 addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Ordered")
