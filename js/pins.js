@@ -3,29 +3,14 @@ let categoryIndex = 0;
 
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
-//FREEPINS
-.addPin('bluelock.webp', 'Blue Lock - Michael Kaiser <br> by MidnightMoonpins.', "Ordered")
-.addPin('mhamomo.webp', 'MHA - Momo Yaoyorozu <br> by MidnightMoonpins.', "Ordered")
-.addPin('silverash.webp', 'Arknights Silverash <br>LE by TorikiiArt.', "Ordered")
-.addPin('tanjirobach.webp', 'Tanjiro Chibi <br> by Bachoochi.', "Ordered")
-.addPin('kleebach.webp', 'Klee Chibi <br> by Bachoochi.', "Ordered")
-.addPin('violetbach.webp', 'Violet x Emi/Isabella Chibi <br> by Bachoochi.', "Ordered")
-.addPin('nierbach.webp', 'Nier Automata Chibi <br> by Bachoochi.', "Ordered")
 //MXTX NAIXAIE
 .addPin('wulian.webp', 'Will O The Wisp ✦ Wulian <br>by naixaie', "Ordered")
 .addPin('whitehualian.webp', 'Fluttering Dreams ✦ Hualian <br>by naixaie', "Ordered")
 .addPin('xianletrio.webp', 'Serene Slumber ✦ Xian Le Trio <br>by naixaie', "Ordered")
 .addPin('bingliushen.webp', 'Springtime Trio ✦ Bingliushen <br>by naixaie', "Ordered")
-//KARINA helluva
-
-//LINK CLICK
-.addPin('cxschibi.webp', 'Cheng Xiaoshi Chibi <br>by flyingcanoepins', "Ordered")
-.addPin('lgchibi.webp', 'Lu Guang Chibi <br>by flyingcanoepins', "Ordered")
-.addPin('qlchibi.webp', 'Qiao Ling Chibi <br>by flyingcanoepins', "Ordered")
 // PREORDERS
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
-
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
@@ -184,8 +169,8 @@ addCategory("Zelda Pins 🗡🏹 🌺💙")
 addCategory("Helluva Boss ❤️‍🔥😈👅")
 .addPin('blitzo40.webp', 'Blitzo Window <br> LE40 by karina****op', "Owned")
 .addPin('stolas40.webp', 'Stolas Window <br> LE40 by karina****op', "Owned")
-.addPin('gfizzmodeus.webp', 'Wonderland Fizzmodeus (Gold) <br> LE40 by karina****op', "Ordered")
-.addPin('rainbowfizzmodeus.webp', 'Wonderland Fizzmodeus (Chrome) <br> LE40 by karina****op', "Ordered")
+.addPin('gfizzmodeus.webp', 'Wonderland Fizzmodeus (Gold) <br> LE40 by karina****op', "Owned")
+.addPin('rainbowfizzmodeus.webp', 'Wonderland Fizzmodeus (Chrome) <br> LE40 by karina****op', "Owned")
 .addPin('fizzycopper.webp', 'Heart Fizz -Copper- <br> by karina****op', "Owned")
 .addPin('stolitzblack.webp', 'Stolitz Miscommunication (B. Nickel) <br> LE25 by karina****op', "Owned")
 .addPin('stolitzgold.webp', 'Stolitz Miscommunication (Gold) <br> LE25 by karina****op', "Owned")
@@ -271,7 +256,7 @@ addCategory("Animal Crossing Pins 🌺🌷🤍")
 .addPin('lolly.webp', 'Dreaming Lolly <br>by haiyun', "Owned")
 .addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Owned")
 // =========================================================================================================================================================================================================================
-addCategory("Genshin / Anime Pins ✨")
+addCategory("Anime & Genshin Pins ✨")
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Owned")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Owned")
@@ -283,6 +268,11 @@ addCategory("Genshin / Anime Pins ✨")
 .addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
 .addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
 .addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
+//LINK CLICK
+.addPin('cxschibi.webp', 'Cheng Xiaoshi Chibi <br>by flyingcanoepins', "Owned")
+.addPin('lgchibi.webp', 'Lu Guang Chibi <br>by flyingcanoepins', "Owned")
+.addPin('qlchibi.webp', 'Qiao Ling Chibi <br>by flyingcanoepins', "Owned")
+ 
 .addPin('kaguprez.webp', 'Love is War Valentines <br> by FantasyChibiPns', "Owned")
  
 .addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "Owned")
