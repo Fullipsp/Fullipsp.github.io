@@ -17,8 +17,7 @@ addCategory("Ordered 🛒🛍")
 .addPin('xianletrio.webp', 'Serene Slumber ✦ Xian Le Trio <br>by naixaie', "Ordered")
 .addPin('bingliushen.webp', 'Springtime Trio ✦ Bingliushen <br>by naixaie', "Ordered")
 //KARINA helluva
-.addPin('gfizzmodeus.webp', 'Wonderland Fizzmodeus (Gold) <br> LE40 by karina****op', "Ordered")
-.addPin('rainbowfizzmodeus.webp', 'Wonderland Fizzmodeus (Chrome) <br> LE40 by karina****op', "Ordered")
+
 //LINK CLICK
 .addPin('cxschibi.webp', 'Cheng Xiaoshi Chibi <br>by flyingcanoepins', "Ordered")
 .addPin('lgchibi.webp', 'Lu Guang Chibi <br>by flyingcanoepins', "Ordered")
@@ -185,6 +184,8 @@ addCategory("Zelda Pins 🗡🏹 🌺💙")
 addCategory("Helluva Boss ❤️‍🔥😈👅")
 .addPin('blitzo40.webp', 'Blitzo Window <br> LE40 by karina****op', "Owned")
 .addPin('stolas40.webp', 'Stolas Window <br> LE40 by karina****op', "Owned")
+.addPin('gfizzmodeus.webp', 'Wonderland Fizzmodeus (Gold) <br> LE40 by karina****op', "Ordered")
+.addPin('rainbowfizzmodeus.webp', 'Wonderland Fizzmodeus (Chrome) <br> LE40 by karina****op', "Ordered")
 .addPin('fizzycopper.webp', 'Heart Fizz -Copper- <br> by karina****op', "Owned")
 .addPin('stolitzblack.webp', 'Stolitz Miscommunication (B. Nickel) <br> LE25 by karina****op', "Owned")
 .addPin('stolitzgold.webp', 'Stolitz Miscommunication (Gold) <br> LE25 by karina****op', "Owned")
