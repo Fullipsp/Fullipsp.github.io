@@ -11,6 +11,14 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "For-Sale")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "For-Sale")
+//FREEPINS
+.addPin('bluelock.webp', 'Blue Lock - Michael Kaiser <br> by MidnightMoonpins.', "For-Sale")
+.addPin('mhamomo.webp', 'MHA - Momo Yaoyorozu <br> by MidnightMoonpins.', "For-Sale")
+.addPin('silverash.webp', 'Arknights Silverash <br>LE by TorikiiArt.', "For-Sale")
+.addPin('tanjirobach.webp', 'Tanjiro Chibi <br> by Bachoochi.', "For-Sale")
+.addPin('kleebach.webp', 'Klee Chibi <br> by Bachoochi.', "For-Sale")
+.addPin('violetbach.webp', 'Violet x Emi/Isabella Chibi <br> by Bachoochi.', "For-Sale")
+.addPin('nierbach.webp', 'Nier Automata Chibi <br> by Bachoochi.', "For-Sale")
 // YOOKI
 .addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "For-Sale")
 .addPin('yookiyor.webp', 'Yor Mirror <br>by YookiStudios', "For-Sale")
