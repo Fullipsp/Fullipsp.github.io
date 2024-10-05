@@ -30,9 +30,7 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .addPin('inkei.webp', 'Raiden Shogun Pin <br>LE by Innkbean.', "For-Sale")
 // CUTE PINS
 .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️ <br>by Arcade Healer', "For-Sale")
-.addPin('Lily.webp', 'Lily ❀ Studio Ghibli <br>by Birduyen', "Sold")
-.addPin('Cinamoroll.webp', 'Cinnamoroll Sprinkle Bunny <br>by Xhilyn', "Sold")
-.addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "Sold")
+
 // GENSHIN
 .addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "For-Sale")
 .addPin('childechibiprofile.webp', 'Chibi Childe Bust <br>by AkuoArt', "For-Sale")
@@ -99,6 +97,9 @@ addCategory("Sold Pins 👠")
     .addPin('chibileaf.jpg', 'Chibi Beefleaf <br>by jeanadraws', "Sold")
 
          // Kirby / Animal pins
+     .addPin('Lily.webp', 'Lily ❀ Studio Ghibli <br>by Birduyen', "Sold")
+     .addPin('Cinamoroll.webp', 'Cinnamoroll Sprinkle Bunny <br>by Xhilyn', "Sold")
+     .addPin('WitchKitty.webp', 'Pastel Kitty Witch Mascot', "Sold")
     .addPin('Aurora.webp', 'Aurora Borealis Cutie (LE)', "Sold")
     .addPin('Mousie.webp', 'Spring Mouse ☼ <br>by Birduyen', "Sold")
     .addPin('Birb.webp', 'Spring Tit ☼ <br>by Birduyen', "Sold")
