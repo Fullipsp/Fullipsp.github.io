@@ -6,10 +6,10 @@ addCategory("Ordered 🛒🛍")
 //MXTX NAIXAIE
 .addPin('wulian.webp', 'Will O The Wisp ✦ Wulian <br>by naixaie', "Ordered")
 .addPin('whitehualian.webp', 'Fluttering Dreams ✦ Hualian <br>by naixaie', "Ordered")
-.addPin('xianletrio.webp', 'Serene Slumber ✦ Xian Le Trio <br>by naixaie', "Ordered")
-.addPin('bingliushen.webp', 'Springtime Trio ✦ Bingliushen <br>by naixaie', "Ordered")
+.addPin('xianletrio.webp', 'Serene Slumber ✦ <br>Xian Le Trio by naixaie', "Ordered")
+.addPin('bingliushen.webp', 'Bingliushen ✦ <br>Springtime Trio by naixaie', "Ordered")
 // LINK CLICK
-.addPin('blackxiaoshi.webp', 'Cheng Xiaoshi Panel - B Nickel <br>by ipinboys', "Ordered")
+.addPin('blackxiaoshi.webp', 'Cheng Xiaoshi Panel - BN <br>by ipinboys', "Ordered")
 .addPin('goldxiaoshi.webp', 'Cheng Xiaoshi Panel - Gold <br>by ipinboys', "Ordered")
 .addPin('goldguang.webp', 'Lu Guang Panel - Gold <br>x2 by ipinboys', "Ordered")
 // PREORDERS
