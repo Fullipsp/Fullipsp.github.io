@@ -5,7 +5,7 @@ let categoryIndex = 0;
 addCategory("Ordered 🛒🛍")
 //MXTX NAIXAIE
 .addPin('wulian.webp', 'Will O The Wisp ✦ Wulian <br>by naixaie', "Ordered")
-.addPin('whitehualian.webp', 'Fluttering Dreams ✦ Hualian <br>by naixaie', "Ordered")
+.addPin('whitehualian.webp', 'Hualian ✦ <br>Fluttering Dreams by naixaie', "Ordered")
 .addPin('xianletrio.webp', 'Serene Slumber ✦ <br>Xian Le Trio by naixaie', "Ordered")
 .addPin('bingliushen.webp', 'Bingliushen ✦ <br>Springtime Trio by naixaie', "Ordered")
 // LINK CLICK
