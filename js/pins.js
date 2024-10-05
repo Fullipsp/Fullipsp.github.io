@@ -206,6 +206,14 @@ addCategory("JJK Pins 🤍🖤")
 .addPin('donotseperate.webp', 'Do Not Seperate Them <br> by WoupsShop', "Owned")
 .addPin('beloved.webp', 'My Beloved <br> by WoupsShop', "Owned")
 // =========================================================================================================================================================================================================================
+ addCategory("Link Click Pins 📸🔗🤍 ")
+.addPin('blackxiaoshi.webp', 'Cheng Xiaoshi Panel - B Nickel <br>by ipinboys', "Ordered")
+.addPin('goldxiaoshi.webp', 'Cheng Xiaoshi Panel - Gold <br>by ipinboys', "Ordered")
+.addPin('goldguang.webp', 'Lu Guang Panel - Gold <br>x2 by ipinboys', "Ordered")
+.addPin('cxschibi.webp', 'Cheng Xiaoshi Chibi <br>by flyingcanoepins', "Owned")
+.addPin('lgchibi.webp', 'Lu Guang Chibi <br>by flyingcanoepins', "Owned")
+.addPin('qlchibi.webp', 'Qiao Ling Chibi <br>by flyingcanoepins', "Owned")
+// =========================================================================================================================================================================================================================
  addCategory("SK8 Infinity Pins 💙🧡+🛹♾️")
 .addPin('kassielanga.webp', 'Langa Diamond <br> by KassieArts', "Owned")
 .addPin('pastellanga.webp', 'Pastel Langa Diamond <br>LE by KassieArts', "Owned")
@@ -268,10 +276,7 @@ addCategory("Anime & Genshin Pins ✨")
 .addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
 .addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
 .addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
-//LINK CLICK
-.addPin('cxschibi.webp', 'Cheng Xiaoshi Chibi <br>by flyingcanoepins', "Owned")
-.addPin('lgchibi.webp', 'Lu Guang Chibi <br>by flyingcanoepins', "Owned")
-.addPin('qlchibi.webp', 'Qiao Ling Chibi <br>by flyingcanoepins', "Owned")
+
  
 .addPin('kaguprez.webp', 'Love is War Valentines <br> by FantasyChibiPns', "Owned")
  
