@@ -11,6 +11,8 @@ addCategory("Ordered 🛒🛍")
 // PREORDERS
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
+.addPin('xxartl.webp', 'XXARTL Shiguang <br>LE? by riitsuki', "Ordered")
+.addPin('p4pshiguang.webp', 'P4P Tides Shiguang <br>LE? by flyingcanoepins', "Ordered")
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
