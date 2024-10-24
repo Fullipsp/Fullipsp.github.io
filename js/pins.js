@@ -184,6 +184,7 @@ addCategory("Helluva Boss ❤️‍🔥😈👅")
 .addPin('fizzygold.webp', 'Heart Fizz -Gold- <br> by karina****op', "Sold")
 // ========================================================================================================================================================================================================================
 addCategory("JJK Pins 🤍🖤")
+.addPin('cspsatosugu.webp', 'Rainbow Satosugu <br>LE20 by crystal****ppe', "Owned")
 .addPin('gloomygeto.webp', 'Gloomy Geto Panel <br>LE by ZeninPins', "Owned")
 .addPin('gloomygojo.webp', 'Gloomy Gojo Panel <br>LE by ZeninPins', "Owned")
 .addPin('xqstsg.webp', 'Gojo x Geto Set <br>by XQIU', "Owned")
@@ -204,7 +205,6 @@ addCategory("JJK Pins 🤍🖤")
  
 .addPin('cloudygeto.webp', 'Cloudy Satosugu <br>LE by ???', "Owned")
 .addPin('megumicream.webp', 'Ice Cream Megumi <br> by Flying Canoe Pins', "Owned")
-.addPin('megumiheadphones.webp', 'Lo-Fi Megumi <br> by Flying Canoe Pins', "For-Sale")
 .addPin('donotseperate.webp', 'Do Not Seperate Them <br> by WoupsShop', "Owned")
 .addPin('beloved.webp', 'My Beloved <br> by WoupsShop', "Owned")
 // =========================================================================================================================================================================================================================
