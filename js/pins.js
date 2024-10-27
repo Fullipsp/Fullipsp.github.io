@@ -58,6 +58,9 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('flowerhands.jpg', 'Flower Hualian Hands <br>by Sinycath', "Owned")   
 .addPin('flowerhc.jpg', 'Flower Hua Cheng <br>by Sinycath', "Owned")
 .addPin('sanlangdiamond.webp', 'Husbando San Lang <br>by FantasyChibiPins', "Owned") 
+.addPin('derpyhc.webp', 'Super Derpy Hua <br> LE15 by crystal****ppe', "Owned")
+.addPin('chromahc.webp', 'Chroma V2 Hua <br> LE20 by crystal****ppe', "Owned")
+.addPin('chromaxl.webp', 'Chroma V2 Lian <br> LE20 by crystal****ppe', "Owned")
 
 .addPin('dianxia.webp', 'Dancing Flowers <br>by kwaaru', "Owned")
 .addPin('catchyou.webp', 'Catch You ~ <br>by kwaaru', "Owned")
@@ -67,10 +70,6 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('wuming.webp', 'Thank you, Wuming <br>by kwaaru', "Owned")
 .addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Owned")
 
-.addPin('derpyhc.webp', 'Super Derpy Hua <br> LE15 by crystal****ppe', "Owned")
-
-.addPin('chromahc.webp', 'Chroma V2 Hua <br> LE20 by crystal****ppe', "Owned")
-.addPin('chromaxl.webp', 'Chroma V2 Lian <br> LE20 by crystal****ppe', "Owned")
 .addPin('hualianwindow.webp', 'Hualian Window <br>by SerenaDanmeiPins', "Owned")
 .addPin('lilypadxl.webp', 'Lilypad Xie Lian <br>by Peonypinsco', "Owned")
 .addPin('lilypadhc.webp', 'Lilypad Hua Cheng <br>by Peonypinsco', "Owned")
@@ -105,7 +104,6 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 // Beefleaf
  .addPin('furrybfl.webp', 'Cutie Beefleaf <br>by kmoripins', "Owned")
  .addPin('sitbfl.webp', 'Funny Beefleaf <br>by qqnzhe', "Owned")
-
 
 // =========================================================================================================================================================================================================================
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
