@@ -4,10 +4,9 @@ let categoryIndex = 0;
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
 //MXTX NAIXAIE
-.addPin('wulian.webp', 'Will O The Wisp ✦ <br>Wulian by naixaie', "Ordered")
-.addPin('whitehualian.webp', 'Fluttering Dreams ✦ <br> Hualian by naixaie', "Ordered")
-.addPin('xianletrio.webp', 'Serene Slumber ✦ <br>Xian Le Trio by naixaie', "Ordered")
-.addPin('bingliushen.webp', 'Springtime Trio ✦ <br>Bingliushen by naixaie', "Ordered")
+
+ 
+.addPin('bingliushen.webp', 'Springtime Trio ✦ <br>Bingliushen by naixaie', "Owned")
 // PREORDERS
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
@@ -41,7 +40,13 @@ addCategory("Foxipins MXTX Windows")
 // ========================================================================================================================================================================================================================
 addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Ordered")
-
+.addPin('wedding.webp', 'His Heavenly Bride <br>by Califlair', "Sold")
+.addPin('sanlang.webp', 'Thousand Lights <br>by Califlair', "Owned")
+.addPin('believer.webp', 'God & King <br>by Califlair', "Owned")
+.addPin('wulian.webp', 'Will O The Wisp ✦ <br>Wulian by naixaie', "Owned")
+.addPin('whitehualian.webp', 'Fluttering Dreams ✦ <br> Hualian by naixaie', "Owned")
+.addPin('xianletrio.webp', 'Serene Slumber ✦ <br>Xian Le Trio by naixaie', "Owned")
+ 
 .addPin('xlwindow.jpg', 'Xie Lian Window <br>by Peonypinsco', "Owned")
 .addPin('hcwindow.jpg', 'Hua Cheng Window <br>by Peonypinsco', "Owned")
 .addPin('charityxl.webp', 'Xie Lian Charity Pin <br>by Peonypinsco', "Owned")
@@ -50,9 +55,6 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('hctea.jpg', 'Teacup Hua Cheng <br>by Peonypinsco', "Owned")
 .addPin('insomniahualian.webp', 'Autumn Hualian Panel <br>LE? by Ins***Pins.', "Owned")
  
-.addPin('sanlang.webp', 'Thousand Lights <br>by Califlair', "Owned")
-.addPin('wedding.webp', 'His Heavenly Bride <br>by Califlair', "Sold")
-.addPin('believer.webp', 'God & King <br>by Califlair', "Owned")
 .addPin('flowerxl.jpg', 'Flower Xie Lian <br>by Sinycath', "Owned")
 .addPin('flowerhands.jpg', 'Flower Hualian Hands <br>by Sinycath', "Owned")   
 .addPin('flowerhc.jpg', 'Flower Hua Cheng <br>by Sinycath', "Owned")
