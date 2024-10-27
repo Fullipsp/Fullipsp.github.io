@@ -85,12 +85,11 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('papoosh2.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")   
 .addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Owned") 
 .addPin('poppins.jpg', 'Fafa Poppins <br>by Pap00sh', "Owned") 
-
-.addPin('bachhualian2.jpg', 'Lilypad Hualian <br>by Bachoochi', "Owned")
 .addPin('bchibihualian.webp', 'Chibi Hualian <br>by Bachoochi', "Owned")
 // Beefleaf
  .addPin('furrybfl.webp', 'Cutie Beefleaf <br>by kmoripins', "Owned")
  .addPin('sitbfl.webp', 'Funny Beefleaf <br>by qqnzhe', "Owned")
+ 
  //FOR SALE HUALIANZ
 .addPin('hualianwindow.webp', 'Hualian Window <br>by SerenaDanmeiPins', "For-Sale")
 .addPin('raphc.webp', 'Rapunzel Hua Cheng <br>by xevnne', "For-Sale") 
@@ -102,8 +101,9 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('magicalhualian.webp', 'Hualian Cuddles <br>by xevnne', "For-Sale")
 .addPin('wigglyhc.webp', 'Wiggly Fox HC <br>by naixaie', "For-Sale")
 .addPin('wigglyxl.webp', 'Wiggly Ferret XL <br>by naixaie', "For-Sale")
- .addPin('xlcake.webp', 'Xie Lian Treat <br>by torikii_art', "For-Sale")
+.addPin('xlcake.webp', 'Xie Lian Treat <br>by torikii_art', "For-Sale")
 .addPin('hccake.webp', 'Hua Cheng Treat <br>by torikii_art', "For-Sale")
+.addPin('bachhualian2.jpg', 'Lilypad Hualian <br>by Bachoochi', "For-Sale")
 
 // =========================================================================================================================================================================================================================
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
