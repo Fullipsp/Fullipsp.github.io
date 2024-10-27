@@ -3,8 +3,10 @@ let categoryIndex = 0;
 
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
-
 // PREORDERS
+.addPin('xxartl.webp', 'XXARTL Shiguang <br>LE? by riitsuki', "Ordered")
+.addPin('p4pshiguang.webp', 'P4P Tides Shiguang <br>LE? by flyingcanoepins', "Ordered")
+
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Ordered")
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Ordered")
 
@@ -209,8 +211,7 @@ addCategory("JJK Pins 🤍🖤")
 .addPin('beloved.webp', 'My Beloved <br> by WoupsShop', "Owned")
 // =========================================================================================================================================================================================================================
  addCategory("Link Click Pins 📸🔗🤍 ")
-.addPin('xxartl.webp', 'XXARTL Shiguang <br>LE? by riitsuki', "Ordered")
-.addPin('p4pshiguang.webp', 'P4P Tides Shiguang <br>LE? by flyingcanoepins', "Ordered")
+
 .addPin('goldxiaoshi.webp', 'Cheng Xiaoshi Panel - Gold <br>by ipinboys', "Owned")
 .addPin('goldguang.webp', 'Lu Guang Panel - Gold <br>x2 by ipinboys', "Owned")
 .addPin('cxschibi.webp', 'Cheng Xiaoshi Chibi <br>by flyingcanoepins', "Owned")
