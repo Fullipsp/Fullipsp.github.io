@@ -212,6 +212,8 @@ addCategory("JJK Pins 🤍🖤")
 // =========================================================================================================================================================================================================================
  addCategory("Link Click Pins 📸🔗🤍 ")
 
+.addPin('foxixiaoshi.webp', 'Foxi Cheng Xiaoshi <br>by FoxiPins', "Owned")
+.addPin('foxiguang.webp', 'Foxi Lu Guang <br>by FoxiPins', "Owned")
 .addPin('goldxiaoshi.webp', 'Cheng Xiaoshi Panel - Gold <br>by ipinboys', "Owned")
 .addPin('goldguang.webp', 'Lu Guang Panel - Gold <br>x2 by ipinboys', "Owned")
 .addPin('cxschibi.webp', 'Cheng Xiaoshi Chibi <br>by flyingcanoepins', "Owned")
