@@ -6,9 +6,6 @@ addCategory("Ordered 🛒🛍")
 // PREORDERS
 .addPin('xxartl.webp', 'XXARTL Shiguang <br>LE? by riitsuki', "Ordered")
 .addPin('p4pshiguang.webp', 'P4P Tides Shiguang <br>LE? by flyingcanoepins', "Ordered")
-
-
-
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
@@ -40,9 +37,9 @@ addCategory("Foxipins MXTX Windows")
 // ========================================================================================================================================================================================================================
 addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Owned")
-.addPin('wedding.webp', 'His Heavenly Bride <br>by Califlair', "Sold")
-.addPin('sanlang.webp', 'Thousand Lights <br>by Califlair', "Owned")
 .addPin('believer.webp', 'God & King <br>by Califlair', "Owned")
+.addPin('sanlang.webp', 'Thousand Lights <br>by Califlair', "Owned")
+.addPin('wedding.webp', 'His Heavenly Bride <br>by Califlair', "Sold")
 .addPin('whitehualian.webp', 'Fluttering Dreams ✦ <br> Hualian by naixaie', "Owned")
 .addPin('xianletrio.webp', 'Serene Slumber ✦ <br>Xian Le Trio by naixaie', "Owned")
 .addPin('wulian.webp', 'Will O The Wisp ✦ <br>Wulian by naixaie', "Owned")
@@ -92,20 +89,11 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
  .addPin('sitbfl.webp', 'Funny Beefleaf <br>by qqnzhe', "Owned")
  
  //FOR SALE HUALIANZ
-.addPin('hualianwindow.webp', 'Hualian Window <br>by SerenaDanmeiPins', "For-Sale")
-.addPin('raphc.webp', 'Rapunzel Hua Cheng <br>by xevnne', "For-Sale") 
-.addPin('rapxl.webp', 'Rapunzel Xie Lian <br>by xevnne', "For-Sale") 
 .addPin('bachhualian2.jpg', 'Lilypad Hualian <br>by Bachoochi', "For-Sale")
-.addPin('lilypadxl.webp', 'Lilypad Xie Lian <br>by Peonypinsco', "For-Sale")
-.addPin('lilypadhc.webp', 'Lilypad Hua Cheng <br>by Peonypinsco', "For-Sale")
 .addPin('summerxl.webp', 'Summer Xie Lian <br>by Peonypinsco', "For-Sale")
 .addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "For-Sale")
-.addPin('magicalhualian.webp', 'Hualian Cuddles <br>by xevnne', "For-Sale")
-.addPin('wigglyhc.webp', 'Wiggly Fox HC <br>by naixaie', "For-Sale")
-.addPin('wigglyxl.webp', 'Wiggly Ferret XL <br>by naixaie', "For-Sale")
 .addPin('xlcake.webp', 'Xie Lian Treat <br>by torikii_art', "For-Sale")
 .addPin('hccake.webp', 'Hua Cheng Treat <br>by torikii_art', "For-Sale")
-
 
 // =========================================================================================================================================================================================================================
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
