@@ -7,8 +7,7 @@ addCategory("Ordered 🛒🛍")
 .addPin('xxartl.webp', 'XXARTL Shiguang <br>LE? by riitsuki', "Ordered")
 .addPin('p4pshiguang.webp', 'P4P Tides Shiguang <br>LE? by flyingcanoepins', "Ordered")
 
-.addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Owned")
-.addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Owned")
+
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -19,6 +18,7 @@ addCategory("Foxipins MXTX Windows")
 .addPin('foxinhs.webp', 'Nie Huaisang Window <br>LE65 by Foxipins', "Ordered")
 .addPin('xichen.jpg', 'Lan Xichen Window <br>LE65 by Foxipins', "Ordered")
  //OWNED FOXI
+.addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Owned")
 .addPin('hxwindow.webp', 'He Xuan Window <br>LE65 by Foxipins', "Owned")
 .addPin('sqxwindow.webp', 'Shi Qingxuan Window <br>LE65 by Foxipins', "Owned")
 .addPin('binghe.webp', 'Luo Binghe Window <br>LE65 by Foxipins', "Owned")
@@ -272,6 +272,7 @@ addCategory("Animal Crossing Pins 🌺🌷🤍")
 addCategory("Anime & Genshin Pins ✨")
 //GENSHIN
 .addPin('insomniapunzie.webp', 'Rapunzie Panel <br>LE50 by Ins***Pins.', "Owned")
+.addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniachilde.webp', 'Childe Purple Chrome Var. <br>LE50 by Ins***Pins.', "Owned")
 .addPin('insomniascara.webp', 'Wanderer Diamond Pin <br>LE50 by Ins***Pins.', "Owned")
 .addPin('insomniatighnari.webp', 'Tighnari Diamond Pin <br>LE by Ins***Pins.', "Owned")
