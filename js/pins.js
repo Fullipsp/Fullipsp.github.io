@@ -167,8 +167,8 @@ addCategory("Helluva Boss ❤️‍🔥😈👅")
 .addPin('stolitzblack.webp', 'Stolitz Miscommunication (B. Nickel) <br> LE25 by karina****op', "Owned")
 .addPin('stolitzgold.webp', 'Stolitz Miscommunication (Gold) <br> LE25 by karina****op', "Owned")
 .addPin('bbyclownsblack.webp', 'Baby Clowns (Fizz & Blitz) (B.Nickel) <br>by karina****op', "Owned")
-.addPin('bbyclownsgold.webp', 'Baby Clowns (Fizz & Blitz) (Gold) <br>by karina****op', "Owned")
- 
+
+.addPin('bbyclownsgold.webp', 'Baby Clowns (Fizz & Blitz) (Gold) <br>by karina****op', "Sold")
 .addPin('2minfizz.webp', '2 Minutes Fizz -Gold- <br> by karina****op', "Sold")
 .addPin('2minfizzay.webp', '2 Minutes Fizz -Chrome- <br> by karina****op', "Sold")
 .addPin('fizzygold.webp', 'Heart Fizz -Gold- <br> by karina****op', "Sold")
