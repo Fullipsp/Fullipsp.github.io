@@ -14,16 +14,16 @@ addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
  // PREORDER FOXI
+.addPin('foxihc.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Ordered")
+.addPin('foxiqr.webp', 'Qi Rong Window <br>LE65 by Foxipins', "Ordered")
+.addPin('foxinhs.webp', 'Nie Huaisang Window <br>LE65 by Foxipins', "Ordered")
+.addPin('xichen.jpg', 'Lan Xichen Window <br>LE65 by Foxipins', "Ordered")
+ //OWNED FOXI
 .addPin('hxwindow.webp', 'He Xuan Window <br>LE65 by Foxipins', "Owned")
 .addPin('sqxwindow.webp', 'Shi Qingxuan Window <br>LE65 by Foxipins', "Owned")
-.addPin('foxihc.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Ordered")
 .addPin('binghe.webp', 'Luo Binghe Window <br>LE65 by Foxipins', "Owned")
-.addPin('foxiqr.webp', 'Qi Rong Window <br>LE65 by Foxipins', "Ordered")
-.addPin('lwjpanel.webp', 'Lan Wangji Window <br>LE65 by Foxipins', "Owned")
-.addPin('xichen.jpg', 'Lan Xichen Window <br>LE65 by Foxipins', "Ordered")
-.addPin('foxinhs.webp', 'Nie Huaisang Window <br>LE65 by Foxipins', "Ordered")
 .addPin('foxinmj.webp', 'Nie Mingje Window <br>LE65 by Foxipins', "Owned")
- //OWNED FOXI
+.addPin('lwjpanel.webp', 'Lan Wangji Window <br>LE65 by Foxipins', "Owned")
 .addPin('foxiwwx.webp', 'Wei Wuxian Window <br>LE65 by Foxipins', "Owned")
 .addPin('bingpup.webp', 'Bingpup Window <br>by Foxipins', "Owned")
 .addPin('foxifairy.webp', 'Fairy Window <br>by Foxipins', "Owned")
@@ -109,9 +109,8 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 
 // =========================================================================================================================================================================================================================
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
-.addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Owned")
 .addPin('guqinlbh.webp', 'Guqin Masters: LBH <br>by Virinali', "Owned")
- 
+.addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Owned")
 .addPin('bingliushen.webp', 'Springtime Trio ✦ <br>Bingliushen by naixaie', "Owned")
 .addPin('profilebinghe.webp', 'Profile Binghe <br>by Sourboxes', "Owned")
 .addPin('profileshizun.webp', 'Profile Shizun <br>by Sourboxes', "Owned")
