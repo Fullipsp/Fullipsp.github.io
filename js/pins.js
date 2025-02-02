@@ -89,12 +89,10 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
  .addPin('sitbfl.webp', 'Funny Beefleaf <br>by qqnzhe', "Owned")
  
  //FOR SALE HUALIANZ
-
 .addPin('summerxl.webp', 'Summer Xie Lian <br>by Peonypinsco', "For-Sale")
 .addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "For-Sale")
 .addPin('xlcake.webp', 'Xie Lian Treat <br>by torikii_art', "For-Sale")
 .addPin('hccake.webp', 'Hua Cheng Treat <br>by torikii_art', "For-Sale")
-.addPin('bachhualian2.jpg', 'Lilypad Hualian <br>by Bachoochi', "For-Sale")
 
 // =========================================================================================================================================================================================================================
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
