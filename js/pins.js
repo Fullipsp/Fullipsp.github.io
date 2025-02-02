@@ -39,7 +39,7 @@ addCategory("Foxipins MXTX Windows")
 .addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Sold")
 // ========================================================================================================================================================================================================================
 addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
-.addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Ordered")
+.addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Owned")
 .addPin('wedding.webp', 'His Heavenly Bride <br>by Califlair', "Sold")
 .addPin('sanlang.webp', 'Thousand Lights <br>by Califlair', "Owned")
 .addPin('believer.webp', 'God & King <br>by Califlair', "Owned")
@@ -109,8 +109,8 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 
 // =========================================================================================================================================================================================================================
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
-.addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Ordered")
-.addPin('guqinlbh.webp', 'Guqin Masters: LBH <br>by Virinali', "Ordered")
+.addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Owned")
+.addPin('guqinlbh.webp', 'Guqin Masters: LBH <br>by Virinali', "Owned")
  
 .addPin('bingliushen.webp', 'Springtime Trio ✦ <br>Bingliushen by naixaie', "Owned")
 .addPin('profilebinghe.webp', 'Profile Binghe <br>by Sourboxes', "Owned")
