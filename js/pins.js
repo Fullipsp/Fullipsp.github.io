@@ -6,6 +6,12 @@ addCategory("Ordered 🛒🛍")
 // PREORDERS
 .addPin('xxartl.webp', 'XXARTL Shiguang <br>LE? by riitsuki', "Ordered")
 .addPin('p4pshiguang.webp', 'P4P Tides Shiguang <br>LE? by flyingcanoepins', "Ordered")
+//
+.addPin('christmasthreesome.webp', 'Christmas Loves MLB <br>LE? by Paper*****ns', "Ordered")
+.addPin('blepbug.webp', 'Shadybug Blep <br>LE70 by Paper*****ns', "Ordered")
+.addPin('blepnoir.webp', 'Claw Noir Blep <br>LE70 by Paper*****ns', "Ordered")
+.addPin('jinmaoset.webp', 'JinMao Emotes Set <br>LE? by zzzsgalore', "Ordered")
+
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
