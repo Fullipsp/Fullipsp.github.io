@@ -4,13 +4,19 @@ let categoryIndex = 0;
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
 // PREORDERS
-.addPin('xxartl.webp', 'XXARTL Shiguang <br>LE? by riitsuki', "Ordered")
 .addPin('p4pshiguang.webp', 'P4P Tides Shiguang <br>LE? by flyingcanoepins', "Ordered")
 //
+.addPin('lcbubbles.webp', 'Link Click Bubbles P4P <br>LE? by FlyingCanoePins', "Ordered")
+.addPin('neuviglass.webp', 'Neuvilette POP <br>LE? by MidnightMoonPins', "Ordered")
+.addPin('neuvirain.webp', 'Neuvilette Stained Glass <br>LE? by MidnightMoonPins', "Ordered")
+.addPin('sasakimono.webp', 'Sasamiya Kimono <br>LE? by FantasyChibiPins', "Ordered")
+.addPin('sasapetal.webp', 'Sasamiya Stained Glass Kiss <br>LE? by ???', "Ordered")
+.addPin('sasashy.webp', 'Sasamiya Shy Panel <br>LE? by ???', "Ordered")
 .addPin('christmasthreesome.webp', 'Christmas Loves MLB <br>LE? by Paper*****ns', "Ordered")
 .addPin('blepbug.webp', 'Shadybug Blep <br>LE70 by Paper*****ns', "Ordered")
 .addPin('blepnoir.webp', 'Claw Noir Blep <br>LE70 by Paper*****ns', "Ordered")
-.addPin('jinmaoset.webp', 'JinMao Emotes Set <br>LE? by zzzsgalore', "Ordered")
+
+
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -263,6 +269,7 @@ addCategory("Animal Crossing Pins 🌺🌷🤍")
 .addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Anime & Genshin Pins ✨")
+.addPin('jinmaoset.webp', 'JinMao Emotes Set <br>LE? by zzzsgalore', "Owned")
 //GENSHIN
 .addPin('insomniapunzie.webp', 'Rapunzie Panel <br>LE50 by Ins***Pins.', "Owned")
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Owned")
