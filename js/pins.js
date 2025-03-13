@@ -3,19 +3,19 @@ let categoryIndex = 0;
 
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
-// PREORDERS
+// Link Click
 .addPin('p4pshiguang.webp', 'P4P Tides Shiguang <br>LE? by flyingcanoepins', "Ordered")
-//
 .addPin('lcbubbles.webp', 'Link Click Bubbles P4P <br>LE? by FlyingCanoePins', "Ordered")
-.addPin('neuviglass.webp', 'Neuvilette POP <br>LE? by MidnightMoonPins', "Ordered")
-.addPin('neuvirain.webp', 'Neuvilette Stained Glass <br>LE? by MidnightMoonPins', "Ordered")
-//
+// SasaMiya
 .addPin('sasapetal.webp', 'Sasamiya Stained Glass Kiss <br>LE? by ???', "Ordered")
 .addPin('sasashy.webp', 'Sasamiya Shy Panel <br>LE? by ???', "Ordered")
 .addPin('sasakimono.webp', 'Sasamiya Kimono <br>LE? by FantasyChibiPins', "Ordered")
 .addPin('sasauke.webp', 'Sasaki Diamond <br>LE? by FantasyChibiPins', "Ordered")
 .addPin('fudanshi.webp', 'Miyano Diamond <br>LE? by FantasyChibiPins', "Ordered")
-//
+// Neuvilette
+.addPin('neuviglass.webp', 'Neuvilette POP <br>LE? by MidnightMoonPins', "Ordered")
+.addPin('neuvirain.webp', 'Neuvilette Stained Glass <br>LE? by MidnightMoonPins', "Ordered")
+// MLB
 .addPin('christmasthreesome.webp', 'Christmas Loves MLB <br>LE? by Paper*****ns', "Ordered")
 .addPin('blepbug.webp', 'Shadybug Blep <br>LE70 by Paper*****ns', "Ordered")
 .addPin('blepnoir.webp', 'Claw Noir Blep <br>LE70 by Paper*****ns', "Ordered")
