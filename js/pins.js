@@ -8,6 +8,10 @@ addCategory("Ordered 🛒🛍")
 .addPin('lcbubbles.webp', 'Link Click Bubbles P4P <br>LE? by FlyingCanoePins', "Ordered")
 .addPin('lgsnow.webp', 'Lu Guang Snowboard <br>LE? by orangeshapins', "Ordered")
 .addPin('cxssnow.webp', 'Cheng Xiaoshi Snowboard <br>LE? by orangeshapins', "Ordered")
+// MLB
+.addPin('christmasthreesome.webp', 'Christmas Loves MLB <br>LE? by Paper*****ns', "Ordered")
+.addPin('blepbug.webp', 'Shadybug Blep <br>LE70 by Paper*****ns', "Ordered")
+.addPin('blepnoir.webp', 'Claw Noir Blep <br>LE70 by Paper*****ns', "Ordered")
 // SasaMiya
 .addPin('sasapetal.webp', 'Sasamiya Stained Glass Kiss <br>LE? by ???', "Ordered")
 .addPin('sasashy.webp', 'Sasamiya Shy Panel <br>LE? by ???', "Ordered")
@@ -17,10 +21,6 @@ addCategory("Ordered 🛒🛍")
 // Neuvilette
 .addPin('neuviglass.webp', 'Neuvilette POP <br>LE? by MidnightMoonPins', "Ordered")
 .addPin('neuvirain.webp', 'Neuvilette Stained Glass <br>LE? by MidnightMoonPins', "Ordered")
-// MLB
-.addPin('christmasthreesome.webp', 'Christmas Loves MLB <br>LE? by Paper*****ns', "Ordered")
-.addPin('blepbug.webp', 'Shadybug Blep <br>LE70 by Paper*****ns', "Ordered")
-.addPin('blepnoir.webp', 'Claw Noir Blep <br>LE70 by Paper*****ns', "Ordered")
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
@@ -231,9 +231,9 @@ addCategory("JJK Pins 🤍🖤")
 .addPin('icecreamrenga.webp', 'Ice Cream Renga <br> by ???', "Owned")
 // =========================================================================================================================================================================================================================
  addCategory("Sasaki & Miyano Pins 💙🧡+📘")
-.addPin('sasaglasses.webp', 'Sasamiya Glasses&Mask <br>LE? by orangeshapins', "Ordered")
-.addPin('sasakiss.webp', 'Sasamiya Petal Kiss <br>LE? by orangeshapins', "Ordered")
-.addPin('sasablush.webp', 'Sasamiya Proximity Panel <br>LE? by orangeshapins', "Ordered")
+.addPin('sasaglasses.webp', 'Sasamiya Glasses&Mask <br>LE? by orangeshapins', "Owned")
+.addPin('sasakiss.webp', 'Sasamiya Petal Kiss <br>LE? by orangeshapins', "Owned")
+.addPin('sasablush.webp', 'Sasamiya Proximity Panel <br>LE? by orangeshapins', "Owned")
 // ========================================================================================================================================================================================================================
 addCategory("Astarion Pins (BG3) 🖤")
 .addPin('90sastarion.webp', '90s Panel Astarion <br>by Punishedmiqote', "Owned")
