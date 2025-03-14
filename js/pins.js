@@ -6,6 +6,8 @@ addCategory("Ordered 🛒🛍")
 // Link Click
 .addPin('p4pshiguang.webp', 'P4P Tides Shiguang <br>LE? by flyingcanoepins', "Ordered")
 .addPin('lcbubbles.webp', 'Link Click Bubbles P4P <br>LE? by FlyingCanoePins', "Ordered")
+.addPin('lgsnow.webp', 'Lu Guang Snowboard <br>LE? by orangeshapins', "Ordered")
+.addPin('cxssnow.webp', 'Cheng Xiaoshi Snowboard <br>LE? by orangeshapins', "Ordered")
 // SasaMiya
 .addPin('sasapetal.webp', 'Sasamiya Stained Glass Kiss <br>LE? by ???', "Ordered")
 .addPin('sasashy.webp', 'Sasamiya Shy Panel <br>LE? by ???', "Ordered")
