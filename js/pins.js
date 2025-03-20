@@ -311,7 +311,7 @@ addCategory("Anime & Genshin Pins ✨")
    .addPin('xqonepiece.webp', 'ASL One Piece Set <br>by XQIU', "Owned")
    .addPin('mouseakaza.webp', 'Chibi Cute Akaza <br>by MailMousePins', "Owned")
    .addPin('crazyakaza.webp', 'Crazy Chibi Akaza <br>by ???', "Owned")
-  .addPin('giyumidnight.webp', 'KNY - Giyu Tomioka <br> by MidnightMoonpins.', "Owned")
+  .addPin('giyumidnight.jpg', 'KNY - Giyu Tomioka <br> by MidnightMoonpins.', "Owned")
 //yooki stuffs
 .addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "Sold")
 .addPin('yookiyor.webp', 'Yor Mirror <br>by YookiStudios', "Owned")
