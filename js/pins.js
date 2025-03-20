@@ -14,7 +14,6 @@ addCategory("Ordered 🛒🛍")
 .addPin('blepnoir.webp', 'Claw Noir Blep <br>LE70 by Paper*****ns', "Ordered")
 
 // Neuvilette
-.addPin('neuviglass.webp', 'Neuvilette POP <br>LE? by MidnightMoonPins', "Owned")
 .addPin('neuvirain.webp', 'Neuvilette Stained Glass <br>LE? by MidnightMoonPins', "Ordered")
 .addPin('insomnianeuvi.webp', 'Insomnia Neuvilette <br>LE? by InsomniaPins', "Ordered")
 .addPin('insomniakazuha.webp', 'Insomnia Kazuha Diamond <br>LE? by InsomniaPins', "Ordered")
@@ -290,6 +289,7 @@ addCategory("Anime & Genshin Pins ✨")
 .addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
 .addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
+.addPin('neuviglass.webp', 'Neuvilette POP <br>LE? by MidnightMoonPins', "Owned")
 .addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
 //kassiearts + kaguprez
 .addPin('kaguprez.webp', 'Love is War Valentines <br> by FantasyChibiPns', "Owned")
