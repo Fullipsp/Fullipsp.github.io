@@ -3,6 +3,7 @@ let categoryIndex = 0;
 
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
+.addPin('charitybingqiu.webp', 'Blossoms of Spring ✦ <br>Bingqiu by naixaie', "Owned")
 // Link Click
 .addPin('p4pshiguang.webp', 'P4P Tides Shiguang <br>LE? by flyingcanoepins', "Ordered")
 .addPin('lcbubbles.webp', 'Link Click Bubbles P4P <br>LE? by FlyingCanoePins', "Ordered")
