@@ -116,8 +116,8 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
  //FOR SALE HUALIANZ
 .addPin('summerxl.webp', 'Summer Xie Lian <br>by Peonypinsco', "For-Sale")
 .addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "For-Sale")
-.addPin('xlcake.webp', 'Xie Lian Treat <br>by torikii_art', "For-Sale")
-.addPin('hccake.webp', 'Hua Cheng Treat <br>by torikii_art', "For-Sale")
+.addPin('xlcake.webp', 'Xie Lian Treat <br>by torikii_art', "Sold")
+.addPin('hccake.webp', 'Hua Cheng Treat <br>by torikii_art', "Sold")
 
 // =========================================================================================================================================================================================================================
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
