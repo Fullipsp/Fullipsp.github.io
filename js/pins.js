@@ -134,7 +134,6 @@ addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
 .addPin('bachbingqiu.webp', 'Bamboo Bingqiu <br>by Bachoochi', "Owned")
 
 // ===========================================================================================================================================================================================================================
-
 addCategory("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
 .addPin('bluhdonkey.webp', 'Wangxian Donkey <br>by Bluhtack', "Owned")
 .addPin('bluhroof.webp', 'Wangxian on Roof <br>by Bluhtack', "Owned")
@@ -146,7 +145,6 @@ addCategory("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
 .addPin('wangxiankiss.webp', 'Wangxian Kiss <br>by SerenaDanmeiPins', "Owned")
 .addPin('woodenwangxian.jpg', 'Wooden Wangxian Bunnies <br> by @AumaEbi', "Owned")
 .addPin('weiying.webp', 'Valentine Wei Ying <br>by Billacookie', "Owned")
-
 // ===========================================================================================================================================================================================================================
 // Fantasy Couples
 addCategory("MLB Fantasy Couples 🐞🐱")
@@ -171,15 +169,6 @@ addCategory("MLB Fantasy Couples 🐞🐱")
 //ded preorder
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
-// ===========================================================================================================================================================================================================================
-addCategory("Zelda Pins 🗡🏹 🌺💙")
-.addPin('inzelda.webp', 'BOTW Zelda <br>LE50 by Ins***Pins', "Owned")
-.addPin('inlink.webp', 'BOTW Link x2 <br>LE50 by Ins***Pins.', "Owned")
-.addPin('calilink.webp', 'The Princess & Knight <br>by Califlair', "Owned")
-.addPin('Zelink.webp', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
-.addPin('skyward.webp', 'Skyward Link Profile <br>by MarshMeollow.', "Owned")
-.addPin('zonailink.webp', 'TOTK Link Profile <br>by MarshMeollow.', "Owned")
-.addPin('zonaizelda.webp', 'TOTK Zonai Zelda Profile <br>by MarshMeollow.', "Owned")
 // ==========================================================================================================================================================================================================================
 addCategory("Helluva Boss ❤️‍🔥😈👅")
 .addPin('blitzo40.webp', 'Blitzo Window <br> LE40 by karina****op', "Owned")
@@ -220,6 +209,15 @@ addCategory("JJK Pins 🤍🖤")
 .addPin('megumicream.webp', 'Ice Cream Megumi <br> by Flying Canoe Pins', "Owned")
 .addPin('donotseperate.webp', 'Do Not Seperate Them <br> by WoupsShop', "Owned")
 .addPin('beloved.webp', 'My Beloved <br> by WoupsShop', "Owned")
+// ===========================================================================================================================================================================================================================
+addCategory("Zelda Pins 🗡🏹 🌺💙")
+.addPin('inzelda.webp', 'BOTW Zelda <br>LE50 by Ins***Pins', "Owned")
+.addPin('inlink.webp', 'BOTW Link x2 <br>LE50 by Ins***Pins.', "Owned")
+.addPin('calilink.webp', 'The Princess & Knight <br>by Califlair', "Owned")
+.addPin('Zelink.webp', 'Zelda x Link Pin <br>(Nostalgia Couples KS)', "Owned")
+.addPin('skyward.webp', 'Skyward Link Profile <br>by MarshMeollow.', "Owned")
+.addPin('zonailink.webp', 'TOTK Link Profile <br>by MarshMeollow.', "Owned")
+.addPin('zonaizelda.webp', 'TOTK Zonai Zelda Profile <br>by MarshMeollow.', "Owned")
 // =========================================================================================================================================================================================================================
  addCategory("Link Click Pins 📸🔗🤍 ")
 
@@ -284,14 +282,6 @@ addCategory("MYSME Pins 🌼🤍", "http://msg.cheritz.com/")
     .addPin('saeranwood.webp', 'Saeran Wooden Pin <br>by MiauMiauSweet', "Owned")
     .addPin('saeyoungwood.webp', '707 Wooden Pin <br>by MiauMiauSweet', "Owned")
 // =========================================================================================================================================================================================================================
-addCategory("Animal Crossing Pins 🌺🌷🤍")
-.addPin('raymond.webp', 'Raymond Joy-Con <br>by Quirkory', "Owned")
-.addPin('raymondsleep.webp', 'Dreaming Raymond <br>by haiyun', "Owned")
-.addPin('marshal.webp', 'Dreaming Marshal <br>by haiyun', "Owned")
-.addPin('sherb.webp', 'Dreaming Sherb <br>by haiyun', "Owned")
-.addPin('lolly.webp', 'Dreaming Lolly <br>by haiyun', "Owned")
-.addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Owned")
-// =========================================================================================================================================================================================================================
 addCategory("Anime & Genshin Pins ✨")
 .addPin('jinmaoset.webp', 'JinMao Emotes Set <br>LE? by zzzsgalore', "Owned")
 //GENSHIN
@@ -328,6 +318,14 @@ addCategory("Anime & Genshin Pins ✨")
 .addPin('scara.webp', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
 .addPin('scarachibiprofile.webp', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
 .addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "Owned")
+// =========================================================================================================================================================================================================================
+addCategory("Animal Crossing Pins 🌺🌷🤍")
+.addPin('raymond.webp', 'Raymond Joy-Con <br>by Quirkory', "Owned")
+.addPin('raymondsleep.webp', 'Dreaming Raymond <br>by haiyun', "Owned")
+.addPin('marshal.webp', 'Dreaming Marshal <br>by haiyun', "Owned")
+.addPin('sherb.webp', 'Dreaming Sherb <br>by haiyun', "Owned")
+.addPin('lolly.webp', 'Dreaming Lolly <br>by haiyun', "Owned")
+.addPin('punchy.webp', 'Rainy Punchy <br>by haiyun', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Cute Pins 💕🌷")
 .addPin('BottleKirby.webp', 'Poyo in a Bottle <br>by Arcade Healer', "Owned")
