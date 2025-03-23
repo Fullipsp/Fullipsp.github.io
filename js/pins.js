@@ -15,10 +15,22 @@ addCategory("Ordered 🛒🛍")
 
 // Neuvilette
 .addPin('neuvirain.webp', 'Neuvilette Stained Glass <br>LE? by MidnightMoonPins', "Ordered")
-.addPin('insomnianeuvi.webp', 'Insomnia Neuvilette <br>LE? by InsomniaPins', "Ordered")
+
+addGap();
+// =====================================================================================================================================================================================================================================================
+addCategory("InsomniaPins Diamonds 💎 + Faves")
+.addPin('insomniaaventurine.webp', 'Aventurine Diamond Pin <br>LE by Ins***Pins.', "Owned")
+.addPin('insomniasethos.webp', 'Sethos Diamond Pin <br>LE by Ins***Pins.', "Owned")
+.addPin('insomniadanheng.webp', 'Dan Heng Diamond Pin <br>LE by Ins***Pins.', "Owned")
+.addPin('insomniachilde.webp', 'Childe Purple Chrome Var. <br>LE50 by Ins***Pins.', "Owned")
+.addPin('insomniascara.webp', 'Wanderer Diamond Pin <br>LE50 by Ins***Pins.', "Owned")
+.addPin('insomniatighnari.webp', 'Tighnari Diamond Pin <br>LE by Ins***Pins.', "Owned")
+.addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Owned")
+.addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
+.addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
 .addPin('insomniakazuha.webp', 'Insomnia Kazuha Diamond <br>LE? by InsomniaPins', "Ordered")
 .addPin('insomniaargenti.webp', 'Insomnia Argenti Diamond <br>LE? by InsomniaPins', "Ordered")
-addGap();
+.addPin('insomnianeuvi.webp', 'Insomnia Neuvilette <br>LE? by InsomniaPins', "Ordered")
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
  // PREORDER FOXI
@@ -228,14 +240,15 @@ addCategory("JJK Pins 🤍🖤")
 .addPin('icecreamrenga.webp', 'Ice Cream Renga <br> by ???', "Owned")
 // =========================================================================================================================================================================================================================
  addCategory("Sasaki & Miyano Pins 💙🧡+📘")
+.addPin('fudanshi.webp', 'Miyano Diamond <br>LE? by FantasyChibiPins', "Owned")
+.addPin('sasauke.webp', 'Sasaki Diamond <br>LE? by FantasyChibiPins', "Owned")
 .addPin('sasaglasses.webp', 'Sasamiya Glasses&Mask <br>LE? by orangeshapins', "Owned")
 .addPin('sasakiss.webp', 'Sasamiya Petal Kiss <br>LE? by orangeshapins', "Owned")
 .addPin('sasablush.webp', 'Sasamiya Proximity Panel <br>LE? by orangeshapins', "Owned")
 .addPin('sasapetal.webp', 'Sasamiya Stained Glass Kiss <br>LE? by ???', "Owned")
 .addPin('sasashy.webp', 'Sasamiya Shy Panel <br>LE? by ???', "Owned")
 .addPin('sasakimono.webp', 'Sasamiya Kimono <br>LE? by FantasyChibiPins', "Owned")
-.addPin('sasauke.webp', 'Sasaki Diamond <br>LE? by FantasyChibiPins', "Owned")
-.addPin('fudanshi.webp', 'Miyano Diamond <br>LE? by FantasyChibiPins', "Owned")
+.addPin('kaguprez.webp', 'Love is War Valentines <br> by FantasyChibiPns', "Owned")
 // ========================================================================================================================================================================================================================
 addCategory("Astarion Pins (BG3) 🖤")
 .addPin('90sastarion.webp', '90s Panel Astarion <br>by Punishedmiqote', "Owned")
@@ -281,22 +294,12 @@ addCategory("Animal Crossing Pins 🌺🌷🤍")
 addCategory("Anime & Genshin Pins ✨")
 .addPin('jinmaoset.webp', 'JinMao Emotes Set <br>LE? by zzzsgalore', "Owned")
 //GENSHIN
-.addPin('insomniapunzie.webp', 'Rapunzie Panel <br>LE50 by Ins***Pins.', "Owned")
-.addPin('insomniadanheng.webp', 'Dan Heng Diamond Pins <br>LE by Ins***Pins.', "Owned")
-.addPin('insomniachilde.webp', 'Childe Purple Chrome Var. <br>LE50 by Ins***Pins.', "Owned")
-.addPin('insomniascara.webp', 'Wanderer Diamond Pin <br>LE50 by Ins***Pins.', "Owned")
-.addPin('insomniatighnari.webp', 'Tighnari Diamond Pin <br>LE by Ins***Pins.', "Owned")
-.addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Owned")
-.addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
-.addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
+.addPin('insomniapunzie.webp', 'Rapunzie Panel <br>LE50 by Ins***Pins.', "For-Sale")
+
 .addPin('neuviglass.webp', 'Neuvilette POP <br>LE? by MidnightMoonPins', "Owned")
 .addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
 //kassiearts + kaguprez
-.addPin('kaguprez.webp', 'Love is War Valentines <br> by FantasyChibiPns', "Owned")
-.addPin('denjer.webp', 'Denji Diamond <br>by KassieArts', "Owned")
-.addPin('kassievanitas.webp', 'Vanitas Diamond <br>LE65 by KassieArts', "Owned")
-.addPin('kassiehisoka.webp', 'Hisoka Diamond <br>380 by KassieArts', "Owned")
-.addPin('kassiehar.webp', 'Har Diamond <br>by KassieArts', "Owned")
+
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Owned")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Owned")
