@@ -15,6 +15,7 @@ addCategory("Ordered 🛒🛍")
 
 // Neuvilette
 .addPin('neuvirain.webp', 'Neuvilette Stained Glass <br>LE? by MidnightMoonPins', "Ordered")
+.addPin('insomnianeuvi.webp', 'Insomnia Neuvilette <br>LE? by InsomniaPins', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -30,7 +31,7 @@ addCategory("InsomniaPins Diamonds 💎 + Faves")
 .addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
 .addPin('insomniakazuha.webp', 'Insomnia Kazuha Diamond <br>LE? by InsomniaPins', "Ordered")
 .addPin('insomniaargenti.webp', 'Insomnia Argenti Diamond <br>LE? by InsomniaPins', "Ordered")
-.addPin('insomnianeuvi.webp', 'Insomnia Neuvilette <br>LE? by InsomniaPins', "Ordered")
+
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
  // PREORDER FOXI
