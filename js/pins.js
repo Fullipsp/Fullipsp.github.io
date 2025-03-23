@@ -296,35 +296,34 @@ addCategory("Anime & Genshin Pins ✨")
 .addPin('jinmaoset.webp', 'JinMao Emotes Set <br>LE? by zzzsgalore', "Owned")
 //GENSHIN
 .addPin('insomniapunzie.webp', 'Rapunzie Panel <br>LE50 by Ins***Pins.', "For-Sale")
-
 .addPin('neuviglass.webp', 'Neuvilette POP <br>LE? by MidnightMoonPins', "Owned")
 .addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
-//kassiearts + kaguprez
 
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Owned")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Owned")
-//Obamitsu
+.addPin('xqonepiece.webp', 'ASL One Piece Set <br>by XQIU', "Owned")
+//Obamitsu and demon slayer
+   .addPin('xqobamitsu.webp', 'Obanai x Mitsuri Set <br>by XQIU', "Owned")
    .addPin('obamitsu3.webp', 'Obanai & Mitsuri 3 <br>by Nandemopins', "Owned")
    .addPin('obamitsu1.webp', 'Obanai & Mitsuri 1 <br>by Nandemopins', "Owned")
    .addPin('obamitsu2.webp', 'Obanai & Mitsuri 2 <br>by Nandemopins', "Owned")
-   .addPin('xqobamitsu.webp', 'Obanai x Mitsuri Set <br>by XQIU', "Owned")
-   .addPin('xqonepiece.webp', 'ASL One Piece Set <br>by XQIU', "Owned")
+   
    .addPin('mouseakaza.webp', 'Chibi Cute Akaza <br>by MailMousePins', "Owned")
    .addPin('crazyakaza.webp', 'Crazy Chibi Akaza <br>by ???', "Owned")
   .addPin('giyumidnight.jpg', 'KNY - Giyu Tomioka <br> by MidnightMoonpins.', "Owned")
 
 // Genshin Impact
- .addPin('eggkazuha.webp', 'Kitty Kazuha <br>by angryeggmerch', "Owned")
- .addPin('heartkazuha.webp', 'Valentine Kazuha <br>by cafhune', "Owned") 
- .addPin('gachagorou.jpg', 'Chibi Gorou <br>by hideawaymelon', "Owned")
- .addPin('ChildeTraditional.webp', 'Childe <br>by BirbsNest', "Owned")
- .addPin('XiaoTraditional.webp', 'Xiao <br>by BirbsNest', "Owned")
- .addPin('lengorou.webp', 'Gorou <br>by Lenacchi', "Owned")
  .addPin('lenzhongli.webp', 'Zhongli <br>by Lenacchi', "Owned")
+ .addPin('lengorou.webp', 'Gorou <br>by Lenacchi', "Owned")
  .addPin('lenayato.webp', 'Ayato <br>by Lenacchi', "Owned")
  .addPin('lenkazuha.webp', 'Kazuha <br>by Lenacchi', "Owned")
  .addPin('lenxiao.webp', 'Xiao <br>by Lenacchi', "Owned")
+ .addPin('gachagorou.jpg', 'Chibi Gorou <br>by hideawaymelon', "Owned")
+ .addPin('ChildeTraditional.webp', 'Childe <br>by BirbsNest', "Owned")
+ .addPin('XiaoTraditional.webp', 'Xiao <br>by BirbsNest', "Owned")
+ .addPin('eggkazuha.webp', 'Kitty Kazuha <br>by angryeggmerch', "Owned")
+.addPin('heartkazuha.webp', 'Valentine Kazuha <br>by cafhune', "Owned") 
 .addPin('xiao.webp', 'Xiao <br>by Sugar Cubed Studios', "Owned")
 .addPin('fivexiao.webp', 'Xiao <br>by Fiveonthe', "Owned")
 .addPin('scara.webp', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
