@@ -34,11 +34,6 @@ addCategory("InsomniaPins Diamonds 💎 + Faves")
 
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
- // PREORDER FOXI
-.addPin('foxihc.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Ordered")
-.addPin('foxiqr.webp', 'Qi Rong Window <br>LE65 by Foxipins', "Ordered")
-.addPin('foxinhs.webp', 'Nie Huaisang Window <br>LE65 by Foxipins', "Ordered")
-.addPin('xichen.jpg', 'Lan Xichen Window <br>LE65 by Foxipins', "Ordered")
  //OWNED FOXI
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Owned")
 .addPin('hxwindow.webp', 'He Xuan Window <br>LE65 by Foxipins', "Owned")
@@ -59,6 +54,11 @@ addCategory("Foxipins MXTX Windows")
 .addPin('yinyu.webp', 'Yin Yu Window <br>LE65 by Foxipins', "Owned")
 .addPin('wenning.webp', 'Wen Ning Window <br>LE65 by Foxipins', "Owned")
 .addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Sold")
+ // PREORDER FOXI
+.addPin('foxihc.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Ordered")
+.addPin('foxiqr.webp', 'Qi Rong Window <br>LE65 by Foxipins', "Ordered")
+.addPin('foxinhs.webp', 'Nie Huaisang Window <br>LE65 by Foxipins', "Ordered")
+.addPin('xichen.jpg', 'Lan Xichen Window <br>LE65 by Foxipins', "Ordered")
 // ========================================================================================================================================================================================================================
 addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Owned")
