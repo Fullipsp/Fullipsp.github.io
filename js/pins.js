@@ -121,13 +121,13 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 
 // =========================================================================================================================================================================================================================
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
+.addPin('bingliushen.webp', 'Springtime Trio ✦ <br>Bingliushen by naixaie', "Owned")
 .addPin('guqinlbh.webp', 'Guqin Masters: LBH <br>by Virinali', "Owned")
 .addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Owned")
 .addPin('profilebinghe.webp', 'Profile Binghe <br>by Sourboxes', "Owned")
 .addPin('profileshizun.webp', 'Profile Shizun <br>by Sourboxes', "Owned")
 .addPin('weddingbingqiu.webp', 'Wedding Bingqiu <br>by Sourboxes', "Owned")
 .addPin('bingbow.webp', 'Binghe Bow <br>by Sourboxes', "Owned")
-.addPin('bingliushen.webp', 'Springtime Trio ✦ <br>Bingliushen by naixaie', "Owned")
 .addPin('WLLBH.webp', 'White Lotus Binghe Chibi <br>by Peach&CreamCo', "Owned")
 .addPin('SQQ.webp', 'Shen Qingqiu Chibi <br>by Peach&CreamCo', "Owned")
 .addPin('bchibibingqiu.webp', 'Chibi Bingqiu <br>by Bachoochi', "Owned")
@@ -150,9 +150,6 @@ addCategory("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
 // ===========================================================================================================================================================================================================================
 // Fantasy Couples
 addCategory("MLB Fantasy Couples 🐞🐱")
-.addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
-.addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
-
 .addPin('shadyclaw.webp', 'Shadyclaw Pair <br>LE75 by LP***ns', "Owned")
 .addPin('tarotbug.webp', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Owned")
 .addPin('tarotnoir.webp', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Owned")
@@ -171,6 +168,9 @@ addCategory("MLB Fantasy Couples 🐞🐱")
 .addPin('evilbug.webp', 'Evil Bug <br> by MSPaint Palette', "Owned")
 .addPin('evilcat.webp', 'Evil Kitty <br> by MSPaint Palette', "Owned")
 .addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Owned")
+//ded preorder
+.addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
+.addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
 // ===========================================================================================================================================================================================================================
 addCategory("Zelda Pins 🗡🏹 🌺💙")
 .addPin('inzelda.webp', 'BOTW Zelda <br>LE50 by Ins***Pins', "Owned")
