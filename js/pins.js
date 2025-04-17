@@ -7,11 +7,6 @@ addCategory("Ordered 🛒🛍")
 // Link Click
 .addPin('p4pshiguang.webp', 'P4P Tides Shiguang <br>LE? by flyingcanoepins', "Ordered")
 
-// MLB
-
-
-
-
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("InsomniaPins Diamonds 💎 + Faves")
@@ -26,6 +21,8 @@ addCategory("InsomniaPins Diamonds 💎 + Faves")
 .addPin('insomniakazuha.webp', 'Insomnia Kazuha Diamond <br>LE? by InsomniaPins', "Owned")
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniachilde.webp', 'Childe Purple Chrome Var. <br>LE50 by Ins***Pins.', "Owned")
+.addPin('insomniamydei.webp', 'Mydei Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniasunday.webp', 'Sunday Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
