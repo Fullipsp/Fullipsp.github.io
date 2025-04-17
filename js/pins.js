@@ -6,17 +6,11 @@ addCategory("Ordered 🛒🛍")
 .addPin('charitybingqiu.webp', 'Blossoms of Spring ✦ <br>Bingqiu by naixaie', "Ordered")
 // Link Click
 .addPin('p4pshiguang.webp', 'P4P Tides Shiguang <br>LE? by flyingcanoepins', "Ordered")
-.addPin('lcbubbles.webp', 'Link Click Bubbles P4P <br>LE? by FlyingCanoePins', "Ordered")
-.addPin('lgsnow.webp', 'Lu Guang Snowboard <br>LE? by orangeshapins', "Ordered")
-.addPin('cxssnow.webp', 'Cheng Xiaoshi Snowboard <br>LE? by orangeshapins', "Ordered")
-// MLB
-.addPin('christmasthreesome.webp', 'Christmas Loves MLB <br>LE? by Paper*****ns', "Ordered")
-.addPin('blepbug.webp', 'Shadybug Blep <br>LE70 by Paper*****ns', "Ordered")
-.addPin('blepnoir.webp', 'Claw Noir Blep <br>LE70 by Paper*****ns', "Ordered")
 
-// Neuvilette
-.addPin('neuvirain.webp', 'Neuvilette Stained Glass <br>LE? by MidnightMoonPins', "Ordered")
-.addPin('insomnianeuvi.webp', 'Insomnia Neuvilette <br>LE? by InsomniaPins', "Ordered")
+// MLB
+
+
+
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -28,10 +22,10 @@ addCategory("InsomniaPins Diamonds 💎 + Faves")
 .addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
 .addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
+.addPin('insomniaargenti.webp', 'Insomnia Argenti Diamond <br>LE? by InsomniaPins', "Owned")
+.addPin('insomniakazuha.webp', 'Insomnia Kazuha Diamond <br>LE? by InsomniaPins', "Owned")
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniachilde.webp', 'Childe Purple Chrome Var. <br>LE50 by Ins***Pins.', "Owned")
-.addPin('insomniakazuha.webp', 'Insomnia Kazuha Diamond <br>LE? by InsomniaPins', "Ordered")
-.addPin('insomniaargenti.webp', 'Insomnia Argenti Diamond <br>LE? by InsomniaPins', "Ordered")
 
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
@@ -167,6 +161,9 @@ addCategory("MLB Fantasy Couples 🐞🐱")
 .addPin('evilbug.webp', 'Evil Bug <br> by MSPaint Palette', "Owned")
 .addPin('evilcat.webp', 'Evil Kitty <br> by MSPaint Palette', "Owned")
 .addPin('sillykitty.webp', 'Silly Kitty <br> by MSPaint Palette', "Owned")
+.addPin('christmasthreesome.webp', 'Christmas Loves MLB <br>LE? by Paper*****ns', "Owned")
+.addPin('blepbug.webp', 'Shadybug Blep <br>LE70 by Paper*****ns', "Owned")
+.addPin('blepnoir.webp', 'Claw Noir Blep <br>LE70 by Paper*****ns', "Owned")
 //ded preorder
 .addPin('marichatkiss.webp', 'Marichat Kiss <br>LE? by Cres****ns_', "Ordered")
 .addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
@@ -221,7 +218,6 @@ addCategory("Zelda Pins 🗡🏹 🌺💙")
 .addPin('zonaizelda.webp', 'TOTK Zonai Zelda Profile <br>by MarshMeollow.', "Owned")
 // =========================================================================================================================================================================================================================
  addCategory("Link Click Pins 📸🔗🤍 ")
-
 .addPin('foxixiaoshi.webp', 'Foxi Cheng Xiaoshi <br>by FoxiPins', "Owned")
 .addPin('foxiguang.webp', 'Foxi Lu Guang <br>by FoxiPins', "Owned")
 .addPin('goldxiaoshi.webp', 'Cheng Xiaoshi Panel - Gold <br>by ipinboys', "Owned")
@@ -229,6 +225,9 @@ addCategory("Zelda Pins 🗡🏹 🌺💙")
 .addPin('cxschibi.webp', 'Cheng Xiaoshi Chibi <br>by flyingcanoepins', "Owned")
 .addPin('lgchibi.webp', 'Lu Guang Chibi <br>by flyingcanoepins', "Owned")
 .addPin('qlchibi.webp', 'Qiao Ling Chibi <br>by flyingcanoepins', "Owned")
+.addPin('lcbubbles.webp', 'Link Click Bubbles P4P <br>LE? by FlyingCanoePins', "Owned")
+.addPin('lgsnow.webp', 'Lu Guang Snowboard <br>LE? by orangeshapins', "Owned")
+.addPin('cxssnow.webp', 'Cheng Xiaoshi Snowboard <br>LE? by orangeshapins', "Owned")
 // =========================================================================================================================================================================================================================
  addCategory("SK8 Infinity Pins 🧡💙+🛹♾️")
 .addPin('kassielanga.webp', 'Langa Diamond <br> by KassieArts', "Owned")
@@ -269,7 +268,12 @@ addCategory("Indie Game Pins 🗡💜")
 addCategory("Anime & Genshin Pins ✨")
 .addPin('jinmaoset.webp', 'JinMao Emotes Set <br>LE? by zzzsgalore', "Owned")
 //GENSHIN
+// Neuvilette
+.addPin('chadneuvi.webp', 'Serious Neuvilette Panel <br>LE30 by KelsPins', "Owned")
+.addPin('neuvirain.webp', 'Neuvilette Stained Glass <br>LE? by MidnightMoonPins', "Owned")
+.addPin('insomnianeuvi.webp', 'Insomnia Neuvilette <br>LE? by InsomniaPins', "Owned")
 .addPin('neuviglass.webp', 'Neuvilette POP <br>LE? by MidnightMoonPins', "Owned")
+
 .addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
 
 // VASH STAMPEDE
