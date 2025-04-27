@@ -15,12 +15,13 @@ addCategory("InsomniaPins Diamonds 💎 + Faves")
 .addPin('insomniascara.webp', 'Wanderer Diamond Pin <br>LE50 by Ins***Pins.', "Owned")
 .addPin('insomniatighnari.webp', 'Tighnari Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Owned")
-.addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
-.addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
 .addPin('insomniaargenti.webp', 'Insomnia Argenti Diamond <br>LE? by InsomniaPins', "Owned")
 .addPin('insomniakazuha.webp', 'Insomnia Kazuha Diamond <br>LE? by InsomniaPins', "Owned")
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniachilde.webp', 'Childe Purple Chrome Var. <br>LE50 by Ins***Pins.', "Owned")
+
+.addPin('insomniagepard.webp', 'Gepard Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomnialuocha.webp', 'Luocha Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniamydei.webp', 'Mydei Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniasunday.webp', 'Sunday Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 
@@ -263,7 +264,6 @@ addCategory("Indie Game Pins 🗡💜")
 .addPin('hk.webp', 'Hollow Knight & Radience <br>by BlueAndRedWares', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Anime & Genshin Pins ✨")
-.addPin('jinmaoset.webp', 'JinMao Emotes Set <br>LE? by zzzsgalore', "Owned")
 //GENSHIN
 // Neuvilette
 .addPin('chadneuvi.webp', 'Serious Neuvilette Panel <br>LE30 by KelsPins', "Owned")
@@ -272,6 +272,10 @@ addCategory("Anime & Genshin Pins ✨")
 .addPin('neuviglass.webp', 'Neuvilette POP <br>LE? by MidnightMoonPins', "Owned")
 
 .addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
+.addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
+.addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
+ 
+.addPin('jinmaoset.webp', 'JinMao Emotes Set <br>LE? by zzzsgalore', "Owned")
 
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Owned")
