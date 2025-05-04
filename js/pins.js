@@ -10,6 +10,7 @@ addCategory("Ordered 🛒🛍")
 .addPin('p4pshiguang.webp', 'P4P Tides Shiguang <br>LE? by flyingcanoepins', "Ordered")
 .addPin('gloomyshiguang.webp', 'Gloomy 90s Shiguang <br>LE? by KelsPins', "Ordered")
 .addPin('gloomysunday.webp', 'Gloomy 90s Sunday <br>LE? by midnightmoonpins', "Ordered")
+.addPin('ivanset.webp', 'Ivan Moods Set <br>LE40 by passamaniart', "Ordered")
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("InsomniaPins Diamonds 💎 + Faves")
