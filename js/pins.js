@@ -57,12 +57,16 @@ addCategory("Foxipins MXTX Windows")
 .addPin('shiwudu.jpg', 'Shi Wudu Window <br>LE65 by Foxipins', "Owned")
 .addPin('yinyu.webp', 'Yin Yu Window <br>LE65 by Foxipins', "Owned")
 .addPin('wenning.webp', 'Wen Ning Window <br>LE65 by Foxipins', "Owned")
-.addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Sold")
+//Ordered
+.addPin('binghedaddytlj.webp', 'Binghes Daddy Window <br>LE65 by Foxipins', "Ordered")
+.addPin('mobeijun.webp', 'Mobei-Jun Window <br>LE65 by Foxipins', "Ordered")
+.addPin('shahualing.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Ordered")
  // PREORDER FOXI
 .addPin('foxihc.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Ordered")
 .addPin('foxiqr.webp', 'Qi Rong Window <br>LE65 by Foxipins', "Ordered")
 .addPin('foxinhs.webp', 'Nie Huaisang Window <br>LE65 by Foxipins', "Ordered")
 .addPin('xichen.jpg', 'Lan Xichen Window <br>LE65 by Foxipins', "Ordered")
+.addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Sold")
 // ========================================================================================================================================================================================================================
 addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Owned")
