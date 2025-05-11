@@ -11,6 +11,13 @@ addCategory("Ordered 🛒🛍")
 .addPin('gloomyshiguang.webp', 'Gloomy 90s Shiguang <br>LE? by KelsPins', "Ordered")
 .addPin('gloomysunday.webp', 'Gloomy 90s Sunday <br>LE? by midnightmoonpins', "Ordered")
 .addPin('ivanset.webp', 'Ivan Moods Set <br>LE40 by passamaniart', "Ordered")
+// MXTX MEMES
+.addPin('wangxianmemes.webp', 'Chibi Wangxian Memes <br>LE30 by PrisPins', "Ordered")
+.addPin('hualianmemes.webp', 'Chibi Hualian Memes <br>LE30 by PrisPins', "Ordered")
+.addPin('bingqiumemes.webp', 'Chibi Bingqiu Memes <br>LE30 by PrisPins', "Ordered")
+.addPin('lqgmemes.webp', 'Chibi Liu Qingge Meme <br>LE30 by PrisPins', "Ordered")
+// 
+
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("InsomniaPins Diamonds 💎 + Faves")
