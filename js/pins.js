@@ -12,9 +12,9 @@ addCategory("Ordered 🛒🛍")
 .addPin('bingqiumemes.webp', 'Chibi Bingqiu Memes <br>LE30 by PrisPins', "Ordered")
 .addPin('lqgmemes.webp', 'Chibi Liu Qingge Meme <br>LE30 by PrisPins', "Ordered")
 // ShippedToMe
-.addPin('ivanhappy.webp', 'Ivan Moods (Smug) <br>LE40 by passamaniart', "Ordered")
-.addPin('ivansad.webp', 'Ivan Moods (Sad) <br>LE40 by passamaniart', "Ordered")
-.addPin('ivanblush.webp', 'Ivan Moods (Blush) <br>LE40 by passamaniart', "Ordered")
+.addPin('ivanhappy.webp', 'Ivan Moods (Smug) <br>LE40 by passamaniart', "Owned")
+.addPin('ivansad.webp', 'Ivan Moods (Sad) <br>LE40 by passamaniart', "Owned")
+.addPin('ivanblush.webp', 'Ivan Moods (Blush) <br>LE40 by passamaniart', "Owned")
 .addPin('gloomyshiguang.webp', 'Gloomy 90s Shiguang <br>LE? by KelsPins', "Owned")
 .addPin('gloomysunday.webp', 'Gloomy 90s Sunday <br>LE? by midnightmoonpins', "Owned")
 
