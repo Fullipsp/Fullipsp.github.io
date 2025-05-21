@@ -7,10 +7,14 @@ addCategory("Ordered 🛒🛍")
 .addPin('charitybingqiu.webp', 'Blossoms of Spring ✦ <br>Bingqiu by naixaie', "Ordered")
 .addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE? by ZuPins', "Ordered")
 // MXTX MEMES
-.addPin('wangxianmemes.webp', 'Chibi Wangxian Memes <br>LE30 by PrisPins', "Ordered")
-.addPin('hualianmemes.webp', 'Chibi Hualian Memes <br>LE30 by PrisPins', "Ordered")
-.addPin('bingqiumemes.webp', 'Chibi Bingqiu Memes <br>LE30 by PrisPins', "Ordered")
-.addPin('lqgmemes.webp', 'Chibi Liu Qingge Meme <br>LE30 by PrisPins', "Ordered")
+.addPin('memelian.webp', 'MXTX Memes: XieLian <br>LE30 by PrisPins', "Owned")
+.addPin('memecheng.webp', 'MXTX Memes: HuaCheng <br>LE30 by PrisPins', "Owned")
+.addPin('memezhan.webp', 'MXTX Memes: LanZhan <br>LE30 by PrisPins', "Owned")
+.addPin('memewuxian.webp', 'MXTX Memes: WeiYing <br>LE30 by PrisPins', "Owned")
+.addPin('memeshen.webp', 'MXTX Memes: ShenQingqiu <br>LE30 by PrisPins', "Owned")
+.addPin('memebinghe.webp', 'MXTX Memes: LuoBinghe <br>LE30 by PrisPins', "Owned")
+.addPin('memeqingge.webp', 'MXTX Memes: LiuQingge <br>LE30 by PrisPins', "Owned")
+
 // ShippedToMe
 .addPin('ivanhappy.webp', 'Ivan Moods (Smug) <br>LE40 by passamaniart', "Owned")
 .addPin('ivansad.webp', 'Ivan Moods (Sad) <br>LE40 by passamaniart', "Owned")
