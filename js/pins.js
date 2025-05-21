@@ -10,6 +10,9 @@ addCategory("Ordered 🛒🛍")
 .addPin('ivanhappy.webp', 'Ivan Moods (Smug) <br>LE40 by passamaniart', "Owned")
 .addPin('ivansad.webp', 'Ivan Moods (Sad) <br>LE40 by passamaniart', "Owned")
 .addPin('ivanblush.webp', 'Ivan Moods (Blush) <br>LE40 by passamaniart', "Owned")
+// Karina 
+.addPin('memelucifer.webp', 'Lucifer Meme Window <br> LE65 by karina****op', "Ordered")
+.addPin('memefizz.webp', 'Fizz MemeCat Window <br> LE? by karina****op', "Ordered")
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("InsomniaPins Diamonds 💎 + Faves")
