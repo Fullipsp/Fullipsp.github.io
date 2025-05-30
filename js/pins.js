@@ -3,10 +3,7 @@ let categoryIndex = 0;
 
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
-// IvanEmotes
-.addPin('ivanhappy.webp', 'Ivan Moods (Smug) <br>LE40 by passamaniart', "Owned")
-.addPin('ivansad.webp', 'Ivan Moods (Sad) <br>LE40 by passamaniart', "Owned")
-.addPin('ivanblush.webp', 'Ivan Moods (Blush) <br>LE40 by passamaniart', "Owned")
+
 //Preorders
 .addPin('charitybingqiu.webp', 'Blossoms of Spring ✦ <br>Bingqiu by naixaie', "Ordered")
 .addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE? by ZuPins', "Ordered")
@@ -283,6 +280,12 @@ addCategory("Indie Game Pins 🗡💜")
 .addPin('hypnos.webp', 'Hypnos (Hades) <br>by BlueAndRedWares', "Owned")
 .addPin('charon.webp', 'Charon (Hades) <br>by BlueAndRedWares', "Owned")
 .addPin('hk.webp', 'Hollow Knight & Radience <br>by BlueAndRedWares', "Owned")
+// =========================================================================================================================================================================================================================
+addCategory("Alien Stage Pins 🎤👽)
+// IvanEmotes
+.addPin('ivanhappy.webp', 'Ivan Moods (Smug) <br>LE40 by passamaniart', "Owned")
+.addPin('ivansad.webp', 'Ivan Moods (Sad) <br>LE40 by passamaniart', "Owned")
+.addPin('ivanblush.webp', 'Ivan Moods (Blush) <br>LE40 by passamaniart', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Anime & Genshin Pins ✨")
 //GENSHIN
