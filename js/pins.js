@@ -40,8 +40,8 @@ addCategory("Foxipins MXTX Windows")
 .addPin('foxiwwx.webp', 'Wei Wuxian Window <br>LE65 by Foxipins', "Owned")
 //demon trio
 .addPin('shahualing.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Owned")
-.addPin('mobeijun.webp', 'Mobei-Jun Window <br>LE65 by Foxipins', "Owned")
 .addPin('binghedaddytlj.webp', 'Binghes Daddy Window <br>LE65 by Foxipins', "Owned")
+.addPin('mobeijun.webp', 'Mobei-Jun Window <br>LE65 by Foxipins', "Owned")
  //
 .addPin('bingpup.webp', 'Bingpup Window <br>by Foxipins', "Owned")
 .addPin('foxifairy.webp', 'Fairy Window <br>by Foxipins', "Owned")
