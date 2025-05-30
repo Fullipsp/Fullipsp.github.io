@@ -9,6 +9,7 @@ addCategory("Ordered 🛒🛍")
 // Karina 
 .addPin('memelucifer.webp', 'Lucifer Meme Window <br> LE65 by karina****op', "Ordered")
 .addPin('memefizz.webp', 'Fizz MemeCat Window <br> LE? by karina****op', "Ordered")
+
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("InsomniaPins Diamonds 💎 + Faves")
@@ -281,7 +282,7 @@ addCategory("Indie Game Pins 🗡💜")
 .addPin('charon.webp', 'Charon (Hades) <br>by BlueAndRedWares', "Owned")
 .addPin('hk.webp', 'Hollow Knight & Radience <br>by BlueAndRedWares', "Owned")
 // =========================================================================================================================================================================================================================
-addCategory("Alien Stage Pins 🎤👽)
+addCategory("Alien Stage Pins 🎤👽")
 // IvanEmotes
 .addPin('ivanhappy.webp', 'Ivan Moods (Smug) <br>LE40 by passamaniart', "Owned")
 .addPin('ivansad.webp', 'Ivan Moods (Sad) <br>LE40 by passamaniart', "Owned")
