@@ -12,7 +12,7 @@ addCategory("Ordered 🛒🛍")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
-addCategory("InsomniaPins Diamonds 💎 + Faves")
+addCategory("InsomniaPins Diamonds 💎")
 .addPin('insomniasethos.webp', 'Sethos Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniaaventurine.webp', 'Aventurine Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniagepard.webp', 'Gepard Diamond Pin <br>LE by Ins***Pins.', "Owned")
