@@ -3,7 +3,6 @@ let categoryIndex = 0;
 
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🛍")
-
 //Preorders
 .addPin('charitybingqiu.webp', 'Blossoms of Spring ✦ <br>Bingqiu by naixaie', "Ordered")
 .addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE? by ZuPins', "Ordered")
@@ -38,6 +37,11 @@ addCategory("Foxipins MXTX Windows")
 .addPin('foxinmj.webp', 'Nie Mingje Window <br>LE65 by Foxipins', "Owned")
 .addPin('lwjpanel.webp', 'Lan Wangji Window <br>LE65 by Foxipins', "Owned")
 .addPin('foxiwwx.webp', 'Wei Wuxian Window <br>LE65 by Foxipins', "Owned")
+//demon trio
+.addPin('shahualing.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Owned")
+.addPin('mobeijun.webp', 'Mobei-Jun Window <br>LE65 by Foxipins', "Owned")
+.addPin('binghedaddytlj.webp', 'Binghes Daddy Window <br>LE65 by Foxipins', "Owned")
+ //
 .addPin('bingpup.webp', 'Bingpup Window <br>by Foxipins', "Owned")
 .addPin('foxifairy.webp', 'Fairy Window <br>by Foxipins', "Owned")
 .addPin('gongyixiao.webp', 'Gongyi Xiao Window <br>by Foxipins', "Owned")
@@ -49,10 +53,6 @@ addCategory("Foxipins MXTX Windows")
 .addPin('shiwudu.jpg', 'Shi Wudu Window <br>LE65 by Foxipins', "Owned")
 .addPin('yinyu.webp', 'Yin Yu Window <br>LE65 by Foxipins', "Owned")
 .addPin('wenning.webp', 'Wen Ning Window <br>LE65 by Foxipins', "Owned")
-//Ordered
-.addPin('binghedaddytlj.webp', 'Binghes Daddy Window <br>LE65 by Foxipins', "Ordered")
-.addPin('mobeijun.webp', 'Mobei-Jun Window <br>LE65 by Foxipins', "Ordered")
-.addPin('shahualing.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Ordered")
  // PREORDER FOXI
 .addPin('foxihc.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Ordered")
 .addPin('foxiqr.webp', 'Qi Rong Window <br>LE65 by Foxipins', "Ordered")
@@ -292,9 +292,9 @@ addCategory("Anime & Genshin Pins ✨")
 .addPin('gloomysunday.webp', 'Gloomy 90s Sunday <br>LE? by midnightmoonpins', "Owned")
 // Neuvilette
 .addPin('chadneuvi.webp', 'Serious Neuvilette Panel <br>LE30 by KelsPins', "Owned")
-.addPin('neuvirain.webp', 'Neuvilette Stained Glass <br>LE? by MidnightMoonPins', "Owned")
-.addPin('insomnianeuvi.webp', 'Insomnia Neuvilette <br>LE? by InsomniaPins', "Owned")
 .addPin('neuviglass.webp', 'Neuvilette POP <br>LE? by MidnightMoonPins', "Owned")
+.addPin('insomnianeuvi.webp', 'Insomnia Neuvilette <br>LE? by InsomniaPins', "Owned")
+.addPin('neuvirain.webp', 'Neuvilette Stained Glass <br>LE? by MidnightMoonPins', "Owned")
 .addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
 .addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
 .addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
