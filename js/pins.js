@@ -14,6 +14,8 @@ addCategory("Ordered 🛒🛍")
 .addPin('heheastarion.webp', 'Hehehe: Chibi Astarion <br>by Reddachi', "Ordered")
 .addPin('jiaoqiucircle.webp', 'Jiaoqiu Circle <br>by orangeshapins', "Ordered")
 .addPin('spinnerjiaoqiu.webp', 'Jiaoqiu Hot-Pot Spinner <br>by orangeshapins', "Ordered")
+.addPin('zuaventurine.webp', 'Aventurine Chibi <br>by ZuPins/PrisPins', "Ordered")
+.addPin('zuneuvilette.webp', 'Neuvilette Chibi <br>by ZuPins/PrisPins', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
