@@ -5,16 +5,14 @@ let categoryIndex = 0;
 addCategory("Ordered 🛒🛍")
 //Preorders
 .addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE? by ZuPins', "Ordered")
-// Karina 
-.addPin('memelucifer.webp', 'Lucifer Meme Window <br> LE65 by karina****op', "Ordered")
-.addPin('memefizz.webp', 'Fizz MemeCat Window <br> LE? by karina****op', "Ordered")
-// On the way ordered
-.addPin('jiaoqiucircle.webp', 'Jiaoqiu Circle <br>by orangeshapins', "Ordered")
-.addPin('spinnerjiaoqiu.webp', 'Jiaoqiu Hot-Pot Spinner <br>by orangeshapins', "Ordered")
-
 .addPin('charitybingqiu.webp', 'Blossoms of Spring ✦ <br>Bingqiu by naixaie', "Ordered")
-.addPin('tavblood.webp', 'Tav Blood: Chibi Astarion <br>by Reddachi', "Ordered")
-.addPin('heheastarion.webp', 'Hehehe: Chibi Astarion <br>by Reddachi', "Ordered")
+// TAKE PHOTOS
+.addPin('memelucifer.webp', 'Lucifer Meme Window <br> LE65 by karina****op', "Owned")
+.addPin('memefizz.webp', 'Fizz MemeCat Window <br> LE? by karina****op', "Owned")
+.addPin('jiaoqiucircle.webp', 'Jiaoqiu Circle <br>by orangeshapins', "Owned")
+.addPin('spinnerjiaoqiu.webp', 'Jiaoqiu Hot-Pot Spinner <br>by orangeshapins', "Owned")
+.addPin('tavblood.webp', 'Tav Blood: Chibi Astarion <br>by Reddachi', "Owned")
+.addPin('heheastarion.webp', 'Hehehe: Chibi Astarion <br>by Reddachi', "Owned")
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Pris & Zu Pins Chibis 🪷")
