@@ -6,8 +6,9 @@ addCategory("Ordered 🛒🛍")
 //Preorders
 .addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE? by ZuPins', "Ordered")
 .addPin('charitybingqiu.webp', 'Blossoms of Spring ✦ <br>Bingqiu by naixaie', "Ordered")
-// TAKE PHOTOS
-
+//
+.addPin('zuneuvi.webp', 'Neuvilette Chibi <br>by ZuPins', "Ordered")
+.addPin('zuwrio.webp', 'Wriothesley Chibi <br>by ZuPins', "Ordered")
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Pris & Zu Pins Chibis 🪷")
@@ -192,9 +193,9 @@ addCategory("MLB Fantasy Couples 🐞🐱")
 .addPin('squishykiss.webp', 'Squishy Kiss <br>LE? by Cres****ns_', "Ordered")
 // ==========================================================================================================================================================================================================================
 addCategory("Helluva Boss ❤️‍🔥😈👅")
+.addPin('memelucifer.webp', 'Lucifer Meme Window <br> LE65 by karina****op', "Owned")
 .addPin('blitzo40.webp', 'Blitzo Window <br> LE40 by karina****op', "Owned")
 .addPin('stolas40.webp', 'Stolas Window <br> LE40 by karina****op', "Owned")
-.addPin('memelucifer.webp', 'Lucifer Meme Window <br> LE65 by karina****op', "Owned")
 .addPin('gfizzmodeus.webp', 'Wonderland Fizzmodeus (Gold) <br> LE40 by karina****op', "Owned")
 .addPin('rainbowfizzmodeus.webp', 'Wonderland Fizzmodeus (Chrome) <br> LE40 by karina****op', "Owned")
 .addPin('stolitzblack.webp', 'Stolitz Miscommunication (B. Nickel) <br> LE25 by karina****op', "Owned")
@@ -279,12 +280,12 @@ addCategory("Zelda Pins 🗡🏹 🌺💙")
 addCategory("Astarion Pins (BG3) 🖤")
 .addPin('90sastarion.webp', '90s Panel Astarion <br>by Punishedmiqote', "Owned")
 .addPin('moonastarion.webp', 'Blood Moon Astarion <br>by Punishedmiqote', "Owned")
-.addPin('bloodyastarion.webp', 'Feral Bloody Astarion <br>by mermeladazul', "Owned")
 .addPin('wineastarion.webp', 'Wine Astarion <br>by Punishedmiqote', "Owned")
 .addPin('chibiastie.webp', 'Hehe Astarion Chibi <br>by Peach&CreamCo', "Owned")
 .addPin('ascastie.webp', 'Bloody Astarion Chibi <br>by Peach&CreamCo', "Owned")
 .addPin('tavblood.webp', 'Tav Blood: Chibi Astarion <br>by Reddachi', "Owned")
 .addPin('heheastarion.webp', 'Hehehe: Chibi Astarion <br>by Reddachi', "Owned")
+.addPin('bloodyastarion.webp', 'Feral Bloody Astarion <br>by mermeladazul', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Indie Game Pins 🗡💜")
 .addPin('hades.webp', 'Thanzag Chibi <br>by Leaphere', "Owned")
