@@ -5,16 +5,14 @@ let categoryIndex = 0;
 addCategory("Ordered 🛒🛍")
 //Preorders
 .addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE? by ZuPins', "Ordered")
-.addPin('zuphainon.webp', 'Phainon Chibi <br>by ZuPins/PrisPins', "Ordered")
 .addPin('zublade.webp', 'Blade White ver. Chibi <br>by ZuPins/PrisPins', "Ordered")
 .addPin('zubrant.webp', 'Brant Chibi <br>by ZuPins/PrisPins', "Ordered")
-
-//Photos needed
-.addPin('charitybingqiu.webp', 'Blossoms of Spring ✦ <br>Bingqiu by naixaie', "Owned")
+.addPin('zuphainon.webp', 'Phainon Chibi <br>by ZuPins/PrisPins', "Ordered")
+ // in hand
 .addPin('zuneuvi.webp', 'Neuvilette Chibi <br>by ZuPins', "Ordered")
 .addPin('zuwrio.webp', 'Wriothesley Chibi <br>by ZuPins', "Ordered")
 .addPin('zuchongyun.webp', 'Chongyun Chibi <br>by ZuPins/PrisPins', "Ordered")
-.addPin('insomniawrio.webp', 'Wriothesley Bust <br>by InsomniaPins', "Owned")
+
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Pris & Zu Pins Chibis 🪷")
@@ -147,6 +145,7 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 // =========================================================================================================================================================================================================================
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
 .addPin('bingliushen.webp', 'Springtime Trio ✦ <br>Bingliushen by naixaie', "Owned")
+.addPin('charitybingqiu.webp', 'Blossoms of Spring ✦ <br>Bingqiu by naixaie', "Owned")
 .addPin('guqinlbh.webp', 'Guqin Masters: LBH <br>by Virinali', "Owned")
 .addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Owned")
 .addPin('profilebinghe.webp', 'Profile Binghe <br>by Sourboxes', "Owned")
@@ -310,10 +309,11 @@ addCategory("Alien Stage Pins 🎤👽")
 addCategory("Anime & Genshin Pins ✨")
 //GENSHIN
 .addPin('gloomysunday.webp', 'Gloomy 90s Sunday <br>LE? by midnightmoonpins', "Owned")
+.addPin('insomniawrio.webp', 'Wriothesley Bust <br>by InsomniaPins', "Owned")
 // Neuvilette
+.addPin('insomnianeuvi.webp', 'Neuvilette Bust <br>LE? by InsomniaPins', "Owned")
 .addPin('chadneuvi.webp', 'Serious Neuvilette Panel <br>LE30 by KelsPins', "Owned")
 .addPin('neuviglass.webp', 'Neuvilette POP <br>LE? by MidnightMoonPins', "Owned")
-.addPin('insomnianeuvi.webp', 'Neuvilette Bust <br>LE? by InsomniaPins', "Owned")
 .addPin('neuvirain.webp', 'Neuvilette Stained Glass <br>LE? by MidnightMoonPins', "Owned")
 .addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
 .addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
