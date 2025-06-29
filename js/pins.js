@@ -39,6 +39,7 @@ addCategory("InsomniaPins Diamonds 💎")
 //
 .addPin('insomniamydei.webp', 'Mydei Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniasunday.webp', 'Sunday Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniadanhengil.webp', 'Dan Heng IL Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
