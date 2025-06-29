@@ -9,10 +9,9 @@ addCategory("Ordered 🛒🛍")
 .addPin('zubrant.webp', 'Brant Chibi <br>by ZuPins/PrisPins', "Ordered")
 .addPin('zuphainon.webp', 'Phainon Chibi <br>by ZuPins/PrisPins', "Ordered")
  // in hand
+.addPin('zuchongyun.webp', 'Chongyun Chibi <br>by ZuPins/PrisPins', "Ordered")
 .addPin('zuneuvi.webp', 'Neuvilette Chibi <br>by ZuPins', "Ordered")
 .addPin('zuwrio.webp', 'Wriothesley Chibi <br>by ZuPins', "Ordered")
-.addPin('zuchongyun.webp', 'Chongyun Chibi <br>by ZuPins/PrisPins', "Ordered")
-
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Pris & Zu Pins Chibis 🪷")
