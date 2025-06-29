@@ -5,12 +5,16 @@ let categoryIndex = 0;
 addCategory("Ordered 🛒🛍")
 //Preorders
 .addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE? by ZuPins', "Ordered")
+.addPin('zuphainon.webp', 'Phainon Chibi <br>by ZuPins/PrisPins', "Ordered")
+.addPin('zublade.webp', 'Blade White ver. Chibi <br>by ZuPins/PrisPins', "Ordered")
+.addPin('zubrant.webp', 'Brant Chibi <br>by ZuPins/PrisPins', "Ordered")
+
+//Photos needed
 .addPin('charitybingqiu.webp', 'Blossoms of Spring ✦ <br>Bingqiu by naixaie', "Owned")
-//
 .addPin('zuneuvi.webp', 'Neuvilette Chibi <br>by ZuPins', "Ordered")
 .addPin('zuwrio.webp', 'Wriothesley Chibi <br>by ZuPins', "Ordered")
 .addPin('zuchongyun.webp', 'Chongyun Chibi <br>by ZuPins/PrisPins', "Ordered")
-.addPin('insomniawrio.webp', 'Wriothesley Bust <br>by InsomniaPins', "Ordered")
+.addPin('insomniawrio.webp', 'Wriothesley Bust <br>by InsomniaPins', "Owned")
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Pris & Zu Pins Chibis 🪷")
