@@ -5,16 +5,18 @@ let categoryIndex = 0;
 addCategory("Ordered 🛒🛍")
 //Preorders
 .addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE? by ZuPins', "Ordered")
-.addPin('zublade.webp', 'Blade White ver. Chibi <br>by ZuPins/PrisPins', "Ordered")
-.addPin('zubrant.webp', 'Brant Chibi <br>by ZuPins/PrisPins', "Ordered")
-.addPin('zuphainon.webp', 'Phainon Chibi <br>by ZuPins/PrisPins', "Ordered")
- // in hand
-.addPin('zuchongyun.webp', 'Chongyun Chibi <br>by ZuPins/PrisPins', "Ordered")
-.addPin('zuneuvi.webp', 'Neuvilette Chibi <br>by ZuPins', "Ordered")
-.addPin('zuwrio.webp', 'Wriothesley Chibi <br>by ZuPins', "Ordered")
+
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Pris & Zu Pins Chibis 🪷")
+//PREORDERS
+.addPin('zuphainon.webp', 'Phainon Chibi <br>by ZuPins/PrisPins', "Ordered")
+.addPin('goldphainon.webp', 'Khaslana Chibi <br>by ZuPins/PrisPins', "Ordered")
+.addPin('anaxachibi.webp', 'Anaxagoras Chibi <br>by ZuPins/PrisPins', "Ordered")
+.addPin('zublade.webp', 'Blade White ver. Chibi <br>by ZuPins/PrisPins', "Ordered")
+.addPin('zubrant.webp', 'Brant Chibi <br>by ZuPins/PrisPins', "Ordered")
+
+ // OWNED
 .addPin('zugambler.webp', 'Aven Gambler Chibi <br>by ZuPins/PrisPins', "Owned")
 .addPin('zuaventurine.webp', 'Aventurine Chibi <br>by ZuPins/PrisPins', "Owned")
 .addPin('zusunday.webp', 'Sunday Express Chibi <br>by ZuPins/PrisPins', "Owned")
@@ -22,6 +24,9 @@ addCategory("Pris & Zu Pins Chibis 🪷")
 .addPin('zujiaoqiu.webp', 'Jiaoqiu Chibi <br>by ZuPins/PrisPins', "Owned")
 .addPin('zumydei.webp', 'Mydei Chibi <br>by ZuPins/PrisPins', "Owned")
 .addPin('zuneuvilette.webp', 'Neuvilette Chibi <br>by ZuPins/PrisPins', "Owned")
+.addPin('zuchongyun.webp', 'Chongyun Chibi <br>by ZuPins/PrisPins', "Owned")
+.addPin('zuneuvi.webp', 'Neuvilette Chibi <br>by ZuPins', "Owned")
+.addPin('zuwrio.webp', 'Wriothesley Chibi <br>by ZuPins', "Owned")
 // =====================================================================================================================================================================================================================================================
 addCategory("InsomniaPins Diamonds 💎")
 .addPin('insomniasethos.webp', 'Sethos Diamond Pin <br>LE by Ins***Pins.', "Owned")
@@ -69,9 +74,9 @@ addCategory("Foxipins MXTX Windows")
 .addPin('wenning.webp', 'Wen Ning Window <br>LE65 by Foxipins', "Owned")
  // PREORDER FOXI
 .addPin('foxihc.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Ordered")
-.addPin('foxiqr.webp', 'Qi Rong Window <br>LE65 by Foxipins', "Ordered")
+.addPin('foxiqr.webp', 'Qi Rong Window <br>LE65 by Foxipins', "Owned")
 .addPin('foxinhs.webp', 'Nie Huaisang Window <br>LE65 by Foxipins', "Ordered")
-.addPin('xichen.jpg', 'Lan Xichen Window <br>LE65 by Foxipins', "Ordered")
+.addPin('xichen.jpg', 'Lan Xichen Window <br>LE65 by Foxipins', "Owned")
 .addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Sold")
 // ========================================================================================================================================================================================================================
 addCategory("MXTX Meme Chibis: Midnight Version 🌙✨")
