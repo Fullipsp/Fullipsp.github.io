@@ -5,17 +5,15 @@ let categoryIndex = 0;
 addCategory("Ordered 🛒🛍")
 //Preorders
 .addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE? by ZuPins', "Ordered")
-
-addGap();
-// =====================================================================================================================================================================================================================================================
-addCategory("Pris & Zu Pins Chibis 🪷")
 //PREORDERS
 .addPin('zuphainon.webp', 'Phainon Chibi <br>by ZuPins/PrisPins', "Ordered")
 .addPin('goldphainon.webp', 'Khaslana Chibi <br>by ZuPins/PrisPins', "Ordered")
 .addPin('anaxachibi.webp', 'Anaxagoras Chibi <br>by ZuPins/PrisPins', "Ordered")
 .addPin('zublade.webp', 'Blade White ver. Chibi <br>by ZuPins/PrisPins', "Ordered")
 .addPin('zubrant.webp', 'Brant Chibi <br>by ZuPins/PrisPins', "Ordered")
-
+addGap();
+// =====================================================================================================================================================================================================================================================
+addCategory("Pris & Zu Pins Chibis 🪷")
  // OWNED
 .addPin('zugambler.webp', 'Aven Gambler Chibi <br>by ZuPins/PrisPins', "Owned")
 .addPin('zuaventurine.webp', 'Aventurine Chibi <br>by ZuPins/PrisPins', "Owned")
