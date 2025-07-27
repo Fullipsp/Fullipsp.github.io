@@ -6,6 +6,9 @@ addCategory("Ordered 🛒🛍")
 //Preorders
 .addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE? by ZuPins', "Ordered")
 //PREORDERS
+.addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Ordered")
+.addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Ordered")
+
 .addPin('zuphainon.webp', 'Phainon Chibi <br>by ZuPins/PrisPins', "Ordered")
 .addPin('goldphainon.webp', 'Khaslana Chibi <br>by ZuPins/PrisPins', "Ordered")
 .addPin('anaxachibi.webp', 'Anaxagoras Chibi <br>by ZuPins/PrisPins', "Ordered")
