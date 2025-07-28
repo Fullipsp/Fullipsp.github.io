@@ -9,11 +9,6 @@ addCategory("Ordered 🛒🛍")
 .addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Ordered")
 .addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Ordered")
 
-.addPin('zuphainon.webp', 'Phainon Chibi <br>by ZuPins/PrisPins', "Ordered")
-.addPin('goldphainon.webp', 'Khaslana Chibi <br>by ZuPins/PrisPins', "Ordered")
-.addPin('anaxachibi.webp', 'Anaxagoras Chibi <br>by ZuPins/PrisPins', "Ordered")
-.addPin('zublade.webp', 'Blade White ver. Chibi <br>by ZuPins/PrisPins', "Ordered")
-.addPin('zubrant.webp', 'Brant Chibi <br>by ZuPins/PrisPins', "Ordered")
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Pris & Zu Pins Chibis 🪷")
@@ -26,8 +21,12 @@ addCategory("Pris & Zu Pins Chibis 🪷")
 .addPin('zumydei.webp', 'Mydei Chibi <br>by ZuPins/PrisPins', "Owned")
 .addPin('zuneuvilette.webp', 'Neuvilette Chibi <br>by ZuPins/PrisPins', "Owned")
 .addPin('zuchongyun.webp', 'Chongyun Chibi <br>by ZuPins/PrisPins', "Owned")
-.addPin('zuneuvi.webp', 'Neuvilette Chibi <br>by ZuPins', "Owned")
-.addPin('zuwrio.webp', 'Wriothesley Chibi <br>by ZuPins', "Owned")
+.addPin('zuphainon.webp', 'Phainon Chibi <br>by ZuPins/PrisPins', "Ordered")
+.addPin('goldphainon.webp', 'Khaslana Chibi <br>by ZuPins/PrisPins', "Ordered")
+.addPin('anaxachibi.webp', 'Anaxagoras Chibi <br>by ZuPins/PrisPins', "Ordered")
+.addPin('zublade.webp', 'Blade White ver. Chibi <br>by ZuPins/PrisPins', "Ordered")
+.addPin('zubrant.webp', 'Brant Chibi <br>by ZuPins/PrisPins', "Ordered")
+
 // =====================================================================================================================================================================================================================================================
 addCategory("InsomniaPins Diamonds 💎")
 .addPin('insomniasethos.webp', 'Sethos Diamond Pin <br>LE by Ins***Pins.', "Owned")
@@ -41,7 +40,7 @@ addCategory("InsomniaPins Diamonds 💎")
 .addPin('insomniadanheng.webp', 'Dan Heng Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniaargenti.webp', 'Insomnia Argenti Diamond <br>LE? by InsomniaPins', "Owned")
 .addPin('insomniakazuha.webp', 'Insomnia Kazuha Diamond <br>LE? by InsomniaPins', "Owned")
-.addPin('insomniawrio.webp', 'Wriothesley Diamond Pin <br>LE by Ins***Pins.', "Owned")
+.addPin('diamondwrio.webp', 'Wriothesley Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniamydei.webp', 'Mydei Diamond Pin <br>LE by Ins***Pins.', "Owned")
 //
 .addPin('insomniafeixiao.webp', 'Insomnia Feixiao Diamond <br>LE? by InsomniaPins', "Sold")
@@ -317,7 +316,8 @@ addCategory("Alien Stage Pins 🎤👽")
 // =========================================================================================================================================================================================================================
 addCategory("Anime & Genshin Pins ✨")
 //GENSHIN
-.addPin('gloomysunday.webp', 'Gloomy 90s Sunday <br>LE? by midnightmoonpins', "Owned")
+.addPin('zuwrio.webp', 'Wriothesley Chibi <br>by ZuPins', "Owned")
+.addPin('zuneuvi.webp', 'Neuvilette Chibi <br>by ZuPins', "Owned")
 .addPin('insomniawrio.webp', 'Wriothesley Bust <br>by InsomniaPins', "Owned")
 // Neuvilette
 .addPin('insomnianeuvi.webp', 'Neuvilette Bust <br>LE? by InsomniaPins', "Owned")
@@ -327,14 +327,14 @@ addCategory("Anime & Genshin Pins ✨")
 .addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
 .addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
 .addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
+.addPin('gloomysunday.webp', 'Gloomy 90s Sunday <br>LE? by midnightmoonpins', "Owned")
 .addPin('jiaoqiucircle.webp', 'Jiaoqiu Circle <br>by orangeshapins', "Owned")
 .addPin('spinnerjiaoqiu.webp', 'Jiaoqiu Hot-Pot Spinner <br>by orangeshapins', "Owned")
-//
-.addPin('jinmaoset.webp', 'JinMao Emotes Set <br>LE? by zzzsgalore', "Owned")
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Owned")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Owned")
 .addPin('xqonepiece.webp', 'ASL One Piece Set <br>by XQIU', "Owned")
+.addPin('jinmaoset.webp', 'JinMao Emotes Set <br>LE? by zzzsgalore', "Owned")
 //Obamitsu and demon slayer
    .addPin('xqobamitsu.webp', 'Obanai x Mitsuri Set <br>by XQIU', "Owned")
    .addPin('obamitsu3.webp', 'Obanai & Mitsuri 3 <br>by Nandemopins', "Owned")
