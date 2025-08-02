@@ -43,14 +43,13 @@ addCategory("InsomniaPins Diamonds 💎")
 .addPin('diamondwrio.webp', 'Wriothesley Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniamydei.webp', 'Mydei Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniafeixiao.webp', 'Insomnia Feixiao Diamond <br>LE? by InsomniaPins', "Sold")
+.addPin('insomniacastorice.webp', 'Insomnia Castorice Diamond <br>LE? by InsomniaPins', "Ordered")
+.addPin('insomniaphainon.webp', 'Insomnia Phainon Diamond <br>LE? by InsomniaPins', "Ordered")
 //Preorders
 .addPin('insomniasunday.webp', 'Sunday Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniaboothill.webp', 'Boothill Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniablade.webp', 'Blade Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniadanhengil.webp', 'Dan Heng IL Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-//Orders
-.addPin('insomniacastorice.webp', 'Insomnia Castorice Diamond <br>LE? by InsomniaPins', "Ordered")
-.addPin('insomniaphainon.webp', 'Insomnia Phainon Diamond <br>LE? by InsomniaPins', "Ordered")
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
  //OWNED FOXI
@@ -549,4 +548,5 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
