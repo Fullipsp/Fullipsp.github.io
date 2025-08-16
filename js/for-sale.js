@@ -2,7 +2,7 @@
 let categoryIndex = 0;
 
 addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
-.addPin('insomniapunzie.webp', 'Rapunzie Panel <br>LE50 by Ins***Pins.', "For-Sale")
+.addPin('insomniapunzie.webp', 'Rapunzie Panel <br>LE50 by Ins***Pins.', "Sold")
 //kassiearts
 .addPin('kassievanitas.webp', 'Vanitas Diamond <br>LE65 by KassieArts', "For-Sale")
 .addPin('kassiehisoka.webp', 'Hisoka Diamond <br>by KassieArts', "For-Sale")
@@ -11,27 +11,27 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "For-Sale")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "For-Sale")
-.addPin('bachhualian2.jpg', 'Lilypad Hualian <br>by Bachoochi', "For-Sale")
+.addPin('bachhualian2.jpg', 'Lilypad Hualian <br>by Bachoochi', "Sold")
 //FR33PINS
 .addPin('bluelock.webp', 'Blue Lock - Michael Kaiser <br> by MidnightMoonpins.', "For-Sale")
 .addPin('mhamomo.webp', 'MHA - Momo Yaoyorozu <br> by MidnightMoonpins.', "For-Sale")
 .addPin('silverash.webp', 'Arknights Silverash <br>LE by TorikiiArt.', "For-Sale")
 .addPin('tanjirobach.webp', 'Tanjiro Chibi <br> by Bachoochi.', "For-Sale")
 .addPin('kleebach.webp', 'Klee Chibi <br> by Bachoochi.', "For-Sale")
-.addPin('violetbach.webp', 'Violet x Emi/Isabella Chibi <br> by Bachoochi.', "For-Sale")
+.addPin('violetbach.webp', 'Violet x Emi/Isabella Chibi <br> by Bachoochi.', "Sold")
 .addPin('nierbach.webp', 'Nier Automata Chibi <br> by Bachoochi.', "For-Sale")
 // YOOKI
-.addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "For-Sale")
-.addPin('yookiyor.webp', 'Yor Mirror <br>by YookiStudios', "For-Sale")
+.addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "Sold")
+.addPin('yookiyor.webp', 'Yor Mirror <br>by YookiStudios', "Sold")
 .addPin('yookianya.webp', 'Anya Mirror <br>by YookiStudios', "For-Sale")
-.addPin('yookispohie.webp', 'HMC: Sophie Chibi <br>by YookiStudios', "For-Sale")
-.addPin('yookihowl.webp', 'HMC: Howl Chibi <br>by YookiStudios', "For-Sale")
+.addPin('yookispohie.webp', 'HMC: Sophie Chibi <br>by YookiStudios', "Sold")
+.addPin('yookihowl.webp', 'HMC: Howl Chibi <br>by YookiStudios', "Sold")
 .addPin('yookimitsuri.webp', 'Kitsune Mitsuri <br>by YookiStudios', "For-Sale")
-.addPin('yookiobanai.webp', 'Snake Obanai <br>by YookiStudios', "For-Sale")
+.addPin('yookiobanai.webp', 'Snake Obanai <br>by YookiStudios', "Sold")
 
 // CUTE PINS
 .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️ <br>by Arcade Healer', "For-Sale")
-.addPin('megumiheadphones.webp', 'Lo-Fi Megumi <br> by Flying Canoe Pins', "For-Sale")
+.addPin('megumiheadphones.webp', 'Lo-Fi Megumi <br> by Flying Canoe Pins', "Sold")
 // GENSHIN
 .addPin('inkei.webp', 'Raiden Shogun Pin <br>LE by Innkbean.', "For-Sale")
 .addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "For-Sale")
