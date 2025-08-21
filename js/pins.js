@@ -5,9 +5,13 @@ let categoryIndex = 0;
 addCategory("Ordered 🛒🛍")
 //Preorders
 .addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE? by ZuPins', "Ordered")
-//PREORDERS
 .addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Ordered")
 .addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Ordered")
+//UCioci
+.addPin('kmorihualiangrass.webp', 'Spring Hualian Chibi <br>LE by KmoriPins.', "Ordered")
+.addPin('kmorifengqinggrass.webp', 'Spring Fengqing Chibi <br>LE by KmoriPins.', "Ordered")
+.addPin('kmorihualiangrass.webp', 'Spring Hualian Chibi <br>LE by KmoriPins.', "Ordered")
+.addPin('chibicloudlinkclick.webp', 'Cloudy ShiGuang Chibi <br>LE by rsenicrin.', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -45,14 +49,14 @@ addCategory("InsomniaPins Diamonds 💎")
 .addPin('insomniafeixiao.webp', 'Insomnia Feixiao Diamond <br>LE? by InsomniaPins', "Sold")
 .addPin('insomniacastorice.webp', 'Castorice Diamond <br>LE? by InsomniaPins', "Ordered")
 .addPin('insomniaphainon.webp', 'Insomnia Phainon Diamond <br>LE? by InsomniaPins', "Ordered")
+.addPin('insomniasunday.webp', 'Sunday Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 //Preorders
+.addPin('insomniaboothill.webp', 'Boothill Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniamoze.webp', 'Moze Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniajiaoqiu.webp', 'Moze Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniablade.webp', 'Blade Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniadanhengil.webp', 'Dan Heng IL Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-.addPin('insomniajiaoqiu.webp', 'Moze Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-.addPin('insomniamoze.webp', 'Moze Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-.addPin('insomniaboothill.webp', 'Boothill Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-.addPin('insomniasunday.webp', 'Sunday Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-
+.addPin('insomniaacheron.webp', 'Acheron Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
  //OWNED FOXI
@@ -551,6 +555,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
