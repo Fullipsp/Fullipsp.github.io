@@ -160,8 +160,8 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
 .addPin('bingliushen.webp', 'Springtime Trio ✦ <br>Bingliushen by naixaie', "Owned")
 .addPin('charitybingqiu.webp', 'Blossoms of Spring ✦ <br>Bingqiu by naixaie', "Owned")
-.addPin('guqinlbh.webp', 'Guqin Masters: LBH <br>by Virinali', "Owned")
-.addPin('guqinsqq.webp', 'Guqin Masters: SQQ <br>by Virinali', "Owned")
+.addPin('guqinlbh.webp', 'Sword Disciple: LBH <br>by Virinali', "Owned")
+.addPin('guqinsqq.webp', 'Guqin Master: SQQ <br>by Virinali', "Owned")
 .addPin('profilebinghe.webp', 'Profile Binghe <br>by Sourboxes', "Owned")
 .addPin('profileshizun.webp', 'Profile Shizun <br>by Sourboxes', "Owned")
 .addPin('weddingbingqiu.webp', 'Wedding Bingqiu <br>by Sourboxes', "Owned")
@@ -185,8 +185,8 @@ addCategory("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
 .addPin('weiying.webp', 'Valentine Wei Ying <br>by Billacookie', "Owned")
 // =====================================================================================================================================================================================================================================================
 addCategory("Ranwan | Erha Pins 📖🌿💜")
-.addPin('disciplemoran.webp', 'Guqin Masters: MoRan <br>by Virinali', "Owned")
 .addPin('disciplecwn.webp', 'Guqin Masters: CWN <br>by Virinali', "Owned")
+.addPin('disciplemoran.webp', 'Sword Disciple: MoRan <br>by Virinali', "Owned")
 .addPin('ranwanpagoda.webp', 'Ranwan Chibis <br>by ???', "Owned")
 .addPin('ranwanbutterfly.webp', 'Butterfly Ranwan <br>by xevnne', "Owned")
 .addPin('ranwansword.webp', 'Sword Confession <br>by bachoochi', "Owned")
@@ -561,6 +561,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
