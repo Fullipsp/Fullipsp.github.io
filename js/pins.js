@@ -156,7 +156,6 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "For-Sale")
 .addPin('xlcake.webp', 'Xie Lian Treat <br>by torikii_art', "Sold")
 .addPin('hccake.webp', 'Hua Cheng Treat <br>by torikii_art', "Sold")
-
 // =========================================================================================================================================================================================================================
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
 .addPin('bingliushen.webp', 'Springtime Trio ✦ <br>Bingliushen by naixaie', "Owned")
@@ -171,7 +170,7 @@ addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
 .addPin('SQQ.webp', 'Shen Qingqiu Chibi <br>by Peach&CreamCo', "Owned")
 .addPin('bchibibingqiu.webp', 'Chibi Bingqiu <br>by Bachoochi', "Owned")
 .addPin('bachbingqiu.webp', 'Bamboo Bingqiu <br>by Bachoochi', "Owned")
-
+.addPin('bingpupadvent.webp', 'Flowery Bingpup <br>by naixaie', "Owned")
 // ===========================================================================================================================================================================================================================
 addCategory("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
 .addPin('bluhdonkey.webp', 'Wangxian Donkey <br>by Bluhtack', "Owned")
@@ -184,6 +183,14 @@ addCategory("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
 .addPin('wangxiankiss.webp', 'Wangxian Kiss <br>by SerenaDanmeiPins', "Owned")
 .addPin('woodenwangxian.jpg', 'Wooden Wangxian Bunnies <br> by @AumaEbi', "Owned")
 .addPin('weiying.webp', 'Valentine Wei Ying <br>by Billacookie', "Owned")
+// =====================================================================================================================================================================================================================================================
+addCategory("Ranwan | Erha Pins 📖🌿💜")
+.addPin('disciplemoran.webp', 'Guqin Masters: MoRan <br>by Virinali', "Owned")
+.addPin('disciplecwn.webp', 'Guqin Masters: CWN <br>by Virinali', "Owned")
+.addPin('ranwanpagoda.webp', 'Ranwan Chibis <br>by ???', "Owned")
+.addPin('ranwanbutterfly.webp', 'Butterfly Ranwan <br>by xevnne', "Owned")
+.addPin('ranwansword.webp', 'Sword Confession <br>by bachoochi', "Owned")
+.addPin('ranwanfurries.webp', 'Husky & Kitty <br>by ???', "Owned")
 // ===========================================================================================================================================================================================================================
 // Fantasy Couples
 addCategory("MLB Fantasy Couples 🐞🐱")
@@ -554,6 +561,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
