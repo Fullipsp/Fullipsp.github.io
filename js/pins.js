@@ -10,7 +10,6 @@ addCategory("Ordered 🛒🛍")
 //UCioci
 .addPin('kmorihualiangrass.webp', 'Spring Hualian Chibi <br>LE by KmoriPins.', "Ordered")
 .addPin('kmorifengqinggrass.webp', 'Spring Fengqing Chibi <br>LE by KmoriPins.', "Ordered")
-.addPin('kmorihualiangrass.webp', 'Spring Hualian Chibi <br>LE by KmoriPins.', "Ordered")
 .addPin('chibicloudlinkclick.webp', 'Cloudy ShiGuang Chibi <br>LE by rsenicrin.', "Ordered")
 
 addGap();
@@ -555,6 +554,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
