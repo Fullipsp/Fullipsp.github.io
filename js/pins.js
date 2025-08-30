@@ -35,7 +35,7 @@ addCategory("InsomniaPins Diamonds 💎")
 .addPin('diamondwrio.webp', 'Wriothesley Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniasunday.webp', 'Sunday Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniaaventurine.webp', 'Aventurine Diamond Pin <br>LE by Ins***Pins.', "Owned")
-.addPin('insomniacastorice.webp', 'Castorice Diamond <br>LE? by InsomniaPins', "Ordered")
+.addPin('insomniacastorice.webp', 'Castorice Diamond <br>LE? by InsomniaPins', "Owned")
 .addPin('insomniaargenti.webp', 'Insomnia Argenti Diamond <br>LE? by InsomniaPins', "Owned")
 .addPin('insomniamydei.webp', 'Mydei Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniaphainon.webp', 'Phainon Diamond <br>LE? by InsomniaPins', "Owned")
@@ -51,11 +51,11 @@ addCategory("InsomniaPins Diamonds 💎")
 .addPin('insomniafeixiao.webp', 'Insomnia Feixiao Diamond <br>LE? by InsomniaPins', "Sold")
 
 //Preorders
-.addPin('insomniaboothill.webp', 'Boothill Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-.addPin('insomniamoze.webp', 'Moze Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-.addPin('insomniajiaoqiu.webp', 'Moze Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniablade.webp', 'Blade Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniadanhengil.webp', 'Dan Heng IL Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniajiaoqiu.webp', 'Moze Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniamoze.webp', 'Moze Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniaboothill.webp', 'Boothill Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniaacheron.webp', 'Acheron Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
@@ -562,6 +562,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
