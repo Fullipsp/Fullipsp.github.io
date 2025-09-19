@@ -2,7 +2,7 @@
 let categoryIndex = 0;
 
 // ==================================================================================================================================================================================================================================================
-addCategory("Ordered 🛒🛍")
+addCategory("Ordered 🛒🪷")
 //Preorders
 .addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE? by ZuPins', "Ordered")
 .addPin('xuetxj.webp', 'TXJ Floral Panel <br>by ???', "Ordered")
@@ -14,7 +14,7 @@ addCategory("Ordered 🛒🛍")
 .addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Ordered")
 .addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Ordered")
 // ==================================================================================================================================================================================================================================================
-addCategory("Ordered (UCioci) 🛒🛍")
+addCategory("Ordered (UCioci) 🛒🌹")
 //UCioci
 .addPin('sunshineivantill.webp', 'Yuki Garden Ivantill <br>by PassamaniArt', "Ordered")
 .addPin('karinapowder.webp', 'Arcane: Powder BWB <br> by karina****op', "Ordered")
@@ -586,6 +586,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
