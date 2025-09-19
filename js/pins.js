@@ -23,8 +23,8 @@ addCategory("Ordered (UCioci) 🛒🛍")
 .addPin('2minfizz.webp', '2 Minutes Fizz -Gold- <br> by karina****op', "Ordered")
 .addPin('malingluguang.webp', 'Lu Guang Diamond <br>LE by malingmouse.', "Ordered")
 .addPin('malingxiaoshi.webp', 'Cheng Xiaoshi Diamond <br>LE by malingmouse.', "Ordered")
-.addPin('chibicloudlinkclick.webp', 'Cloudy ShiGuang Chibi <br>LE by rsenicrin.', "Ordered")
 .addPin('insomniaarle.webp', 'Arlecchino Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('chibicloudlinkclick.webp', 'Cloudy ShiGuang Chibi <br>LE by rsenicrin.', "Ordered")
 .addPin('kmorifengqinggrass.webp', 'Spring Fengqing Chibi <br>LE by KmoriPins.', "Ordered")
 .addPin('kmorihualiangrass.webp', 'Spring Hualian Chibi <br>LE by KmoriPins.', "Ordered")
 .addPin('swordieranwan.webp', 'Chibi Confession <br>by ???', "Ordered")
@@ -586,6 +586,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
