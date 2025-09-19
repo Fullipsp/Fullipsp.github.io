@@ -17,6 +17,7 @@ addCategory("Ordered 🛒🛍")
 .addPin('plushtxj.webp', 'Plush Pup TXJ <br>by ???', "Ordered")
 .addPin('postcanonranwan.webp', 'Lunar New Yr Ranwan <br>by ???', "Ordered")
 .addPin('swordieranwan.webp', 'Chibi Confession <br>by ???', "Ordered")
+.addPin('sunshineivantill.webp', 'Yuki Garden Ivantill <br>by PassamaniArt', "Ordered")
 
 //UCioci
 .addPin('kmorifengqinggrass.webp', 'Spring Fengqing Chibi <br>LE by KmoriPins.', "Ordered")
@@ -581,6 +582,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
