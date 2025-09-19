@@ -5,26 +5,26 @@ let categoryIndex = 0;
 addCategory("Ordered 🛒🛍")
 //Preorders
 .addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE? by ZuPins', "Ordered")
-.addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Ordered")
-.addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Ordered")
-
-.addPin('butchranwan.webp', 'RanWan Embrace <br>by Butchinelle', "Ordered")
-.addPin('butchbingqiu.webp', 'BingQiu Embrace <br>by Butchinelle', "Ordered")
 .addPin('xuetxj.webp', 'TXJ Floral Panel <br>by ???', "Ordered")
 .addPin('xuecwn.webp', 'CWN Floral Panel <br>by ???', "Ordered")
 .addPin('xuemoran.webp', 'MR Floral Panel <br>by ???', "Ordered")
+.addPin('butchranwan.webp', 'RanWan Embrace <br>by Butchinelle', "Ordered")
+.addPin('butchbingqiu.webp', 'BingQiu Embrace <br>by Butchinelle', "Ordered")
+.addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Ordered")
+.addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Ordered")
 .addPin('torikiiranwan.webp', 'TXJ & CWN Squabble <br>by TorikiiArt', "Ordered")
-.addPin('plushtxj.webp', 'Plush Pup TXJ <br>by ???', "Ordered")
-.addPin('postcanonranwan.webp', 'Lunar New Yr Ranwan <br>by ???', "Ordered")
-.addPin('swordieranwan.webp', 'Chibi Confession <br>by ???', "Ordered")
-.addPin('sunshineivantill.webp', 'Yuki Garden Ivantill <br>by PassamaniArt', "Ordered")
-
+// ==================================================================================================================================================================================================================================================
+addCategory("Ordered (UCioci) 🛒🛍")
 //UCioci
-.addPin('kmorifengqinggrass.webp', 'Spring Fengqing Chibi <br>LE by KmoriPins.', "Ordered")
-.addPin('kmorihualiangrass.webp', 'Spring Hualian Chibi <br>LE by KmoriPins.', "Ordered")
+.addPin('sunshineivantill.webp', 'Yuki Garden Ivantill <br>by PassamaniArt', "Ordered")
 .addPin('malingluguang.webp', 'Lu Guang Diamond <br>LE by malingmouse.', "Ordered")
 .addPin('malingxiaoshi.webp', 'Cheng Xiaoshi Diamond <br>LE by malingmouse.', "Ordered")
 .addPin('chibicloudlinkclick.webp', 'Cloudy ShiGuang Chibi <br>LE by rsenicrin.', "Ordered")
+.addPin('kmorifengqinggrass.webp', 'Spring Fengqing Chibi <br>LE by KmoriPins.', "Ordered")
+.addPin('kmorihualiangrass.webp', 'Spring Hualian Chibi <br>LE by KmoriPins.', "Ordered")
+.addPin('swordieranwan.webp', 'Chibi Confession <br>by ???', "Ordered")
+.addPin('plushtxj.webp', 'Plush Pup TXJ <br>by ???', "Ordered")
+.addPin('postcanonranwan.webp', 'Lunar New Yr Ranwan <br>by ???', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -582,6 +582,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
