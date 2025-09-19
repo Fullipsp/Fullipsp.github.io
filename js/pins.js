@@ -7,6 +7,17 @@ addCategory("Ordered 🛒🛍")
 .addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE? by ZuPins', "Ordered")
 .addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Ordered")
 .addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Ordered")
+
+.addPin('butchranwan.webp', 'RanWan Embrace <br>by Butchinelle', "Ordered")
+.addPin('butchbingqiu.webp', 'BingQiu Embrace <br>by Butchinelle', "Ordered")
+.addPin('xuetxj.webp', 'TXJ Floral Panel <br>by ???', "Ordered")
+.addPin('xuecwn.webp', 'CWN Floral Panel <br>by ???', "Ordered")
+.addPin('xuemoran.webp', 'MR Floral Panel <br>by ???', "Ordered")
+.addPin('torikiiranwan.webp', 'TXJ & CWN Squabble <br>by TorikiiArt', "Ordered")
+.addPin('plushtxj.webp', 'Plush Pup TXJ <br>by ???', "Ordered")
+.addPin('postcanonranwan.webp', 'Lunar New Yr Ranwan <br>by ???', "Ordered")
+.addPin('swordieranwan.webp', 'Chibi Confession <br>by ???', "Ordered")
+
 //UCioci
 .addPin('kmorifengqinggrass.webp', 'Spring Fengqing Chibi <br>LE by KmoriPins.', "Ordered")
 .addPin('kmorihualiangrass.webp', 'Spring Hualian Chibi <br>LE by KmoriPins.', "Ordered")
@@ -570,6 +581,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
