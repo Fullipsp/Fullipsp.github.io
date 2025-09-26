@@ -5,14 +5,17 @@ let categoryIndex = 0;
 addCategory("Ordered 🛒🪷")
 //Preorders
 .addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE? by ZuPins', "Ordered")
-.addPin('xuetxj.webp', 'TXJ Floral Panel <br>by ???', "Ordered")
-.addPin('xuecwn.webp', 'CWN Floral Panel <br>by ???', "Ordered")
-.addPin('xuemoran.webp', 'MR Floral Panel <br>by ???', "Ordered")
+.addPin('tillbun.webp', 'ZuPins Till Bunny <br>LE? by ZuPins', "Ordered")
+.addPin('ivanbun.webp', 'ZuPins Ivan Bunny <br>LE? by ZuPins', "Ordered")
 .addPin('butchranwan.webp', 'RanWan Embrace <br>by Butchinelle', "Ordered")
 .addPin('butchbingqiu.webp', 'BingQiu Embrace <br>by Butchinelle', "Ordered")
-.addPin('torikiiranwan.webp', 'TXJ & CWN Squabble <br>by TorikiiArt', "Ordered")
-.addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Ordered")
-.addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Ordered")
+
+.addPin('xuetxj.webp', 'TXJ Floral Panel <br>by ???', "Owned")
+.addPin('xuecwn.webp', 'CWN Floral Panel <br>by ???', "Owned")
+.addPin('xuemoran.webp', 'MR Floral Panel <br>by ???', "Owned")
+.addPin('torikiiranwan.webp', 'TXJ & CWN Squabble <br>by TorikiiArt', "Owned")
+.addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Owned")
+.addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Owned")
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered (UCioci) 🛒🌹")
 //UCioci
@@ -586,6 +589,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
