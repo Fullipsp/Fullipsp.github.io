@@ -36,7 +36,6 @@ addCategory("Pris & Zu Pins Chibis 🪷")
 .addPin('anaxachibi.webp', 'Anaxagoras Chibi <br>by ZuPins/PrisPins', "Ordered")
 .addPin('zublade.webp', 'Blade White ver. Chibi <br>by ZuPins/PrisPins', "Ordered")
 .addPin('zubrant.webp', 'Brant Chibi <br>by ZuPins/PrisPins', "Ordered")
-
 // =====================================================================================================================================================================================================================================================
 addCategory("InsomniaPins Diamonds 💎")
 .addPin('diamondwrio.webp', 'Wriothesley Diamond Pin <br>LE by Ins***Pins.', "Owned")
@@ -321,7 +320,7 @@ addCategory("Zelda Pins 🗡🏹 🌺💙")
 .addPin('sasaglasses.webp', 'Sasamiya Glasses&Mask <br>LE? by orangeshapins', "Owned")
 .addPin('sasakiss.webp', 'Sasamiya Petal Kiss <br>LE? by orangeshapins', "Owned")
 .addPin('sasablush.webp', 'Sasamiya Proximity Panel <br>LE? by orangeshapins', "Owned")
-.addPin('sasapetal.webp', 'Sasamiya Stained Glass Kiss <br>LE? by ???', "Owned")
+.addPin('sasapetal.webp', 'Sasamiya Stained Glass <br>LE? by ???', "Owned")
 .addPin('sasashy.webp', 'Sasamiya Shy Panel <br>LE? by ???', "Owned")
 .addPin('sasakimono.webp', 'Sasamiya Kimono <br>LE? by FantasyChibiPins', "Owned")
 .addPin('kaguprez.webp', 'Love is War Valentines <br> by FantasyChibiPns', "Owned")
@@ -593,6 +592,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
