@@ -12,17 +12,11 @@ addCategory("Ordered 🛒🪷")
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered (UCioci) 🛒🌹")
 //UCioci
-
 .addPin('karinapowder.webp', 'Arcane: Powder BWB <br> by karina****op', "Ordered")
 .addPin('karinajinx.webp', 'Arcane: Jinx BWB <br> by karina****op', "Ordered")
 .addPin('karinadenki.webp', 'MHA: Denki BWB <br> by karina****op', "Ordered")
 .addPin('2minfizz.webp', '2 Minutes Fizz -Gold- <br> by karina****op', "Ordered")
-.addPin('malingluguang.webp', 'Lu Guang Diamond <br>LE by malingmouse.', "Ordered")
-.addPin('malingxiaoshi.webp', 'Cheng Xiaoshi Diamond <br>LE by malingmouse.', "Ordered")
 .addPin('insomniaarle.webp', 'Arlecchino Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-.addPin('chibicloudlinkclick.webp', 'Cloudy ShiGuang Chibi <br>LE by rsenicrin.', "Ordered")
-.addPin('kmorifengqinggrass.webp', 'Spring Fengqing Chibi <br>LE by KmoriPins.', "Ordered")
-.addPin('kmorihualiangrass.webp', 'Spring Hualian Chibi <br>LE by KmoriPins.', "Ordered")
 
 
 addGap();
@@ -169,12 +163,9 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 // Beefleaf
  .addPin('furrybfl.webp', 'Cutie Beefleaf <br>by kmoripins', "Owned")
  .addPin('sitbfl.webp', 'Funny Beefleaf <br>by qqnzhe', "Owned")
- 
- //FOR SALE HUALIANZ
-.addPin('summerxl.webp', 'Summer Xie Lian <br>by Peonypinsco', "For-Sale")
-.addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "For-Sale")
-.addPin('xlcake.webp', 'Xie Lian Treat <br>by torikii_art', "Sold")
-.addPin('hccake.webp', 'Hua Cheng Treat <br>by torikii_art', "Sold")
+ // ORDERED
+ .addPin('kmorifengqinggrass.webp', 'Spring Fengqing Chibi <br>LE by KmoriPins.', "Ordered")
+.addPin('kmorihualiangrass.webp', 'Spring Hualian Chibi <br>LE by KmoriPins.', "Ordered")
 // =========================================================================================================================================================================================================================
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
 .addPin('bingliushen.webp', 'Springtime Trio ✦ <br>Bingliushen by naixaie', "Owned")
@@ -310,6 +301,10 @@ addCategory("Zelda Pins 🗡🏹 🌺💙")
 .addPin('lcbubbles.webp', 'Link Click Bubbles P4P <br>LE? by FlyingCanoePins', "Owned")
 .addPin('lgsnow.webp', 'Lu Guang Snowboard <br>LE? by orangeshapins', "Owned")
 .addPin('cxssnow.webp', 'Cheng Xiaoshi Snowboard <br>LE? by orangeshapins', "Owned")
+//
+.addPin('malingluguang.webp', 'Lu Guang Diamond <br>LE by malingmouse.', "Ordered")
+.addPin('malingxiaoshi.webp', 'Cheng Xiaoshi Diamond <br>LE by malingmouse.', "Ordered")
+.addPin('chibicloudlinkclick.webp', 'Cloudy ShiGuang Chibi <br>LE by rsenicrin.', "Ordered")
 // =========================================================================================================================================================================================================================
  addCategory("SK8 Infinity Pins 🧡💙+🛹♾️")
 .addPin('kassielanga.webp', 'Langa Diamond <br> by KassieArts', "Owned")
@@ -598,6 +593,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
