@@ -2,7 +2,10 @@
 let categoryIndex = 0;
 
 addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
-.addPin('insomniapunzie.webp', 'Rapunzie Panel <br>LE50 by Ins***Pins.', "Sold")
+
+.addPin('insomniasunday.webp', 'Sunday Diamond Pin <br>LE by Ins***Pins.', "For-Sale")
+.addPin('insomniamydei.webp', 'Mydei Diamond Pin <br>LE by Ins***Pins.', "For-Sale")
+.addPin('insomniasethos.webp', 'Sethos Diamond Pin <br>LE by Ins***Pins.', "For-Sale")
 //kassiearts
 .addPin('kassievanitas.webp', 'Vanitas Diamond <br>LE65 by KassieArts', "For-Sale")
 .addPin('kassiehisoka.webp', 'Hisoka Diamond <br>by KassieArts', "For-Sale")
@@ -46,6 +49,7 @@ addGap();
 // =======================================================================================================================================================================================================================
 addCategory("Sold Pins 👠")
 
+.addPin('insomniapunzie.webp', 'Rapunzie Panel <br>LE50 by Ins***Pins.', "Sold")
 .addPin('inlink.webp', 'BOTW Link <br>LE50 by Ins***Pins.', "Sold")
 .addPin('Clefairy.webp', 'Clefairy Tamagotchi <br>by Arcade Healer', "Sold")
 .addPin('ClownKirby.webp', 'Mirror Poyo <br>by Arcade Healer', "Sold")
