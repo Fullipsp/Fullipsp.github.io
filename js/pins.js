@@ -10,15 +10,16 @@ addCategory("Ordered 🛒🪷")
 .addPin('butchranwan.webp', 'RanWan Embrace <br>by Butchinelle', "Ordered")
 .addPin('butchbingqiu.webp', 'BingQiu Embrace <br>by Butchinelle', "Ordered")
 
-.addPin('xuetxj.webp', 'TXJ Floral Panel <br>by ???', "Owned")
-.addPin('xuecwn.webp', 'CWN Floral Panel <br>by ???', "Owned")
-.addPin('xuemoran.webp', 'MR Floral Panel <br>by ???', "Owned")
-.addPin('torikiiranwan.webp', 'TXJ & CWN Squabble <br>by TorikiiArt', "Owned")
+
+
 .addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Owned")
 .addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Owned")
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered (UCioci) 🛒🌹")
 //UCioci
+.addPin('tillhappy.webp', 'Till Moods (Happy) <br>LE30 by passamaniart', "Ordered")
+.addPin('tillblush.webp', 'Till Moods (Blush) <br>LE30 by passamaniart', "Ordered")
+ .addPin('tillsad.webp', 'Till Moods (Sad) <br>LE30 by passamaniart', "Ordered")
 .addPin('sunshineivantill.webp', 'Yuki Garden Ivantill <br>by PassamaniArt', "Ordered")
 .addPin('karinapowder.webp', 'Arcane: Powder BWB <br> by karina****op', "Ordered")
 .addPin('karinajinx.webp', 'Arcane: Jinx BWB <br> by karina****op', "Ordered")
@@ -213,9 +214,13 @@ addCategory("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
 .addPin('weiying.webp', 'Valentine Wei Ying <br>by Billacookie', "Owned")
 // =====================================================================================================================================================================================================================================================
 addCategory("Ranwan | Erha Pins 📖🌿💜")
+.addPin('xuetxj.webp', 'TXJ Floral Panel <br>by xvenne', "Owned")
+.addPin('xuecwn.webp', 'CWN Floral Panel <br>by xvenne', "Owned")
+.addPin('xuemoran.webp', 'MR Floral Panel <br>by xvenne', "Owned")
 .addPin('disciplecwn.webp', 'Guqin Masters: CWN <br>by Virinali', "Owned")
 .addPin('disciplemoran.webp', 'Sword Disciple: MoRan <br>by Virinali', "Owned")
 .addPin('ranwanpagoda.webp', 'Ranwan Chibis <br>by ???', "Owned")
+.addPin('torikiiranwan.webp', 'TXJ & CWN Squabble <br>by TorikiiArt', "Owned")
 .addPin('ranwanbutterfly.webp', 'Butterfly Ranwan <br>by xevnne', "Owned")
 .addPin('ranwansword.webp', 'Sword Confession <br>by bachoochi', "Owned")
 .addPin('ranwanfurries.webp', 'Husky & Kitty <br>by ???', "Owned")
@@ -589,6 +594,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
