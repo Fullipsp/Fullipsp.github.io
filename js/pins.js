@@ -4,23 +4,15 @@ let categoryIndex = 0;
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🪷")
 //Preorders
-.addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE? by ZuPins', "Ordered")
-.addPin('tillbun.webp', 'ZuPins Till Bunny <br>LE? by ZuPins', "Ordered")
-.addPin('ivanbun.webp', 'ZuPins Ivan Bunny <br>LE? by ZuPins', "Ordered")
 .addPin('butchranwan.webp', 'RanWan Embrace <br>by Butchinelle', "Ordered")
 .addPin('butchbingqiu.webp', 'BingQiu Embrace <br>by Butchinelle', "Ordered")
-
-
 
 .addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Owned")
 .addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Owned")
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered (UCioci) 🛒🌹")
 //UCioci
-.addPin('tillhappy.webp', 'Till Moods (Happy) <br>LE30 by passamaniart', "Ordered")
-.addPin('tillblush.webp', 'Till Moods (Blush) <br>LE30 by passamaniart', "Ordered")
- .addPin('tillsad.webp', 'Till Moods (Sad) <br>LE30 by passamaniart', "Ordered")
-.addPin('sunshineivantill.webp', 'Yuki Garden Ivantill <br>by PassamaniArt', "Ordered")
+
 .addPin('karinapowder.webp', 'Arcane: Powder BWB <br> by karina****op', "Ordered")
 .addPin('karinajinx.webp', 'Arcane: Jinx BWB <br> by karina****op', "Ordered")
 .addPin('karinadenki.webp', 'MHA: Denki BWB <br> by karina****op', "Ordered")
@@ -31,9 +23,7 @@ addCategory("Ordered (UCioci) 🛒🌹")
 .addPin('chibicloudlinkclick.webp', 'Cloudy ShiGuang Chibi <br>LE by rsenicrin.', "Ordered")
 .addPin('kmorifengqinggrass.webp', 'Spring Fengqing Chibi <br>LE by KmoriPins.', "Ordered")
 .addPin('kmorihualiangrass.webp', 'Spring Hualian Chibi <br>LE by KmoriPins.', "Ordered")
-.addPin('swordieranwan.webp', 'Chibi Confession <br>by ???', "Ordered")
-.addPin('plushtxj.webp', 'Plush Pup TXJ <br>by ???', "Ordered")
-.addPin('postcanonranwan.webp', 'Lunar New Yr Ranwan <br>by ???', "Ordered")
+
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -224,6 +214,10 @@ addCategory("Ranwan | Erha Pins 📖🌿💜")
 .addPin('ranwanbutterfly.webp', 'Butterfly Ranwan <br>by xevnne', "Owned")
 .addPin('ranwansword.webp', 'Sword Confession <br>by bachoochi', "Owned")
 .addPin('ranwanfurries.webp', 'Husky & Kitty <br>by ???', "Owned")
+//////
+.addPin('swordieranwan.webp', 'Chibi Confession <br>by ???', "Ordered")
+.addPin('plushtxj.webp', 'Plush Pup TXJ <br>by ???', "Ordered")
+.addPin('postcanonranwan.webp', 'Lunar New Yr Ranwan <br>by ???', "Ordered")
 // ===========================================================================================================================================================================================================================
 // Fantasy Couples
 addCategory("MLB Fantasy Couples 🐞🐱")
@@ -356,10 +350,20 @@ addCategory("Indie Game Pins 🗡💜")
 .addPin('hk.webp', 'Hollow Knight & Radience <br>by BlueAndRedWares', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Alien Stage Pins 🎤👽")
-// IvanEmotes
+// PREORDERS IVANTILL
+.addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE? by ZuPins', "Ordered")
+.addPin('sunshineivantill.webp', 'Yuki Garden Ivantill <br>by PassamaniArt', "Ordered")
+.addPin('tillbun.webp', 'ZuPins Till Bunny <br>LE? by ZuPins', "Ordered")
+.addPin('ivanbun.webp', 'ZuPins Ivan Bunny <br>LE? by ZuPins', "Ordered")
+// INHAND IVANTILL
+.addPin('tillhappy.webp', 'Till Moods (Happy) <br>LE30 by passamaniart', "Ordered")
+.addPin('tillblush.webp', 'Till Moods (Blush) <br>LE30 by passamaniart', "Ordered")
+.addPin('tillsad.webp', 'Till Moods (Sad) <br>LE30 by passamaniart', "Ordered")
+//OWNED
 .addPin('ivanhappy.webp', 'Ivan Moods (Smug) <br>LE40 by passamaniart', "Owned")
 .addPin('ivansad.webp', 'Ivan Moods (Sad) <br>LE40 by passamaniart', "Owned")
 .addPin('ivanblush.webp', 'Ivan Moods (Blush) <br>LE40 by passamaniart', "Owned")
+
 // =========================================================================================================================================================================================================================
 addCategory("Anime & Genshin Pins ✨")
 //GENSHIN
@@ -594,6 +598,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
