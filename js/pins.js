@@ -12,13 +12,7 @@ addCategory("Ordered 🛒🪷")
  //UPDATE PHOTO
 .addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Owned")
 .addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Owned")
-// ==================================================================================================================================================================================================================================================
-addCategory("Ordered (UCioci) 🛒🌹")
-//UCioci
-.addPin('karinapowder.webp', 'Arcane: Powder BWB <br> by karina****op', "Ordered")
-.addPin('karinajinx.webp', 'Arcane: Jinx BWB <br> by karina****op', "Ordered")
-.addPin('karinadenki.webp', 'MHA: Denki BWB <br> by karina****op', "Ordered")
-.addPin('insomniaarle.webp', 'Arlecchino Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Pris & Zu Pins Chibis 🪷")
@@ -36,6 +30,7 @@ addCategory("Pris & Zu Pins Chibis 🪷")
 .addPin('anaxachibi.webp', 'Anaxagoras Chibi <br>by ZuPins/PrisPins', "Ordered")
 .addPin('zublade.webp', 'Blade White ver. Chibi <br>by ZuPins/PrisPins', "Ordered")
 .addPin('zubrant.webp', 'Brant Chibi <br>by ZuPins/PrisPins', "Ordered")
+.addPin('insomniaarle.webp', 'Arlecchino Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 // =====================================================================================================================================================================================================================================================
 addCategory("InsomniaPins Diamonds 💎")
 .addPin('diamondwrio.webp', 'Wriothesley Diamond Pin <br>LE by Ins***Pins.', "Owned")
@@ -360,6 +355,9 @@ addCategory("Alien Stage Pins 🎤👽")
 
 // =========================================================================================================================================================================================================================
 addCategory("Anime & Genshin Pins ✨")
+.addPin('karinapowder.webp', 'Arcane: Powder BWB <br> by karina****op', "Ordered")
+.addPin('karinajinx.webp', 'Arcane: Jinx BWB <br> by karina****op', "Ordered")
+.addPin('karinadenki.webp', 'MHA: Denki BWB <br> by karina****op', "Ordered")
 //GENSHIN
 .addPin('zuwrio.webp', 'Wriothesley Chibi <br>by ZuPins', "Owned")
 .addPin('zuneuvi.webp', 'Neuvilette Chibi <br>by ZuPins', "Owned")
@@ -592,6 +590,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
