@@ -3,10 +3,13 @@ let categoryIndex = 0;
 
 // ==================================================================================================================================================================================================================================================
 addCategory("Ordered 🛒🪷")
-//Preorders
+//IN HAND DANMEI
 .addPin('butchranwan.webp', 'RanWan Embrace <br>by Butchinelle', "Ordered")
 .addPin('butchbingqiu.webp', 'BingQiu Embrace <br>by Butchinelle', "Ordered")
-
+.addPin('ranwanmoon.webp', 'Ranwan Moon Chibi <br>by peonypinsco', "Ordered")
+.addPin('xmm.webp', 'Xue Mei Meng Moon <br>by peonypinsco', "Ordered")
+.addPin('ximang.webp', 'XiMang Rest Chibi <br>by peonypinsco', "Ordered")
+ //UPDATE PHOTO
 .addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Owned")
 .addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Owned")
 // ==================================================================================================================================================================================================================================================
@@ -15,10 +18,7 @@ addCategory("Ordered (UCioci) 🛒🌹")
 .addPin('karinapowder.webp', 'Arcane: Powder BWB <br> by karina****op', "Ordered")
 .addPin('karinajinx.webp', 'Arcane: Jinx BWB <br> by karina****op', "Ordered")
 .addPin('karinadenki.webp', 'MHA: Denki BWB <br> by karina****op', "Ordered")
-.addPin('2minfizz.webp', '2 Minutes Fizz -Gold- <br> by karina****op', "Ordered")
 .addPin('insomniaarle.webp', 'Arlecchino Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-
-
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Pris & Zu Pins Chibis 🪷")
@@ -593,6 +593,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
