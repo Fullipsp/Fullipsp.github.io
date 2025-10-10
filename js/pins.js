@@ -6,9 +6,7 @@ addCategory("Ordered 🛒🪷")
 //IN HAND DANMEI
 .addPin('butchranwan.webp', 'RanWan Embrace <br>by Butchinelle', "Ordered")
 .addPin('butchbingqiu.webp', 'BingQiu Embrace <br>by Butchinelle', "Ordered")
-.addPin('ranwanmoon.webp', 'Ranwan Moon Chibi <br>by peonypinsco', "Owned")
-.addPin('xmm.webp', 'Xue Mei Meng Moon <br>by peonypinsco', "Owned")
-.addPin('ximang.webp', 'XiMang Rest Chibi <br>by peonypinsco', "Owned")
+
  //UPDATE PHOTO
 .addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Owned")
 .addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Owned")
@@ -199,6 +197,9 @@ addCategory("Ranwan | Erha Pins 📖🌿💜")
 .addPin('ranwanbutterfly.webp', 'Butterfly Ranwan <br>by xevnne', "Owned")
 .addPin('ranwansword.webp', 'Sword Confession <br>by bachoochi', "Owned")
 .addPin('ranwanfurries.webp', 'Husky & Kitty <br>by ???', "Owned")
+.addPin('ranwanmoon.webp', 'Ranwan Moon Chibi <br>by peonypinsco', "Owned")
+.addPin('xmm.webp', 'Xue Mei Meng Moon <br>by peonypinsco', "Owned")
+.addPin('ximang.webp', 'XiMang Rest Chibi <br>by peonypinsco', "Owned")
 //////
 .addPin('swordieranwan.webp', 'Chibi Confession <br>by ???', "Ordered")
 .addPin('plushtxj.webp', 'Plush Pup TXJ <br>by ???', "Ordered")
@@ -590,6 +591,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
