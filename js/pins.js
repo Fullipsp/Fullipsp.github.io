@@ -20,7 +20,7 @@ addCategory("Orders & Preorders 🛒🪷")
 //PHOTO NEEDED
 .addPin('butchranwan.webp', 'RanWan Embrace <br>by Butchinelle', "Owned")
 .addPin('butchbingqiu.webp', 'BingQiu Embrace <br>by Butchinelle', "Owned")
-.addPin('statuehualian.webp', 'Statue Hualian + MQ Chibis <br>LE40 by jun****art.', "Ordered")
+.addPin('statuehualian.webp', 'Statue Hualian + MQ Chibis <br>LE40 by jun****art.', "Owned")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -603,6 +603,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
