@@ -13,12 +13,13 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('wangxianyoung.webp', 'WangxianYears: Youth <br>LE by pap00shpins.', "Ordered")
 .addPin('wangxianteens.webp', 'WangxianYears: Teens <br>LE by pap00shpins.', "Ordered")
 .addPin('wangxianend.webp', 'WangxianYears: Together <br>LE by pap00shpins.', "Ordered")
-//IN HAND DANMEI
-.addPin('butchranwan.webp', 'RanWan Embrace <br>by Butchinelle', "Ordered")
-.addPin('butchbingqiu.webp', 'BingQiu Embrace <br>by Butchinelle', "Ordered")
- //UPDATE PHOTO
-.addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Owned")
-.addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Owned")
+//danmeipinz
+.addPin('virinaliranwan.webp', 'RanWan Confession <br>by Virinali', "Ordered")
+.addPin('sourboxesranwan.webp', 'RanWan Profiles <br>by Sourboxes', "Ordered")
+.addPin('foreverwoh.webp', 'WordOfHonor Forever Chibi <br>by Sourboxes', "Ordered")
+//PHOTO NEEDED
+.addPin('butchranwan.webp', 'RanWan Embrace <br>by Butchinelle', "Owned")
+.addPin('butchbingqiu.webp', 'BingQiu Embrace <br>by Butchinelle', "Owned")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -101,8 +102,8 @@ addCategory("Foxipins MXTX Windows")
 .addPin('foxiqr.webp', 'Qi Rong Window <br>LE65 by Foxipins', "Owned")
 .addPin('xichen.jpg', 'Lan Xichen Window <br>LE65 by Foxipins', "Owned")
  // PREORDER FOXI
-.addPin('foxihc.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Ordered")
-.addPin('foxinhs.webp', 'Nie Huaisang Window <br>LE65 by Foxipins', "Ordered")
+.addPin('foxihc.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Owned")
+.addPin('foxinhs.webp', 'Nie Huaisang Window <br>LE65 by Foxipins', "Owned")
 .addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Sold")
 // ========================================================================================================================================================================================================================
 addCategory("MXTX Meme Chibis: Midnight Version 🌙✨")
@@ -365,10 +366,13 @@ addCategory("Anime & Genshin Pins ✨")
 .addPin('karinapowder.webp', 'Arcane: Powder BWB <br> by karina****op', "Ordered")
 .addPin('karinajinx.webp', 'Arcane: Jinx BWB <br> by karina****op', "Ordered")
 .addPin('karinadenki.webp', 'MHA: Denki BWB <br> by karina****op', "Ordered")
+  //UPDATE PHOTO
+.addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Owned")
+.addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Owned")
 //GENSHIN
+.addPin('insomniawrio.webp', 'Wriothesley Bust <br>by InsomniaPins', "Owned")
 .addPin('zuwrio.webp', 'Wriothesley Chibi <br>by ZuPins', "Owned")
 .addPin('zuneuvi.webp', 'Neuvilette Chibi <br>by ZuPins', "Owned")
-.addPin('insomniawrio.webp', 'Wriothesley Bust <br>by InsomniaPins', "Owned")
 // Neuvilette
 .addPin('insomnianeuvi.webp', 'Neuvilette Bust <br>LE? by InsomniaPins', "Owned")
 .addPin('chadneuvi.webp', 'Serious Neuvilette Panel <br>LE30 by KelsPins', "Owned")
@@ -597,6 +601,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
