@@ -362,62 +362,59 @@ addCategory("Alien Stage Pins 🎤👽")
 .addPin('ivanhappy.webp', 'Ivan Moods (Smug) <br>LE40 by passamaniart', "Owned")
 .addPin('ivansad.webp', 'Ivan Moods (Sad) <br>LE40 by passamaniart', "Owned")
 .addPin('ivanblush.webp', 'Ivan Moods (Blush) <br>LE40 by passamaniart', "Owned")
-
 // =========================================================================================================================================================================================================================
 addCategory("Genshin & HonkaiRail Pins ✨")
-  
-//GENSHIN
+ //HSR HSR HSR HSR HSR
+.addPin('gloomysunday.webp', 'Gloomy 90s Sunday <br>LE? by midnightmoonpins', "Owned")
+.addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Owned")
+.addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Owned")
+.addPin('jiaoqiucircle.webp', 'Jiaoqiu Circle <br>by orangeshapins', "Owned")
+.addPin('spinnerjiaoqiu.webp', 'Jiaoqiu Hot-Pot Spinner <br>by orangeshapins', "Owned")
+//GENSHIN GENSHIN GENSHIN
 .addPin('insomniawrio.webp', 'Wriothesley Bust <br>by InsomniaPins', "Owned")
- .addPin('insomnianeuvi.webp', 'Neuvilette Bust <br>LE? by InsomniaPins', "Owned")
+.addPin('insomnianeuvi.webp', 'Neuvilette Bust <br>LE? by InsomniaPins', "Owned")
 .addPin('zuwrio.webp', 'Wriothesley Chibi <br>by ZuPins', "Owned")
 .addPin('zuneuvi.webp', 'Neuvilette Chibi <br>by ZuPins', "Owned")
 .addPin('chadneuvi.webp', 'Serious Neuvilette Panel <br>LE30 by KelsPins', "Owned")
 .addPin('neuviglass.webp', 'Neuvilette POP <br>LE? by MidnightMoonPins', "Owned")
 .addPin('neuvirain.webp', 'Neuvilette Stained Glass <br>LE? by MidnightMoonPins', "Owned")
-.addPin('gloomysunday.webp', 'Gloomy 90s Sunday <br>LE? by midnightmoonpins', "Owned")
 .addPin('pastelxiao.webp', 'The Last Yaksha POP <br>LE60 by PastelShootingStar', "Owned")
 .addPin('malingitto.webp', 'Freaky Itto <br>LE? by MalingMouse', "Owned")
 .addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
-.addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Owned")
-.addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Owned")
-.addPin('jiaoqiucircle.webp', 'Jiaoqiu Circle <br>by orangeshapins', "Owned")
-.addPin('spinnerjiaoqiu.webp', 'Jiaoqiu Hot-Pot Spinner <br>by orangeshapins', "Owned")
 .addPin('lenzhongli.webp', 'Zhongli <br>by Lenacchi', "Owned")
- .addPin('lengorou.webp', 'Gorou <br>by Lenacchi', "Owned")
- .addPin('lenayato.webp', 'Ayato <br>by Lenacchi', "Sold")
- .addPin('lenkazuha.webp', 'Kazuha <br>by Lenacchi', "Sold")
- .addPin('lenxiao.webp', 'Xiao <br>by Lenacchi', "Owned")
- .addPin('gachagorou.jpg', 'Chibi Gorou <br>by hideawaymelon', "Owned")
- .addPin('ChildeTraditional.webp', 'Childe <br>by BirbsNest', "Owned")
- .addPin('XiaoTraditional.webp', 'Xiao <br>by BirbsNest', "Owned")
- .addPin('eggkazuha.webp', 'Kitty Kazuha <br>by angryeggmerch', "Owned")
+.addPin('lengorou.webp', 'Gorou <br>by Lenacchi', "Owned")
+.addPin('lenayato.webp', 'Ayato <br>by Lenacchi', "Sold")
+.addPin('lenkazuha.webp', 'Kazuha <br>by Lenacchi', "Sold")
+.addPin('lenxiao.webp', 'Xiao <br>by Lenacchi', "Owned")
+.addPin('gachagorou.jpg', 'Chibi Gorou <br>by hideawaymelon', "Owned")
+.addPin('ChildeTraditional.webp', 'Childe <br>by BirbsNest', "Owned")
+.addPin('XiaoTraditional.webp', 'Xiao <br>by BirbsNest', "Owned")
+.addPin('eggkazuha.webp', 'Kitty Kazuha <br>by angryeggmerch', "Owned")
 .addPin('heartkazuha.webp', 'Valentine Kazuha <br>by cafhune', "Owned") 
 .addPin('xiao.webp', 'Xiao <br>by Sugar Cubed Studios', "Owned")
 .addPin('fivexiao.webp', 'Xiao <br>by Fiveonthe', "Owned")
 .addPin('scara.webp', 'Scaramouche <br>by Sugar Cubed Studios', "Owned")
 .addPin('scarachibiprofile.webp', 'Chibi Scaramouche <br>by AkuoArt', "Owned")
 .addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "Owned")
- 
+// =========================================================================================================================================================================================================================
+addCategory("Anime & Misc ✨")
 .addPin('karinapowder.webp', 'Arcane: Powder BWB <br> by karina****op', "Ordered")
 .addPin('karinajinx.webp', 'Arcane: Jinx BWB <br> by karina****op', "Ordered")
 .addPin('karinadenki.webp', 'MHA: Denki BWB <br> by karina****op', "Ordered")
-
-
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Owned")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Owned")
 .addPin('xqonepiece.webp', 'ASL One Piece Set <br>by XQIU', "Owned")
 .addPin('jinmaoset.webp', 'JinMao Emotes Set <br>LE? by zzzsgalore', "Owned")
 //Obamitsu and demon slayer
-   .addPin('xqobamitsu.webp', 'Obanai x Mitsuri Set <br>by XQIU', "Owned")
-   .addPin('obamitsu3.webp', 'Obanai & Mitsuri 3 <br>by Nandemopins', "Owned")
-   .addPin('obamitsu1.webp', 'Obanai & Mitsuri 1 <br>by Nandemopins', "Owned")
-   .addPin('obamitsu2.webp', 'Obanai & Mitsuri 2 <br>by Nandemopins', "Owned")
-   .addPin('mouseakaza.webp', 'Chibi Cute Akaza <br>by MailMousePins', "Owned")
-   .addPin('crazyakaza.webp', 'Crazy Chibi Akaza <br>by ???', "Owned")
-   .addPin('giyumidnight.jpg', 'KNY - Giyu Tomioka <br> by MidnightMoonpins.', "Owned")
-// Genshin Impact
- 
+.addPin('xqobamitsu.webp', 'Obanai x Mitsuri Set <br>by XQIU', "Owned")
+.addPin('obamitsu3.webp', 'Obanai & Mitsuri 3 <br>by Nandemopins', "Owned")
+.addPin('obamitsu1.webp', 'Obanai & Mitsuri 1 <br>by Nandemopins', "Owned")
+.addPin('obamitsu2.webp', 'Obanai & Mitsuri 2 <br>by Nandemopins', "Owned")
+.addPin('mouseakaza.webp', 'Chibi Cute Akaza <br>by MailMousePins', "Owned")
+.addPin('crazyakaza.webp', 'Crazy Chibi Akaza <br>by ???', "Owned")
+.addPin('giyumidnight.jpg', 'KNY - Giyu Tomioka <br> by MidnightMoonpins.', "Owned")
+
 // =========================================================================================================================================================================================================================
 addCategory("MYSME Pins 🌼🤍", "http://msg.cheritz.com/")
     .addPin('gebby.webp', 'GE Saeran Chibi <br>by Alicehwyy', "Owned")
@@ -606,6 +603,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
