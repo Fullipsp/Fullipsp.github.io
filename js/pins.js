@@ -401,16 +401,14 @@ addCategory("Anime & Misc ✨")
 .addPin('karinapowder.webp', 'Arcane: Powder BWB <br> by karina****op', "Ordered")
 .addPin('karinajinx.webp', 'Arcane: Jinx BWB <br> by karina****op', "Ordered")
 .addPin('karinadenki.webp', 'MHA: Denki BWB <br> by karina****op', "Ordered")
-// VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Owned")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Owned")
 .addPin('xqonepiece.webp', 'ASL One Piece Set <br>by XQIU', "Owned")
-.addPin('jinmaoset.webp', 'JinMao Emotes Set <br>LE? by zzzsgalore', "Owned")
-//Obamitsu and demon slayer
 .addPin('xqobamitsu.webp', 'Obanai x Mitsuri Set <br>by XQIU', "Owned")
 .addPin('obamitsu3.webp', 'Obanai & Mitsuri 3 <br>by Nandemopins', "Owned")
 .addPin('obamitsu1.webp', 'Obanai & Mitsuri 1 <br>by Nandemopins', "Owned")
 .addPin('obamitsu2.webp', 'Obanai & Mitsuri 2 <br>by Nandemopins', "Owned")
+.addPin('jinmaoset.webp', 'JinMao Emotes Set <br>LE? by zzzsgalore', "Owned")
 .addPin('mouseakaza.webp', 'Chibi Cute Akaza <br>by MailMousePins', "Owned")
 .addPin('crazyakaza.webp', 'Crazy Chibi Akaza <br>by ???', "Owned")
 .addPin('giyumidnight.jpg', 'KNY - Giyu Tomioka <br> by MidnightMoonpins.', "Owned")
@@ -603,6 +601,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
