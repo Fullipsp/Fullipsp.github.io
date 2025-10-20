@@ -17,8 +17,6 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('virinaliranwan.webp', 'RanWan Confession <br>by Virinali', "Ordered")
 .addPin('sourboxesranwan.webp', 'RanWan Profiles <br>by Sourboxes', "Ordered")
 .addPin('foreverwoh.webp', 'WordOfHonor Forever Chibi <br>by Sourboxes', "Ordered")
-//PHOTO NEEDED
-
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -76,18 +74,20 @@ addCategory("InsomniaPins Diamonds 💎")
 // =====================================================================================================================================================================================================================================================
 addCategory("Foxipins MXTX Windows")
  //OWNED FOXI
-.addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Owned")
 .addPin('hxwindow.webp', 'He Xuan Window <br>LE65 by Foxipins', "Owned")
 .addPin('sqxwindow.webp', 'Shi Qingxuan Window <br>LE65 by Foxipins', "Owned")
-.addPin('foxibinghe.webp', 'Luo Binghe Window <br>LE65 by Foxipins', "Owned")
-.addPin('foxinmj.webp', 'Nie Mingje Window <br>LE65 by Foxipins', "Owned")
 .addPin('lwjpanel.webp', 'Lan Wangji Window <br>LE65 by Foxipins', "Owned")
 .addPin('foxiwwx.webp', 'Wei Wuxian Window <br>LE65 by Foxipins', "Owned")
-//demon trio
-.addPin('shahualing.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Owned")
+.addPin('foxibinghe.webp', 'Luo Binghe Window <br>LE65 by Foxipins', "Owned")
+.addPin('foxihc.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Owned")
+.addPin('foxiqr.webp', 'Qi Rong Window <br>LE65 by Foxipins', "Owned")
+.addPin('xichen.webp', 'Lan Xichen Window <br>LE65 by Foxipins', "Owned")
+.addPin('foxinmj.webp', 'Nie Mingje Window <br>LE65 by Foxipins', "Owned")
+.addPin('foxinhs.webp', 'Nie Huaisang Window <br>LE65 by Foxipins', "Owned")
 .addPin('binghedaddytlj.webp', 'Binghes Daddy Window <br>LE65 by Foxipins', "Owned")
 .addPin('mobeijun.webp', 'Mobei-Jun Window <br>LE65 by Foxipins', "Owned")
- //
+.addPin('shahualing.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Owned")
+ 
 .addPin('bingpup.webp', 'Bingpup Window <br>by Foxipins', "Owned")
 .addPin('foxifairy.webp', 'Fairy Window <br>by Foxipins', "Owned")
 .addPin('gongyixiao.webp', 'Gongyi Xiao Window <br>by Foxipins', "Owned")
@@ -99,12 +99,8 @@ addCategory("Foxipins MXTX Windows")
 .addPin('shiwudu.jpg', 'Shi Wudu Window <br>LE65 by Foxipins', "Owned")
 .addPin('yinyu.webp', 'Yin Yu Window <br>LE65 by Foxipins', "Owned")
 .addPin('wenning.webp', 'Wen Ning Window <br>LE65 by Foxipins', "Owned")
-.addPin('foxiqr.webp', 'Qi Rong Window <br>LE65 by Foxipins', "Owned")
-.addPin('xichen.webp', 'Lan Xichen Window <br>LE65 by Foxipins', "Owned")
- // PREORDER FOXI
-.addPin('foxihc.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Owned")
-.addPin('foxinhs.webp', 'Nie Huaisang Window <br>LE65 by Foxipins', "Owned")
 .addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Sold")
+.addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Owned")
 // ========================================================================================================================================================================================================================
 addCategory("MXTX Meme Chibis: Midnight Version 🌙✨")
 .addPin('memelian.webp', 'MXTX Memes: XieLian <br>LE30 by PrisPins', "Owned")
@@ -602,6 +598,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
