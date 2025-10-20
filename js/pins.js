@@ -72,7 +72,7 @@ addCategory("InsomniaPins Diamonds 💎")
 .addPin('insomniafeixiao.webp', 'Insomnia Feixiao Diamond <br>LE? by Ins***Pins', "Sold")
 .addPin('insomnialuocha.webp', 'Luocha Diamond Pin <br>LE by Ins***Pins.', "Sold")
 // =====================================================================================================================================================================================================================================================
-addCategory("Foxipins MXTX Windows")
+addCategory("Foxipins MXTX Windows", "https://www.google.com/search?q=mo+xiang+tong+xiu")
  //OWNED FOXI
 .addPin('hxwindow.webp', 'He Xuan Window <br>LE65 by Foxipins', "Owned")
 .addPin('sqxwindow.webp', 'Shi Qingxuan Window <br>LE65 by Foxipins', "Owned")
@@ -101,7 +101,7 @@ addCategory("Foxipins MXTX Windows")
 .addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Sold")
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Owned")
 // ========================================================================================================================================================================================================================
-addCategory("MXTX Meme Chibis: Midnight Version 🌙✨")
+addCategory("MXTX Meme Chibis: Midnight Version 🌙✨", "https://www.google.com/search?q=mo+xiang+tong+xiu")
 .addPin('memelian.webp', 'MXTX Memes: XieLian <br>LE30 by PrisPins', "Owned")
 .addPin('memecheng.webp', 'MXTX Memes: HuaCheng <br>LE30 by PrisPins', "Owned")
 .addPin('memewuxian.webp', 'MXTX Memes: WeiYing <br>LE30 by PrisPins', "Owned")
@@ -597,6 +597,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
