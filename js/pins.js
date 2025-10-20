@@ -18,9 +18,7 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('sourboxesranwan.webp', 'RanWan Profiles <br>by Sourboxes', "Ordered")
 .addPin('foreverwoh.webp', 'WordOfHonor Forever Chibi <br>by Sourboxes', "Ordered")
 //PHOTO NEEDED
-.addPin('butchranwan.webp', 'RanWan Embrace <br>by Butchinelle', "Owned")
-.addPin('butchbingqiu.webp', 'BingQiu Embrace <br>by Butchinelle', "Owned")
-.addPin('statuehualian.webp', 'Statue Hualian + MQ Chibis <br>LE40 by jun****art.', "Owned")
+
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -118,7 +116,7 @@ addCategory("MXTX Meme Chibis: Midnight Version 🌙✨")
 .addPin('memeqingge.webp', 'MXTX Memes: LiuQingge <br>LE30 by PrisPins', "Owned")
 // ========================================================================================================================================================================================================================
 addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
-.addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Owned")
+.addPin('statuehualian.webp', 'Statue Hualian + MQ Chibis <br>LE40 by jun****art.', "Owned")
 .addPin('believer.webp', 'God & King <br>by Califlair', "Owned")
 .addPin('sanlang.webp', 'Thousand Lights <br>by Califlair', "Owned")
 .addPin('wedding.webp', 'His Heavenly Bride <br>by Califlair', "Sold")
@@ -157,7 +155,8 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('babylian.webp', 'Baby Xie Lian Patreon <br> by Butchinelle', "Owned")
 .addPin('honger.webp', 'Flower Honger Patreon <br> by Butchinelle', "Owned")
 .addPin('ecstasy.webp', 'Pleasure&Ecstasy Hualian <br>by ihavetobenkyou', "Sold")
-
+.addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Owned")
+ 
 .addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Owned")
 .addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Owned")
 .addPin('peterpan.webp', 'Peter Pan Hualian <br>by simplelunacy', "Owned") 
@@ -174,6 +173,7 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('kmorihualiangrass.webp', 'Spring Hualian Chibi <br>LE by KmoriPins.', "Ordered")
 // =========================================================================================================================================================================================================================
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
+.addPin('butchbingqiu.webp', 'BingQiu Embrace <br>by Butchinelle', "Owned")
 .addPin('bingliushen.webp', 'Springtime Trio ✦ <br>Bingliushen by naixaie', "Owned")
 .addPin('charitybingqiu.webp', 'Blossoms of Spring ✦ <br>Bingqiu by naixaie', "Owned")
 .addPin('guqinlbh.webp', 'Sword Disciple: LBH <br>by Virinali', "Owned")
@@ -201,6 +201,7 @@ addCategory("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
 .addPin('weiying.webp', 'Valentine Wei Ying <br>by Billacookie', "Owned")
 // =====================================================================================================================================================================================================================================================
 addCategory("Ranwan | Erha Pins 📖🌿💜")
+.addPin('butchranwan.webp', 'RanWan Embrace <br>by Butchinelle', "Owned")
 .addPin('xuetxj.webp', 'TXJ Floral Panel <br>by xvenne', "Owned")
 .addPin('xuecwn.webp', 'CWN Floral Panel <br>by xvenne', "Owned")
 .addPin('xuemoran.webp', 'MR Floral Panel <br>by xvenne', "Owned")
@@ -601,6 +602,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
