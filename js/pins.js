@@ -87,18 +87,17 @@ addCategory("Foxipins MXTX Windows")
 .addPin('binghedaddytlj.webp', 'Binghes Daddy Window <br>LE65 by Foxipins', "Owned")
 .addPin('mobeijun.webp', 'Mobei-Jun Window <br>LE65 by Foxipins', "Owned")
 .addPin('shahualing.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Owned")
- 
-.addPin('bingpup.webp', 'Bingpup Window <br>by Foxipins', "Owned")
-.addPin('foxifairy.webp', 'Fairy Window <br>by Foxipins', "Owned")
 .addPin('gongyixiao.webp', 'Gongyi Xiao Window <br>by Foxipins', "Owned")
-.addPin('wenqing.webp', 'Wen Qing Window <br>by Foxipins', "Owned")
 .addPin('yanli.webp', 'Jiang Yanli Window <br>by Foxipins', "Owned")
 .addPin('jiangcheng.webp', 'Jiang Cheng Window <br>by Foxipins', "Owned")
+.addPin('wenqing.webp', 'Wen Qing Window <br>by Foxipins', "Owned")
+.addPin('shiwudu.jpg', 'Shi Wudu Window <br>LE65 by Foxipins', "Owned")
 .addPin('peiming.jpg', 'Pei Ming Window <br>LE65 by Foxipins', "Owned")
 .addPin('lingwen.jpg', 'Ling Wen Window <br>LE65 by Foxipins', "Owned")
-.addPin('shiwudu.jpg', 'Shi Wudu Window <br>LE65 by Foxipins', "Owned")
 .addPin('yinyu.webp', 'Yin Yu Window <br>LE65 by Foxipins', "Owned")
 .addPin('wenning.webp', 'Wen Ning Window <br>LE65 by Foxipins', "Owned")
+.addPin('bingpup.webp', 'Bingpup Window <br>by Foxipins', "Owned")
+.addPin('foxifairy.webp', 'Fairy Window <br>by Foxipins', "Owned")
 .addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Sold")
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Owned")
 // ========================================================================================================================================================================================================================
@@ -598,6 +597,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
