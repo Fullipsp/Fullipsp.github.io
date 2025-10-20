@@ -81,7 +81,7 @@ addCategory("Foxipins MXTX Windows")
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Owned")
 .addPin('hxwindow.webp', 'He Xuan Window <br>LE65 by Foxipins', "Owned")
 .addPin('sqxwindow.webp', 'Shi Qingxuan Window <br>LE65 by Foxipins', "Owned")
-.addPin('binghe.webp', 'Luo Binghe Window <br>LE65 by Foxipins', "Owned")
+.addPin('foxibinghe.webp', 'Luo Binghe Window <br>LE65 by Foxipins', "Owned")
 .addPin('foxinmj.webp', 'Nie Mingje Window <br>LE65 by Foxipins', "Owned")
 .addPin('lwjpanel.webp', 'Lan Wangji Window <br>LE65 by Foxipins', "Owned")
 .addPin('foxiwwx.webp', 'Wei Wuxian Window <br>LE65 by Foxipins', "Owned")
@@ -102,7 +102,7 @@ addCategory("Foxipins MXTX Windows")
 .addPin('yinyu.webp', 'Yin Yu Window <br>LE65 by Foxipins', "Owned")
 .addPin('wenning.webp', 'Wen Ning Window <br>LE65 by Foxipins', "Owned")
 .addPin('foxiqr.webp', 'Qi Rong Window <br>LE65 by Foxipins', "Owned")
-.addPin('xichen.jpg', 'Lan Xichen Window <br>LE65 by Foxipins', "Owned")
+.addPin('xichen.webp', 'Lan Xichen Window <br>LE65 by Foxipins', "Owned")
  // PREORDER FOXI
 .addPin('foxihc.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Owned")
 .addPin('foxinhs.webp', 'Nie Huaisang Window <br>LE65 by Foxipins', "Owned")
@@ -601,6 +601,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
