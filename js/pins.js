@@ -13,10 +13,6 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('wangxianyoung.webp', 'WangxianYears: Youth <br>LE by pap00shpins.', "Ordered")
 .addPin('wangxianteens.webp', 'WangxianYears: Teens <br>LE by pap00shpins.', "Ordered")
 .addPin('wangxianend.webp', 'WangxianYears: Together <br>LE by pap00shpins.', "Ordered")
-//danmeipinz
-.addPin('virinaliranwan.webp', 'RanWan Confession <br>by Virinali', "Ordered")
-.addPin('sourboxesranwan.webp', 'RanWan Profiles <br>by Sourboxes', "Ordered")
-.addPin('foreverwoh.webp', 'WordOfHonor Forever Chibi <br>by Sourboxes', "Ordered")
 //Preorders INSOMNIAPINS
 .addPin('insomniaacheron.webp', 'Acheron Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniaororon.webp', 'Ororon Diamond Pin <br>LE by Ins***Pins.', "Ordered")
@@ -28,6 +24,12 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('insomniaboothill.webp', 'Boothill Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniajingyuan.webp', 'JingYuan Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniaogsunday.webp', 'Sunday OG Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniaarle.webp', 'Arlecchino Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+//danmeipinz
+.addPin('virinaliranwan.webp', 'RanWan Confession <br>by Virinali', "Ordered")
+.addPin('sourboxesranwan.webp', 'RanWan Profiles <br>by Sourboxes', "Ordered")
+.addPin('foreverwoh.webp', 'WordOfHonor Forever Chibi <br>by Sourboxes', "Ordered")
+
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Pris & Zu Pins Chibis 🪷")
@@ -45,7 +47,6 @@ addCategory("Pris & Zu Pins Chibis 🪷")
 .addPin('anaxachibi.webp', 'Anaxagoras Chibi <br>by ZuPins/PrisPins', "Ordered")
 .addPin('zublade.webp', 'Blade White ver. Chibi <br>by ZuPins/PrisPins', "Ordered")
 .addPin('zubrant.webp', 'Brant Chibi <br>by ZuPins/PrisPins', "Ordered")
-.addPin('insomniaarle.webp', 'Arlecchino Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 // =====================================================================================================================================================================================================================================================
 addCategory("InsomniaPins Diamonds 💎")
 .addPin('diamondwrio.webp', 'Wriothesley Diamond Pin <br>LE by Ins***Pins.', "Owned")
@@ -597,6 +598,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
