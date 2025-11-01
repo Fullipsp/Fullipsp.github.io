@@ -6,13 +6,10 @@ addCategory("Orders & Preorders 🛒🪷")
 //PREORDERS
  // IVANTILL
 .addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE? by ZuPins', "Ordered")
+.addPin('zuivantill.webp', 'ZuPins Ivantill Chrome <br>OP by ZuPins', "Ordered")
 .addPin('sunshineivantill.webp', 'Yuki Garden Ivantill <br>by PassamaniArt', "Ordered")
 .addPin('tillbun.webp', 'ZuPins Till Bunny <br>LE? by ZuPins', "Ordered")
 .addPin('ivanbun.webp', 'ZuPins Ivan Bunny <br>LE? by ZuPins', "Ordered")
-// papoosh preorder wangxian
-.addPin('wangxianyoung.webp', 'WangxianYears: Youth <br>LE by pap00shpins.', "Ordered")
-.addPin('wangxianteens.webp', 'WangxianYears: Teens <br>LE by pap00shpins.', "Ordered")
-.addPin('wangxianend.webp', 'WangxianYears: Together <br>LE by pap00shpins.', "Ordered")
 //Preorders INSOMNIAPINS
 .addPin('insomniaacheron.webp', 'Acheron Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniaororon.webp', 'Ororon Diamond Pin <br>LE by Ins***Pins.', "Ordered")
@@ -25,6 +22,7 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('insomniajingyuan.webp', 'JingYuan Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniaogsunday.webp', 'Sunday OG Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniaarle.webp', 'Arlecchino Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('hsrhalloween.webp', 'Halloween Blind Dia Pin <br>LE by Ins***Pins.', "Ordered")
 //danmeipinz
 .addPin('virinaliranwan.webp', 'RanWan Confession <br>by Virinali', "Ordered")
 .addPin('sourboxesranwan.webp', 'RanWan Profiles <br>by Sourboxes', "Ordered")
@@ -185,6 +183,11 @@ addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
 .addPin('bingpupadvent.webp', 'Flowery Bingpup <br>by naixaie', "Owned")
 // ===========================================================================================================================================================================================================================
 addCategory("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
+// papoosh preorder wangxian
+.addPin('wangxianyoung.webp', 'WangxianYears: Youth <br>LE by pap00shpins.', "Ordered")
+.addPin('wangxianteens.webp', 'WangxianYears: Teens <br>LE by pap00shpins.', "Ordered")
+.addPin('wangxianend.webp', 'WangxianYears: Together <br>LE by pap00shpins.', "Ordered")
+ 
 .addPin('bluhdonkey.webp', 'Wangxian Donkey <br>by Bluhtack', "Owned")
 .addPin('bluhroof.webp', 'Wangxian on Roof <br>by Bluhtack', "Owned")
 .addPin('bachwangxian.webp', 'Lilypad Wangxian <br>by Bachoochi', "Owned")
@@ -598,6 +601,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
