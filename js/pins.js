@@ -12,10 +12,10 @@ addCategory("Orders & Preorders 🛒🪷")
 //Preorders INSOMNIAPINS
 .addPin('insomniawriobn.webp', 'BN: Wrio Diamond <br>LE? by Ins***Pins', "Ordered")
 .addPin('insomnianeuvibn.webp', 'BN: Neuvi Diamond <br>LE? by Ins***Pins', "Ordered")
+.addPin('insomniaororon.webp', 'Ororon Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniazhongli.webp', 'Zhongli Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniachildeog.png', 'Acheron Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniaacheron.webp', 'Acheron Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-.addPin('insomniaororon.webp', 'Ororon Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniablade.webp', 'Blade Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniajiaoqiu.webp', 'Moze Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniamoze.webp', 'Moze Diamond Pin <br>LE by Ins***Pins.', "Ordered")
@@ -23,10 +23,8 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('insomniajingyuan.webp', 'JingYuan Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniaogsunday.webp', 'Sunday OG Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('hsrhalloween.webp', 'Halloween Blind Dia Pin <br>LE by Ins***Pins.', "Ordered")
-.addPin('insomniaarle.webp', 'Arlecchino Diamond Pin <br>LE by Ins***Pins.', "Owned")
 //danmeipinz
-.addPin('virinaliranwan.webp', 'RanWan Confession <br>by Virinali', "Owned")
-.addPin('sourboxesranwan.webp', 'RanWan Profiles <br>by Sourboxes', "Owned")
+.addPin('virinaliranwan.webp', 'RanWan Confession <br>by Virinali', "Ordered")
 .addPin('foreverwoh.webp', 'WordOfHonor Forever Chibi <br>by Sourboxes', "Owned")
 
 addGap();
@@ -67,6 +65,7 @@ addCategory("InsomniaPins Diamonds 💎")
 .addPin('insomniatighnari.webp', 'Tighnari Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniasethos.webp', 'Sethos Diamond Pin <br>LE by Ins***Pins.', "Owned")
+.addPin('insomniaarle.webp', 'Arlecchino Diamond Pin <br>LE by Ins***Pins.', "Owned")
 
 // Sold 
 .addPin('insomniafeixiao.webp', 'Insomnia Feixiao Diamond <br>LE? by Ins***Pins', "Sold")
@@ -215,10 +214,10 @@ addCategory("Ranwan | Erha Pins 📖🌿💜", "https://tinyurl.com/whosranwan")
 .addPin('ranwanmoon.webp', 'Ranwan Moon Chibi <br>by peonypinsco', "Owned")
 .addPin('xmm.webp', 'Xue Mei Meng Moon <br>by peonypinsco', "Owned")
 .addPin('ximang.webp', 'XiMang Rest Chibi <br>by peonypinsco', "Owned")
-//////
+.addPin('sourboxesranwan.webp', 'RanWan Profiles <br>by Sourboxes', "Owned")
+.addPin('postcanonranwan.webp', 'Lunar New Yr Ranwan <br>by ???', "Owned")
 .addPin('swordieranwan.webp', 'Chibi Confession <br>by ???', "Owned")
 .addPin('plushtxj.webp', 'Plush Pup TXJ <br>by ???', "Owned")
-.addPin('postcanonranwan.webp', 'Lunar New Yr Ranwan <br>by ???', "Owned")
 // ===========================================================================================================================================================================================================================
 // Fantasy Couples
 addCategory("MLB Fantasy Couples 🐞🐱")
@@ -311,9 +310,9 @@ addCategory("Zelda Pins 🗡🏹 🌺💙", "https://shipping.fandom.com/wiki/Ze
 .addPin('qlchibi.webp', 'Qiao Ling Chibi <br>by flyingcanoepins', "Owned")
 .addPin('gloomyshiguang.webp', 'Gloomy 90s Shiguang <br>LE? by KelsPins', "Owned")
 .addPin('p4pshiguang.webp', 'P4P Tides Shiguang <br>LE115 by flyingcanoepins', "Owned")
-.addPin('lcbubbles.webp', 'Link Click Bubbles P4P <br>LE? by FlyingCanoePins', "Owned")
 .addPin('lgsnow.webp', 'Lu Guang Snowboard <br>LE? by orangeshapins', "Owned")
 .addPin('cxssnow.webp', 'Cheng Xiaoshi Snowboard <br>LE? by orangeshapins', "Owned")
+.addPin('lcbubbles.webp', 'Link Click Bubbles P4P <br>LE? by FlyingCanoePins', "Owned")
 // =========================================================================================================================================================================================================================
  addCategory("SK8 Infinity Pins 🧡💙+🛹♾️", "https://shipping.fandom.com/wiki/Renga")
 .addPin('kassielanga.webp', 'Langa Diamond <br> by KassieArts', "Owned")
@@ -600,6 +599,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
