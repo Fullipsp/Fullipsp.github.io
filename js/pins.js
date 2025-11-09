@@ -11,6 +11,8 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('tillbun.webp', 'ZuPins Till Bunny <br>LE? by ZuPins', "Ordered")
 .addPin('ivanbun.webp', 'ZuPins Ivan Bunny <br>LE? by ZuPins', "Ordered")
 //Preorders INSOMNIAPINS
+.addPin('insomniazhongli.webp', 'Zhongli Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniachildeog.webp', 'Acheron Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniaacheron.webp', 'Acheron Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniaororon.webp', 'Ororon Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniawriobn.webp', 'BN: Wrio Diamond <br>LE? by Ins***Pins', "Ordered")
@@ -601,6 +603,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
