@@ -409,7 +409,7 @@ addCategory("Anime & Misc ✨")
 .addPin('obamitsu2.webp', 'Obanai & Mitsuri 2 <br>by Nandemopins', "Owned")
 .addPin('jinmaoset.webp', 'JinMao Emotes Set <br>LE? by zzzsgalore', "Owned")
 .addPin('mouseakaza.webp', 'Chibi Cute Akaza <br>by MailMousePins', "Owned")
-.addPin('crazyakaza.webp', 'Crazy Chibi Akaza <br>by ???', "Owned")
+.addPin('crazyakaza.webp', 'Crazy Chibi Akaza <br>by ???', "Sold")
 .addPin('giyumidnight.jpg', 'KNY - Giyu Tomioka <br> by MidnightMoonpins.', "Owned")
 
 // =========================================================================================================================================================================================================================
@@ -600,6 +600,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
