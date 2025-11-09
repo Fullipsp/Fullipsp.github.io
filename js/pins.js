@@ -342,7 +342,7 @@ addCategory("Astarion Pins (BG3) 🖤", "https://bg3.wiki/wiki/Astarion")
 .addPin('ascastie.webp', 'Bloody Astarion Chibi <br>by Peach&CreamCo', "Owned")
 .addPin('tavblood.webp', 'Tav Blood: Chibi Astarion <br>by Reddachi', "Owned")
 .addPin('heheastarion.webp', 'Hehehe: Chibi Astarion <br>by Reddachi', "Owned")
-.addPin('bloodyastarion.webp', 'Feral Bloody Astarion <br>by mermeladazul', "Owned")
+
 // =========================================================================================================================================================================================================================
 addCategory("Indie Game Pins 🗡💜")
 .addPin('hades.webp', 'Thanzag Chibi <br>by Leaphere', "Owned")
@@ -351,6 +351,7 @@ addCategory("Indie Game Pins 🗡💜")
 .addPin('hypnos.webp', 'Hypnos (Hades) <br>by BlueAndRedWares', "Owned")
 .addPin('charon.webp', 'Charon (Hades) <br>by BlueAndRedWares', "Owned")
 .addPin('hk.webp', 'Hollow Knight & Radience <br>by BlueAndRedWares', "Owned")
+.addPin('bloodyastarion.webp', 'Feral Bloody Astarion <br>by mermeladazul', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Alien Stage Pins 🎤👽", "https://shipping.fandom.com/wiki/IvanTill")
 .addPin('sunshineivantill.webp', 'Yuki Garden Ivantill <br>by PassamaniArt', "Owned")
@@ -599,6 +600,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
