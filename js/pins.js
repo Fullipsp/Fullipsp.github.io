@@ -134,6 +134,7 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('chromahc.webp', 'Chroma V2 Hua <br> LE20 by crystal****ppe', "Owned")
 .addPin('chromaxl.webp', 'Chroma V2 Lian <br> LE20 by crystal****ppe', "Owned")
 
+.addPin('kmorihualiangrass.webp', 'Spring Hualian Chibi <br>LE by KmoriPins.', "Owned")
 .addPin('dianxia.webp', 'Dancing Flowers <br>by kwaaru', "Owned")
 .addPin('catchyou.webp', 'Catch You ~ <br>by kwaaru', "Owned")
 .addPin('catchme.webp', 'Catch Me ~ <br>by kwaaru', "Owned")
@@ -148,7 +149,6 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('gremlinbwx.webp', 'Gremlin Bai Wuxiang <br> by Peonypinsco', "Owned")
 .addPin('babylian.webp', 'Baby Xie Lian Patreon <br> by Butchinelle', "Owned")
 .addPin('honger.webp', 'Flower Honger Patreon <br> by Butchinelle', "Owned")
-.addPin('ecstasy.webp', 'Pleasure&Ecstasy Hualian <br>by ihavetobenkyou', "Sold")
 .addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Owned")
  
 .addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Owned")
@@ -159,12 +159,12 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Owned") 
 .addPin('poppins.jpg', 'Fafa Poppins <br>by Pap00sh', "Owned") 
 .addPin('bchibihualian.webp', 'Chibi Hualian <br>by Bachoochi', "Owned")
-// Beefleaf
- .addPin('furrybfl.webp', 'Cutie Beefleaf <br>by kmoripins', "Owned")
- .addPin('sitbfl.webp', 'Funny Beefleaf <br>by qqnzhe', "Owned")
- // ORDERED
- .addPin('kmorifengqinggrass.webp', 'Spring Fengqing Chibi <br>LE by KmoriPins.', "Ordered")
-.addPin('kmorihualiangrass.webp', 'Spring Hualian Chibi <br>LE by KmoriPins.', "Ordered")
+// Non Hualian TGCF
+.addPin('kmorifengqinggrass.webp', 'Spring Fengqing Chibi <br>LE by KmoriPins.', "Owned")
+.addPin('furrybfl.webp', 'Cutie Beefleaf <br>by kmoripins', "Owned")
+.addPin('sitbfl.webp', 'Funny Beefleaf <br>by qqnzhe', "Owned")
+ 
+.addPin('ecstasy.webp', 'Pleasure&Ecstasy Hualian <br>by ihavetobenkyou', "Sold")
 // =========================================================================================================================================================================================================================
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
 .addPin('butchbingqiu.webp', 'BingQiu Embrace <br>by Butchinelle', "Owned")
@@ -184,9 +184,9 @@ addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
 // ===========================================================================================================================================================================================================================
 addCategory("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
 // papoosh preorder wangxian
-.addPin('wangxianyoung.webp', 'WangxianYears: Youth <br>LE by pap00shpins.', "Ordered")
-.addPin('wangxianteens.webp', 'WangxianYears: Teens <br>LE by pap00shpins.', "Ordered")
-.addPin('wangxianend.webp', 'WangxianYears: Together <br>LE by pap00shpins.', "Ordered")
+.addPin('wangxianyoung.webp', 'WangxianYears: Youth <br>LE by pap00shpins.', "Owned")
+.addPin('wangxianteens.webp', 'WangxianYears: Teens <br>LE by pap00shpins.', "Owned")
+.addPin('wangxianend.webp', 'WangxianYears: Together <br>LE by pap00shpins.', "Owned")
  
 .addPin('bluhdonkey.webp', 'Wangxian Donkey <br>by Bluhtack', "Owned")
 .addPin('bluhroof.webp', 'Wangxian on Roof <br>by Bluhtack', "Owned")
@@ -600,6 +600,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
