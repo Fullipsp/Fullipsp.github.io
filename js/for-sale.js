@@ -2,10 +2,11 @@
 let categoryIndex = 0;
 
 addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
-
 .addPin('insomniasunday.webp', 'Sunday Diamond Pin <br>LE by Ins***Pins.', "For-Sale")
 .addPin('insomniamydei.webp', 'Mydei Diamond Pin <br>LE by Ins***Pins.', "For-Sale")
+.addPin('insomniadanhengil.webp', 'Dan Heng IL Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniasethos.webp', 'Sethos Diamond Pin <br>LE by Ins***Pins.', "For-Sale")
+.addPin('2minfizz.webp', '2 Minutes Fizz -Gold- <br> by karina****op', "For-Sale")
 //kassiearts
 .addPin('kassievanitas.webp', 'Vanitas Diamond <br>LE65 by KassieArts', "For-Sale")
 .addPin('kassiehisoka.webp', 'Hisoka Diamond <br>by KassieArts', "For-Sale")
@@ -14,27 +15,18 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "For-Sale")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "For-Sale")
-.addPin('bachhualian2.jpg', 'Lilypad Hualian <br>by Bachoochi', "Sold")
+
 //FR33PINS
-.addPin('bluelock.webp', 'Blue Lock - Michael Kaiser <br> by MidnightMoonpins.', "For-Sale")
 .addPin('mhamomo.webp', 'MHA - Momo Yaoyorozu <br> by MidnightMoonpins.', "For-Sale")
 .addPin('silverash.webp', 'Arknights Silverash <br>LE by TorikiiArt.', "For-Sale")
 .addPin('tanjirobach.webp', 'Tanjiro Chibi <br> by Bachoochi.', "For-Sale")
 .addPin('kleebach.webp', 'Klee Chibi <br> by Bachoochi.', "For-Sale")
 .addPin('violetbach.webp', 'Violet x Emi/Isabella Chibi <br> by Bachoochi.', "Sold")
 .addPin('nierbach.webp', 'Nier Automata Chibi <br> by Bachoochi.', "For-Sale")
-// YOOKI
-.addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "Sold")
-.addPin('yookiyor.webp', 'Yor Mirror <br>by YookiStudios', "Sold")
 .addPin('yookianya.webp', 'Anya Mirror <br>by YookiStudios', "For-Sale")
-.addPin('yookispohie.webp', 'HMC: Sophie Chibi <br>by YookiStudios', "Sold")
-.addPin('yookihowl.webp', 'HMC: Howl Chibi <br>by YookiStudios', "Sold")
 .addPin('yookimitsuri.webp', 'Kitsune Mitsuri <br>by YookiStudios', "For-Sale")
-.addPin('yookiobanai.webp', 'Snake Obanai <br>by YookiStudios', "Sold")
-
-// CUTE PINS
 .addPin('OGKirby.webp', 'Star Wand Kirby ⭐️ <br>by Arcade Healer', "For-Sale")
-.addPin('megumiheadphones.webp', 'Lo-Fi Megumi <br> by Flying Canoe Pins', "Sold")
+
 // GENSHIN
 .addPin('inkei.webp', 'Raiden Shogun Pin <br>LE by Innkbean.', "For-Sale")
 .addPin('chibichilde.webp', 'Chibi Childe <br>by AkuoArt', "For-Sale")
@@ -76,7 +68,14 @@ addCategory("Sold Pins 👠")
     .addPin('MermaidMoon.webp', 'Sailor Moon Chibi Mermaid', "Sold")
     .addPin('bunnywitch.jpg', 'Snow Bunny Witch <br>by Mamobot', "Sold")
     .addPin('bunneh.jpg', 'Snow Witch Bunny', "Sold")
+    .addPin('bluelock.webp', 'Blue Lock - Michael Kaiser <br> by MidnightMoonpins.', "Sold")
 
+.addPin('yookiloid.webp', 'Loid Mirror <br>by YookiStudios', "Sold")
+.addPin('yookiyor.webp', 'Yor Mirror <br>by YookiStudios', "Sold")
+.addPin('yookiobanai.webp', 'Snake Obanai <br>by YookiStudios', "Sold")
+.addPin('yookispohie.webp', 'HMC: Sophie Chibi <br>by YookiStudios', "Sold")
+.addPin('yookihowl.webp', 'HMC: Howl Chibi <br>by YookiStudios', "Sold")
+.addPin('megumiheadphones.webp', 'Lo-Fi Megumi <br> by Flying Canoe Pins', "Sold")
     .addPin('ootzelda.webp', 'Ocarina of Time Zelda Pin <br>LE50 by PastelShootingStar', "Sold")
     .addPin('fiveitto.webp', 'Itto <br>by Fiveonthe', "Sold")
     .addPin('fivethoma.webp', 'Thoma <br>by Fiveonthe', "Sold")
@@ -104,6 +103,7 @@ addCategory("Sold Pins 👠")
     .addPin('lilypadhc.webp', 'Lilypad Hua Cheng <br>by Peonypinsco', "Sold")
      .addPin('summerxl.webp', 'Summer Xie Lian <br>by Peonypinsco', "Sold")
     .addPin('summerhc.webp', 'Summer Hua Cheng <br>by Peonypinsco', "Sold")
+    .addPin('bachhualian2.jpg', 'Lilypad Hualian <br>by Bachoochi', "Sold")
      .addPin('xlcake.webp', 'Xie Lian Treat <br>by torikii_art', "Sold")
      .addPin('hccake.webp', 'Hua Cheng Treat <br>by torikii_art', "Sold")
     .addPin('honeyhc.webp', 'Devoted Bee-liever <br>by Honey Gokko', "Sold")
