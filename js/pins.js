@@ -7,7 +7,6 @@ addCategory("Orders & Preorders 🛒🪷")
  // IVANTILL
 .addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE? by ZuPins', "Ordered")
 .addPin('zuivantill.webp', 'ZuPins Ivantill Chrome <br>OP by ZuPins', "Ordered")
-.addPin('sunshineivantill.webp', 'Yuki Garden Ivantill <br>by PassamaniArt', "Ordered")
 .addPin('tillbun.webp', 'ZuPins Till Bunny <br>LE? by ZuPins', "Ordered")
 .addPin('ivanbun.webp', 'ZuPins Ivan Bunny <br>LE? by ZuPins', "Ordered")
 //Preorders INSOMNIAPINS
@@ -217,9 +216,9 @@ addCategory("Ranwan | Erha Pins 📖🌿💜", "https://tinyurl.com/whosranwan")
 .addPin('xmm.webp', 'Xue Mei Meng Moon <br>by peonypinsco', "Owned")
 .addPin('ximang.webp', 'XiMang Rest Chibi <br>by peonypinsco', "Owned")
 //////
-.addPin('swordieranwan.webp', 'Chibi Confession <br>by ???', "Ordered")
-.addPin('plushtxj.webp', 'Plush Pup TXJ <br>by ???', "Ordered")
-.addPin('postcanonranwan.webp', 'Lunar New Yr Ranwan <br>by ???', "Ordered")
+.addPin('swordieranwan.webp', 'Chibi Confession <br>by ???', "Owned")
+.addPin('plushtxj.webp', 'Plush Pup TXJ <br>by ???', "Owned")
+.addPin('postcanonranwan.webp', 'Lunar New Yr Ranwan <br>by ???', "Owned")
 // ===========================================================================================================================================================================================================================
 // Fantasy Couples
 addCategory("MLB Fantasy Couples 🐞🐱")
@@ -259,10 +258,10 @@ addCategory("Helluva Boss ❤️‍🔥😈👅", "https://hazbinhotel.fandom.co
 .addPin('memefizz.webp', 'Fizz MemeCat Window <br> LE? by karina****op', "Owned")
 .addPin('fizzycopper.webp', 'Heart Fizz -Copper- <br> by karina****op', "Owned")
 .addPin('bbyclownsblack.webp', 'Baby Clowns (Fizz & Blitz) (B.Nickel) <br>by karina****op', "Owned")
+.addPin('2minfizz.webp', '2 Minutes Fizz -Gold- <br> by karina****op', "Owned")
  
-.addPin('bbyclownsgold.webp', 'Baby Clowns (Fizz & Blitz) (Gold) <br>by karina****op', "Sold")
-.addPin('2minfizz.webp', '2 Minutes Fizz -Gold- <br> by karina****op', "Sold")
 .addPin('2minfizzay.webp', '2 Minutes Fizz -Chrome- <br> by karina****op', "Sold")
+.addPin('bbyclownsgold.webp', 'Baby Clowns (Fizz & Blitz) (Gold) <br>by karina****op', "Sold")
 .addPin('fizzygold.webp', 'Heart Fizz -Gold- <br> by karina****op', "Sold")
 // ========================================================================================================================================================================================================================
 addCategory("JJK Pins 🤍🖤", "https://shipping.fandom.com/wiki/SatoSugu")
@@ -300,6 +299,9 @@ addCategory("Zelda Pins 🗡🏹 🌺💙", "https://shipping.fandom.com/wiki/Ze
 .addPin('zonaizelda.webp', 'TOTK Zonai Zelda Profile <br>by MarshMeollow.', "Owned")
 // =========================================================================================================================================================================================================================
  addCategory("Link Click Pins 📸🔗🤍", "https://shipping.fandom.com/wiki/ShiGuang")
+ .addPin('malingluguang.webp', 'Lu Guang Diamond <br>LE by malingmouse.', "Owned")
+.addPin('malingxiaoshi.webp', 'Cheng Xiaoshi Diamond <br>LE by malingmouse.', "Owned")
+.addPin('chibicloudlinkclick.webp', 'Cloudy ShiGuang Chibi <br>LE by rsenicrin.', "Owned")
 .addPin('foxixiaoshi.webp', 'Foxi Cheng Xiaoshi <br>by FoxiPins', "Owned")
 .addPin('foxiguang.webp', 'Foxi Lu Guang <br>by FoxiPins', "Owned")
 .addPin('goldxiaoshi.webp', 'Cheng Xiaoshi Panel - Gold <br>by ipinboys', "Owned")
@@ -312,10 +314,6 @@ addCategory("Zelda Pins 🗡🏹 🌺💙", "https://shipping.fandom.com/wiki/Ze
 .addPin('lcbubbles.webp', 'Link Click Bubbles P4P <br>LE? by FlyingCanoePins', "Owned")
 .addPin('lgsnow.webp', 'Lu Guang Snowboard <br>LE? by orangeshapins', "Owned")
 .addPin('cxssnow.webp', 'Cheng Xiaoshi Snowboard <br>LE? by orangeshapins', "Owned")
-//
-.addPin('malingluguang.webp', 'Lu Guang Diamond <br>LE by malingmouse.', "Ordered")
-.addPin('malingxiaoshi.webp', 'Cheng Xiaoshi Diamond <br>LE by malingmouse.', "Ordered")
-.addPin('chibicloudlinkclick.webp', 'Cloudy ShiGuang Chibi <br>LE by rsenicrin.', "Ordered")
 // =========================================================================================================================================================================================================================
  addCategory("SK8 Infinity Pins 🧡💙+🛹♾️", "https://shipping.fandom.com/wiki/Renga")
 .addPin('kassielanga.webp', 'Langa Diamond <br> by KassieArts', "Owned")
@@ -356,11 +354,10 @@ addCategory("Indie Game Pins 🗡💜")
 .addPin('hk.webp', 'Hollow Knight & Radience <br>by BlueAndRedWares', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Alien Stage Pins 🎤👽", "https://shipping.fandom.com/wiki/IvanTill")
-// INHAND IVANTILL
-.addPin('tillhappy.webp', 'Till Moods (Happy) <br>LE30 by passamaniart', "Ordered")
-.addPin('tillblush.webp', 'Till Moods (Blush) <br>LE30 by passamaniart', "Ordered")
-.addPin('tillsad.webp', 'Till Moods (Sad) <br>LE30 by passamaniart', "Ordered")
-//OWNED
+.addPin('sunshineivantill.webp', 'Yuki Garden Ivantill <br>by PassamaniArt', "Owned")
+.addPin('tillhappy.webp', 'Till Moods (Happy) <br>LE30 by passamaniart', "Owned")
+.addPin('tillblush.webp', 'Till Moods (Blush) <br>LE30 by passamaniart', "Owned")
+.addPin('tillsad.webp', 'Till Moods (Sad) <br>LE30 by passamaniart', "Owned")
 .addPin('ivanhappy.webp', 'Ivan Moods (Smug) <br>LE40 by passamaniart', "Owned")
 .addPin('ivansad.webp', 'Ivan Moods (Sad) <br>LE40 by passamaniart', "Owned")
 .addPin('ivanblush.webp', 'Ivan Moods (Blush) <br>LE40 by passamaniart', "Owned")
@@ -400,9 +397,9 @@ addCategory("Genshin & HonkaiRail Pins ✨")
 .addPin('chilumi.webp', 'Chilumi <br>by Hollichoo', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Anime & Misc ✨")
-.addPin('karinapowder.webp', 'Arcane: Powder BWB <br> by karina****op', "Ordered")
-.addPin('karinajinx.webp', 'Arcane: Jinx BWB <br> by karina****op', "Ordered")
-.addPin('karinadenki.webp', 'MHA: Denki BWB <br> by karina****op', "Ordered")
+.addPin('karinapowder.webp', 'Arcane: Powder BWB <br> by karina****op', "Owned")
+.addPin('karinajinx.webp', 'Arcane: Jinx BWB <br> by karina****op', "Owned")
+.addPin('karinadenki.webp', 'MHA: Denki BWB <br> by karina****op', "Owned")
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Owned")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Owned")
 .addPin('xqonepiece.webp', 'ASL One Piece Set <br>by XQIU', "Owned")
@@ -603,6 +600,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
