@@ -2,9 +2,9 @@
 let categoryIndex = 0;
 
 addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
+.addPin('insomniadanhengil.webp', 'Dan Heng IL Diamond Pin <br>LE by Ins***Pins.', "For-Sale")
 .addPin('insomniasunday.webp', 'Sunday Diamond Pin <br>LE by Ins***Pins.', "For-Sale")
 .addPin('insomniamydei.webp', 'Mydei Diamond Pin <br>LE by Ins***Pins.', "For-Sale")
-.addPin('insomniadanhengil.webp', 'Dan Heng IL Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniasethos.webp', 'Sethos Diamond Pin <br>LE by Ins***Pins.', "For-Sale")
 .addPin('2minfizz.webp', '2 Minutes Fizz -Gold- <br> by karina****op', "For-Sale")
 .addPin('karinadenki.webp', 'MHA: Denki BWB <br> by karina****op', "For-Sale")
