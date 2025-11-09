@@ -26,9 +26,9 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('insomniaarle.webp', 'Arlecchino Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('hsrhalloween.webp', 'Halloween Blind Dia Pin <br>LE by Ins***Pins.', "Ordered")
 //danmeipinz
-.addPin('virinaliranwan.webp', 'RanWan Confession <br>by Virinali', "Ordered")
-.addPin('sourboxesranwan.webp', 'RanWan Profiles <br>by Sourboxes', "Ordered")
-.addPin('foreverwoh.webp', 'WordOfHonor Forever Chibi <br>by Sourboxes', "Ordered")
+.addPin('virinaliranwan.webp', 'RanWan Confession <br>by Virinali', "Owned")
+.addPin('sourboxesranwan.webp', 'RanWan Profiles <br>by Sourboxes', "Owned")
+.addPin('foreverwoh.webp', 'WordOfHonor Forever Chibi <br>by Sourboxes', "Owned")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -603,6 +603,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
