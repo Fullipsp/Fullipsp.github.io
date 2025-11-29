@@ -16,16 +16,20 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('insomniazhongli.webp', 'Zhongli Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniachildeog.png', 'Acheron Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniaacheron.webp', 'Acheron Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-.addPin('insomniablade.webp', 'Blade Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniajiaoqiu.webp', 'Moze Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniamoze.webp', 'Moze Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-.addPin('insomniaboothill.webp', 'Boothill Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniajingyuan.webp', 'JingYuan Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniaogsunday.webp', 'Sunday OG Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('hsrhalloween.webp', 'Halloween Blind Dia Pin <br>LE by Ins***Pins.', "Ordered")
-//danmeipinz
-.addPin('virinaliranwan.webp', 'RanWan Confession <br>by Virinali', "Ordered")
-.addPin('foreverwoh.webp', 'WordOfHonor Forever Chibi <br>by Sourboxes', "Owned")
+//ordered to me rn
+ .addPin('insomniablade.webp', 'Blade Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+ .addPin('insomniaboothill.webp', 'Boothill Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('tarotqueen.webp', 'Shadybug Tarot Card <br>LE60? by Paper*****ns', "Ordered")
+.addPin('tarotking.webp', 'ClawNoir Tarot Card <br>LE60? by Paper*****ns', "Ordered")
+.addPin('tarotlovers.webp', 'Lovers Tarot Card <br>LE60? by Paper*****ns', "Ordered")
+.addPin('thumbelina.webp', 'Thumbelina Marichat RG <br>LE30 by Paper*****ns', "Ordered")
+.addPin('chibiboothill.webp', 'Young Boothill Chibi Squish <br>by chinese p4p', "Ordered")
+.addPin('chibidanheng.webp', 'Monkey Dan Heng Chibi <br>by chinese p4p', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -198,6 +202,9 @@ addCategory("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
 .addPin('wangxiankiss.webp', 'Wangxian Kiss <br>by SerenaDanmeiPins', "Owned")
 .addPin('woodenwangxian.jpg', 'Wooden Wangxian Bunnies <br> by @AumaEbi', "Owned")
 .addPin('weiying.webp', 'Valentine Wei Ying <br>by Billacookie', "Owned")
+ //danmei pins other
+.addPin('foreverwoh.webp', 'WordOfHonor Forever Chibi <br>by Sourboxes', "Owned")
+.addPin('ximang.webp', 'XiMang Rest Chibi <br>by peonypinsco', "Owned")
 // =====================================================================================================================================================================================================================================================
 addCategory("Ranwan | Erha Pins 📖🌿💜", "https://tinyurl.com/whosranwan")
 .addPin('butchranwan.webp', 'RanWan Embrace <br>by Butchinelle', "Owned")
@@ -213,11 +220,11 @@ addCategory("Ranwan | Erha Pins 📖🌿💜", "https://tinyurl.com/whosranwan")
 .addPin('ranwanfurries.webp', 'Husky & Kitty <br>by ???', "Owned")
 .addPin('ranwanmoon.webp', 'Ranwan Moon Chibi <br>by peonypinsco', "Owned")
 .addPin('xmm.webp', 'Xue Mei Meng Moon <br>by peonypinsco', "Owned")
-.addPin('ximang.webp', 'XiMang Rest Chibi <br>by peonypinsco', "Owned")
 .addPin('sourboxesranwan.webp', 'RanWan Profiles <br>by Sourboxes', "Owned")
 .addPin('postcanonranwan.webp', 'Lunar New Yr Ranwan <br>by ???', "Owned")
 .addPin('swordieranwan.webp', 'Chibi Confession <br>by ???', "Owned")
 .addPin('plushtxj.webp', 'Plush Pup TXJ <br>by ???', "Owned")
+.addPin('virinaliranwan.webp', 'RanWan Confession <br>by Virinali', "Ordered")
 // ===========================================================================================================================================================================================================================
 // Fantasy Couples
 addCategory("MLB Fantasy Couples 🐞🐱")
@@ -600,6 +607,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
