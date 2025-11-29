@@ -171,6 +171,9 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('ecstasy.webp', 'Pleasure&Ecstasy Hualian <br>by ihavetobenkyou', "Sold")
 // =========================================================================================================================================================================================================================
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
+.addPin('moshangpanel.webp', 'Moshang Panel <br>by ???', "Owned")
+.addPin('mbjchibi.webp', 'Mobei Jun Chibi <br>by pap00shpins', "Owned")
+.addPin('sqhchibi.webp', 'Shang Qinghua Chibi <br>by pap00shpins', "Owned")
 .addPin('butchbingqiu.webp', 'BingQiu Embrace <br>by Butchinelle', "Owned")
 .addPin('bingliushen.webp', 'Springtime Trio ✦ <br>Bingliushen by naixaie', "Owned")
 .addPin('charitybingqiu.webp', 'Blossoms of Spring ✦ <br>Bingqiu by naixaie', "Owned")
@@ -607,6 +610,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
