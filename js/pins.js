@@ -22,12 +22,12 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('insomniaogsunday.webp', 'Sunday OG Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('hsrhalloween.webp', 'Halloween Blind Dia Pin <br>LE by Ins***Pins.', "Ordered")
 //ordered to me rn
-.addPin('insomniablade.webp', 'Blade Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-.addPin('insomniaboothill.webp', 'Boothill Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('tarotqueen.webp', 'Shadybug Tarot Card <br>LE60? by Paper*****ns', "Ordered")
 .addPin('tarotking.webp', 'ClawNoir Tarot Card <br>LE60? by Paper*****ns', "Ordered")
 .addPin('tarotlovers.webp', 'Lovers Tarot Card <br>LE60? by Paper*****ns', "Ordered")
 .addPin('mlbthumbelina.webp', 'Thumbelina Marichat RG <br>LE30 by Paper*****ns', "Ordered")
+.addPin('insomniablade.webp', 'Blade Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniaboothill.webp', 'Boothill Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('chibiboothill.webp', 'Young Boothill Chibi Squish <br>by chinese p4p', "Ordered")
 .addPin('chibidanheng.webp', 'Monkey Dan Heng Chibi <br>by chinese p4p', "Ordered")
 
@@ -610,6 +610,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
