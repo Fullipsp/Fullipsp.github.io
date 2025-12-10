@@ -90,6 +90,7 @@ addCategory("Sold Pins 👠")
     .addPin('megumiheadphones.webp', 'Lo-Fi Megumi <br> by Flying Canoe Pins', "Sold")
     
             // TGCF
+    .addPin('ecstasy.webp', 'Pleasure&Ecstasy Hualian <br>by ihavetobenkyou', "Sold")
     .addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Sold")
     .addPin('wedding.webp', 'His Heavenly Bride <br>by Califlair', "Sold")
     .addPin('derpyxl.webp', 'Super Derpy Lian <br> LE15 by crystal****ppe', "Sold")
