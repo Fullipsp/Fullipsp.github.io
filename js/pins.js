@@ -21,16 +21,15 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('insomniajingyuan.webp', 'JingYuan Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniaogsunday.webp', 'Sunday OG Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('hsrhalloween.webp', 'Halloween Blind Dia Pin <br>LE by Ins***Pins.', "Ordered")
-//ordered to me rn
-.addPin('tarotqueen.webp', 'Shadybug Tarot Card <br>LE60? by Paper*****ns', "Ordered")
-.addPin('tarotking.webp', 'ClawNoir Tarot Card <br>LE60? by Paper*****ns', "Ordered")
-.addPin('tarotlovers.webp', 'Lovers Tarot Card <br>LE60? by Paper*****ns', "Ordered")
-.addPin('mlbthumbelina.webp', 'Thumbelina Marichat RG <br>LE30 by Paper*****ns', "Ordered")
-.addPin('insomniablade.webp', 'Blade Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-.addPin('insomniaboothill.webp', 'Boothill Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-.addPin('chibiboothill.webp', 'Young Boothill Chibi Squish <br>by chinese p4p', "Ordered")
-.addPin('chibidanheng.webp', 'Monkey Dan Heng Chibi <br>by chinese p4p', "Ordered")
 
+
+
+ 
+//ordered to me rn
+.addPin('tarotqueen.webp', 'Shadybug Tarot Card <br>LE60? by Paper*****ns', "Owned")
+.addPin('tarotking.webp', 'ClawNoir Tarot Card <br>LE60? by Paper*****ns', "Owned")
+.addPin('tarotlovers.webp', 'Lovers Tarot Card <br>LE60? by Paper*****ns', "Owned")
+.addPin('mlbthumbelina.webp', 'Thumbelina Marichat RG <br>LE30 by Paper*****ns', "Owned")
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Pris & Zu Pins Chibis 🪷")
@@ -51,6 +50,7 @@ addCategory("Pris & Zu Pins Chibis 🪷")
 // =====================================================================================================================================================================================================================================================
 addCategory("InsomniaPins Diamonds 💎")
 .addPin('diamondwrio.webp', 'Wriothesley Diamond Pin <br>LE by Ins***Pins.', "Owned")
+.addPin('insomniablade.webp', 'Blade Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniadanhengil.webp', 'Dan Heng IL Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniachromedhil.webp', 'Chrome DHIL Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniachromesunday.webp', 'Chrome Sunday Diamond <br>LE by Ins***Pins.', "Owned")
@@ -61,6 +61,7 @@ addCategory("InsomniaPins Diamonds 💎")
 .addPin('insomniamydei.webp', 'Mydei Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniaphainon.webp', 'Phainon Diamond <br>LE? by Ins***Pins', "Owned")
 .addPin('insomniaargenti.webp', 'Insomnia Argenti Diamond <br>LE? by Ins***Pins', "Owned")
+.addPin('insomniaboothill.webp', 'Boothill Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniachilde.webp', 'Childe Purple Chrome Var. <br>LE50 by Ins***Pins.', "Owned")
 .addPin('insomniascara.webp', 'Wanderer Diamond Pin <br>LE50 by Ins***Pins.', "Owned")
 .addPin('insomniagepard.webp', 'Gepard Diamond Pin <br>LE by Ins***Pins.', "Owned")
@@ -102,7 +103,9 @@ addCategory("Foxipins MXTX Windows", "https://www.google.com/search?q=mo+xiang+t
 .addPin('bingpup.webp', 'Bingpup Window <br>by Foxipins', "Owned")
 .addPin('foxifairy.webp', 'Fairy Window <br>by Foxipins', "Owned")
 .addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Sold")
-.addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Owned")
+.addPin('foxisizhui.webp', 'Lan Sizhui Window <br>by Foxipins', "Ordered")
+.addPin('foxijingyi.webp', 'Lan Jingyi Window <br>by Foxipins', "Ordered")
+.addPin('foxijinling.webp', 'Jin Ling Window <br>by Foxipins', "Ordered")
 // ========================================================================================================================================================================================================================
 addCategory("MXTX Meme Chibis: Midnight Version 🌙✨", "https://www.google.com/search?q=mo+xiang+tong+xiu")
 .addPin('memelian.webp', 'MXTX Memes: XieLian <br>LE30 by PrisPins', "Owned")
@@ -167,8 +170,7 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('kmorifengqinggrass.webp', 'Spring Fengqing Chibi <br>LE by KmoriPins.', "Owned")
 .addPin('furrybfl.webp', 'Cutie Beefleaf <br>by kmoripins', "Owned")
 .addPin('sitbfl.webp', 'Funny Beefleaf <br>by qqnzhe', "Owned")
- 
-.addPin('ecstasy.webp', 'Pleasure&Ecstasy Hualian <br>by ihavetobenkyou', "Sold")
+.addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
 .addPin('moshangpanel.webp', 'Moshang Panel <br>by ???', "Owned")
@@ -374,6 +376,8 @@ addCategory("Alien Stage Pins 🎤👽", "https://shipping.fandom.com/wiki/IvanT
 // =========================================================================================================================================================================================================================
 addCategory("Genshin & HonkaiRail Pins ✨")
  //HSR HSR HSR HSR HSR
+.addPin('chibiboothill.webp', 'Young Boothill Chibi Squish <br>by chinese p4p', "Owned")
+.addPin('chibidanheng.webp', 'Monkey Dan Heng Chibi <br>by chinese p4p', "Owned")
 .addPin('gloomysunday.webp', 'Gloomy 90s Sunday <br>LE? by midnightmoonpins', "Owned")
 .addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Owned")
 .addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Owned")
@@ -610,6 +614,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
