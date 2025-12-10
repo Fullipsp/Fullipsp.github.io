@@ -12,6 +12,7 @@ addCategory("Orders & Preorders 🛒🪷")
 //Preorders INSOMNIAPINS
 .addPin('insomniawriobn.webp', 'BN: Wrio Diamond <br>LE? by Ins***Pins', "Ordered")
 .addPin('insomnianeuvibn.webp', 'BN: Neuvi Diamond <br>LE? by Ins***Pins', "Ordered")
+.addPin('insomniapinsyingxing.webp', 'Yingxing Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniaororon.webp', 'Ororon Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniazhongli.webp', 'Zhongli Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniachildeog.png', 'Acheron Diamond Pin <br>LE by Ins***Pins.', "Ordered")
@@ -21,11 +22,10 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('insomniajingyuan.webp', 'JingYuan Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniaogsunday.webp', 'Sunday OG Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('hsrhalloween.webp', 'Halloween Blind Dia Pin <br>LE by Ins***Pins.', "Ordered")
-
-
-
- 
+.addPin('insomniahataventurine.webp', 'Hat Aventurine Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniadrratio.webp', 'Dr Ratio Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 //ordered to me rn
+.addPin('foxisunday.webp', 'Sunday Window <br>LE? by Foxipins', "Ordered")
 .addPin('tarotqueen.webp', 'Shadybug Tarot Card <br>LE60? by Paper*****ns', "Owned")
 .addPin('tarotking.webp', 'ClawNoir Tarot Card <br>LE60? by Paper*****ns', "Owned")
 .addPin('tarotlovers.webp', 'Lovers Tarot Card <br>LE60? by Paper*****ns', "Owned")
@@ -614,6 +614,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
