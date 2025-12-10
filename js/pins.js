@@ -104,8 +104,8 @@ addCategory("Foxipins MXTX Windows", "https://www.google.com/search?q=mo+xiang+t
 .addPin('foxifairy.webp', 'Fairy Window <br>by Foxipins', "Owned")
 .addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Sold")
 .addPin('foxisizhui.webp', 'Lan Sizhui Window <br>by Foxipins', "Ordered")
-.addPin('foxijingyi.webp', 'Lan Jingyi Window <br>by Foxipins', "Ordered")
 .addPin('foxijinling.webp', 'Jin Ling Window <br>by Foxipins', "Ordered")
+.addPin('foxijingyi.webp', 'Lan Jingyi Window <br>by Foxipins', "Ordered")
 // ========================================================================================================================================================================================================================
 addCategory("MXTX Meme Chibis: Midnight Version 🌙✨", "https://www.google.com/search?q=mo+xiang+tong+xiu")
 .addPin('memelian.webp', 'MXTX Memes: XieLian <br>LE30 by PrisPins', "Owned")
@@ -614,6 +614,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
