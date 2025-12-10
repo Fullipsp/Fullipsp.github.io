@@ -376,13 +376,13 @@ addCategory("Alien Stage Pins 🎤👽", "https://shipping.fandom.com/wiki/IvanT
 // =========================================================================================================================================================================================================================
 addCategory("Genshin & HonkaiRail Pins ✨")
  //HSR HSR HSR HSR HSR
-.addPin('chibiboothill.webp', 'Young Boothill Chibi Squish <br>by chinese p4p', "Owned")
-.addPin('chibidanheng.webp', 'Monkey Dan Heng Chibi <br>by chinese p4p', "Owned")
 .addPin('gloomysunday.webp', 'Gloomy 90s Sunday <br>LE? by midnightmoonpins', "Owned")
 .addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Owned")
 .addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Owned")
 .addPin('jiaoqiucircle.webp', 'Jiaoqiu Circle <br>by orangeshapins', "Owned")
 .addPin('spinnerjiaoqiu.webp', 'Jiaoqiu Hot-Pot Spinner <br>by orangeshapins', "Owned")
+.addPin('chibiboothill.webp', 'Young Boothill Chibi Squish <br>by chinese p4p', "Owned")
+.addPin('chibidanheng.webp', 'Monkey Dan Heng Chibi <br>by chinese p4p', "Owned")
 //GENSHIN GENSHIN GENSHIN
 .addPin('insomniawrio.webp', 'Wriothesley Bust <br>by InsomniaPins', "Owned")
 .addPin('insomnianeuvi.webp', 'Neuvilette Bust <br>LE? by InsomniaPins', "Owned")
@@ -614,6 +614,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
