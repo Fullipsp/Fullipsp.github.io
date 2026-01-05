@@ -25,11 +25,8 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('insomniahataventurine.webp', 'Hat Aventurine Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniadrratio.webp', 'Dr Ratio Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 //ordered to me rn
-.addPin('foxisunday.webp', 'Sunday Window <br>LE? by Foxipins', "Ordered")
-.addPin('tarotqueen.webp', 'Shadybug Tarot Card <br>LE60? by Paper*****ns', "Owned")
-.addPin('tarotking.webp', 'ClawNoir Tarot Card <br>LE60? by Paper*****ns', "Owned")
-.addPin('tarotlovers.webp', 'Lovers Tarot Card <br>LE60? by Paper*****ns', "Owned")
-.addPin('mlbthumbelina.webp', 'Thumbelina Marichat RG <br>LE30 by Paper*****ns', "Owned")
+.addPin('foxisunday.webp', 'Sunday Window <br>LE? by Foxipins', "Owned")
+
 addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Pris & Zu Pins Chibis 🪷")
@@ -103,9 +100,9 @@ addCategory("Foxipins MXTX Windows", "https://www.google.com/search?q=mo+xiang+t
 .addPin('bingpup.webp', 'Bingpup Window <br>by Foxipins', "Owned")
 .addPin('foxifairy.webp', 'Fairy Window <br>by Foxipins', "Owned")
 .addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Sold")
-.addPin('foxisizhui.webp', 'Lan Sizhui Window <br>by Foxipins', "Ordered")
-.addPin('foxijinling.webp', 'Jin Ling Window <br>by Foxipins', "Ordered")
-.addPin('foxijingyi.webp', 'Lan Jingyi Window <br>by Foxipins', "Ordered")
+.addPin('foxisizhui.webp', 'Lan Sizhui Window <br>by Foxipins', "Owned")
+.addPin('foxijinling.webp', 'Jin Ling Window <br>by Foxipins', "Owned")
+.addPin('foxijingyi.webp', 'Lan Jingyi Window <br>by Foxipins', "Owned")
 // ========================================================================================================================================================================================================================
 addCategory("MXTX Meme Chibis: Midnight Version 🌙✨", "https://www.google.com/search?q=mo+xiang+tong+xiu")
 .addPin('memelian.webp', 'MXTX Memes: XieLian <br>LE30 by PrisPins', "Owned")
@@ -233,12 +230,16 @@ addCategory("Ranwan | Erha Pins 📖🌿💜", "https://tinyurl.com/whosranwan")
 // ===========================================================================================================================================================================================================================
 // Fantasy Couples
 addCategory("MLB Fantasy Couples 🐞🐱")
+.addPin('tarotqueen.webp', 'Shadybug Tarot Card <br>LE60? by Paper*****ns', "Owned")
+.addPin('tarotking.webp', 'ClawNoir Tarot Card <br>LE60? by Paper*****ns', "Owned")
+.addPin('tarotlovers.webp', 'Lovers Tarot Card <br>LE60? by Paper*****ns', "Owned")
+.addPin('tarotbug.webp', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Owned")
+.addPin('tarotnoir.webp', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Owned")
+.addPin('shadyclaw.webp', 'Shadyclaw Pair <br>LE75 by LP***ns', "Owned")
 .addPin('lucky.webp', 'Lucky Bug <br> by crow.creations', "Owned")
 .addPin('unlucky.webp', 'Unlucky Kitty <br> by crow.creations', "Owned")
 .addPin('kwamis.webp', 'Ladybug Kwamis <br> by crow.creations', "Owned")
-.addPin('shadyclaw.webp', 'Shadyclaw Pair <br>LE75 by LP***ns', "Owned")
-.addPin('tarotbug.webp', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Owned")
-.addPin('tarotnoir.webp', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Owned")
+.addPin('mlbthumbelina.webp', 'Thumbelina Marichat RG <br>LE30 by Paper*****ns', "Owned")
 .addPin('christmasthreesome.webp', 'Christmas Loves MLB <br>LE? by Paper*****ns', "Owned")
 .addPin('mlbjapanese.jpg', 'Japanese Adrinette <br> by MariC****Cafe', "Owned")
 .addPin('ladynoirkiss.jpg', 'Ladynoir Kiss <br> by MariC****Cafe', "Owned")
@@ -614,6 +615,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
