@@ -9,6 +9,7 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('zuivantill.webp', 'ZuPins Ivantill Chrome <br>OP by ZuPins', "Ordered")
 .addPin('tillbun.webp', 'ZuPins Till Bunny <br>LE? by ZuPins', "Ordered")
 .addPin('ivanbun.webp', 'ZuPins Ivan Bunny <br>LE? by ZuPins', "Ordered")
+.addPin('gachacheebs.webp', 'x5 Gacha HSR Cheebs <br> by Zu/Pris Pins', "Ordered")
 //Preorders INSOMNIAPINS
 .addPin('insomniawriobn.webp', 'BN: Wrio Diamond <br>LE? by Ins***Pins', "Ordered")
 .addPin('insomnianeuvibn.webp', 'BN: Neuvi Diamond <br>LE? by Ins***Pins', "Ordered")
@@ -24,8 +25,8 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('insomniaogsunday.webp', 'Sunday OG Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniahataventurine.webp', 'Hat Aventurine Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniadrratio.webp', 'Dr Ratio Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-//ordered to me rn
-.addPin('foxisunday.webp', 'Sunday Window <br>LE? by Foxipins', "Owned")
+.addPin('insomniaalhaitham.webp', 'Al Haitham Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniakaveh.webp', 'Kaveh Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -377,6 +378,7 @@ addCategory("Alien Stage Pins 🎤👽", "https://shipping.fandom.com/wiki/IvanT
 // =========================================================================================================================================================================================================================
 addCategory("Genshin & HonkaiRail Pins ✨")
  //HSR HSR HSR HSR HSR
+.addPin('foxisunday.webp', 'Sunday Window <br>LE? by Foxipins', "Owned")
 .addPin('gloomysunday.webp', 'Gloomy 90s Sunday <br>LE? by midnightmoonpins', "Owned")
 .addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Owned")
 .addPin('luochacircle.webp', 'Luocha Circle <br>by Orangeshapins', "Owned")
@@ -615,6 +617,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
