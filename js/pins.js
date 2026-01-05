@@ -40,9 +40,9 @@ addCategory("Pris & Zu Pins Chibis 🪷")
 .addPin('zumydei.webp', 'Mydei Chibi <br>by ZuPins/PrisPins', "Owned")
 .addPin('zuneuvilette.webp', 'Neuvilette Chibi <br>by ZuPins/PrisPins', "Owned")
 .addPin('zuchongyun.webp', 'Chongyun Chibi <br>by ZuPins/PrisPins', "Owned")
-.addPin('zuphainon.webp', 'Phainon Chibi <br>by ZuPins/PrisPins', "Ordered")
-.addPin('goldphainon.webp', 'Khaslana Chibi <br>by ZuPins/PrisPins', "Ordered")
 .addPin('anaxachibi.webp', 'Anaxagoras Chibi <br>by ZuPins/PrisPins', "Ordered")
+.addPin('goldphainon.webp', 'Khaslana Chibi <br>by ZuPins/PrisPins', "Ordered")
+.addPin('zuphainon.webp', 'Phainon Chibi <br>by ZuPins/PrisPins', "Ordered")
 .addPin('zublade.webp', 'Blade White ver. Chibi <br>by ZuPins/PrisPins', "Ordered")
 .addPin('zubrant.webp', 'Brant Chibi <br>by ZuPins/PrisPins', "Ordered")
 // =====================================================================================================================================================================================================================================================
@@ -237,10 +237,10 @@ addCategory("MLB Fantasy Couples 🐞🐱")
 .addPin('tarotbug.webp', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Owned")
 .addPin('tarotnoir.webp', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Owned")
 .addPin('shadyclaw.webp', 'Shadyclaw Pair <br>LE75 by LP***ns', "Owned")
+.addPin('mlbthumbelina.webp', 'Thumbelina Marichat RG <br>LE30 by Paper*****ns', "Owned")
 .addPin('lucky.webp', 'Lucky Bug <br> by crow.creations', "Owned")
 .addPin('unlucky.webp', 'Unlucky Kitty <br> by crow.creations', "Owned")
 .addPin('kwamis.webp', 'Ladybug Kwamis <br> by crow.creations', "Owned")
-.addPin('mlbthumbelina.webp', 'Thumbelina Marichat RG <br>LE30 by Paper*****ns', "Owned")
 .addPin('christmasthreesome.webp', 'Christmas Loves MLB <br>LE? by Paper*****ns', "Owned")
 .addPin('mlbjapanese.jpg', 'Japanese Adrinette <br> by MariC****Cafe', "Owned")
 .addPin('ladynoirkiss.jpg', 'Ladynoir Kiss <br> by MariC****Cafe', "Owned")
@@ -617,6 +617,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
