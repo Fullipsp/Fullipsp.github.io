@@ -236,8 +236,8 @@ addCategory("MLB Fantasy Couples 🐞🐱")
 .addPin('tarotqueen.webp', 'Shadybug Tarot Card <br>LE60? by Paper*****ns', "Owned")
 .addPin('tarotking.webp', 'ClawNoir Tarot Card <br>LE60? by Paper*****ns', "Owned")
 .addPin('tarotlovers.webp', 'Lovers Tarot Card <br>LE60? by Paper*****ns', "Owned")
-.addPin('tarotbug.webp', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Owned")
 .addPin('tarotnoir.webp', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Owned")
+.addPin('tarotbug.webp', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Owned")
 .addPin('shadyclaw.webp', 'Shadyclaw Pair <br>LE75 by LP***ns', "Owned")
 .addPin('mlbthumbelina.webp', 'Thumbelina Marichat RG <br>LE30 by Paper*****ns', "Owned")
 .addPin('lucky.webp', 'Lucky Bug <br> by crow.creations', "Owned")
@@ -619,6 +619,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
