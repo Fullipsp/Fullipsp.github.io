@@ -11,11 +11,11 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('ivanbun.webp', 'ZuPins Ivan Bunny <br>LE? by ZuPins', "Ordered")
 .addPin('gachacheebs.webp', 'x5 Gacha HSR Cheebs <br> by Zu/Pris Pins', "Ordered")
 .addPin('hsrhalloween.webp', 'Halloween Blind Dia Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniaororon.webp', 'Ororon Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 //Preorders INSOMNIAPINS
 .addPin('insomniavarka.webp', 'Varka Diamond <br>LE? by Ins***Pins', "Ordered")
 .addPin('insomniaflins.webp', 'Flins Diamond <br>LE? by Ins***Pins', "Ordered")
 .addPin('insomniapinsyingxing.webp', 'Yingxing Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-.addPin('insomniaororon.webp', 'Ororon Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniazhongli.webp', 'Zhongli Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniachildeog.png', 'Acheron Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniajingyuan.webp', 'JingYuan Diamond Pin <br>LE by Ins***Pins.', "Ordered")
@@ -57,6 +57,7 @@ addCategory("InsomniaPins Diamonds 💎")
 .addPin('insomniaphainon.webp', 'Phainon Diamond <br>LE? by Ins***Pins', "Owned")
 .addPin('insomniaargenti.webp', 'Insomnia Argenti Diamond <br>LE? by Ins***Pins', "Owned")
 .addPin('insomniaboothill.webp', 'Boothill Diamond Pin <br>LE by Ins***Pins.', "Owned")
+.addPin('insomniaacheron.webp', 'Acheron Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniachilde.webp', 'Childe Purple Chrome Var. <br>LE50 by Ins***Pins.', "Owned")
 .addPin('insomniascara.webp', 'Wanderer Diamond Pin <br>LE50 by Ins***Pins.', "Owned")
 .addPin('insomniagepard.webp', 'Gepard Diamond Pin <br>LE by Ins***Pins.', "Owned")
@@ -66,7 +67,6 @@ addCategory("InsomniaPins Diamonds 💎")
 .addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniasethos.webp', 'Sethos Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniaarle.webp', 'Arlecchino Diamond Pin <br>LE by Ins***Pins.', "Owned")
-.addPin('insomniaacheron.webp', 'Acheron Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniawriobn.webp', 'BN: Wrio Diamond <br>LE? by Ins***Pins', "Ordered")
 .addPin('insomnianeuvibn.webp', 'BN: Neuvi Diamond <br>LE? by Ins***Pins', "Ordered")
 .addPin('insomniajiaoqiu.webp', 'Jiaoqiu Diamond Pin <br>LE by Ins***Pins.', "Ordered")
@@ -85,6 +85,9 @@ addCategory("Foxipins MXTX Windows", "https://www.google.com/search?q=mo+xiang+t
 .addPin('foxibinghe.webp', 'Luo Binghe Window <br>LE65 by Foxipins', "Owned")
 .addPin('foxihc.webp', 'Hua Cheng Window <br>LE65 by Foxipins', "Owned")
 .addPin('foxiqr.webp', 'Qi Rong Window <br>LE65 by Foxipins', "Owned")
+.addPin('foxisizhui.webp', 'Lan Sizhui Window <br>by Foxipins', "Owned")
+.addPin('foxijinling.webp', 'Jin Ling Window <br>by Foxipins', "Owned")
+.addPin('foxijingyi.webp', 'Lan Jingyi Window <br>by Foxipins', "Owned")
 .addPin('xichen.webp', 'Lan Xichen Window <br>LE65 by Foxipins', "Owned")
 .addPin('foxinmj.webp', 'Nie Mingje Window <br>LE65 by Foxipins', "Owned")
 .addPin('foxinhs.webp', 'Nie Huaisang Window <br>LE65 by Foxipins', "Owned")
@@ -103,9 +106,6 @@ addCategory("Foxipins MXTX Windows", "https://www.google.com/search?q=mo+xiang+t
 .addPin('bingpup.webp', 'Bingpup Window <br>by Foxipins', "Owned")
 .addPin('foxifairy.webp', 'Fairy Window <br>by Foxipins', "Owned")
 .addPin('banyue.webp', 'Banyue Window <br>LE65 by Foxipins', "Sold")
-.addPin('foxisizhui.webp', 'Lan Sizhui Window <br>by Foxipins', "Owned")
-.addPin('foxijinling.webp', 'Jin Ling Window <br>by Foxipins', "Owned")
-.addPin('foxijingyi.webp', 'Lan Jingyi Window <br>by Foxipins', "Owned")
 // ========================================================================================================================================================================================================================
 addCategory("MXTX Meme Chibis: Midnight Version 🌙✨", "https://www.google.com/search?q=mo+xiang+tong+xiu")
 .addPin('memelian.webp', 'MXTX Memes: XieLian <br>LE30 by PrisPins', "Owned")
@@ -619,6 +619,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
