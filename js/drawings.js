@@ -21,19 +21,18 @@ addDrawing('rayphone.webp', 'Ray on the Phone <br>Mystic Messenger');
 
 addDrawing('bobaqueens.webp', 'Boba Queens BDay <br>2025');
 addDrawing('to postie.webp', 'MXTX Best Boy Trio <br>MXTX 2024');
-addDrawing('uzui.webp', 'Uzui Birthday Party <br>Demon Slayer');
 addDrawing('hollydragon.webp', 'Holly Christmas Dragon <br>Bday Gift');
 addDrawing('catnoir.webp', 'Cat Noir <br>Miraculous Ladybug');
-
+addDrawing('uzui.webp', 'Uzui Birthday Party <br>Demon Slayer');
 
 addDrawing('thanatos.webp', 'Thanatos <br>Hades');
 addDrawing('zagreus.webp', 'Zagreus <br>Hades');
-addDrawing('leviathan.webp', 'Leviathan <br>Obey Me');
-addDrawing('gesaeran.webp', 'Saeran Portrait <br>Mystic Messenger');
 addDrawing('sxm.webp', 'Saeran x Me Portrait <br>Mystic Messenger');
 addDrawing('mxs.webp', 'Saeran x MC <br>Mystic Messenger');
+addDrawing('gesaeran.webp', 'Saeran Portrait <br>Mystic Messenger');
 addDrawing('astarionchibi.webp', 'Astarion x Arsene Chibi <br>BaldursGate3');
 addDrawing('myocsketch.webp', 'Arsene Sketch BG3 <br>BaldursGate3');
+addDrawing('leviathan.webp', 'Leviathan <br>Obey Me');
 addDrawing('genshincomic.webp', 'My Old Genshin Team <br>Genshin Impact');
 addDrawing('6challenge.webp', '6 Characters Challenge <br>Multifandom');
 
@@ -62,6 +61,7 @@ function addDrawing (image, title) {
     `;
     categoryEl ? (categoryEl.innerHTML+= el) : null;
 }
+
 
 
 
