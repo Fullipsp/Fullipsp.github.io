@@ -2,12 +2,12 @@
 let categoryIndex = 0;
 
 addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
-.addPin('insomniadanhengil.webp', 'Dan Heng IL Diamond Pin <br>LE by Ins***Pins.', "For-Sale")
 .addPin('insomniasunday.webp', 'Sunday Diamond Pin <br>LE by Ins***Pins.', "For-Sale")
-.addPin('insomniamydei.webp', 'Mydei Diamond Pin <br>LE by Ins***Pins.', "For-Sale")
 .addPin('insomniasethos.webp', 'Sethos Diamond Pin <br>LE by Ins***Pins.', "For-Sale")
-.addPin('2minfizz.webp', '2 Minutes Fizz -Gold- <br> by karina****op', "For-Sale")
-.addPin('karinadenki.webp', 'MHA: Denki BWB <br> by karina****op', "For-Sale")
+.addPin('insomniadanhengil.webp', 'Dan Heng IL Diamond Pin <br>LE by Ins***Pins.', "Sold")
+.addPin('insomniamydei.webp', 'Mydei Diamond Pin <br>LE by Ins***Pins.', "Sold")
+.addPin('2minfizz.webp', '2 Minutes Fizz -Gold- <br> by karina****op', "Sold")
+.addPin('karinadenki.webp', 'MHA: Denki BWB <br> by karina****op', "Sold")
 //kassiearts
 .addPin('kassievanitas.webp', 'Vanitas Diamond <br>LE65 by KassieArts', "For-Sale")
 .addPin('kassiehisoka.webp', 'Hisoka Diamond <br>by KassieArts', "For-Sale")
@@ -16,8 +16,8 @@ addCategory("For Sale! - DM me if interested! (Discord: hualian.exe)")
 // VASH STAMPEDE
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "For-Sale")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "For-Sale")
-.addPin('hk.webp', 'Hollow Knight & Radience <br>by BlueAndRedWares', "For-Sale")
-.addPin('bloodyastarion.webp', 'Feral Bloody Astarion <br>by mermeladazul', "For-Sale")
+.addPin('hk.webp', 'Hollow Knight & Radience <br>by BlueAndRedWares', "Sold")
+.addPin('bloodyastarion.webp', 'Feral Bloody Astarion <br>by mermeladazul', "Sold")
 .addPin('giyumidnight.jpg', 'KNY - Giyu Tomioka <br> by MidnightMoonpins.', "For-Sale")
 //FR33PINS
 .addPin('mhamomo.webp', 'MHA - Momo Yaoyorozu <br> by MidnightMoonpins.', "For-Sale")
