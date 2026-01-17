@@ -8,16 +8,16 @@ addDrawing('emofurry.webp', 'Fluffy Femboye <br>2025');
 addDrawing('kofi.webp', 'Saeran Drinking Ko-fi :3 <br>Mystic Messenger');
 
 addDrawing('gorouarcher.webp', 'Gorou Bow Practice <br>Genshin Impact');
-addDrawing('childe.webp', 'Childe - Tartaglia <br>Independence Day 2021');
 addDrawing('catxiao.webp', 'Catboy Xiao <br>Genshin Impact');
 addDrawing('tomo.webp', 'Kazuhas Friend <br>Genshin Impact');
 addDrawing('kazuhabday.webp', 'Kazuhas Birthday <br>Genshin Impact');
+addDrawing('childe.webp', 'Childe - Tartaglia <br>Independence Day 2021');
 
 addDrawing('winterxiao.webp', 'Winter Xiao - Otome AU <br>Genshin Impact');
 addDrawing('celestial.webp', 'Celestial Dragon OC  <br>Art Trade');
-addDrawing('rayphone.webp', 'Ray on the Phone <br>Mystic Messenger');
 addDrawing('belpher.webp', 'Belphegor Underwater <br>Obey Me');
 addDrawing('chongyunsketch.webp', 'Drummer Chongyun WIP <br>Genshin Impact');
+addDrawing('rayphone.webp', 'Ray on the Phone <br>Mystic Messenger');
 
 addDrawing('bobaqueens.webp', 'Boba Queens BDay <br>2025');
 addDrawing('to postie.webp', 'MXTX Best Boy Trio <br>MXTX 2024');
@@ -62,6 +62,7 @@ function addDrawing (image, title) {
     `;
     categoryEl ? (categoryEl.innerHTML+= el) : null;
 }
+
 
 
 
