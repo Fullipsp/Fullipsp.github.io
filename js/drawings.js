@@ -1,7 +1,7 @@
 // cSpell:disable
 const categoryEl = document.querySelector(".category");
 
-addDrawing('to postie.png', 'MXTX Best Boy Trio <br>MDZS | TGCF | SVSSS');
+addDrawing('to postie.webp', 'MXTX Best Boy Trio <br>MDZS | TGCF | SVSSS');
 addDrawing('hualianp.webp', 'Hualian Portrait <br>Tian Guan Ci Fu');
 addDrawing('AxL.webp', 'Arwin & Latte Portrait <br>Miss Not So Sidekick');
 
@@ -61,5 +61,6 @@ function addDrawing (image, title) {
     `;
     categoryEl ? (categoryEl.innerHTML+= el) : null;
 }
+
 
 
