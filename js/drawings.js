@@ -10,19 +10,19 @@ addDrawing('kofi.webp', 'Saeran Drinking Ko-fi :3 <br>Mystic Messenger');
 addDrawing('childe.webp', 'Childe - Tartaglia <br>Independence Day 2021');
 addDrawing('gorouarcher.webp', 'Gorou Bow Practice <br>Genshin Impact');
 addDrawing('catxiao.webp', 'Catboy Xiao <br>Genshin Impact');
-addDrawing('kazuhabday.webp', 'Kazuhas Birthday <br>Genshin Impact');
 addDrawing('tomo.webp', 'Kazuhas Friend <br>Genshin Impact');
+addDrawing('kazuhabday.webp', 'Kazuhas Birthday <br>Genshin Impact');
 
 addDrawing('winterxiao.webp', 'Winter Xiao - Otome AU <br>Genshin Impact');
-addDrawing('celestial.webp', 'Celestial Dragon OC');
+addDrawing('celestial.webp', 'Celestial Dragon OC  <br>Art Trade');
 addDrawing('rayphone.webp', 'Ray on the Phone <br>Mystic Messenger');
 addDrawing('belpher.webp', 'Belphegor Underwater <br>Obey Me');
 addDrawing('chongyunsketch.webp', 'Drummer Chongyun WIP <br>Genshin Impact');
 
 addDrawing('bobaqueens.webp', 'Boba Queens BDay <br>2025');
 addDrawing('to postie.webp', 'MXTX Best Boy Trio <br>MXTX 2024');
-addDrawing('uzui.webp', 'Uzui Birthday Party (for my mom) <br>Demon Slayer');
-addDrawing('hollydragon.webp', 'Holly Christmas Dragon');
+addDrawing('uzui.webp', 'Uzui Birthday Party <br>Demon Slayer');
+addDrawing('hollydragon.webp', 'Holly Christmas Dragon <br>Bday Gift');
 addDrawing('catnoir.webp', 'Cat Noir <br>Miraculous Ladybug');
 
 
@@ -32,10 +32,10 @@ addDrawing('leviathan.webp', 'Leviathan <br>Obey Me');
 addDrawing('gesaeran.webp', 'Saeran Portrait <br>Mystic Messenger');
 addDrawing('sxm.webp', 'Saeran x Me Portrait <br>Mystic Messenger');
 addDrawing('mxs.webp', 'Saeran x MC <br>Mystic Messenger');
-addDrawing('astarionchibi.webp', 'Astarion x Arsene Chibi');
-addDrawing('myocsketch.webp', 'Arsene Sketch BG3');
+addDrawing('astarionchibi.webp', 'Astarion x Arsene Chibi <br>BaldursGate3');
+addDrawing('myocsketch.webp', 'Arsene Sketch BG3 <br>BaldursGate3');
 addDrawing('genshincomic.webp', 'My Old Genshin Team <br>Genshin Impact');
-addDrawing('6challenge.webp', '6 Characters Challenge');
+addDrawing('6challenge.webp', '6 Characters Challenge <br>Multifandom');
 
 function closeDrawing() {
     const el = document.getElementById("preview");
