@@ -7,8 +7,8 @@ addDrawing('freakynoir.webp', 'Cl4w N0ir Fanart <br>2024');
 addDrawing('emofurry.webp', 'Fluffy Femboye <br>2025');
 addDrawing('kofi.webp', 'Saeran Drinking Ko-fi :3 <br>Mystic Messenger');
 
-addDrawing('childe.webp', 'Childe - Tartaglia <br>Independence Day 2021');
 addDrawing('gorouarcher.webp', 'Gorou Bow Practice <br>Genshin Impact');
+addDrawing('childe.webp', 'Childe - Tartaglia <br>Independence Day 2021');
 addDrawing('catxiao.webp', 'Catboy Xiao <br>Genshin Impact');
 addDrawing('tomo.webp', 'Kazuhas Friend <br>Genshin Impact');
 addDrawing('kazuhabday.webp', 'Kazuhas Birthday <br>Genshin Impact');
@@ -62,6 +62,7 @@ function addDrawing (image, title) {
     `;
     categoryEl ? (categoryEl.innerHTML+= el) : null;
 }
+
 
 
 
