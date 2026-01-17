@@ -3,7 +3,7 @@ const categoryEl = document.querySelector(".category");
 
 addDrawing('hualianp.webp', 'Hualian Portrait <br>TGCF 2023');
 addDrawing('AxL.webp', 'Arwin & Latte Portrait <br>Miss Not So Sidekick 2022');
-addDrawing('freakynoir.webp', 'Cl4w N0ir Fanart <br>Miraqulouz Laydaybug 2024');
+addDrawing('freakynoir.webp', 'Cl4w N0ir Fanart <br>Miraqulous Laydaybug 2024');
 addDrawing('emofurry.webp', 'Fluffy Femboye <br>EPIC FURSONA 2025');
 addDrawing('kofi.webp', 'Saeran Drinking Ko-fi :3 <br>Mystic Messenger');
 
@@ -61,6 +61,7 @@ function addDrawing (image, title) {
     `;
     categoryEl ? (categoryEl.innerHTML+= el) : null;
 }
+
 
 
 
