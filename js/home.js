@@ -19,6 +19,7 @@ addImages([
 ])
 
 addSlideshow([
+    './images/drawings/freakynoir.webp',
     './images/drawings/hualianp.webp',
     './images/drawings/AxL.webp',
     './images/drawings/gorouarcher.webp',
@@ -90,3 +91,4 @@ function addImages([image1, image2, image3]) {
     document.getElementById("image-2").src = image2;
     document.getElementById("image-3").src = image3;
 }
+
