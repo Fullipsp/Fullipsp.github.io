@@ -27,8 +27,8 @@ addDrawing('uzui.webp', 'Uzui Birthday Party <br>Demon Slayer');
 
 addDrawing('thanatos.webp', 'Thanatos <br>Hades');
 addDrawing('zagreus.webp', 'Zagreus <br>Hades');
-addDrawing('sxm.webp', 'Saeran x Me Portrait <br>Mystic Messenger');
 addDrawing('mxs.webp', 'Saeran x MC <br>Mystic Messenger');
+addDrawing('sxm.webp', 'Saeran x Me Portrait <br>Mystic Messenger');
 addDrawing('gesaeran.webp', 'Saeran Portrait <br>Mystic Messenger');
 addDrawing('astarionchibi.webp', 'Astarion x Arsene Chibi <br>BaldursGate3');
 addDrawing('myocsketch.webp', 'Arsene Sketch BG3 <br>BaldursGate3');
@@ -61,6 +61,7 @@ function addDrawing (image, title) {
     `;
     categoryEl ? (categoryEl.innerHTML+= el) : null;
 }
+
 
 
 
