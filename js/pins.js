@@ -33,11 +33,11 @@ addCategory("Pris & Zu Pins Chibis 🪷")
 .addPin('zumydei.webp', 'Mydei Chibi <br>by ZuPins/PrisPins', "Owned")
 .addPin('zuneuvilette.webp', 'Neuvilette Chibi <br>by ZuPins/PrisPins', "Owned")
 .addPin('zuchongyun.webp', 'Chongyun Chibi <br>by ZuPins/PrisPins', "Owned")
-.addPin('anaxachibi.webp', 'Anaxagoras Chibi <br>by ZuPins/PrisPins', "Ordered")
-.addPin('goldphainon.webp', 'Khaslana Chibi <br>by ZuPins/PrisPins', "Ordered")
-.addPin('zuphainon.webp', 'Phainon Chibi <br>by ZuPins/PrisPins', "Ordered")
-.addPin('zublade.webp', 'Blade White ver. Chibi <br>by ZuPins/PrisPins', "Ordered")
-.addPin('zubrant.webp', 'Brant Chibi <br>by ZuPins/PrisPins', "Ordered")
+.addPin('anaxachibi.webp', 'Anaxagoras Chibi <br>by ZuPins/PrisPins', "Owned")
+.addPin('goldphainon.webp', 'Khaslana Chibi <br>by ZuPins/PrisPins', "Owned")
+.addPin('zuphainon.webp', 'Phainon Chibi <br>by ZuPins/PrisPins', "Owned")
+.addPin('zublade.webp', 'Blade White ver. Chibi <br>by ZuPins/PrisPins', "Owned")
+.addPin('zubrant.webp', 'Brant Chibi <br>by ZuPins/PrisPins', "Owned")
 // =====================================================================================================================================================================================================================================================
 addCategory("InsomniaPins Diamonds 💎")
 .addPin('diamondwrio.webp', 'Wriothesley Diamond Pin <br>LE by Ins***Pins.', "Owned")
@@ -64,14 +64,14 @@ addCategory("InsomniaPins Diamonds 💎")
 .addPin('insomniasethos.webp', 'Sethos Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniaarle.webp', 'Arlecchino Diamond Pin <br>LE by Ins***Pins.', "Owned")
  
-.addPin('insomniawriobn.webp', 'BN: Wrio Diamond <br>LE? by Ins***Pins', "Ordered")
-.addPin('insomnianeuvibn.webp', 'BN: Neuvi Diamond <br>LE? by Ins***Pins', "Ordered")
+.addPin('insomniawriobn.webp', 'BN: Wrio Diamond <br>LE? by Ins***Pins', "Owned")
+.addPin('insomnianeuvibn.webp', 'BN: Neuvi Diamond <br>LE? by Ins***Pins', "Owned")
 .addPin('insomniaororon.webp', 'Ororon Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-.addPin('insomniajiaoqiu.webp', 'Jiaoqiu Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniajiaoqiu.webp', 'Jiaoqiu Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniamoze.webp', 'Moze Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniapinsyingxing.webp', 'Yingxing Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-.addPin('insomniajingyuan.webp', 'JingYuan Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-.addPin('insomniaogsunday.webp', 'Sunday OG Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniajingyuan.webp', 'JingYuan Diamond Pin <br>LE by Ins***Pins.', "Owned")
+.addPin('insomniaogsunday.webp', 'Sunday OG Diamond Pin <br>LE by Ins***Pins.', "Owned")
 // Sold 
 .addPin('insomniafeixiao.webp', 'Insomnia Feixiao Diamond <br>LE? by Ins***Pins', "Sold")
 .addPin('insomnialuocha.webp', 'Luocha Diamond Pin <br>LE by Ins***Pins.', "Sold")
@@ -619,6 +619,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
