@@ -25,19 +25,19 @@ addGap();
 // =====================================================================================================================================================================================================================================================
 addCategory("Pris & Zu Pins Chibis 🪷")
  // OWNED
+.addPin('zubrant.webp', 'Brant Chibi <br>by ZuPins/PrisPins', "Owned")
+.addPin('zublade.webp', 'Blade White ver. Chibi <br>by ZuPins/PrisPins', "Owned")
+.addPin('anaxachibi.webp', 'Anaxagoras Chibi <br>by ZuPins/PrisPins', "Owned")
+.addPin('zuphainon.webp', 'Phainon Chibi <br>by ZuPins/PrisPins', "Owned")
+.addPin('goldphainon.webp', 'Khaslana Chibi <br>by ZuPins/PrisPins', "Owned")
+.addPin('zumydei.webp', 'Mydei Chibi <br>by ZuPins/PrisPins', "Owned")
 .addPin('zugambler.webp', 'Aven Gambler Chibi <br>by ZuPins/PrisPins', "Owned")
-.addPin('zuaventurine.webp', 'Aventurine Chibi <br>by ZuPins/PrisPins', "Owned")
 .addPin('zusunday.webp', 'Sunday Express Chibi <br>by ZuPins/PrisPins', "Owned")
+.addPin('zuaventurine.webp', 'Aventurine Chibi <br>by ZuPins/PrisPins', "Owned")
 .addPin('zumoze.webp', 'Moze Chibi <br>by ZuPins/PrisPins', "Owned")
 .addPin('zujiaoqiu.webp', 'Jiaoqiu Chibi <br>by ZuPins/PrisPins', "Owned")
-.addPin('zumydei.webp', 'Mydei Chibi <br>by ZuPins/PrisPins', "Owned")
 .addPin('zuneuvilette.webp', 'Neuvilette Chibi <br>by ZuPins/PrisPins', "Owned")
 .addPin('zuchongyun.webp', 'Chongyun Chibi <br>by ZuPins/PrisPins', "Owned")
-.addPin('anaxachibi.webp', 'Anaxagoras Chibi <br>by ZuPins/PrisPins', "Owned")
-.addPin('goldphainon.webp', 'Khaslana Chibi <br>by ZuPins/PrisPins', "Owned")
-.addPin('zuphainon.webp', 'Phainon Chibi <br>by ZuPins/PrisPins', "Owned")
-.addPin('zublade.webp', 'Blade White ver. Chibi <br>by ZuPins/PrisPins', "Owned")
-.addPin('zubrant.webp', 'Brant Chibi <br>by ZuPins/PrisPins', "Owned")
 // =====================================================================================================================================================================================================================================================
 addCategory("InsomniaPins Diamonds 💎")
 .addPin('insomniachromesunday.webp', 'Chrome Sunday Diamond <br>LE by Ins***Pins.', "Owned")
@@ -619,6 +619,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
