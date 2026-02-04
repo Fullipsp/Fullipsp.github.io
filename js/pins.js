@@ -69,9 +69,9 @@ addCategory("InsomniaPins Diamonds 💎")
 .addPin('insomniatighnari.webp', 'Tighnari Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniacyno.webp', 'Cyno Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniasethos.webp', 'Sethos Diamond Pin <br>LE by Ins***Pins.', "Owned")
+.addPin('insomniaororon.webp', 'Ororon Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniaarle.webp', 'Arlecchino Diamond Pin <br>LE by Ins***Pins.', "Owned")
  
-.addPin('insomniaororon.webp', 'Ororon Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 // Sold 
 .addPin('insomniafeixiao.webp', 'Insomnia Feixiao Diamond <br>LE? by Ins***Pins', "Sold")
 .addPin('insomnialuocha.webp', 'Luocha Diamond Pin <br>LE by Ins***Pins.', "Sold")
@@ -212,6 +212,7 @@ addCategory("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
 .addPin('ximang.webp', 'XiMang Rest Chibi <br>by peonypinsco', "Owned")
 // =====================================================================================================================================================================================================================================================
 addCategory("Ranwan | Erha Pins 📖🌿💜", "https://tinyurl.com/whosranwan")
+.addPin('ppcranwanchibi.webp', 'TXJ x CWN Linked Chibi <br>by peonypinsco', "Owned")
 .addPin('butchranwan.webp', 'RanWan Embrace <br>by Butchinelle', "Owned")
 .addPin('xuetxj.webp', 'TXJ Floral Panel <br>by xvenne', "Owned")
 .addPin('xuecwn.webp', 'CWN Floral Panel <br>by xvenne', "Owned")
@@ -619,6 +620,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
