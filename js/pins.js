@@ -50,7 +50,7 @@ addCategory("InsomniaPins Diamonds 💎")
 .addPin('insomniaargenti.webp', 'Insomnia Argenti Diamond <br>LE? by Ins***Pins', "Owned")
 .addPin('insomniaboothill.webp', 'Boothill Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniajingyuan.webp', 'JingYuan Diamond Pin <br>LE by Ins***Pins.', "Owned")
-.addPin('insomniapinsyingxing.webp', 'Yingxing Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+.addPin('insomniapinsyingxing.webp', 'Yingxing Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniablade.webp', 'Blade Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniadanhengil.webp', 'Dan Heng IL Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('diamondwrio.webp', 'Wriothesley Diamond Pin <br>LE by Ins***Pins.', "Owned")
@@ -620,6 +620,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
