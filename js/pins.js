@@ -181,6 +181,7 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
+.addPin('funglebingqiu.webp', 'Bingqiu Flying Sword <br>by merchfungle', "Owned")
 .addPin('moshangpanel.webp', 'Moshang Panel <br>by ???', "Owned")
 .addPin('mbjchibi.webp', 'Mobei Jun Chibi <br>by pap00shpins', "Owned")
 .addPin('shqchibi.webp', 'Shang Qinghua Chibi <br>by pap00shpins', "Owned")
@@ -629,6 +630,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
