@@ -49,11 +49,12 @@ addCategory("Pris & Zu Pins Chibis 🪷")
 addCategory("InsomniaPins Diamonds 💎")
 .addPin('insomniachromesunday.webp', 'Chrome Sunday Diamond <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniachromedhil.webp', 'Chrome DHIL Diamond Pin <br>LE by Ins***Pins.', "Owned")
+.addPin('insomniaredacheron.webp', 'Chrome Acheron Diamond <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniaaventurine.webp', 'Aventurine Diamond Pin <br>LE by Ins***Pins.', "Owned")
-.addPin('insomniacastorice.webp', 'Castorice Diamond <br>LE? by Ins***Pins', "Owned")
-.addPin('insomniaanaxa.webp', 'Anaxa Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniamydei.webp', 'Mydei Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniaphainon.webp', 'Phainon Diamond <br>LE? by Ins***Pins', "Owned")
+.addPin('insomniaanaxa.webp', 'Anaxa Diamond Pin <br>LE by Ins***Pins.', "Owned")
+.addPin('insomniacastorice.webp', 'Castorice Diamond <br>LE? by Ins***Pins', "Owned")
 .addPin('insomniaargenti.webp', 'Insomnia Argenti Diamond <br>LE? by Ins***Pins', "Owned")
 .addPin('insomniaboothill.webp', 'Boothill Diamond Pin <br>LE by Ins***Pins.', "Owned")
 .addPin('insomniajingyuan.webp', 'JingYuan Diamond Pin <br>LE by Ins***Pins.', "Owned")
@@ -388,6 +389,7 @@ addCategory("Alien Stage Pins 🎤👽", "https://shipping.fandom.com/wiki/IvanT
 // =========================================================================================================================================================================================================================
 addCategory("Genshin & HonkaiRail Pins ✨")
  //HSR HSR HSR HSR HSR
+.addPin('insomniamarch7.webp', 'March 7th Pin <br>LE by InsomniaPins', "Owned")
 .addPin('foxisunday.webp', 'Sunday Window <br>LE? by Foxipins', "Owned")
 .addPin('gloomysunday.webp', 'Gloomy 90s Sunday <br>LE? by midnightmoonpins', "Owned")
 .addPin('sundaycircle.webp', 'Sunday Circle <br>by Orangeshapins', "Owned")
@@ -627,6 +629,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
