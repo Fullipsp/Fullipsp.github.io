@@ -5,13 +5,16 @@ let categoryIndex = 0;
 addCategory("Orders & Preorders 🛒🪷")
 //PREORDERS
  // IVANTILL
-.addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE? by ZuPins', "Ordered")
+.addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE100 by ZuPins', "Ordered")
+.addPin('ivanphone.webp', 'ZuPins Ivan Phone Pin <br>LE100 by ZuPins', "Ordered")
+.addPin('phoneminitill.webp', 'ZuPins Mini Till Pin <br>LE? by ZuPins', "Ordered")
 .addPin('zuivantill.webp', 'ZuPins Ivantill Chrome <br>OP by ZuPins', "Ordered")
 .addPin('tillbun.webp', 'ZuPins Till Bunny <br>LE? by ZuPins', "Ordered")
 .addPin('ivanbun.webp', 'ZuPins Ivan Bunny <br>LE? by ZuPins', "Ordered")
 .addPin('gachacheebs.webp', 'x5 Gacha HSR Cheebs <br> by Zu/Pris Pins', "Ordered")
 .addPin('hsrhalloween.webp', 'Halloween Blind Dia Pin <br>LE by Ins***Pins.', "Ordered")
 //Preorders INSOMNIAPINS
+.addPin('insomniacyrene.webp', 'Cyrene Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniachildeog.png', 'Acheron Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniavarka.webp', 'Varka Diamond <br>LE? by Ins***Pins', "Ordered")
 .addPin('insomniaflins.webp', 'Flins Diamond <br>LE? by Ins***Pins', "Ordered")
@@ -20,6 +23,10 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('insomniadrratio.webp', 'Dr Ratio Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniaalhaitham.webp', 'Al Haitham Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniakaveh.webp', 'Kaveh Diamond Pin <br>LE by Ins***Pins.', "Ordered")
+//
+.addPin('yearshualian.webp', 'Hualian Thru Years <br>by Pap00sh', "Ordered") 
+.addPin('papxielian.webp', 'Xie Lian Chibi <br>by Pap00sh', "Ordered") 
+.addPin('paphuacheng.webp', 'Hua Cheng Chibi <br>by Pap00sh', "Ordered") 
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -620,6 +627,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
