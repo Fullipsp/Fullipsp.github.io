@@ -26,6 +26,9 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('insomniakaveh.webp', 'Kaveh Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 //
 .addPin('yearshualian.webp', 'Hualian Thru Years <br>by Pap00sh', "Ordered") 
+.addPin('insomniareca.webp', 'Reca BN Diamond <br>LE by Ins***Pins.', "Ordered")
+.addPin('zuchibizhongli.webp', 'Zhongli Chibi <br>by ZuPins/PrisPins', "Ordered")
+.addPin('junkfengqing.webp', 'Fengqing Tied Chibi <br>LE? by jun****art.', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -163,6 +166,8 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('gremlinhx.webp', 'Gremlin He Xuan <br> by Peonypinsco', "Owned")
 .addPin('gremlinbwx.webp', 'Gremlin Bai Wuxiang <br> by Peonypinsco', "Owned")
 .addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Owned")
+.addPin('summercheng.webp', 'Summer Hua Cheng <br>by RadioProxy', "Owned")
+.addPin('summerlian.webp', 'Summer Xie Lian <br>by RadioProxy', "Owned")
 .addPin('babylian.webp', 'Baby Xie Lian Patreon <br> by Butchinelle', "Owned")
 .addPin('honger.webp', 'Flower Honger Patreon <br> by Butchinelle', "Owned")
 .addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Owned")
@@ -241,8 +246,9 @@ addCategory("MLB Fantasy Couples 🐞🐱")
 .addPin('tarotqueen.webp', 'Shadybug Tarot Card <br>LE60? by Paper*****ns', "Owned")
 .addPin('tarotking.webp', 'ClawNoir Tarot Card <br>LE60? by Paper*****ns', "Owned")
 .addPin('tarotlovers.webp', 'Lovers Tarot Card <br>LE60? by Paper*****ns', "Owned")
-.addPin('tarotnoir.webp', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Owned")
 .addPin('tarotbug.webp', 'Ladybug Sun Tarot Card <br>LE60? by Paper*****ns', "Owned")
+.addPin('tarotnoir.webp', 'Cat Noir Moon Tarot Card <br>LE60 by Paper*****ns', "Owned")
+.addPin('tarotfelix.webp', 'Felix Hermit Tarot Card <br>LE60? by Paper*****ns', "Owned")
 .addPin('shadyclaw.webp', 'Shadyclaw Pair <br>LE75 by LP***ns', "Owned")
 .addPin('mlbthumbelina.webp', 'Thumbelina Marichat RG <br>LE30 by Paper*****ns', "Owned")
 .addPin('lucky.webp', 'Lucky Bug <br> by crow.creations', "Owned")
@@ -615,6 +621,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
