@@ -3,7 +3,7 @@ let categoryIndex = 0;
 
 // ==================================================================================================================================================================================================================================================
 addCategory("Orders & Preorders 🛒🪷")
-//PREORDERS
+ //PREORDERS
  // IVANTILL
 .addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE100 by ZuPins', "Ordered")
 .addPin('ivanphone.webp', 'ZuPins Ivan Phone Pin <br>LE100 by ZuPins', "Ordered")
@@ -166,9 +166,6 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('honger.webp', 'Flower Honger Patreon <br> by Butchinelle', "Owned")
 .addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Owned")
  
-.addPin('hcbaby.webp', 'Hua Cheng Baby <br>by Peonypinsco', "Owned")
-.addPin('xlbaby.webp', 'Xie Lian Baby <br>by Peonypinsco', "Owned")
-.addPin('peterpan.webp', 'Peter Pan Hualian <br>by simplelunacy', "Owned") 
 .addPin('hualianterrarium.webp', 'Hualian Terrarium <br>by Peonypinsco', "Owned")
 .addPin('papoosh2.webp', 'Mermay Hualian <br>by Pap00sh', "Owned")   
 .addPin('papoosh.webp', 'Mermay Hualian <br>by Pap00sh', "Owned") 
@@ -181,7 +178,6 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('kmoribflf.webp', 'Kmori Beefleaf <br>LE? by Foxipins', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
-.addPin('funglebingqiu.webp', 'Bingqiu Flying Sword <br>by merchfungle', "Owned")
 .addPin('moshangpanel.webp', 'Moshang Panel <br>by ???', "Owned")
 .addPin('mbjchibi.webp', 'Mobei Jun Chibi <br>by pap00shpins', "Owned")
 .addPin('shqchibi.webp', 'Shang Qinghua Chibi <br>by pap00shpins', "Owned")
@@ -197,7 +193,6 @@ addCategory("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
 .addPin('WLLBH.webp', 'White Lotus Binghe Chibi <br>by Peach&CreamCo', "Owned")
 .addPin('SQQ.webp', 'Shen Qingqiu Chibi <br>by Peach&CreamCo', "Sold")
 .addPin('bchibibingqiu.webp', 'Chibi Bingqiu <br>by Bachoochi', "Owned")
-.addPin('bachbingqiu.webp', 'Bamboo Bingqiu <br>by Bachoochi', "Owned")
 .addPin('bingpupadvent.webp', 'Flowery Bingpup <br>by naixaie', "Owned")
 // ===========================================================================================================================================================================================================================
 addCategory("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
@@ -205,7 +200,6 @@ addCategory("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
 .addPin('wangxianyoung.webp', 'WangxianYears: Youth <br>LE by pap00shpins.', "Owned")
 .addPin('wangxianteens.webp', 'WangxianYears: Teens <br>LE by pap00shpins.', "Owned")
 .addPin('wangxianend.webp', 'WangxianYears: Together <br>LE by pap00shpins.', "Owned")
- 
 .addPin('bluhdonkey.webp', 'Wangxian Donkey <br>by Bluhtack', "Owned")
 .addPin('bluhroof.webp', 'Wangxian on Roof <br>by Bluhtack', "Owned")
 .addPin('bachwangxian.webp', 'Lilypad Wangxian <br>by Bachoochi', "Owned")
@@ -215,7 +209,7 @@ addCategory("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
 .addPin('lwjcake.webp', 'Lan Zhan Treat <br>by torikii_art', "Owned")
 .addPin('wangxiankiss.webp', 'Wangxian Kiss <br>by SerenaDanmeiPins', "Owned")
 .addPin('woodenwangxian.jpg', 'Wooden Wangxian Bunnies <br> by @AumaEbi', "Owned")
-.addPin('weiying.webp', 'Valentine Wei Ying <br>by Billacookie', "Owned")
+
  //danmei pins other
 .addPin('foreverwoh.webp', 'WordOfHonor Forever Chibi <br>by Sourboxes', "Owned")
 .addPin('ximang.webp', 'XiMang Rest Chibi <br>by peonypinsco', "Owned")
@@ -329,8 +323,6 @@ addCategory("Zelda Pins 🗡🏹 🌺💙", "https://shipping.fandom.com/wiki/Ze
 .addPin('chibicloudlinkclick.webp', 'Cloudy ShiGuang Chibi <br>LE by rsenicrin.', "Owned")
 .addPin('foxixiaoshi.webp', 'Foxi Cheng Xiaoshi <br>by FoxiPins', "Owned")
 .addPin('foxiguang.webp', 'Foxi Lu Guang <br>by FoxiPins', "Owned")
-.addPin('goldxiaoshi.webp', 'Cheng Xiaoshi Panel - Gold <br>by ipinboys', "Owned")
-.addPin('goldguang.webp', 'Lu Guang Panel - Gold <br>x2 by ipinboys', "Owned")
 .addPin('cxschibi.webp', 'Cheng Xiaoshi Chibi <br>by flyingcanoepins', "Owned")
 .addPin('lgchibi.webp', 'Lu Guang Chibi <br>by flyingcanoepins', "Owned")
 .addPin('qlchibi.webp', 'Qiao Ling Chibi <br>by flyingcanoepins', "Owned")
@@ -376,7 +368,6 @@ addCategory("Indie Game Pins 🗡💜")
 .addPin('meg.webp', 'Meg (Hades) <br>by BlueAndRedWares', "Owned")
 .addPin('hypnos.webp', 'Hypnos (Hades) <br>by BlueAndRedWares', "Owned")
 .addPin('charon.webp', 'Charon (Hades) <br>by BlueAndRedWares', "Owned")
-.addPin('hk.webp', 'Hollow Knight & Radience <br>by BlueAndRedWares', "Owned")
 .addPin('bloodyastarion.webp', 'Feral Bloody Astarion <br>by mermeladazul', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Alien Stage Pins 🎤👽", "https://shipping.fandom.com/wiki/IvanTill")
@@ -412,8 +403,6 @@ addCategory("Genshin & HonkaiRail Pins ✨")
 .addPin('foxixiao.webp', 'Diamond Xiao <br>LE? by FoxiPins', "Owned")
 .addPin('lenzhongli.webp', 'Zhongli <br>by Lenacchi', "Owned")
 .addPin('lengorou.webp', 'Gorou <br>by Lenacchi', "Owned")
-.addPin('lenayato.webp', 'Ayato <br>by Lenacchi', "Sold")
-.addPin('lenkazuha.webp', 'Kazuha <br>by Lenacchi', "Sold")
 .addPin('lenxiao.webp', 'Xiao <br>by Lenacchi', "Owned")
 .addPin('gachagorou.jpg', 'Chibi Gorou <br>by hideawaymelon', "Owned")
 .addPin('ChildeTraditional.webp', 'Childe <br>by BirbsNest', "Owned")
@@ -429,17 +418,14 @@ addCategory("Genshin & HonkaiRail Pins ✨")
 addCategory("Anime & Misc ✨")
 .addPin('karinapowder.webp', 'Arcane: Powder BWB <br> by karina****op', "Owned")
 .addPin('karinajinx.webp', 'Arcane: Jinx BWB <br> by karina****op', "Owned")
-.addPin('karinadenki.webp', 'MHA: Denki BWB <br> by karina****op', "Owned")
 .addPin('98vash.webp', '98s Chibi Vash <br> by ZuuPins', "Owned")
 .addPin('stampede.webp', 'Vash Stampede Chibi <br> by ZuuPins', "Owned")
-.addPin('xqonepiece.webp', 'ASL One Piece Set <br>by XQIU', "Owned")
 .addPin('xqobamitsu.webp', 'Obanai x Mitsuri Set <br>by XQIU', "Owned")
 .addPin('obamitsu3.webp', 'Obanai & Mitsuri 3 <br>by Nandemopins', "Owned")
 .addPin('obamitsu1.webp', 'Obanai & Mitsuri 1 <br>by Nandemopins', "Owned")
 .addPin('obamitsu2.webp', 'Obanai & Mitsuri 2 <br>by Nandemopins', "Owned")
 .addPin('jinmaoset.webp', 'JinMao Emotes Set <br>LE? by zzzsgalore', "Owned")
 .addPin('mouseakaza.webp', 'Chibi Cute Akaza <br>by MailMousePins', "Owned")
-.addPin('crazyakaza.webp', 'Crazy Chibi Akaza <br>by ???', "Sold")
 .addPin('giyumidnight.jpg', 'KNY - Giyu Tomioka <br> by MidnightMoonpins.', "Owned")
 
 // =========================================================================================================================================================================================================================
@@ -473,8 +459,6 @@ addCategory("Cute Pins 💕🌷")
 .addPin('gamerkitty.webp', 'Gamer Kitty Girl <br>Thank you SM, Kyra! ♡', "Owned")
 .addPin('StarBun.webp', 'Star Bunny Witch <br>by Xhilyn', "Owned")
 .addPin('sylveon.webp', 'Sylveon ♡ Pokemon <br>by Birduyen', "Owned")
-.addPin('raspbunny.webp', 'Raspbunny Crepe ☆ Rainbow Food Animals Series', "Owned")
-.addPin('night.webp', 'Froggie ITA (Nighttime) Bag (Kickstarter) (Peach and Holo inserts)', "Owned")
 // =========================================================================================================================================================================================================================
 addCategory("Animal Crossing Pins 🌺🌷🤍")
 .addPin('raymond.webp', 'Raymond Joy-Con <br>by Quirkory', "Owned")
@@ -630,6 +614,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
