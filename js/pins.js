@@ -26,9 +26,9 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('insomniakaveh.webp', 'Kaveh Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 //
 .addPin('yearshualian.webp', 'Hualian Thru Years <br>by Pap00sh', "Ordered") 
+.addPin('junkfengqing.webp', 'Fengqing Tied Chibi <br>LE? by jun****art.', "Ordered")
 .addPin('insomniareca.webp', 'Reca BN Diamond <br>LE by Ins***Pins.', "Ordered")
 .addPin('zuchibizhongli.webp', 'Zhongli Chibi <br>by ZuPins/PrisPins', "Ordered")
-.addPin('junkfengqing.webp', 'Fengqing Tied Chibi <br>LE? by jun****art.', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -621,6 +621,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
