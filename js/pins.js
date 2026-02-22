@@ -3,6 +3,7 @@ let categoryIndex = 0;
 
 // ==================================================================================================================================================================================================================================================
 addCategory("Orders & Preorders 🛒🪷")
+ 
  //PREORDERS
  // IVANTILL
 .addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE100 by ZuPins', "Ordered")
@@ -25,8 +26,6 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('insomniakaveh.webp', 'Kaveh Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 //
 .addPin('yearshualian.webp', 'Hualian Thru Years <br>by Pap00sh', "Ordered") 
-.addPin('paphuacheng.webp', 'Hua Cheng Chibi <br>by Pap00sh', "Ordered") 
-.addPin('papxielian.webp', 'Xie Lian Chibi <br>by Pap00sh', "Ordered") 
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -156,12 +155,14 @@ addCategory("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .addPin('ruoye.webp', 'Cute but Deadly Ruoye <br>by kwaaru', "Owned")
 .addPin('eming.webp', 'Cute but Deadly Eming <br>by kwaaru', "Owned")
 .addPin('wuming.webp', 'Thank you, Wuming <br>by kwaaru', "Owned")
-.addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Owned")
- 
+.addPin('paphuacheng.webp', 'Hua Cheng Chibi <br>by Pap00sh', "Owned") 
+.addPin('papxielian.webp', 'Xie Lian Chibi <br>by Pap00sh', "Owned") 
+
 .addPin('gremlinqr.webp', 'Gremlin Qi Rong <br> by Peonypinsco', "Owned")
 .addPin('gremlinhc.webp', 'Gremlin Hua Cheng <br> by Peonypinsco', "Owned")
 .addPin('gremlinhx.webp', 'Gremlin He Xuan <br> by Peonypinsco', "Owned")
 .addPin('gremlinbwx.webp', 'Gremlin Bai Wuxiang <br> by Peonypinsco', "Owned")
+.addPin('tarot.webp', 'Lovers Tarot Hualian <br>by Peonypinsco', "Owned")
 .addPin('babylian.webp', 'Baby Xie Lian Patreon <br> by Butchinelle', "Owned")
 .addPin('honger.webp', 'Flower Honger Patreon <br> by Butchinelle', "Owned")
 .addPin('vinxl.webp', 'Floral Xie Lian <br>by Virinali', "Owned")
@@ -614,6 +615,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
