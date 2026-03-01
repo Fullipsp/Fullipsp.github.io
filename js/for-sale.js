@@ -219,9 +219,15 @@ function addCategory(title, url) {
         const status = () => {
             if (pinStatus.toLowerCase() === "sold") {
                 return "Sold / Traded"
-            }       
+            }   
             if (pinStatus.toLowerCase() === "for-sale") {
                 return "For Sale"
+            }
+            if (pinStatus.toLowerCase() === "looking-for") {
+                return "Looking For"
+            }
+            if (pinStatus.toLowerCase() === "for-trade") {
+                return "For Trade"
             }
             return pinStatus;
         }
@@ -262,6 +268,12 @@ function addInlineCategory() {
             }   
             if (pinStatus.toLowerCase() === "for-sale") {
                 return "For Sale"
+            }
+            if (pinStatus.toLowerCase() === "looking-for") {
+                return "Looking For"
+            }
+            if (pinStatus.toLowerCase() === "for-trade") {
+                return "For Trade"
             }
             return pinStatus;
         }
