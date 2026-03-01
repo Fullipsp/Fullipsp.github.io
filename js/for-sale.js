@@ -178,6 +178,8 @@ function statusToIconName(status) {
     if (status === "for-sale") return 'shopping_cart';
     if (status === "ordered") return 'shopping_bag';
     if (status === "sold") return 'monetization_on';
+    if (status === "looking-for") return 'search';
+    if (status === "for-trade") return 'spa';
 }
 
 
