@@ -85,9 +85,11 @@ function showFigure(imageName) {
 function statusToIconName(status) {
     if (status === "waiting") return 'schedule';
     if (status === "owned") return 'done';
-    if (status === "shipped") return 'local_shipping';
+    if (status === "for-sale") return 'shopping_cart';
     if (status === "ordered") return 'shopping_bag';
     if (status === "sold") return 'monetization_on';
+    if (status === "looking-for") return 'search';
+    if (status === "for-trade") return 'spa';
 }
 
 function addCategory(title, url) {

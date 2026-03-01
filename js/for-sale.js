@@ -178,6 +178,8 @@ function statusToIconName(status) {
     if (status === "for-sale") return 'shopping_cart';
     if (status === "ordered") return 'shopping_bag';
     if (status === "sold") return 'monetization_on';
+    if (status === "looking-for") return 'search';
+    if (status === "for-trade") return 'spa';
 }
 
 
@@ -217,8 +219,17 @@ function addCategory(title, url) {
             return statusToIconName(lowercasePin);
         }
         const status = () => {
+            if (pinStatus.toLowerCase() === "sold") {
+                return "Sold / Traded"
+            }   
             if (pinStatus.toLowerCase() === "for-sale") {
                 return "For Sale"
+            }
+            if (pinStatus.toLowerCase() === "looking-for") {
+                return "Looking For"
+            }
+            if (pinStatus.toLowerCase() === "for-trade") {
+                return "For Trade"
             }
             return pinStatus;
         }
@@ -254,8 +265,17 @@ function addInlineCategory() {
             return statusToIconName(lowercasePin);
         }
         const status = () => {
+            if (pinStatus.toLowerCase() === "sold") {
+                return "Sold / Traded"
+            }   
             if (pinStatus.toLowerCase() === "for-sale") {
                 return "For Sale"
+            }
+            if (pinStatus.toLowerCase() === "looking-for") {
+                return "Looking For"
+            }
+            if (pinStatus.toLowerCase() === "for-trade") {
+                return "For Trade"
             }
             return pinStatus;
         }

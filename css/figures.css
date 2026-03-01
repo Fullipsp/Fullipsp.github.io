@@ -102,6 +102,15 @@ a.category-title:hover {
     color: var(--pin-sold-color);
 }
 
+.figure-item .status.for-trade {
+    background-color: var(--pin-for-trade-bg-color);
+    color: var(--pin-for-trade-color);
+}
+.figure-item .status.looking-for {
+    background-color: var(--pin-looking-for-bg-color);
+    color: var(--pin-looking-for-color);
+}
+
 .figure-item img {
     height: 200px;
     width: 180px;
