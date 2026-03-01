@@ -217,6 +217,9 @@ function addCategory(title, url) {
             return statusToIconName(lowercasePin);
         }
         const status = () => {
+            if (pinStatus.toLowerCase() === "sold") {
+                return "Sold/Traded"
+            }
             if (pinStatus.toLowerCase() === "for-sale") {
                 return "For Sale"
             }
@@ -254,6 +257,9 @@ function addInlineCategory() {
             return statusToIconName(lowercasePin);
         }
         const status = () => {
+            if (pinStatus.toLowerCase() === "sold") {
+                return "Sold/Traded"
+            }
             if (pinStatus.toLowerCase() === "for-sale") {
                 return "For Sale"
             }
