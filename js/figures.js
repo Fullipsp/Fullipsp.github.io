@@ -27,12 +27,7 @@ addCategory("Anime Nendoroids")
 .addFigure('chuuya.webp', 'Chuuya Nakahara <br>Bungou Stray Dogs', "Owned")
 
 
-.addFigure('junioreren.webp', 'Eren Yeager', "Owned")
-.addFigure('juniormikasa.webp', 'Mikasa Ackerman', "Owned")
-.addFigure('mikasa.webp', 'Eren Yeager (Season 4)', "Owned")
-.addFigure('eren.webp', 'Eren Yeager (Season 4)', "Owned")
-.addFigure('levi.webp', 'Levi Ackerman', "Owned")
-.addFigure('santa.webp', 'Eren Yeager (Santa ver.)', "Owned")
+
 // =======================================================================================================================
 addCategory("Hoyo / Game Nendoroids")
 .addFigure('luke.webp', 'Luke Pearce <br>Tears of Themis', "Owned")
@@ -58,29 +53,30 @@ addCategory("Hoyo / Game Nendoroids")
 
 // =================================================================================================================
 addCategory("Shounen Figures")
-.addFigure('muichiro.webp', 'Tokito Muichiro <br>Demon Slayer', "Owned")
 .addFigure('giyu.webp', 'Tomioka Giyu <br>Demon Slayer', "Owned")
+.addFigure('muichiro.webp', 'Tokito Muichiro <br>Demon Slayer', "Owned")
 .addFigure('rengoku.webp', 'Rengoku Kyojuro <br>Demon Slayer', "Owned")
 .addFigure('uzui.webp', 'Uzui Tengen <br>Demon Slayer', "Owned")
 .addFigure('gemuzui.webp', 'Uzui Tengen G.E.M 1/8 <br>Demon Slayer', "Owned")
-.addFigure('muichirochoko.webp', 'Tokito Muichiro Prize Fig <br>Demon Slayer', "Owned")
-.addFigure('giyuchoko.webp', 'Chokonose Giyu T. <br>Demon Slayer', "Owned")
 
-    
-.addFigure('yuuta.webp', 'Okkotsu Yuta <br>Jujutsu Kaisen', "Owned")
-.addFigure('gojo.webp', 'Gojo Satoru <br>Jujutsu Kaisen', "Owned")
-.addFigure('geto.webp', 'Geto Suguru <br>Jujutsu Kaisen', "Owned")
-.addFigure('juniorgojo.webp', 'Junior Gojo <br>Jujutsu Kaisen', "Owned")
-.addFigure('juniorgeto.webp', 'Junior Geto <br>Jujutsu Kaisen', "Owned")
 .addFigure('choso.webp', 'Choso <br>Jujutsu Kaisen', "Owned")
 .addFigure('toji.webp', 'Toji Fushiguro <br>Jujutsu Kaisen', "Owned")
+.addFigure('yuuta.webp', 'Okkotsu Yuta <br>Jujutsu Kaisen', "Owned")
+.addFigure('geto.webp', 'Geto Suguru <br>Jujutsu Kaisen', "Owned")
+.addFigure('gojo.webp', 'Gojo Satoru <br>Jujutsu Kaisen', "Owned")
+.addFigure('juniorgojo.webp', 'Junior Gojo <br>Jujutsu Kaisen', "Owned")
+.addFigure('juniorgeto.webp', 'Junior Geto <br>Jujutsu Kaisen', "Owned")
 
-
-
-
+.addFigure('junioreren.webp', 'Eren Yeager', "Owned")
+.addFigure('juniormikasa.webp', 'Mikasa Ackerman', "Owned")
+.addFigure('mikasa.webp', 'Eren Yeager (Season 4)', "Owned")
+.addFigure('eren.webp', 'Eren Yeager (Season 4)', "Owned")
+.addFigure('levi.webp', 'Levi Ackerman', "Owned")
+.addFigure('santa.webp', 'Eren Yeager (Santa ver.)', "Owned")
 
 .addFigure('dumpling.webp', 'Gyoza Fairy <br>Dorohedoro', "Owned")
-
+.addFigure('muichirochoko.webp', 'Tokito Muichiro Prize Fig <br>Demon Slayer', "Owned")
+.addFigure('giyuchoko.webp', 'Chokonose Giyu T. <br>Demon Slayer', "Owned")
 
 addCategory("FOR SALE / Sold")
 .addFigure('todoroki.webp', 'Shoto Torodoki Movie Ver. <br>My Hero Academia', "For-Sale")
