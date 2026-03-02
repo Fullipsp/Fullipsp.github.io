@@ -24,7 +24,7 @@ addCategory("MXTX Figures")
 .addFigure('huacheng.webp', 'Hua Cheng<br>Tian Guan Ci Fu', "Owned")
 .addFigure('reachheart.webp', 'Until I Reach Your Heart<br>Tian Guan Ci Fu', "Owned")
 .addFigure('amonglotus.webp', 'Among The Lotus<br>Tian Guan Ci Fu', "Owned")
-    
+.addFigure('dianxiafigure.webp', 'Dianxia Lucky Fig<br>Tian Guan Ci Fu', "Owned")
 .addFigure('juniorlwj.webp', 'Junior LWJ <br>Mo Dao Zu Shi', "Owned")
 .addFigure('juniorwwx.webp', 'Junior WWX <br>Mo Dao Zu Shi', "Owned")
 .addFigure('teenlwj.webp', 'Teen LWJ <br>Mo Dao Zu Shi', "Owned")
