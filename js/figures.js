@@ -6,14 +6,8 @@ addCategory("Ordered & ISO Nendos")
 .addFigure('phainon.webp', 'Phainon <br>Honkai Star Rail', "Ordered")
 .addFigure('kaeya.webp', 'Kaeya <br>Honkai Star Rail', "Ordered")
 .addFigure('xiao.webp', 'Xiao <br>Honkai Star Rail', "Ordered")
-//ISOs
-.addFigure('aobing.webp', 'Ao Bing <br>NeZha', "Looking-For")
-.addFigure('xiaoshi.webp', 'Cheng Xiaoshi <br>Link Click', "Looking-For")
-.addFigure('guang.webp', 'Lu Guang <br>Link Click', "Looking-For")
-.addFigure('miyano.webp', 'Miyano Yoshikazu <br>Sasaki & Miyano', "Looking-For")
-.addFigure('sasaki.webp', 'Sasaki Shuumei <br>Sasaki & Miyano', "Looking-For")
 
-// =================================================================================================================
+// =====================================================================================================================================================================================================================
 addCategory("MXTX Figures")
 .addFigure('shenq.webp', 'Shen Qingqiu <br>ScumVillain', "Owned")
 .addFigure('binghe.webp', 'Luo Binghe <br>ScumVillain', "Owned")
@@ -31,7 +25,7 @@ addCategory("MXTX Figures")
 .addFigure('teenwwx.webp', 'Teen WWX <br>Mo Dao Zu Shi', "Owned")
 .addFigure('adultlwj.webp', 'Adult LWJ <br>Mo Dao Zu Shi', "Owned")
 .addFigure('adultwwx.webp', 'Adult WWX <br>Mo Dao Zu Shi', "Owned")
-// =================================================================================================================
+// =====================================================================================================================================================================================================================
 addCategory("Anime Nendoroids")
 .addFigure('langa.webp', 'Langa Hasegawa <br>SK8 Infinity', "Owned")
 .addFigure('reki.webp', 'Reki Kyan <br>SK8 Infinity', "Owned")
@@ -40,7 +34,7 @@ addCategory("Anime Nendoroids")
 .addFigure('chuuya.webp', 'Chuuya Nakahara <br>Bungou Stray Dogs', "Owned")
 .addFigure('miyuki.webp', 'Shirogane Miyuki <br>Love is War', "Owned")
 .addFigure('kaguya.webp', 'Shinomiya Kaguya <br>Love is War', "Owned")
-// =======================================================================================================================
+// =====================================================================================================================================================================================================================
 addCategory("Hoyo / Game Nendoroids")
 .addFigure('sunday.webp', 'Sunday <br>Honkai Star Rail', "Owned")
 .addFigure('robin.webp', 'Robin <br>Honkai Star Rail', "Owned")
@@ -59,7 +53,7 @@ addCategory("Hoyo / Game Nendoroids")
 .addFigure('link.webp', 'Link <br>Breath of the Wild', "Owned")
 .addFigure('figmalink.webp', 'Figma Link <br>Breath of the Wild', "Owned")
 
-// =================================================================================================================
+// =====================================================================================================================================================================================================================
 addCategory("Shounen Figures")
 .addFigure('giyu.webp', 'Tomioka Giyu <br>Demon Slayer', "Owned")
 .addFigure('muichiro.webp', 'Tokito Muichiro <br>Demon Slayer', "Owned")
@@ -85,7 +79,14 @@ addCategory("Shounen Figures")
 .addFigure('dumpling.webp', 'Gyoza Fairy <br>Dorohedoro', "Owned")
 .addFigure('muichirochoko.webp', 'Tokito Muichiro Prize Fig <br>Demon Slayer', "Owned")
 .addFigure('giyuchoko.webp', 'Chokonose Giyu T. <br>Demon Slayer', "Owned")
-
+// =====================================================================================================================================================================================================================
+addCategory("Looking for these Nendoroids!")
+.addFigure('aobing.webp', 'Ao Bing <br>NeZha', "Looking-For")
+.addFigure('xiaoshi.webp', 'Cheng Xiaoshi <br>Link Click', "Looking-For")
+.addFigure('guang.webp', 'Lu Guang <br>Link Click', "Looking-For")
+.addFigure('miyano.webp', 'Miyano Yoshikazu <br>Sasaki & Miyano', "Looking-For")
+.addFigure('sasaki.webp', 'Sasaki Shuumei <br>Sasaki & Miyano', "Looking-For")
+// =====================================================================================================================================================================================================================
 addCategory("FOR SALE / Sold")
 .addFigure('todoroki.webp', 'Shoto Torodoki Movie Ver. <br>My Hero Academia', "For-Sale")
 .addFigure('02.webp', 'Zero Two <br>Darling in the Franxx', "For-Sale")
@@ -99,7 +100,7 @@ addCategory("FOR SALE / Sold")
 .addFigure('miyamura.webp', 'Miyamura Izumi <br>Horimiya', "Sold")
 .addFigure('hatsune.webp', 'Hatsune Miku Summer Prize Fig', "Sold")
 
-// =================================================================================================================
+// =====================================================================================================================================================================================================================
 
 function closeFigure() {
     const el = document.getElementById("preview");
