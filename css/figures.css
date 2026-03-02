@@ -101,6 +101,10 @@ a.category-title:hover {
     background-color: var(--pin-sold-bg-color);
     color: var(--pin-sold-color);
 }
+.figure-item .status.for-sale {
+    background-color: var(--pin-for-sale-bg-color);
+    color: var(--pin-for-sale-color);
+}
 
 .figure-item .status.for-trade {
     background-color: var(--pin-for-trade-bg-color);
