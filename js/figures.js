@@ -20,32 +20,32 @@ addCategory("MXTX Figures")
 .addFigure('amonglotus.webp', 'Among The Lotus<br>Tian Guan Ci Fu', "Owned")
 // =================================================================================================================
 addCategory("Anime Nendoroids")
+.addFigure('langa.webp', 'Langa Hasegawa <br>SK8 Infinity', "Owned")
+.addFigure('reki.webp', 'Reki Kyan <br>SK8 Infinity', "Owned")
 .addFigure('akuta.webp', 'Akutagawa R. <br>Bungou Stray Dogs', "Owned")
 .addFigure('dazai.webp', 'Dazai Osamu <br>Bungou Stray Dogs', "Owned")
 .addFigure('chuuya.webp', 'Chuuya Nakahara <br>Bungou Stray Dogs', "Owned")
-.addFigure('reki.webp', 'Reki Kyan <br>SK8 Infinity', "Owned")
-.addFigure('langa.webp', 'Langa Hasegawa <br>SK8 Infinity', "Owned")
 
-    
+
 .addFigure('junioreren.webp', 'Eren Yeager', "Owned")
 .addFigure('juniormikasa.webp', 'Mikasa Ackerman', "Owned")
-.addFigure('luke.webp', 'Luke Pearce <br>Tears of Themis', "Owned")
-.addFigure('levi.webp', 'Levi Ackerman', "Owned")
-.addFigure('eren.webp', 'Eren Yeager (Season 4)', "Owned")
 .addFigure('mikasa.webp', 'Eren Yeager (Season 4)', "Owned")
+.addFigure('eren.webp', 'Eren Yeager (Season 4)', "Owned")
+.addFigure('levi.webp', 'Levi Ackerman', "Owned")
 .addFigure('santa.webp', 'Eren Yeager (Santa ver.)', "Owned")
 // =======================================================================================================================
 addCategory("Hoyo / Game Nendoroids")
+.addFigure('luke.webp', 'Luke Pearce <br>Tears of Themis', "Owned")
 .addFigure('sunday.webp', 'Sunday <br>Honkai Star Rail', "Owned")
 .addFigure('robin.webp', 'Robin <br>Honkai Star Rail', "Owned")
 .addFigure('ratio.webp', 'Dr Ratio <br>Honkai Star Rail', "Owned")
 .addFigure('aventurine.webp', 'Aventurine <br>Honkai Star Rail', "Owned")
 .addFigure('blade.webp', 'Blade <br>Honkai Star Rail', "Owned")
 .addFigure('danheng.webp', 'Dan Heng <br>Honkai Star Rail', "Owned")
-    
+.addFigure('zhongli.webp', 'Aether <br>Genshin Impact', "Owned")
 .addFigure('aether.webp', 'Aether <br>Genshin Impact', "Owned")
 .addFigure('lumine.webp', 'Lumine <br>Genshin Impact', "Owned")
-.addFigure('zhongli.webp', 'Aether <br>Genshin Impact', "Owned")
+
 .addFigure('ozymandias.webp', 'Ozymandias <br>Fate Grand Order', "Owned")
 .addFigure('link.webp', 'Link <br>Breath of the Wild', "Owned")
 .addFigure('sylvanas.webp', 'Sylvanas <br>World of Warcraft', "Owned")
@@ -61,14 +61,22 @@ addCategory("Shounen Figures")
 .addFigure('muichiro.webp', 'Tokito Muichiro <br>Demon Slayer', "Owned")
 .addFigure('giyu.webp', 'Tomioka Giyu <br>Demon Slayer', "Owned")
 .addFigure('rengoku.webp', 'Rengoku Kyojuro <br>Demon Slayer', "Owned")
-.addFigure('uzui.jpg', 'Uzui Tengen <br>Demon Slayer', "Owned")
+.addFigure('uzui.webp', 'Uzui Tengen <br>Demon Slayer', "Owned")
 .addFigure('gemuzui.webp', 'Uzui Tengen G.E.M 1/8 <br>Demon Slayer', "Owned")
 .addFigure('muichirochoko.webp', 'Tokito Muichiro Prize Fig <br>Demon Slayer', "Owned")
 .addFigure('giyuchoko.webp', 'Chokonose Giyu T. <br>Demon Slayer', "Owned")
 
     
-.addFigure('yuta.webp', 'Okkotsu Yuta <br>Jujutsu Kaisen', "Owned")
+.addFigure('yuuta.webp', 'Okkotsu Yuta <br>Jujutsu Kaisen', "Owned")
 .addFigure('gojo.webp', 'Gojo Satoru <br>Jujutsu Kaisen', "Owned")
+.addFigure('geto.webp', 'Geto Suguru <br>Jujutsu Kaisen', "Owned")
+.addFigure('juniorgojo.webp', 'Junior Gojo <br>Jujutsu Kaisen', "Owned")
+.addFigure('juniorgeto.webp', 'Junior Geto <br>Jujutsu Kaisen', "Owned")
+.addFigure('choso.webp', 'Choso <br>Jujutsu Kaisen', "Owned")
+.addFigure('toji.webp', 'Toji Fushiguro <br>Jujutsu Kaisen', "Owned")
+
+
+
 
 
 .addFigure('dumpling.webp', 'Gyoza Fairy <br>Dorohedoro', "Owned")
