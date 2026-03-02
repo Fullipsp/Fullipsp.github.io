@@ -7,15 +7,12 @@ addCategory("Pre-Ordered Nendos")
 .addFigure('kaeya.webp', 'Kaeya <br>Honkai Star Rail', "Ordered")
 .addFigure('xiao.webp', 'Xiao <br>Honkai Star Rail', "Ordered")
 
-
-
-
 // =================================================================================================================
 addCategory("MXTX Figures")
-.addFigure('binghe.webp', 'Luo Binghe <br>ScumVillain', "Owned")
 .addFigure('shenq.webp', 'Shen Qingqiu <br>ScumVillain', "Owned")
-.addFigure('wwx.webp', 'Wei Wuxian DX <br>Mo Dao Zu Shi', "Owned")
+.addFigure('binghe.webp', 'Luo Binghe <br>ScumVillain', "Owned")
 .addFigure('lwj.webp', 'Lan Wangji DX <br>Mo Dao Zu Shi', "Owned")
+.addFigure('wwx.webp', 'Wei Wuxian DX <br>Mo Dao Zu Shi', "Owned")
 .addFigure('yllz.webp', 'YLLZ Wei Wuxian <br>Mo Dao Zu Shi', "Owned")
 .addFigure('xielian.webp', 'Xie Lian <br>Tian Guan Ci Fu', "Owned")
 .addFigure('huacheng.webp', 'Hua Cheng<br>Tian Guan Ci Fu', "Owned")
@@ -38,10 +35,17 @@ addCategory("Anime Nendoroids")
 .addFigure('mikasa.webp', 'Eren Yeager (Season 4)', "Owned")
 .addFigure('santa.webp', 'Eren Yeager (Santa ver.)', "Owned")
 // =======================================================================================================================
-addCategory("Shoujo / Game Nendoroids")
-
+addCategory("Hoyo / Game Nendoroids")
+.addFigure('sunday.webp', 'Sunday <br>Honkai Star Rail', "Owned")
+.addFigure('robin.webp', 'Robin <br>Honkai Star Rail', "Owned")
+.addFigure('ratio.webp', 'Dr Ratio <br>Honkai Star Rail', "Owned")
+.addFigure('aventurine.webp', 'Aventurine <br>Honkai Star Rail', "Owned")
+.addFigure('blade.webp', 'Blade <br>Honkai Star Rail', "Owned")
+.addFigure('danheng.webp', 'Dan Heng <br>Honkai Star Rail', "Owned")
+    
 .addFigure('aether.webp', 'Aether <br>Genshin Impact', "Owned")
 .addFigure('lumine.webp', 'Lumine <br>Genshin Impact', "Owned")
+.addFigure('zhongli.webp', 'Aether <br>Genshin Impact', "Owned")
 .addFigure('ozymandias.webp', 'Ozymandias <br>Fate Grand Order', "Owned")
 .addFigure('link.webp', 'Link <br>Breath of the Wild', "Owned")
 .addFigure('sylvanas.webp', 'Sylvanas <br>World of Warcraft', "Owned")
