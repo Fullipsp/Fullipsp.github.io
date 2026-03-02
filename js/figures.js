@@ -75,6 +75,8 @@ addCategory("Shounen Figures")
 .addFigure('eren.webp', 'Eren Yeager (Season 4)', "Owned")
 .addFigure('levi.webp', 'Levi Ackerman', "Owned")
 .addFigure('dumpling.webp', 'Gyoza Fairy <br>Dorohedoro', "Owned")
+.addFigure('santa.webp', 'Eren Yeager (Santa ver.)', "Owned")
+
 // =====================================================================================================================================================================================================================
 addCategory("Looking for these Nendoroids!")
 .addFigure('aobing.webp', 'Ao Bing <br>NeZha', "Looking-For")
@@ -84,10 +86,9 @@ addCategory("Looking for these Nendoroids!")
 .addFigure('sasaki.webp', 'Sasaki Shuumei <br>Sasaki & Miyano', "Looking-For")
 // =====================================================================================================================================================================================================================
 addCategory("FOR SALE / Sold")
-.addFigure('santa.webp', 'Eren Yeager (Santa ver.)', "Owned")
 .addFigure('muichirochoko.webp', 'Tokito Muichiro Prize Fig <br>Demon Slayer', "Owned")
 .addFigure('giyuchoko.webp', 'Chokonose Giyu T. <br>Demon Slayer', "Owned")
-    
+
 .addFigure('todoroki.webp', 'Shoto Torodoki Movie Ver. <br>My Hero Academia', "For-Sale")
 .addFigure('02.webp', 'Zero Two <br>Darling in the Franxx', "For-Sale")
 .addFigure('kogitsunemaru.webp', 'Kogitsunemaru <br>Touken Ranbu', "For-Sale")
