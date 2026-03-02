@@ -5,7 +5,7 @@ let categoryIndex = 0;
 addCategory("Orders & Preorders 🛒🪷")
  
  //PREORDERS
- // IVANTILL
+ // Preorders Zu IVANTILL
 .addPin('zutill.webp', 'ZuPins Till Phone Pin <br>LE100 by ZuPins', "Ordered")
 .addPin('ivanphone.webp', 'ZuPins Ivan Phone Pin <br>LE100 by ZuPins', "Ordered")
 .addPin('phoneminitill.webp', 'ZuPins Mini Till Pin <br>LE? by ZuPins', "Ordered")
@@ -25,11 +25,12 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('insomniahataventurine.webp', 'Hat Aven Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniaalhaitham.webp', 'Al Haitham Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 .addPin('insomniakaveh.webp', 'Kaveh Diamond Pin <br>LE by Ins***Pins.', "Ordered")
-//
-.addPin('yearshualian.webp', 'Hualian Thru Years <br>by Pap00sh', "Ordered") 
+//Preorders Junko Chibis
 .addPin('weddinghualiankiss.webp', 'Wedding Hualian Kiss <br>LE? by jun****art.', "Ordered")
 .addPin('sqqpot.webp', 'SQQ OOC Cucumber <br>LE? by jun****art.', "Ordered")
 .addPin('sqq1up.webp', 'SQQ Lil Seedling 1UP <br>LE? by jun****art.', "Ordered")
+ // IN HAND 
+.addPin('yearshualian.webp', 'Hualian Thru Years <br>by Pap00sh', "Ordered") 
 .addPin('junkfengqing.webp', 'Fengqing Tied Chibi <br>LE? by jun****art.', "Ordered")
 .addPin('lukatarot.webp', 'Luka Tarot Card <br>LE60? by Paper*****ns', "Ordered")
 .addPin('hsrhalloween.webp', 'Halloween Blind Dia Pin <br>LE by Ins***Pins.', "Ordered")
@@ -647,6 +648,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
