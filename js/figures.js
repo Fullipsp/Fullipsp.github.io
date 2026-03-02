@@ -1,7 +1,7 @@
 // cSpell:disable
 let categoryIndex = 0;
 
-addCategory("Ordered & ISO Nendos")
+addCategory("Pre-Ordered Nendoroids")
 .addFigure('kafka.webp', 'Kafka <br>Honkai Star Rail', "Ordered")
 .addFigure('phainon.webp', 'Phainon <br>Honkai Star Rail', "Ordered")
 .addFigure('kaeya.webp', 'Kaeya <br>Honkai Star Rail', "Ordered")
