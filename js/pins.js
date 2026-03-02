@@ -13,7 +13,6 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('tillbun.webp', 'ZuPins Till Bunny <br>LE? by ZuPins', "Ordered")
 .addPin('ivanbun.webp', 'ZuPins Ivan Bunny <br>LE? by ZuPins', "Ordered")
 .addPin('gachacheebs.webp', 'x5 Gacha HSR Cheebs <br> by Zu/Pris Pins', "Ordered")
-.addPin('hsrhalloween.webp', 'Halloween Blind Dia Pin <br>LE by Ins***Pins.', "Ordered")
 //Preorders INSOMNIAPINS
 .addPin('insomniavarka.webp', 'Varka Diamond <br>LE? by Ins***Pins', "Ordered")
 .addPin('insomniaflins.webp', 'Flins Diamond <br>LE? by Ins***Pins', "Ordered")
@@ -28,7 +27,12 @@ addCategory("Orders & Preorders 🛒🪷")
 .addPin('insomniakaveh.webp', 'Kaveh Diamond Pin <br>LE by Ins***Pins.', "Ordered")
 //
 .addPin('yearshualian.webp', 'Hualian Thru Years <br>by Pap00sh', "Ordered") 
+.addPin('weddinghualiankiss.webp', 'Wedding Hualian Kiss <br>LE? by jun****art.', "Ordered")
+.addPin('sqqpot.webp', 'SQQ OOC Cucumber <br>LE? by jun****art.', "Ordered")
+.addPin('sqq1up.webp', 'SQQ Lil Seedling 1UP <br>LE? by jun****art.', "Ordered")
 .addPin('junkfengqing.webp', 'Fengqing Tied Chibi <br>LE? by jun****art.', "Ordered")
+.addPin('lukatarot.webp', 'Luka Tarot Card <br>LE60? by Paper*****ns', "Ordered")
+.addPin('hsrhalloween.webp', 'Halloween Blind Dia Pin <br>LE by Ins***Pins.', "Ordered")
 
 addGap();
 // =====================================================================================================================================================================================================================================================
@@ -643,6 +647,7 @@ const moveTitle = () => {
 moveTitle();
 
 window.addEventListener("resize", moveTitle)
+
 
 
 
