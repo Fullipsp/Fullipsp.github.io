@@ -1,11 +1,17 @@
 // cSpell:disable
 let categoryIndex = 0;
 
-addCategory("Pre-Ordered Nendos")
+addCategory("Ordered & ISO Nendos")
 .addFigure('kafka.webp', 'Kafka <br>Honkai Star Rail', "Ordered")
 .addFigure('phainon.webp', 'Phainon <br>Honkai Star Rail', "Ordered")
 .addFigure('kaeya.webp', 'Kaeya <br>Honkai Star Rail', "Ordered")
 .addFigure('xiao.webp', 'Xiao <br>Honkai Star Rail', "Ordered")
+//ISOs
+.addFigure('aobing.webp', 'Ao Bing <br>NeZha', "Looking-For")
+.addFigure('xiaoshi.webp', 'Cheng Xiaoshi <br>Link Click', "Looking-For")
+.addFigure('luguang.webp', 'Lu Guang <br>Link Click', "Looking-For")
+.addFigure('miyano.webp', 'Miyano Yoshikazu <br>Sasaki & Miyano', "Looking-For")
+.addFigure('sasaki.webp', 'Sasaki Shuumei <br>Sasaki & Miyano', "Looking-For")
 
 // =================================================================================================================
 addCategory("MXTX Figures")
