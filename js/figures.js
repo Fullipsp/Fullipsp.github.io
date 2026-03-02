@@ -152,12 +152,27 @@ function addCategory(title, url) {
             const lowercaseFigure = figureStatus.toLowerCase();
             return statusToIconName(lowercaseFigure);           
         }
+        const status = () => {
+            if (figureStatus.toLowerCase() === "sold") {
+                return "Sold / Traded"
+            }   
+            if (figureStatus.toLowerCase() === "for-sale") {
+                return "For Sale"
+            }
+            if (figureStatus.toLowerCase() === "looking-for") {
+                return "Looking For"
+            }
+            if (figureStatus.toLowerCase() === "for-trade") {
+                return "For Trade"
+            }
+            return figureStatus;
+        }
 
         const el = `
             <div class="figure-item">
                 <img oncontextmenu="return false;" onClick="showFigure('${figureImage}')" src="images/figures/${figureImage}" loading="lazy" alt="${figureTitle}" />
                 <div class="figure-title">${figureTitle}</div>
-                <div class="status ${figureStatus.toLowerCase()}"><span class="material-icons">${iconName()}</span>${figureStatus}</div>
+                <div class="status ${figureStatus.toLowerCase()}"><span class="material-icons">${iconName()}</span>${status()}</div>
             </div>
         `;
         document.getElementById(categoryEl.id).innerHTML+= el;
