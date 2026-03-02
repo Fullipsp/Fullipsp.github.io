@@ -2,15 +2,13 @@
 let categoryIndex = 0;
 
 addCategory("Pre-Ordered Nendos")
+.addFigure('kafka.webp', 'Kafka <br>Honkai Star Rail', "Ordered")
+.addFigure('phainon.webp', 'Phainon <br>Honkai Star Rail', "Ordered")
+.addFigure('kaeya.webp', 'Kaeya <br>Honkai Star Rail', "Ordered")
+.addFigure('xiao.webp', 'Xiao <br>Honkai Star Rail', "Ordered")
 
-.addFigure('luke.png', 'Luke Pearce <br>Tears of Themis', "Ordered")
 
-addCategory("FOR SALE")
-.addFigure('02.webp', 'Zero Two <br>Darling in the Franxx', "Owned")
-.addFigure('kogitsunemaru.webp', 'Kogitsunemaru <br>Touken Ranbu', "Owned")
-.addFigure('mizuki.webp', 'Mikazuki <br>Touken Ranbu', "Owned")
-.addFigure('joker.webp', 'Joker <br>Persona 5', "Owned")
-.addFigure('gojo.webp', 'Gojo Satoru <br>Jujutsu Kaisen', "Owned")
+
 
 // =================================================================================================================
 addCategory("MXTX Figures")
@@ -23,12 +21,12 @@ addCategory("MXTX Figures")
 .addFigure('amonglotus.webp', 'Among The Lotus', "Owned")
 // =================================================================================================================
 addCategory("Attack on Titan Nendoroids")
-.addFigure('eren.webp', 'Eren Yeager', "Owned")
-.addFigure('mikasa.webp', 'Mikasa Ackerman', "Owned")
-.addFigure('armin.webp', 'Armin Arlert', "Owned")
+.addFigure('junioreren.webp', 'Eren Yeager', "Owned")
+.addFigure('juniormikasa.webp', 'Mikasa Ackerman', "Owned")
+.addFigure('luke.webp', 'Luke Pearce <br>Tears of Themis', "Owned")
 .addFigure('levi.webp', 'Levi Ackerman', "Owned")
-.addFigure('s4eren.webp', 'Eren Yeager (Season 4)', "Owned")
-.addFigure('s4mikasa.webp', 'Eren Yeager (Season 4)', "Owned")
+.addFigure('eren.webp', 'Eren Yeager (Season 4)', "Owned")
+.addFigure('mikasa.webp', 'Eren Yeager (Season 4)', "Owned")
 .addFigure('santa.webp', 'Eren Yeager (Santa ver.)', "Owned")
 // =======================================================================================================================
 addCategory("Shoujo / Game Nendoroids")
@@ -39,10 +37,10 @@ addCategory("Shoujo / Game Nendoroids")
 .addFigure('link.webp', 'Link <br>Breath of the Wild', "Owned")
 .addFigure('sylvanas.webp', 'Sylvanas <br>World of Warcraft', "Owned")
 .addFigure('zag.jpg', 'Zagreus <br>Hades', "Owned")
-.addFigure('shirogane.webp', 'Shirogane Miyuki <br>Love is War', "Owned")
+.addFigure('miyuki.webp', 'Shirogane Miyuki <br>Love is War', "Owned")
 .addFigure('kaguya.webp', 'Shinomiya Kaguya <br>Love is War', "Owned")
-.addFigure('miyamura.webp', 'Miyamura Izumi <br>Horimiya', "Owned")
-.addFigure('miku.webp', 'Miku Nakano <br>Quintessential Quintuplets', "Sold")
+
+
 
 // =================================================================================================================
 addCategory("Shounen Figures")
@@ -53,13 +51,26 @@ addCategory("Shounen Figures")
 .addFigure('gemuzui.webp', 'Uzui Tengen G.E.M 1/8 <br>Demon Slayer', "Owned")
 .addFigure('muichirochoko.webp', 'Tokito Muichiro Prize Fig <br>Demon Slayer', "Owned")
 .addFigure('giyuchoko.webp', 'Chokonose Giyu T. <br>Demon Slayer', "Owned")
-.addFigure('hatsune.webp', 'Hatsune Miku Summer Prize Fig', "Sold")
+
     
 .addFigure('yuta.webp', 'Okkotsu Yuta <br>Jujutsu Kaisen', "Owned")
 .addFigure('gojo.webp', 'Gojo Satoru <br>Jujutsu Kaisen', "Owned")
-.addFigure('todoroki.webp', 'Shoto Torodoki Movie Ver. <br>My Hero Academia', "Owned")
+
 
 .addFigure('dumpling.webp', 'Gyoza Fairy <br>Dorohedoro', "Owned")
+
+
+addCategory("FOR SALE / Sold")
+.addFigure('todoroki.webp', 'Shoto Torodoki Movie Ver. <br>My Hero Academia', "For-Sale")
+.addFigure('02.webp', 'Zero Two <br>Darling in the Franxx', "For-Sale")
+.addFigure('kogitsunemaru.webp', 'Kogitsunemaru <br>Touken Ranbu', "For-Sale")
+.addFigure('mizuki.webp', 'Mikazuki <br>Touken Ranbu', "For-Sale")
+.addFigure('joker.webp', 'Joker <br>Persona 5', "For-Sale")
+.addFigure('gojo.webp', 'Gojo Satoru <br>Jujutsu Kaisen', "For-Sale")
+.addFigure('armin.webp', 'Armin Arlert', "Sold")
+.addFigure('miku.webp', 'Miku Nakano <br>Quintessential Quintuplets', "Sold")
+.addFigure('miyamura.webp', 'Miyamura Izumi <br>Horimiya', "Sold")
+.addFigure('hatsune.webp', 'Hatsune Miku Summer Prize Fig', "Sold")
 
 // =================================================================================================================
 
