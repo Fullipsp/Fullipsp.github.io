@@ -12,11 +12,11 @@ addCategory("Pre-Ordered Nendos")
 
 // =================================================================================================================
 addCategory("MXTX Figures")
-.addFigure('xl.jpg', 'Xie Lian', "Owned")
-.addFigure('hc.jpg', 'Hua Cheng', "Owned")
+.addFigure('xielian.jpg', 'Xie Lian', "Owned")
+.addFigure('huacheng.jpg', 'Hua Cheng', "Owned")
 .addFigure('wwx.webp', 'Wei Wuxian DX', "Owned")
 .addFigure('lwj.webp', 'Lan Wangji DX', "Owned")
-.addFigure('yllzwwx.webp', 'YLLZ Wei Wuxian', "Owned")
+.addFigure('yllz.webp', 'YLLZ Wei Wuxian', "Owned")
 .addFigure('reachheart.webp', 'Until I Reach Your Heart', "Owned")
 .addFigure('amonglotus.webp', 'Among The Lotus', "Owned")
 // =================================================================================================================
