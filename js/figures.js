@@ -9,7 +9,7 @@ addCategory("Ordered & ISO Nendos")
 //ISOs
 .addFigure('aobing.webp', 'Ao Bing <br>NeZha', "Looking-For")
 .addFigure('xiaoshi.webp', 'Cheng Xiaoshi <br>Link Click', "Looking-For")
-.addFigure('luguang.webp', 'Lu Guang <br>Link Click', "Looking-For")
+.addFigure('guang.webp', 'Lu Guang <br>Link Click', "Looking-For")
 .addFigure('miyano.webp', 'Miyano Yoshikazu <br>Sasaki & Miyano', "Looking-For")
 .addFigure('sasaki.webp', 'Sasaki Shuumei <br>Sasaki & Miyano', "Looking-For")
 
