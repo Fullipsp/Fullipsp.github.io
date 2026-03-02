@@ -38,12 +38,10 @@ addCategory("Anime Nendoroids")
 .addFigure('akuta.webp', 'Akutagawa R. <br>Bungou Stray Dogs', "Owned")
 .addFigure('dazai.webp', 'Dazai Osamu <br>Bungou Stray Dogs', "Owned")
 .addFigure('chuuya.webp', 'Chuuya Nakahara <br>Bungou Stray Dogs', "Owned")
-
-
-
+.addFigure('miyuki.webp', 'Shirogane Miyuki <br>Love is War', "Owned")
+.addFigure('kaguya.webp', 'Shinomiya Kaguya <br>Love is War', "Owned")
 // =======================================================================================================================
 addCategory("Hoyo / Game Nendoroids")
-.addFigure('luke.webp', 'Luke Pearce <br>Tears of Themis', "Owned")
 .addFigure('sunday.webp', 'Sunday <br>Honkai Star Rail', "Owned")
 .addFigure('robin.webp', 'Robin <br>Honkai Star Rail', "Owned")
 .addFigure('ratio.webp', 'Dr Ratio <br>Honkai Star Rail', "Owned")
@@ -53,16 +51,13 @@ addCategory("Hoyo / Game Nendoroids")
 .addFigure('zhongli.webp', 'Aether <br>Genshin Impact', "Owned")
 .addFigure('aether.webp', 'Aether <br>Genshin Impact', "Owned")
 .addFigure('lumine.webp', 'Lumine <br>Genshin Impact', "Owned")
-
+.addFigure('luke.webp', 'Luke Pearce <br>Tears of Themis', "Owned")
 .addFigure('ozymandias.webp', 'Ozymandias <br>Fate Grand Order', "Owned")
-.addFigure('link.webp', 'Link <br>Breath of the Wild', "Owned")
 .addFigure('sylvanas.webp', 'Sylvanas <br>World of Warcraft', "Owned")
 .addFigure('zagreus.webp', 'Zagreus <br>Hades', "Owned")
 .addFigure('thanatos.webp', 'Thanatos <br>Hades', "Owned")
-.addFigure('miyuki.webp', 'Shirogane Miyuki <br>Love is War', "Owned")
-.addFigure('kaguya.webp', 'Shinomiya Kaguya <br>Love is War', "Owned")
-
-
+.addFigure('link.webp', 'Link <br>Breath of the Wild', "Owned")
+.addFigure('figmalink.webp', 'Figma Link <br>Breath of the Wild', "Owned")
 
 // =================================================================================================================
 addCategory("Shounen Figures")
