@@ -12,8 +12,8 @@ addCategory("Pre-Ordered Nendos")
 
 // =================================================================================================================
 addCategory("MXTX Figures")
-.addFigure('xielian.jpg', 'Xie Lian', "Owned")
-.addFigure('huacheng.jpg', 'Hua Cheng', "Owned")
+.addFigure('xielian.webp', 'Xie Lian', "Owned")
+.addFigure('huacheng.webp', 'Hua Cheng', "Owned")
 .addFigure('wwx.webp', 'Wei Wuxian DX', "Owned")
 .addFigure('lwj.webp', 'Lan Wangji DX', "Owned")
 .addFigure('yllz.webp', 'YLLZ Wei Wuxian', "Owned")
