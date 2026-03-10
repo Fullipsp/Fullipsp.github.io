@@ -5,6 +5,12 @@
   animation: slideUp 0.2s ease-in-out;
   animation-fill-mode: forwards;
 }
+.gap {
+  width: 100%;
+  height: 10px;
+  background: var(--scrollbar-color);
+  margin-top: 20px;
+}
 @keyframes slideUp {
   0% {
     opacity: 0;

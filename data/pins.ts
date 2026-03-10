@@ -37,7 +37,7 @@ category("Orders & Preorders 🛒🪷")
 .pin('lukatarot.webp', 'Luka Tarot Card', 'LE60? by Paper*****ns', "ordered")
 .pin('hsrhalloween.webp', 'Halloween Blind Dia Pin', 'LE by Ins***Pins.', "ordered")
 
-// addGap();
+.gap();
 // =====================================================================================================================================================================================================================================================
 category("Pris & Zu Pins Chibis 🪷")
  // OWNED
@@ -486,10 +486,11 @@ category("Animal Crossing Pins 🌺🌷🤍")
 
 
 export interface Pin {
-  src: string
-  title: string
-  subtitle: string;
-  status: PreviewType
+  src?: string
+  title?: string
+  subtitle?: string;
+  status?: PreviewType
+  gap?: boolean;
 }
 
 export interface Category {
@@ -506,10 +507,14 @@ function category  (title: string, url?: string) {
 
   const pin = (src: string, title: string, subtitle: string, status: PreviewType) => {
     setCategories(index, "pins", (prev) => [...prev, { src: `/pins/${src}`, title, subtitle, status }])
-    return {pin}
+    return {pin, gap}
+  }
+    const gap = () => {
+    setCategories(index, "pins", (prev) => [...prev, {gap: true }])
   }
   return {
     pin,
+    gap
   }
 }
 

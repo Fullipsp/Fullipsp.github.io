@@ -34,7 +34,7 @@ category("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .pin('lenpaimon.webp', 'Paimon', 'by Lenacchi', "for-sale")
 .pin('anemo.webp', 'Anemoculus (GLOWS)', 'by Theartthatran', "for-sale")
 
-// addGap();
+.gap();
 // =======================================================================================================================================================================================================================
 category("Sold Pins 👠")
 
@@ -156,10 +156,11 @@ category("Sold Pins 👠")
 
 
 export interface Pin {
-  src: string
-  title: string
-  subtitle: string;
-  status: PreviewType
+  src?: string
+  title?: string
+  subtitle?: string;
+  status?: PreviewType
+  gap?: boolean;
 }
 
 export interface Category {
@@ -176,10 +177,14 @@ function category  (title: string, url?: string) {
 
   const pin = (src: string, title: string, subtitle: string, status: PreviewType) => {
     setCategories(index, "pins", (prev) => [...prev, { src: `/pins/${src}`, title, subtitle, status }])
-    return {pin}
+    return {pin, gap}
+  }  
+  const gap = () => {
+    setCategories(index, "pins", (prev) => [...prev, {gap: true }])
   }
   return {
     pin,
+    gap
   }
 }
 
