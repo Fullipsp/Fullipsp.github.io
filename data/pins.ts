@@ -16,25 +16,25 @@ category("Orders & Preorders 🛒🪷")
 .pin('ivanbun.webp', 'ZuPins Ivan Bunny', 'LE? by ZuPins', "ordered")
 .pin('gachacheebs.webp', 'x5 Gacha HSR Cheebs', ' by Zu/Pris Pins', "ordered")
 //Preorders INSOMNIAPINS
-.pin('insomniavarka.webp', 'Varka Diamond', 'LE? by Ins***Pins', "ordered")
-.pin('insomniaflins.webp', 'Flins Diamond', 'LE? by Ins***Pins', "ordered")
 .pin('insomniacyrene.webp', 'Cyrene Diamond', 'LE by Ins***Pins.', "ordered")
 .pin('pinkavennohat.webp', 'Pink Aven Diamond', 'LE by Ins***Pins.', "ordered")
 .pin('pinkavenhat.webp', 'Pink Aven Hat Diamond', 'LE by Ins***Pins.', "ordered")
-.pin('insomniazhongli.webp', 'Zhongli Diamond', 'LE by Ins***Pins.', "ordered")
-.pin('insomniachildeog.png', 'Acheron Diamond', 'LE by Ins***Pins.', "ordered")
-.pin('insomniadrratio.webp', 'Dr Ratio Diamond', 'LE by Ins***Pins.', "ordered")
-.pin('insomniahataventurine.webp', 'Hat Aven Diamond Pin', 'LE by Ins***Pins.', "ordered")
+.pin('insomniavarka.webp', 'Varka Diamond', 'LE? by Ins***Pins', "ordered")
+.pin('insomniaflins.webp', 'Flins Diamond', 'LE? by Ins***Pins', "ordered")
 .pin('insomniaalhaitham.webp', 'Al Haitham Diamond Pin', 'LE by Ins***Pins.', "ordered")
 .pin('insomniakaveh.webp', 'Kaveh Diamond Pin', 'LE by Ins***Pins.', "ordered")
 //Preorders Junko Chibis
+.pin('yearshualian.webp', 'Hualian Thru Years', 'by Pap00sh', "ordered") 
 .pin('weddinghualiankiss.webp', 'Wedding Hualian Kiss', 'LE? by jun****art.', "ordered")
 .pin('sqqpot.webp', 'SQQ OOC Cucumber', 'LE? by jun****art.', "ordered")
 .pin('sqq1up.webp', 'SQQ Lil Seedling 1UP', 'LE? by jun****art.', "ordered")
  // IN HAND 
-.pin('yearshualian.webp', 'Hualian Thru Years', 'by Pap00sh', "ordered") 
-.pin('junkfengqing.webp', 'Fengqing Tied Chibi', 'LE? by jun****art.', "ordered")
 .pin('lukatarot.webp', 'Luka Tarot Card', 'LE60? by Paper*****ns', "ordered")
+.pin('insomniazhongli.webp', 'Zhongli Diamond', 'LE by Ins***Pins.', "ordered")
+.pin('insomniachildeog.png', 'Acheron Diamond', 'LE by Ins***Pins.', "ordered")
+.pin('junkfengqing.webp', 'Fengqing Tied Chibi', 'LE? by jun****art.', "ordered")
+.pin('insomniadrratio.webp', 'Dr Ratio Diamond', 'LE by Ins***Pins.', "ordered")
+.pin('insomniahataventurine.webp', 'Hat Aven Diamond Pin', 'LE by Ins***Pins.', "ordered")
 
 .gap();
 // =====================================================================================================================================================================================================================================================
