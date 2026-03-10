@@ -54,7 +54,7 @@
   }
 
   .light {
-    --scrollbar-color: #ff8993;
+    --scrollbar-color: #ffafb6;
 
     --owned: linear-gradient(to right, #65ff54a8 0%, #d0ffcbbb 100%);
     --owned-text: rgb(1, 66, 1);

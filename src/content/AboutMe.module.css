@@ -21,11 +21,13 @@
 .smallImagesContainer {
   max-width: 372px;
   padding: 24px;
+  padding-top: 2px;
   border-radius: 16px;
   background-color: var(--about-me-section-bg);
   .title {
     margin: 0;
-    margin-bottom: 24px;
+    margin-bottom: 10px;
+    margin-top: 6px;
     background: var(--title-color);
     -webkit-background-clip: text;
     text-align: center;
@@ -130,6 +132,7 @@
   position: relative;
   z-index: 11;
   display: flex;
+  text-align: center;
   overflow: hidden;
   flex: 1;
   flex-direction: column;

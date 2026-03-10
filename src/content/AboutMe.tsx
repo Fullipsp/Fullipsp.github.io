@@ -19,7 +19,7 @@ const Details = () => {
 
         <p>
           This site is all about me, who I am, what I like and to display the
-          things I cherish most. I have organized all of my favourite artworks,
+          things I cherish most. <br />I have organized all of my favourite artworks,
           photography, my entire pin & figure collections as well as how I
           display them in the corresponding folders above. ˚ʚ♡ɞ˚
         </p>
