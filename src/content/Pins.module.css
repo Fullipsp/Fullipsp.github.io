@@ -5,6 +5,14 @@
   animation: slideUp 0.2s ease-in-out;
   animation-fill-mode: forwards;
 }
+
+:global(.light) {
+  :local(.gap) {
+    &:before {
+      opacity: 1;
+    }
+  }
+}
 .gap {
   position: relative;
   width: 100%;
