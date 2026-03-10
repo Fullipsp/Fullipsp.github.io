@@ -7,6 +7,7 @@ category("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .pin('insomniasethos.webp', 'Sethos Diamond Pin', 'LE by Ins***Pins.', "for-sale")
 .pin('insomniasunday.webp', 'Sunday Diamond Pin', 'LE by Ins***Pins.', "for-sale")
 .pin('insomniapinsyingxing.webp', 'Yingxing Diamond ', 'LE by Ins***Pins.', "for-sale")
+.pin('insomniawriobn.webp', 'BN: Wrio Diamond', 'LE? by Ins***Pins', "for-sale")
 .pin('insomnianeuvibn.webp', 'BN: Neuvi Diamond', 'LE? by Ins***Pins', "for-sale")
 .pin('insomniajiaoqiu.webp', 'Jiaoqiu Diamond ', 'LE by Ins***Pins.', "for-sale")
 
