@@ -30,11 +30,11 @@ const Details = () => {
           page as much as I enjoyed creating it! ʕ•ᴥ•ʔ ₊˚⊹♡
         </p>
       </div>
-      {/* <img
-        class={style.aboutMeImage}
-        src="/aboutme-graphic.webp"
-        alt="About Me Image"
-      /> */}
+      <div class={style.ribbonContainer}>
+        <div class={style.ribbonEndings}></div>
+        <img class={style.ribbon} src="/ribbon.png" />
+        <div class={style.ribbonEndings}></div>
+      </div>
     </div>
   );
 };
