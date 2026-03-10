@@ -24,6 +24,9 @@
   padding-top: 2px;
   border-radius: 16px;
   background-color: var(--about-me-section-bg);
+      justify-content: center;
+    display: flex;
+    flex-direction: column;
   .title {
     margin: 0;
     margin-bottom: 10px;
