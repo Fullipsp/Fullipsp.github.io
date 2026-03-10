@@ -1,17 +1,14 @@
 import style from "./Pins.module.css";
-import { For } from "solid-js";
 import { pinCategories } from "../../data/sale-pins";
-import { PinCategory } from "./PinCategory";
 import { PreviewPopup } from "../PreviewPopup";
+import { VirtualPinCategories } from "../VirtualPinCategories";
 
 const PinsContent = () => {
   return (
     <div class={style.container}>
       <PreviewPopup categories={pinCategories()} />
       <div class={style.categories}>
-        <For each={pinCategories()}>
-          {(category) => <PinCategory category={category} />}
-        </For>
+        <VirtualPinCategories categories={pinCategories()} />
       </div>
     </div>
   );

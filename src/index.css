@@ -5,13 +5,21 @@
   --owned: linear-gradient(to right, #30862686 0%, #124f0b66 100%);
   --owned-text: rgba(162, 255, 162, 0.9);
 
-  --ordered: linear-gradient(to right, #b03266b9 0%, rgba(103, 0, 43, 0.65) 100%);
+  --ordered: linear-gradient(
+    to right,
+    #b03266b9 0%,
+    rgba(103, 0, 43, 0.65) 100%
+  );
   --ordered-text: #ffc2dc;
 
   --sold: linear-gradient(to right, #df4040a0 0%, #5e0000ad 100%);
   --sold-text: #ffc2c2;
 
-  --for-sale: linear-gradient(to right, #ffd053cf 0%, rgba(201, 79, 20, 0.73) 100%);
+  --for-sale: linear-gradient(
+    to right,
+    #ffd053cf 0%,
+    rgba(201, 79, 20, 0.73) 100%
+  );
   --for-sale-text: #fff2cd;
 
   --for-trade: linear-gradient(to right, #2790b9d2 0%, #004966ba 100%);
@@ -22,14 +30,12 @@
   --scrollbar-color: #ffbdc2;
 
   .dark {
-    color-scheme: dark;
     --title-color: linear-gradient(to right, #ffd0da 0%, #ff809b 100%);
     --background: #090708;
     --primary-color: #7f2b3a;
     --text-color: #ffbdc2;
     --tab-button-color: #ffd0da;
     --pin-bg: rgba(255, 189, 194, 0.1);
-
 
     --item-details-overlay-bg: rgba(0, 0, 0, 0.6);
 
@@ -44,22 +50,30 @@
     --slideshow-button-bg-hover: rgba(0, 0, 0, 0.8);
 
     --slideshow-text-color: white;
+    color-scheme: dark;
   }
 
   .light {
-
     --scrollbar-color: #ff8993;
 
     --owned: linear-gradient(to right, #65ff54a8 0%, #d0ffcbbb 100%);
     --owned-text: rgb(1, 66, 1);
 
-    --ordered: linear-gradient(to right, #ff5b9fb9 0%, rgba(255, 161, 200, 0.65) 100%);
+    --ordered: linear-gradient(
+      to right,
+      #ff5b9fb9 0%,
+      rgba(255, 161, 200, 0.65) 100%
+    );
     --ordered-text: #500124;
 
     --sold: linear-gradient(to right, #ff3636a0 0%, #ff9c9cad 100%);
     --sold-text: #440000;
 
-    --for-sale: linear-gradient(to right, #ffc936cf 0%, rgba(255, 196, 167, 0.73) 100%);
+    --for-sale: linear-gradient(
+      to right,
+      #ffc936cf 0%,
+      rgba(255, 196, 167, 0.73) 100%
+    );
     --for-sale-text: #362700;
 
     --for-trade: linear-gradient(to right, #44caffd2 0%, #bbecffba 100%);
@@ -92,17 +106,16 @@
 
 html,
 body {
+  overflow: hidden;
   margin: 0;
   color: var(--text-color);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
   font-family: "Nunito", sans-serif;
-  overflow: hidden;
   &.preview {
     overflow: hidden;
   }
 }
-
 
 * {
   box-sizing: border-box;
@@ -113,8 +126,9 @@ button {
 }
 #root {
   display: flex;
-  overflow-y: auto;
   overflow-x: hidden;
+  overflow-y: auto;
+  justify-content: center;
   height: 100vh;
   scrollbar-color: var(--scrollbar-color) transparent;
 }
