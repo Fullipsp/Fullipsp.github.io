@@ -15,7 +15,7 @@ const Details = () => {
       </div>
       <h2 class={style.title}>About Me</h2>
       <div class={style.description}>
-        <p>Hello, welcome to my portfolio & collection website! ˚ʚ♡ɞ˚</p>
+        <p>Hello, I'm Fulli! Welcome to my portfolio & collection website! ˚ʚ♡ɞ˚</p>
 
         <p>
           This site is all about me, who I am, what I like and to display the
