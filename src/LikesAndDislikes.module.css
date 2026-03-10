@@ -44,6 +44,8 @@
         flex-direction: row;
         flex-wrap: wrap;
         align-items: start;
+        padding-left: 10px;
+        padding-right: 10px;
     }
     .container {
         flex: 1;

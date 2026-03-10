@@ -326,7 +326,11 @@
     flex-direction: column;
     gap: 20px;
   }
-
+  .smallImagesContainer {
+    flex: 1;
+    max-width: initial;
+    justify-content:initial;
+  }
   .topContent {
     display: none;
   }
@@ -357,6 +361,13 @@
   .details .roses {
     img {
       width: 200px;
+    }
+  }
+}
+@media (max-width: 516px) {
+  .smallImagesContainer {
+    .title {
+      font-size: 18px;
     }
   }
 }

@@ -1,6 +1,5 @@
-import { useMatch } from "@solidjs/router";
 import style from "./LikesAndDislikes.module.css";
-import { createEffect, createMemo, For, Show } from "solid-js";
+import {  For, Show } from "solid-js";
 import { useCurrentPage } from "./currentPage";
 
 const likes = [

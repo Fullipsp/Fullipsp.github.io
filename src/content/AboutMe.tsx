@@ -1,8 +1,8 @@
 import { createSignal, For, Show } from "solid-js";
 import style from "./AboutMe.module.css";
 import { Icon } from "../Icon";
-import { AboutMeLeftItems, type Item } from "../../data/about-me-left";
-import { AboutMeRightItems } from "../../data/about-me-right";
+import { AboutMeLeftItems, type Item } from "../../data/about-me-current-fave";
+import { AboutMeRightItems } from "../../data/about-me-all-fave";
 import { aboutMeSlides } from "../../data/about-me-slideshow";
 import { rightImage } from "../../data/about-me-right-image";
 
