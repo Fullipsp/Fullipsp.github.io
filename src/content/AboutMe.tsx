@@ -1,4 +1,4 @@
-import { createSignal, For, Show } from "solid-js";
+import { createSignal, For, onCleanup, onMount, Show } from "solid-js";
 import style from "./AboutMe.module.css";
 import { Icon } from "../Icon";
 import { AboutMeLeftItems, type Item } from "../../data/about-me-current-fave";
@@ -49,6 +49,7 @@ const Slideshow = () => {
   let nextImageRef: HTMLImageElement | undefined;
   let currentImageRef: HTMLImageElement | undefined;
   let prevImageRef: HTMLImageElement | undefined;
+  let intervalId: number | undefined;
 
   const nextImageSrc = () => {
     return images[(currentIndex() + 1) % images.length];
@@ -61,6 +62,7 @@ const Slideshow = () => {
   let animating = false;
 
   const next = () => {
+    handleInterval();
     if (animating) return;
     animating = true;
     const animation = nextImageRef?.animate(
@@ -82,6 +84,7 @@ const Slideshow = () => {
     }
   };
   const prev = () => {
+    handleInterval();
     if (animating) return;
     animating = true;
     const animation = currentImageRef?.animate(
@@ -96,6 +99,22 @@ const Slideshow = () => {
       };
     }
   };
+
+  const handleInterval = () => {
+    if (intervalId) {
+      clearInterval(intervalId);
+    }
+    intervalId = setInterval(() => {
+      next();
+    }, 6000);
+  }
+  onMount(() => {
+    handleInterval();
+  })
+  onCleanup(() => {
+    clearTimeout(intervalId);
+  })
+  
 
   return (
     <div class={style.slideshow}>
