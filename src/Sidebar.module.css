@@ -1,0 +1,256 @@
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: -100px;
+  margin-left: 28px;
+  gap: 6px;
+}
+
+.sidebarImage {
+  width: 200px;
+  height: 240px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.avatarContainer {
+  position: relative;
+  width: 240px;
+  height: 240px;
+  border: 8px solid var(--background);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: 0.2s;
+
+  img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+  }
+
+  .baseSun {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background: var(--background);
+    width: 42px;
+    height: 42px;
+    padding: 8px;
+    overflow: hidden;
+    border-radius: 50%;
+
+    .sun {
+      background-color: #fabb55;
+      width: 100%;
+      border-radius: 50%;
+
+      height: 100%;
+    }
+
+    .moon {
+      position: absolute;
+      height: 20px;
+      width: 20px;
+      background: var(--background);
+      border-radius: 50%;
+
+      bottom: 100%;
+      left: 100%;
+    }
+
+    &.dark {
+      .moon {
+        bottom: 40%;
+        left: 40%;
+      }
+    }
+  }
+
+
+}
+
+.divider {
+  width: 230px;
+  height: 16px;
+}
+
+.username {
+  margin-top: -2px;
+  background: var(--title-color);
+  -webkit-background-clip: text;
+  font-family: "Great Vibes", cursive;
+  font-size: 46px;
+  font-weight: bold;
+  padding-left: 4px;
+  padding-right: 4px;
+  -webkit-text-fill-color: transparent;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+
+  max-width: 239px;
+  opacity: 0.8;
+  text-align: center;
+  font-size: 14px;
+  background-color: var(--about-me-section-bg);
+  border-radius: 10px;
+  padding: 6px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  .heart {
+  line-height: 0;
+
+  }
+  
+  p {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.roles {
+  display: flex;
+  opacity: 0.9;
+  font-size: 14px;
+  gap: 14px;
+  padding-bottom: 6px;
+
+  .role {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    gap: 8px;
+
+    .iconContainer {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 22px;
+    }
+
+    img.icon {
+      height: 22px;
+    }
+
+    .icon {
+      font-size: 22px;
+      object-fit: scale-down;
+    }
+
+    .title {
+      opacity: 0.7;
+    }
+  }
+}
+
+.socialsOuter {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.socialsTitle {
+  text-align: center;
+  background: var(--title-color);
+  -webkit-background-clip: text;
+  font-family: "Great Vibes", cursive;
+  font-weight: bold;
+  -webkit-text-fill-color: transparent;
+  display: flex;
+  font-size: 34px;
+  gap: 6px;
+  align-items: center;
+}
+
+.socials {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  max-width: 164px;
+  opacity: 0.9;
+  font-size: 14px;
+  gap: 4px;
+
+  .social {
+    display: flex;
+    align-items: center;
+    padding: 6px;
+    border-radius: 12px;
+    color: var(--text-color);
+    transition: 0.2s;
+    text-decoration: none;
+    gap: 8px;
+
+    &:hover {
+      color: var(--tab-button-color);
+      background-color: var(--primary-color);
+    }
+
+    .icon {
+      position: relative;
+      width: 26px;
+      height: 26px;
+      border-radius: 6px;
+      filter: grayscale(100%) sepia(100%) hue-rotate(var(--socials-hue)) saturate(200%);
+    }
+
+    .title {
+      border-radius: 12px;
+    }
+  }
+}
+
+.copyright {
+  max-width: 210px;
+  opacity: 0.7;
+  text-align: center;
+  font-size: 12px;
+}
+
+@media (min-width: 1300px) {
+  .avatarContainer {
+
+    .baseSun {
+      bottom: 10px;
+      right: 10px;
+    }
+  }
+}
+
+@media (max-width: 1300px) {
+  .sidebarImage {
+    display: none;
+  }
+
+  .copyright {
+    display: none;
+  }
+
+  .socials {
+    flex-direction: row;
+    justify-content: center;
+    max-width: 100%;
+
+    .social .icon {
+      width: 30px;
+      height: 30px;
+    }
+
+    .title {
+      display: none;
+    }
+  }
+
+  .container {
+    margin-left: 0;
+  }
+
+  .avatarContainer {
+    width: 180px;
+    height: 180px;
+  }
+}

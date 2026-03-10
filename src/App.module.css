@@ -1,0 +1,133 @@
+.container {
+  width: 100%;
+  max-width: 2007px;
+  min-height: 1400px;
+}
+
+.contentContainer {
+  display: flex;
+}
+
+.contentInnerContainer {
+  margin-top: 26px;
+  margin-right: 20px;
+  margin-left: 28px;
+}
+
+.mainContentContainer {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.tabs {
+  display: flex;
+  margin-top: 24px;
+  margin-right: 20px;
+  margin-left: 20px;
+  gap: 20px;
+  font-family: "Alice", serif;
+  flex-wrap: wrap;
+  
+}
+
+.tabItem {
+  position: relative;
+  z-index: 111;
+  font-size: 20px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  padding: 8px;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-radius: 99px;
+  flex-shrink: 0;
+  color: var(--text-color);
+  user-select: none;
+  transition: 0.2s;
+  text-decoration: none;
+  gap: 8px;
+
+  .iconContainer {
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  img.icon {
+    height: 22px;
+  }
+
+  .icon {
+    font-size: 22px;
+    object-fit: scale-down;
+  }
+
+  &:before {
+    position: absolute;
+    z-index: -1;
+    border-radius: 99px;
+    opacity: 0;
+    background-color: var(--primary-color);
+    content: "";
+    transition: 0.2s;
+    inset: 0;
+    scale: 0.8;
+  }
+
+  &:hover {
+    &:before {
+      opacity: 0.4;
+      scale: 1;
+    }
+  }
+
+  &.selected {
+    color: var(--tab-button-color);
+    background-color: var(--primary-color);
+  }
+}
+
+.copyright {
+  display: none;
+  flex: 1;
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-bottom: 12px;
+  margin-left: 10px;
+  opacity: 0.7;
+  text-align: center;
+  font-size: 12px;
+  place-self: center;
+}
+
+@media (max-width: 1300px) {
+  .copyright {
+    display: block;
+  }
+
+  .contentContainer {
+    flex-direction: column;
+  }
+
+  .tabs {
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 6px;
+  }
+
+  .contentInnerContainer {
+    margin-right: 6px;
+    margin-left: 6px;
+  }
+}
+
+@media (max-width: 470px) {
+  .tabItem {
+    padding: 6px;
+    font-size: 16px;
+  }
+}

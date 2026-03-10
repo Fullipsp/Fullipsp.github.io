@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+
+:root {
+  --card-text-glow: #ff6e89;
+  --owned: linear-gradient(to right, #30862686 0%, #124f0b66 100%);
+  --owned-text: rgba(162, 255, 162, 0.9);
+
+  --ordered: linear-gradient(
+    to right,
+    #b03266b9 0%,
+    rgba(103, 0, 43, 0.65) 100%
+  );
+  --ordered-text: #ffc2dc;
+
+  --sold: linear-gradient(to right, #df4040a0 0%, #5e0000ad 100%);
+  --sold-text: #ffc2c2;
+
+  --for-sale: linear-gradient(
+    to right,
+    #ffd053cf 0%,
+    rgba(201, 79, 20, 0.73) 100%
+  );
+  --for-sale-text: #fff2cd;
+
+  --for-trade: linear-gradient(to right, #2790b9d2 0%, #004966ba 100%);
+  --for-trade-text: #c9f1ff;
+
+  --looking-for: linear-gradient(to right, #962bb7e1 0%, #3b004dd2 100%);
+  --looking-for-text: #f1c1ff;
+  --scrollbar-color: #ffbdc2;
+
+  .dark {
+    --title-color: linear-gradient(to right, #ffd0da 0%, #ff809b 100%);
+    --background: #090708;
+    --primary-color: #7f2b3a;
+    --text-color: #ffbdc2;
+    --tab-button-color: #ffd0da;
+    --pin-bg: rgba(255, 189, 194, 0.1);
+
+    --item-details-overlay-bg: rgba(0, 0, 0, 0.6);
+
+    --item-border: rgba(255, 150, 168, 0.527);
+
+    --socials-hue: 300deg;
+    --preview-popup-bg: rgba(0, 0, 0, 0.6);
+
+    --about-me-section-bg: rgba(255, 255, 255, 0.04);
+
+    --slideshow-button-bg: rgba(0, 0, 0, 0.6);
+    --slideshow-button-bg-hover: rgba(0, 0, 0, 0.8);
+
+    --slideshow-text-color: white;
+    color-scheme: dark;
+  }
+
+  .light {
+    --scrollbar-color: #ffafb6;
+
+    --owned: linear-gradient(to right, #65ff54a8 0%, #d0ffcbbb 100%);
+    --owned-text: rgb(1, 66, 1);
+
+    --ordered: linear-gradient(
+      to right,
+      #ff5b9fb9 0%,
+      rgba(255, 161, 200, 0.65) 100%
+    );
+    --ordered-text: #500124;
+
+    --sold: linear-gradient(to right, #ff3636a0 0%, #ff9c9cad 100%);
+    --sold-text: #440000;
+
+    --for-sale: linear-gradient(
+      to right,
+      #ffc936cf 0%,
+      rgba(255, 196, 167, 0.73) 100%
+    );
+    --for-sale-text: #362700;
+
+    --for-trade: linear-gradient(to right, #44caffd2 0%, #bbecffba 100%);
+    --for-trade-text: #002e3f;
+
+    --looking-for: linear-gradient(to right, #de91fae1 0%, #dac5ffe1 100%);
+    --looking-for-text: #1f0055;
+
+    --title-color: linear-gradient(to right, #b83552 0%, #68051b 100%);
+    --background: #ffeef6;
+    --primary-color: #4d0714;
+    --text-color: #38050a;
+    --tab-button-color: #ffd0da;
+
+    --item-details-overlay-bg: rgba(255, 255, 255, 0.5);
+
+    --item-border: rgba(255, 150, 168, 0.527);
+
+    --socials-hue: 300deg;
+    --preview-popup-bg: rgba(255, 255, 255, 0.2);
+    --about-me-section-bg: white;
+    --pin-bg: white;
+
+    --slideshow-button-bg: rgba(255, 255, 255, 0.5);
+    --slideshow-button-bg-hover: rgba(255, 255, 255, 0.8);
+
+    --slideshow-text-color: black;
+  }
+}
+
+html,
+body {
+  overflow: hidden;
+  margin: 0;
+  color: var(--text-color);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Nunito", sans-serif;
+  &.preview {
+    overflow: hidden;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button {
+  cursor: pointer;
+}
+#root {
+  display: flex;
+  overflow-x: hidden;
+  overflow-y: auto;
+  justify-content: center;
+  height: 100vh;
+  scrollbar-color: var(--scrollbar-color) transparent;
+}
+.material-symbols-rounded {
+  font-variation-settings:
+    "FILL" 1,
+    "wght" 400,
+    "GRAD" 0,
+    "opsz" 24;
+}
