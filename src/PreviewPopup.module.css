@@ -15,7 +15,8 @@
 
 .container img {
   width: 80%;
-  max-width: 500px;
+  max-width: fit-content;
+  max-height: 90%;
   border-radius: 28px;
   animation: scaleUp 0.2s ease-in-out;
   animation-fill-mode: forwards;
