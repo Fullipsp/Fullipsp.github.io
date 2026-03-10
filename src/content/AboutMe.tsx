@@ -6,10 +6,7 @@ import { AboutMeRightItems } from "../../data/about-me-right";
 import { aboutMeSlides } from "../../data/about-me-slideshow";
 import { rightImage } from "../../data/about-me-right-image";
 
-
-
 const Details = () => {
-
   return (
     <div class={style.details}>
       <div>
@@ -20,9 +17,18 @@ const Details = () => {
         <h2 class={style.title}>About Me</h2>
         <p>Hello, welcome to my portfolio & collection website! ˚ʚ♡ɞ˚</p>
 
-        <p>This site is all about me, who I am, what I like and to display the things I cherish most. I have organized all of my favourite artworks, photography, my entire pin & figure collections as well as how I display them in the corresponding folders above. ˚ʚ♡ɞ˚</p>
+        <p>
+          This site is all about me, who I am, what I like and to display the
+          things I cherish most. I have organized all of my favourite artworks,
+          photography, my entire pin & figure collections as well as how I
+          display them in the corresponding folders above. ˚ʚ♡ɞ˚
+        </p>
 
-        <p>Feel free to check out and reach out to me via my socials! (especially if you'd like to trade or buy anything) I hope you enjoy exploring my page as much as I enjoyed creating it! ʕ•ᴥ•ʔ ₊˚⊹♡</p>
+        <p>
+          Feel free to check out and reach out to me via my socials! (especially
+          if you'd like to trade or buy anything) I hope you enjoy exploring my
+          page as much as I enjoyed creating it! ʕ•ᴥ•ʔ ₊˚⊹♡
+        </p>
       </div>
       {/* <img
         class={style.aboutMeImage}
@@ -120,10 +126,16 @@ const Slideshow = () => {
   );
 };
 
-const SmallImages = (props: { items: Item[] }) => {
+const SmallImages = (props: { items: Item[]; type: "current" | "all" }) => {
   return (
-    <div class={style.smallImages}>
-      <For each={props.items}>{(item) => <SmallImageItem item={item} />}</For>
+    <div class={style.smallImagesContainer}>
+      <h2 class={style.title}>
+        {props.type === "current" ? "Current Favorites" : "All-Time Favorites"}
+      </h2>
+
+      <div class={style.smallImages}>
+        <For each={props.items}>{(item) => <SmallImageItem item={item} />}</For>
+      </div>
     </div>
   );
 };
@@ -156,14 +168,14 @@ const AboutMeContent = () => {
       <div class={style.topContentMobile}>
         <Details />
         <div class={style.mobileImages}>
-          <SmallImages items={AboutMeLeftItems()} />
-          <SmallImages items={AboutMeRightItems()} />
+          <SmallImages type="current" items={AboutMeLeftItems()} />
+          <SmallImages type="all" items={AboutMeRightItems()} />
         </div>
       </div>
       <div class={style.topContent}>
-        <SmallImages items={AboutMeLeftItems()} />
+        <SmallImages type="current" items={AboutMeLeftItems()} />
         <Details />
-        <SmallImages items={AboutMeRightItems()} />
+        <SmallImages type="all" items={AboutMeRightItems()} />
       </div>
       <div class={style.slideshowOuter}>
         <Slideshow />

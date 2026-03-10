@@ -18,17 +18,29 @@
   display: flex;
   gap: 20px;
 }
-
-.smallImages {
-  display: flex;
-  flex-wrap: wrap;
+.smallImagesContainer {
   max-width: 372px;
   padding: 24px;
   border-radius: 16px;
   background-color: var(--about-me-section-bg);
-  gap: 12px;
-  align-content: flex-start;
+  .title {
+    margin: 0;
+    margin-bottom: 24px;
+    background: var(--title-color);
+    -webkit-background-clip: text;
+    text-align: center;
+    font-family: "Berkshire Swash", serif;
 
+    font-weight: bold;
+    -webkit-text-fill-color: transparent;
+  }
+}
+.smallImages {
+  display: flex;
+  align-content: flex-start;
+  flex-wrap: wrap;
+
+  gap: 12px;
 }
 
 .smallImageItem {
@@ -77,18 +89,16 @@
     }
 
     .title {
-      transform: translateY(-8px);
       text-shadow: 0px 0px 12px var(--card-text-glow);
-
+      transform: translateY(-8px);
     }
     .subtitle {
       margin-top: -12px;
       opacity: 0.6;
+      text-shadow: 0px 0px 12px var(--card-text-glow);
       transform: translateY(-2px);
       font-size: 12px;
       font-weight: normal;
-      text-shadow: 0px 0px 12px var(--card-text-glow);
-
     }
   }
 }
@@ -109,7 +119,6 @@
   border-radius: 16px;
   background-color: var(--about-me-section-bg);
 
-  
   img {
     width: 100%;
     height: 100%;
@@ -120,20 +129,20 @@
 .details {
   position: relative;
   z-index: 11;
-  overflow: hidden;
   display: flex;
+  overflow: hidden;
   flex: 1;
-  padding-left: 24px;
   padding-right: 24px;
-  
+  padding-left: 24px;
+
   border-radius: 16px;
   background-color: var(--about-me-section-bg);
-  
+
   .roses {
     position: absolute;
-    left: 20px;
-    right: 20px;
     top: 20px;
+    right: 20px;
+    left: 20px;
     display: flex;
     justify-content: space-between;
     img:nth-child(2) {
@@ -144,27 +153,27 @@
   h2 {
     font-size: 28px;
   }
-  
+
   p {
     opacity: 0.8;
     font-size: 18px;
   }
   .title {
+    background: var(--title-color);
+    -webkit-background-clip: text;
     text-align: center;
-      background: var(--title-color);
-      -webkit-background-clip: text;
-      font-family: "Berkshire Swash", serif;
+    font-family: "Berkshire Swash", serif;
 
-      font-weight: bold;
-      -webkit-text-fill-color: transparent;
-    }
+    font-weight: bold;
+    -webkit-text-fill-color: transparent;
+  }
 }
 
 .aboutMeImage {
   flex-shrink: 0;
   width: 400px;
-  object-fit: contain;
   margin-right: -6px;
+  object-fit: contain;
 }
 
 .slideshow {
