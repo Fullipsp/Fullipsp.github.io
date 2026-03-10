@@ -136,6 +136,8 @@ category("Sold Pins 👠")
 .pin('night.webp', 'Froggie ITA (Nighttime) Bag (Kickstarter) (Peach and Holo inserts)','', "sold")
 .pin('goldxiaoshi.webp', 'Cheng Xiaoshi Panel - Gold', 'by ipinboys', "sold")
 .pin('goldguang.webp', 'Lu Guang Panel - Gold', 'x2 by ipinboys', "sold")
+.pin('sasakiss.webp', 'Sasamiya Petal Kiss', 'LE? by orangeshapins', "sold")
+.pin('sasablush.webp', 'Sasamiya Proximity Panel', 'LE? by orangeshapins', "sold")
 
          // Kirby / Animal pins
 .pin('Lily.webp', 'Lily ❀ Studio Ghibli', 'by Birduyen', "sold")
