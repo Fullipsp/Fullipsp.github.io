@@ -112,7 +112,7 @@ const Slideshow = () => {
     handleInterval();
   })
   onCleanup(() => {
-    clearTimeout(intervalId);
+    clearInterval(intervalId);
   })
   
 
