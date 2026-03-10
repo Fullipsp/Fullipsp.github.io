@@ -2,13 +2,19 @@ import { createStore } from "solid-js/store"
 import type { PreviewType } from "../src/PreviewItem"
 const [categories, setCategories] = createStore<Category[]>([]);
 
-
+// ==================================================================================================================================================
 category("Pre-Ordered Nendoroids")
 .fig('kafka.webp', 'Kafka', 'Honkai Star Rail', "ordered")
 .fig('phainon.webp', 'Phainon', 'Honkai Star Rail', "ordered")
 .fig('kaeya.webp', 'Kaeya', 'Honkai Star Rail', "ordered")
 .fig('xiao.webp', 'Xiao', 'Honkai Star Rail', "ordered")
-
+// =====================================================================================================================================================================================================================
+category("Looking for these Nendoroids!")
+.fig('aobing.webp', 'Ao Bing', 'NeZha', "looking-for")
+.fig('xiaoshi.webp', 'Cheng Xiaoshi', 'Link Click', "looking-for")
+.fig('guang.webp', 'Lu Guang', 'Link Click', "looking-for")
+.fig('miyano.webp', 'Miyano Yoshikazu', 'Sasaki & Miyano', "looking-for")
+.fig('sasaki.webp', 'Sasaki Shuumei', 'Sasaki & Miyano', "looking-for")
 // =====================================================================================================================================================================================================================
 category("MXTX Figures")
 .fig('shenq.webp', 'Shen Qingqiu', 'ScumVillain', "owned")
@@ -79,13 +85,7 @@ category("Shounen Figures")
 .fig('dumpling.webp', 'Gyoza Fairy', 'Dorohedoro', "owned")
 .fig('santa.webp', 'Eren Yeager (Santa ver.)','', "owned")
 
-// =====================================================================================================================================================================================================================
-category("Looking for these Nendoroids!")
-.fig('aobing.webp', 'Ao Bing', 'NeZha', "looking-for")
-.fig('xiaoshi.webp', 'Cheng Xiaoshi', 'Link Click', "looking-for")
-.fig('guang.webp', 'Lu Guang', 'Link Click', "looking-for")
-.fig('miyano.webp', 'Miyano Yoshikazu', 'Sasaki & Miyano', "looking-for")
-.fig('sasaki.webp', 'Sasaki Shuumei', 'Sasaki & Miyano', "looking-for")
+
 // =====================================================================================================================================================================================================================
 category("FOR SALE / Sold")
 .fig('muichirochoko.webp', 'Tokito Muichiro Prize Fig', 'Demon Slayer', "owned")
