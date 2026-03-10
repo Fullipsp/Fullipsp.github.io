@@ -9,12 +9,12 @@ import { rightImage } from "../../data/about-me-right-image";
 const Details = () => {
   return (
     <div class={style.details}>
-      <div>
-        <div class={style.roses}>
-          <img src="/roses.gif" />
-          <img src="/roses.gif" />
-        </div>
-        <h2 class={style.title}>About Me</h2>
+      <div class={style.roses}>
+        <img src="/roses.gif" />
+        <img src="/roses.gif" />
+      </div>
+      <h2 class={style.title}>About Me</h2>
+      <div class={style.description}>
         <p>Hello, welcome to my portfolio & collection website! ˚ʚ♡ɞ˚</p>
 
         <p>

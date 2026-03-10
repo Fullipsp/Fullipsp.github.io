@@ -140,8 +140,14 @@
   background-color: var(--about-me-section-bg);
   .ribbonContainer {
     display: flex;
-    margin-top: auto;
     margin-bottom: 20px;
+  }
+  .description {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
   }
   .ribbon {
     width: 70px;
