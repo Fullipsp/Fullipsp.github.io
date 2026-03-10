@@ -3,8 +3,7 @@ import {  For, Show } from "solid-js";
 import { useCurrentPage } from "./currentPage";
 
 const likes = [
-    "item1",
-    "item2",
+    "boba tea",
     "item3",
     "item3",
     "item3",
@@ -30,6 +29,8 @@ const likes = [
 const dislikes = [
     "item1",
     "item2",
+    "item3",
+    "item3",
     "item3",
     "item4"
 ]

@@ -5,6 +5,8 @@ image("/pins/Lily.webp", "Aventurine", "");
 image("/pins/Lily.webp", "Aventurine", "something");
 image("/pins/Lily.webp", "Aventurine", "something");
 image("/pins/Lily.webp", "Aventurine", "something");
+image("/pins/Lily.webp", "Aventurine", "something");
+image("/pins/Lily.webp", "Aventurine", "something");
 
 export interface Item {
   src: string;
