@@ -17,6 +17,9 @@ importers:
       solid-js:
         specifier: ^1.9.10
         version: 1.9.11
+      virtua:
+        specifier: ^0.48.6
+        version: 0.48.6(solid-js@1.9.11)
     devDependencies:
       '@types/node':
         specifier: ^24.10.1
@@ -647,6 +650,26 @@ packages:
     resolution: {integrity: sha512-ueuhzvWnp5JU5CiGSY4WdKbiN/PO2AZ/lpeLiz2l38qwdLy/cW40XobgyuIWucNyum0B33bVB0owjFCeGBSLqg==}
     engines: {node: '>=8'}
 
+  virtua@0.48.6:
+    resolution: {integrity: sha512-Cl4uMvMV5c9RuOy9zhkFMYwx/V4YLBMYLRSWkO8J46opQZ3P7KMq0CqCVOOAKUckjl/r//D2jWTBGYWzmgtzrQ==}
+    peerDependencies:
+      react: '>=16.14.0'
+      react-dom: '>=16.14.0'
+      solid-js: '>=1.0'
+      svelte: '>=5.0'
+      vue: '>=3.2'
+    peerDependenciesMeta:
+      react:
+        optional: true
+      react-dom:
+        optional: true
+      solid-js:
+        optional: true
+      svelte:
+        optional: true
+      vue:
+        optional: true
+
   vite-plugin-solid@2.11.10:
     resolution: {integrity: sha512-Yr1dQybmtDtDAHkii6hXuc1oVH9CPcS/Zb2jN/P36qqcrkNnVPsMTzQ06jyzFPFjj3U1IYKMVt/9ZqcwGCEbjw==}
     peerDependencies:
@@ -1233,6 +1256,10 @@ snapshots:
       picocolors: 1.1.1
 
   utf8-buffer@1.0.0: {}
+
+  virtua@0.48.6(solid-js@1.9.11):
+    optionalDependencies:
+      solid-js: 1.9.11
 
   vite-plugin-solid@2.11.10(solid-js@1.9.11)(vite@7.3.1(@types/node@24.10.15)):
     dependencies:

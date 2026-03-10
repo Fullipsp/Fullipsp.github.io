@@ -1,4 +1,5 @@
 .container {
+  margin-top: -20px;
   opacity: 0;
   transform: translateY(20px);
   animation: slideUp 0.2s ease-in-out;
@@ -19,11 +20,6 @@
   flex-direction: column;
 }
 .categories {
-  :nth-child(1) {
-    .title {
-      margin-top: 0;
-    }
-  }
   a.title {
     &:hover {
       text-decoration: underline;

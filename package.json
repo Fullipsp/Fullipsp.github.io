@@ -11,7 +11,8 @@
   "dependencies": {
     "@solidjs/router": "^0.15.4",
     "ani-cursor": "^0.0.5",
-    "solid-js": "^1.9.10"
+    "solid-js": "^1.9.10",
+    "virtua": "^0.48.6"
   },
   "devDependencies": {
     "@types/node": "^24.10.1",

@@ -8,22 +8,23 @@ import AboutMeContent from "./content/AboutMe";
 import { convertAniBinaryToCSS } from "ani-cursor";
 import { useCurrentPage } from "./currentPage";
 
-
-
-
-
-const favicons = ["favicon.ico", "favicon1.ico", "favicon2.ico", "favicon3.ico"];
+const favicons = [
+  "favicon.ico",
+  "favicon1.ico",
+  "favicon2.ico",
+  "favicon3.ico",
+];
 let index = Math.floor(Math.random() * favicons.length);
 
 function randomizeFavicon() {
   const favicon = favicons[index];
   var link = document.querySelector("link[rel~='icon']") as HTMLLinkElement;
   if (!link) {
-    link = document.createElement('link');
-    link.rel = 'icon';
+    link = document.createElement("link");
+    link.rel = "icon";
     document.head.appendChild(link);
   }
-  link.href = '/' + favicon;
+  link.href = "/" + favicon;
 
   if (index >= favicons.length - 1) {
     index = 0;
@@ -37,7 +38,6 @@ setInterval(() => {
   randomizeFavicon();
 }, 2000);
 
-
 let cursorCache: Record<string, Uint8Array> = {};
 async function applyCursor(selector: string, aniUrl: string) {
   const getData = async () => {
@@ -48,25 +48,21 @@ async function applyCursor(selector: string, aniUrl: string) {
     const data = new Uint8Array(await response.arrayBuffer());
     cursorCache[aniUrl] = data;
     return data;
-  }
+  };
 
   const data = await getData();
 
-
-  const style = document.createElement('style');
+  const style = document.createElement("style");
   style.innerText = convertAniBinaryToCSS(selector, data);
 
   document.head.appendChild(style);
 }
 
-
-
 function App() {
-
   onMount(async () => {
-    await applyCursor("body", "/cursors/Normal.ani")
-    await applyCursor("a, .avatar, button", "/cursors/Link.ani")
-  })
+    await applyCursor("body", "/cursors/Normal.ani");
+    await applyCursor("a, .avatar, button", "/cursors/Link.ani");
+  });
   return (
     <div class={style.container}>
       <Banner />
@@ -112,7 +108,6 @@ const TabItem = (props: {
   );
 };
 
-
 const Content = () => {
   const currentPage = useCurrentPage();
 
@@ -122,7 +117,7 @@ const Content = () => {
 
   return (
     <div class={style.mainContentContainer}>
-      <div class={style.tabs}>
+      <div class={style.tabs} id="tab">
         <TabItem href="/" icon="/icons/bunny-screen.webp" label="About Me" />
         <TabItem href="/drawings" icon="/icons/art.webp" label="My Drawings" />
         <TabItem
