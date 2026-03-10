@@ -346,7 +346,38 @@
       object-fit: cover;
     }
   }
+  body .details .roses {
+    img {
+      width: 240px;
+    }
+  }
 }
+
+@media (max-width: 696px) {
+  body .details .roses {
+    img {
+      width: 180px;
+    }
+  }
+}
+
+
+@media (max-width: 534px) {
+  body .details .roses {
+    img {
+      width: 120px;
+    }
+  }
+}
+
+@media (max-width: 419px) {
+  body .details .roses {
+    img {
+      width: 100px;
+    }
+  }
+}
+
 
 @media (max-width: 500px) {
   .aboutMeImage {
