@@ -139,3 +139,8 @@ button {
     "GRAD" 0,
     "opsz" 24;
 }
+
+img {
+  user-select: none;
+  pointer-events: none;
+}

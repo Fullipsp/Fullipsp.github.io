@@ -148,7 +148,7 @@ const Slideshow = () => {
 const SmallImages = (props: { items: Item[]; type: "current" | "all" }) => {
   return (
     <div class={style.smallImagesContainer}>
-      <h2 class={style.title}>
+      <h2 class={style.mainTitle}>
         {props.type === "current" ? "Current Favorites" : "All-Time Favorites"}
       </h2>
 
