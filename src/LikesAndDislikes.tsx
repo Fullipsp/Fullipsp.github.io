@@ -14,6 +14,7 @@ const likes = [
     "Anime Figures",
     "Video Games",
     "Gacha Games",
+    "Devotion, Romance",
     "Loyalty & Honesty",
     "Fanfictions (AO3)",
     "Being Organized",
