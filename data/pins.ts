@@ -28,6 +28,7 @@ category("Orders & Preorders 🛒🪷")
 .pin('weddinghualiankiss.webp', 'Wedding Hualian Kiss', 'LE? by jun****art.', "ordered")
 .pin('sqqpot.webp', 'SQQ OOC Cucumber', 'LE? by jun****art.', "ordered")
 .pin('sqq1up.webp', 'SQQ Lil Seedling 1UP', 'LE? by jun****art.', "ordered")
+.pin('phadeibath.webp', 'Phaidei Bath Chibi', 'OE by zzzsgalore.', "ordered")
  // IN HAND 
 .pin('lukatarot.webp', 'Luka Tarot Card', 'LE60? by Paper*****ns', "ordered")
 .pin('insomniazhongli.webp', 'Zhongli Diamond', 'LE by Ins***Pins.', "ordered")
