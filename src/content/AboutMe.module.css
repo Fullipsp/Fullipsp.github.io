@@ -19,18 +19,18 @@
   gap: 20px;
 }
 .smallImagesContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   max-width: 372px;
   padding: 24px;
   padding-top: 2px;
   border-radius: 16px;
   background-color: var(--about-me-section-bg);
-      justify-content: center;
-    display: flex;
-    flex-direction: column;
   .title {
     margin: 0;
-    margin-bottom: 10px;
     margin-top: 6px;
+    margin-bottom: 10px;
     background: var(--title-color);
     -webkit-background-clip: text;
     text-align: center;
@@ -72,6 +72,7 @@
     bottom: -6%;
     left: 0px;
     display: flex;
+    align-items: start;
     flex-direction: column;
     padding: 8px;
     opacity: 0;
@@ -101,7 +102,7 @@
       margin-top: -12px;
       opacity: 0.6;
       text-shadow: 0px 0px 12px var(--card-text-glow);
-      transform: translateY(-2px);
+      transform: translateY(-8px);
       font-size: 12px;
       font-weight: normal;
     }
@@ -135,7 +136,6 @@
   position: relative;
   z-index: 11;
   display: flex;
-  text-align: center;
   overflow: hidden;
   flex: 1;
   flex-direction: column;
@@ -144,6 +144,7 @@
 
   border-radius: 16px;
   background-color: var(--about-me-section-bg);
+  text-align: center;
   .ribbonContainer {
     display: flex;
     margin-bottom: 20px;
@@ -328,8 +329,8 @@
   }
   .smallImagesContainer {
     flex: 1;
+    justify-content: initial;
     max-width: initial;
-    justify-content:initial;
   }
   .topContent {
     display: none;
@@ -361,7 +362,6 @@
   }
 }
 
-
 @media (max-width: 534px) {
   body .details .roses {
     img {
@@ -377,7 +377,6 @@
     }
   }
 }
-
 
 @media (max-width: 500px) {
   .aboutMeImage {
