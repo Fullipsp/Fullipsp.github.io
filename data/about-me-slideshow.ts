@@ -13,11 +13,9 @@ slide('slideshow/gorouarcher.webp')
 slide('slideshow/catxiao.webp')
 slide('slideshow/catnoir.webp')
 slide('slideshow/childe.webp')
-slide('slideshow/kazuhabday.webp')
-slide('slideshow/tomo.webp')
 slide('slideshow/celestial.webp')
 slide('slideshow/winterxiao.webp')
-slide('slideshow/belpher.webp')
+
 
 
 

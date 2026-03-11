@@ -4,8 +4,8 @@ import { useCurrentPage } from "./currentPage";
 
 const likes = [
     "boba tea",
-    "item3",
-    "item3",
+    "testing",
+    "anime",
     "item3",
     "item3",
     "item3",
