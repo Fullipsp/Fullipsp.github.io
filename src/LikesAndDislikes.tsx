@@ -3,36 +3,40 @@ import {  For, Show } from "solid-js";
 import { useCurrentPage } from "./currentPage";
 
 const likes = [
-    "boba tea",
-    "testing",
-    "anime",
-    "item3",
-    "item3",
-    "item3",
-    "item3",
-    "item3",
-    "item3",
-    "item3",
-    "item3",
-    "item3",
-    "item3",
-    "item3",
-    "item3",
-    "item3",
-    "item3",
-    "item3",
-    "item3",
-    "item3",
-    "item3"
+    "Boba Tea🧋",
+    "Collecting Merch🎀",
+    "Danmei Books📖",
+    "Enamel Pins🪷",
+    "Nendoroids✨",
+    "Photography 📸",
+    "Fictional Guys🔥",
+    "Money (˵ ¬ᴗ¬˵)💵",
+    "Anime Figures",
+    "Video Games",
+    "Gacha Games",
+    "Loyalty & Honesty",
+    "Fanfictions (AO3)",
+    "Being Organized",
+    "Watching Anime",
+    "Watching YouTube",
+    "Exploring Pretty places",
+    "Tofu Katsu Curry",
+    "Margherita Pizza",
+    "Selling Old Things",
 ]
 
 const dislikes = [
-    "item1",
-    "item2",
-    "item3",
-    "item3",
-    "item3",
-    "item4"
+    "Generative AI👎",
+    "Dishonest People ❌",
+    "Non Vegetarian Food",
+    "Pineapples & Pickles",
+    "Alcohol / Smoking",
+    "Wearing Makeup",
+    "Nerdy/Technical Convos",
+    "Loud Chewing / Eating",
+    "Alcohol / Smoking",
+    "Unrealistic Headcanons"
+    
 ]
 
 
