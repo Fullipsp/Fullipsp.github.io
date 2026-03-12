@@ -1,7 +1,7 @@
 import { createStore } from "solid-js/store";
 const [_items, setItems] = createStore<Item[]>([]);
 
-image("/pins/Lily.webp", "Aventurine", "");
+image("/drawings/rafayelbust.webp", "Rafayel", "L+Deepspace");
 image("/pins/Lily.webp", "Aventurine", "something");
 image("/pins/Lily.webp", "Aventurine", "something");
 image("/pins/Lily.webp", "Aventurine", "something");
