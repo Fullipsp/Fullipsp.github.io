@@ -10,10 +10,10 @@ category("Orders & Preorders 🛒🪷")
  // Preorders Zu IVANTILL
 .pin('zutill.webp', 'ZuPins Till Phone Pin', 'LE100 by ZuPins', "ordered")
 .pin('ivanphone.webp', 'ZuPins Ivan Phone Pin', 'LE100 by ZuPins', "ordered")
-.pin('phoneminitill.webp', 'ZuPins Mini Till Pin', 'LE? by ZuPins', "ordered")
 .pin('zuivantill.webp', 'ZuPins Ivantill Chrome', 'OP by ZuPins', "ordered")
 .pin('tillbun.webp', 'ZuPins Till Bunny', 'LE? by ZuPins', "ordered")
 .pin('ivanbun.webp', 'ZuPins Ivan Bunny', 'LE? by ZuPins', "ordered")
+.pin('phoneminitill.webp', 'ZuPins Mini Till Pin', 'LE? by ZuPins', "ordered")
 .pin('gachacheebs.webp', 'x5 Gacha HSR Cheebs', ' by Zu/Pris Pins', "ordered")
 //Preorders INSOMNIAPINS
 .pin('insomniacyrene.webp', 'Cyrene Diamond', 'LE by Ins***Pins.', "ordered")
