@@ -1,6 +1,15 @@
 import { createStore } from "solid-js/store";
 const [_displays, setDisplays] = createStore<Display[]>([]);
 
+display("/pins/redpinz.webp", "WIP", "UPDATE");
+display("/pins/orangepinz.webp", "WIP", "UPDATE");
+display("/pins/yellowpinz.webp", "WIP", "UPDATE");
+display("/pins/greenpinz.webp", "WIP", "UPDATE");
+display("/pins/bluepinz.webp", "WIP", "UPDATE");
+display("/pins/purplepinz.webp", "WIP", "UPDATE");
+
+
+
 display("/pins/zuchibiboard.webp", "WIP", "UPDATE");
 display("/pins/jjkboard.webp", "WIP", "UPDATE");
 display("/pins/bingqiuboard.webp", "WIP", "UPDATE");
