@@ -2,12 +2,15 @@ import { createStore } from "solid-js/store";
 const [_items, setItems] = createStore<Item[]>([]);
 
 
-image("/drawings/huachengbust.webp", "Hua Cheng", "TianGuanCiFu");
+
+
+image("/drawings/huachengbust.webp", "Hua Cheng", "TGCF (Danmei)");
 image("/drawings/scarabust.webp", "Wanderer", "Genshin Impact");
 image("/drawings/belphiebust.webp", "Belphegor", "Obey Me");
-image("/drawings/erenbust.webp", "Eren Yeager", "Attack on Titan");
 image("/drawings/saeranbust.webp", "Saeran Choi", "Mystic Mssngr");
 image("/drawings/rafayelbust.webp", "Rafayel", "LuvDeepSpace");
+image("/drawings/erenbust.webp", "Eren Yeager", "Attack on Titan");
+
 
 
 export interface Item {
