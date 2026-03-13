@@ -7,9 +7,9 @@ const [_items, setItems] = createStore<Item[]>([]);
 image("/drawings/huachengbust.webp", "Hua Cheng", "TGCF (Danmei)");
 image("/drawings/scarabust.webp", "Wanderer", "Genshin Impact");
 image("/drawings/belphiebust.webp", "Belphegor", "Obey Me");
-image("/drawings/xiaofavebust.webp", "Xiao / Alatus", "Genshin Impact");
-image("/drawings/rafayelbust.webp", "Rafayel", "LuvDeepSpace");
 image("/drawings/erenbust.webp", "Eren Yeager", "Attack on Titan");
+image("/drawings/rafayelbust.webp", "Rafayel", "LuvDeepSpace");
+image("/drawings/xiaofavebust.webp", "Xiao / Alatus", "Genshin Impact");
 
 
 
