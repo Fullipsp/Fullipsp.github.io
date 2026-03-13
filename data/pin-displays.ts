@@ -27,9 +27,9 @@ display("/pins/purplepinz.webp", "WIP", "UPDATE");
 
 display("/pins/hualianboard.webp", "WIP", "UPDATE");
 display("/pins/orangeloveboard.webp", "WIP", "UPDATE");
-display("/pins/diamondglassboard.webp", "WIP", "UPDATE");
 display("/pins/foxiboard1.webp", "WIP", "UPDATE");
 display("/pins/foxiboard2.webp", "WIP", "UPDATE");
+display("/pins/diamondglassboard.webp", "WIP", "UPDATE");
 
 display("/pins/pastelboard.webp", "WIP", "UPDATE");
 
