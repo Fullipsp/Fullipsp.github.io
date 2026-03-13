@@ -6,10 +6,11 @@ const [_items, setItems] = createStore<Item[]>([]);
 
 slide('slideshow/figure1.jpg')
 slide('slideshow/figure2.jpg')
-slide('slideshow/freakynoir.webp')
+slide('slideshow/figure3.jpg')
 slide('slideshow/hualianp.webp')
-slide('slideshow/AxL.webp')
+slide('slideshow/freakynoir.webp')
 slide('slideshow/gorouarcher.webp')
+slide('slideshow/AxL.webp')
 slide('slideshow/catxiao.webp')
 slide('slideshow/catnoir.webp')
 slide('slideshow/childe.webp')
