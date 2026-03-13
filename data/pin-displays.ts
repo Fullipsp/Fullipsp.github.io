@@ -1,16 +1,11 @@
 import { createStore } from "solid-js/store";
 const [_displays, setDisplays] = createStore<Display[]>([]);
 
-display("/pins/Lily.webp", "Aventurine Chibi", "");
-display("/pins/Lily.webp", "Aventurine Chibi", "something");
-display("/pins/Lily.webp", "Aventurine Chibi", "something");
-display("/pins/Lily.webp", "Aventurine Chibi", "something");
-display("/pins/Lily.webp", "Aventurine Chibi", "something");
-display("/pins/Lily.webp", "Aventurine Chibi", "something");
-display("/pins/Lily.webp", "Aventurine Chibi", "something");
-display("/pins/Lily.webp", "Aventurine Chibi", "something");
-display("/pins/Lily.webp", "Aventurine Chibi", "something");
-display("/pins/Lily.webp", "Aventurine Chibi", "something");
+display("/pins/Lily.webp", "WORK IN PROGRESS", "WILL UPDATE SOON");
+display("/pins/Lily.webp", "WORK IN PROGRESS", "WILL UPDATE SOON");
+display("/pins/Lily.webp", "WORK IN PROGRESS", "WILL UPDATE SOON");
+display("/pins/Lily.webp", "WORK IN PROGRESS", "WILL UPDATE SOON");
+display("/pins/Lily.webp", "WORK IN PROGRESS", "WILL UPDATE SOON");
 
 export interface Display {
   src: string;
