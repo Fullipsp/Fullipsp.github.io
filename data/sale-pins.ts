@@ -3,7 +3,7 @@ import type { PreviewType } from "../src/PreviewItem"
 const [categories, setCategories] = createStore<Category[]>([]);
 
 
-category("For Sale! - DM me if interested! (Discord: hualian.exe)")
+category("💫 For Sale! - DM me on any of my socials / eBay if interested 📸")
 .pin('insomniasethos.webp', 'Sethos Diamond Pin', 'LE by Ins***Pins.', "for-sale")
 .pin('insomniasunday.webp', 'Sunday Diamond Pin', 'LE by Ins***Pins.', "for-sale")
 .pin('insomniapinsyingxing.webp', 'Yingxing Diamond ', 'LE by Ins***Pins.', "for-sale")
