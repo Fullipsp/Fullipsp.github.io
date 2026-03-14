@@ -40,7 +40,7 @@ category("Orders & Preorders 🛒🪷")
 // =====================================================================================================================================================================================================================================================
 category("Pris & Zu Pins Chibis 🪷")
  // OWNED
- .pin('zuphainon.webp', 'Phainon Chibi', 'by ZuPins/PrisPins', "owned")
+.pin('zuphainon.webp', 'Phainon Chibi', 'by ZuPins/PrisPins', "owned")
 .pin('goldphainon.webp', 'Khaslana Chibi', 'by ZuPins/PrisPins', "owned")
 .pin('zumydei.webp', 'Mydei Chibi', 'by ZuPins/PrisPins', "owned")
 .pin('zugambler.webp', 'Aven Gambler Chibi', 'by ZuPins/PrisPins', "owned")
