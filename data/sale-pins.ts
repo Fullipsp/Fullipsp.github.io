@@ -10,11 +10,13 @@ category("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .pin('insomniawriobn.webp', 'BN: Wrio Diamond', 'LE? by Ins***Pins', "for-sale")
 .pin('insomnianeuvibn.webp', 'BN: Neuvi Diamond', 'LE? by Ins***Pins', "for-sale")
 .pin('insomniajiaoqiu.webp', 'Jiaoqiu Diamond ', 'LE by Ins***Pins.', "for-sale")
-
 //kassiearts
 .pin('kassievanitas.webp', 'Vanitas Diamond', 'LE65 by KassieArts', "for-sale")
 .pin('kassiehar.webp', 'Har Diamond', 'by KassieArts', "for-sale")
 .pin('denjer.webp', 'Denji Diamond', 'by KassieArts', "for-sale")
+.pin('karinapowder.webp', 'Arcane: Powder BWB', ' by karina****op', "for-sale")
+.pin('karinajinx.webp', 'Arcane: Jinx BWB', ' by karina****op', "for-sale")
+.pin('memefizz.webp', 'Fizz MemeCat Window', ' LE? by karina****op', "for-sale")
 // VASH STAMPEDE
 .pin('98vash.webp', '98s Chibi Vash', ' by ZuuPins', "for-sale")
 .pin('stampede.webp', 'Vash Stampede Chibi', ' by ZuuPins', "for-sale")
