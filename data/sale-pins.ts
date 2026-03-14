@@ -17,6 +17,9 @@ category("For Sale! - DM me if interested! (Discord: hualian.exe)")
 .pin('karinapowder.webp', 'Arcane: Powder BWB', ' by karina****op', "for-sale")
 .pin('karinajinx.webp', 'Arcane: Jinx BWB', ' by karina****op', "for-sale")
 .pin('memefizz.webp', 'Fizz MemeCat Window', ' LE? by karina****op', "for-sale")
+.pin('ispwriochibi.webp', 'Chibi Wriothesley ','by Ins***Pins.', "for-sale")
+.pin('sampochibi.webp', 'Sampo Magician Chibi', 'LE? by junk**art.', "for-sale")
+
 // VASH STAMPEDE
 .pin('98vash.webp', '98s Chibi Vash', ' by ZuuPins', "for-sale")
 .pin('stampede.webp', 'Vash Stampede Chibi', ' by ZuuPins', "for-sale")
