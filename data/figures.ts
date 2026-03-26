@@ -16,7 +16,7 @@ category("Looking for these Nendoroids!")
 .fig('miyano.webp', 'Miyano Yoshikazu', 'Sasaki & Miyano', "looking-for")
 .fig('sasaki.webp', 'Sasaki Shuumei', 'Sasaki & Miyano', "looking-for")
 // =====================================================================================================================================================================================================================
-category("MXTX Figures")
+category("MXTX & Danmei Figures")
 .fig('cwnnendo.webp', 'Chu Wanning Nendo Doll', 'Dumb Husky & White Cat', "owned")
 .fig('morannendo.webp', 'Mo Ran Nendo Doll', 'Dumb Husky & White Cat', "owned")
 .fig('reachheart.webp', 'Until I Reach Your Heart', 'Tian Guan Ci Fu', "owned")
