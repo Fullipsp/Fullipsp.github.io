@@ -23,6 +23,11 @@ category("Orders & Preorders 🛒🪷")
 .pin('sqq1up.webp', 'SQQ Lil Seedling 1UP', 'LE? by jun****art.', "ordered")
 .pin('phadeibath.webp', 'Phaidei Bath Chibi', 'OE by zzzsgalore.', "ordered")
  // IN HAND 
+.pin('junkoflowerhualian.webp', 'Pastel Flower Hualian', 'LE? by jun****art.', "ordered")
+.pin('mxtxtops.webp', 'MXTX Tops Trio', 'LE? by xvenne', "ordered")
+.pin('mxtxsubs.webp', 'MXTX Softs Trio', 'LE? by xvenne', "ordered")
+.pin('hualianglasschibi.webp', 'Glass Bookmark Hualian', 'LE? by xvenne', "ordered")
+.pin('hongerlily.webp', 'Lilypad Honger', 'LE? by ???', "ordered")
 
 .gap();
 // =====================================================================================================================================================================================================================================================
