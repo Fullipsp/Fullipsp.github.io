@@ -3,7 +3,7 @@ import type { PreviewType } from "../src/PreviewItem"
 const [categories, setCategories] = createStore<Category[]>([]);
 
 
-category("💫 For Sale! - DM me on any of my socials / eBay if interested 📸")
+category("💫 For Sale! - DM me on any of my Socials / Vinted / eBay if interested 📸", "https://www.vinted.co.uk/member/3142594813")
 .pin('insomniasethos.webp', 'Sethos Diamond Pin', 'LE by Ins***Pins.', "for-sale")
 .pin('insomniasunday.webp', 'Sunday Diamond Pin', 'LE by Ins***Pins.', "for-sale")
 .pin('insomniapinsyingxing.webp', 'Yingxing Diamond ', 'LE by Ins***Pins.', "for-sale")
@@ -23,7 +23,7 @@ category("💫 For Sale! - DM me on any of my socials / eBay if interested 📸"
 // VASH STAMPEDE
 .pin('98vash.webp', '98s Chibi Vash', ' by ZuuPins', "for-sale")
 .pin('stampede.webp', 'Vash Stampede Chibi', ' by ZuuPins', "for-sale")
-.pin('giyumidnight.jpg', 'KNY - Giyu Tomioka', ' by MidnightMoonpins.', "for-sale")
+
 //FR33PINS
 .pin('mhamomo.webp', 'MHA - Momo Yaoyorozu', ' by MidnightMoonpins.', "for-sale")
 .pin('silverash.webp', 'Arknights Silverash', 'LE by TorikiiArt.', "for-sale")
@@ -34,7 +34,7 @@ category("💫 For Sale! - DM me on any of my socials / eBay if interested 📸"
 .pin('OGKirby.webp', 'Star Wand Kirby ⭐️', 'by Arcade Healer', "for-sale")
 
 // GENSHIN
-.pin('inkei.webp', 'Raiden Shogun Pin', 'LE by Innkbean.', "for-sale")
+
 .pin('chibichilde.webp', 'Chibi Childe', 'by AkuoArt', "for-sale")
 .pin('childechibiprofile.webp', 'Chibi Childe Bust', 'by AkuoArt', "for-sale")
 .pin('zhonglichibiprofile.webp', 'Chibi Zhongli', 'by AkuoArt', "for-sale") 
@@ -42,6 +42,9 @@ category("💫 For Sale! - DM me on any of my socials / eBay if interested 📸"
 .pin('lunalbedo.webp', 'Kitty Albedo', 'by angryeggmerch', "for-sale")
 .pin('lenpaimon.webp', 'Paimon', 'by Lenacchi', "for-sale")
 .pin('anemo.webp', 'Anemoculus (GLOWS)', 'by Theartthatran', "for-sale")
+//ded preorder
+.pin('marichatkiss.webp', 'Marichat Kiss', 'SCAMMED BY CrescentPins', "ordered")
+.pin('squishykiss.webp', 'Squishy Kiss', 'SCAMMED BY CrescentPins', "ordered")
 
 .gap();
 // =======================================================================================================================================================================================================================
@@ -88,6 +91,8 @@ category("Sold Pins 👠")
 .pin('insomniadanhengil.webp', 'Dan Heng IL Diamond Pin', 'LE by Ins***Pins.', "sold")
 .pin('insomniamydei.webp', 'Mydei Diamond Pin', 'LE by Ins***Pins.', "sold")
 .pin('2minfizz.webp', '2 Minutes Fizz -Gold-', ' by karina****op', "sold")
+.pin('giyumidnight.jpg', 'KNY - Giyu Tomioka', ' by MidnightMoonpins.', "sold")
+.pin('inkei.webp', 'Raiden Shogun Pin', 'LE by Innkbean.', "sold")
     
             // TGCF
 .pin('funglebingqiu.webp', 'Bingqiu Flying Sword', 'by merchfungle', "sold")
