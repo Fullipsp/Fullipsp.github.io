@@ -22,16 +22,17 @@ display("/pins/ivantillboard.webp", "Ivantill Pin Board", "Latest Photo: 13.03.2
 display("/pins/botwboard.webp", "Zelink BOTW Board", "Latest Photo: 13.03.2026");
 display("/pins/ranwanboard.webp", "ERHA: Ranwan Board", "Latest Photo: 13.03.2026");
 display("/pins/linkclickboard.webp", "Shiguang: Link Click Board ", "Latest Photo: 13.03.2026");
-display("/pins/tarotboard.webp", "Tarot / Pin Panel Board", "Latest Photo: 13.03.2026");
+display("/pins/tarotboard.webp", "Tarot / Pin Panel Board", "Latest Photo: 26.03.2026");
 display("/pins/purplepinz.webp", "🪻 Pin Collage: Violet 🍇", "💜 Pin a Day May Day 2025 🫐");
 
 display("/pins/hualianboard.webp", "Hualian TGCF Pin Banner", "Latest Photo: 13.03.2026");
 display("/pins/orangeloveboard.webp", "Sasamiya / MLB Pin Banner", "Latest Photo: 13.03.2026");
 display("/pins/foxiboard1.webp", "FoxiPins MXTX Windows 1", "Latest Photo: 13.03.2026");
-display("/pins/foxiboard2.webp", "FoxiPins MXTX Windows 1", "Latest Photo: 13.03.2026");
+display("/pins/foxiboard2.webp", "FoxiPins MXTX Windows 2", "Latest Photo: 13.03.2026");
 display("/pins/diamondglassboard.webp", "Insomnia Diamond Glass Case", "Latest Photo: 13.03.2026");
 
 display("/pins/pastelboard.webp", "Saeran / Kawaii Pin Boards", "Latest Photo: 13.03.2026");
+display("/pins/pastelboards.webp", "Kawaii Pin Boards", "Latest Photo: 26.03.2026");
 
 
 
