@@ -27,7 +27,7 @@ category("Orders & Preorders 🛒🪷")
 .pin('mxtxtops.webp', 'MXTX Tops Trio', 'LE? by xvenne', "ordered")
 .pin('mxtxsubs.webp', 'MXTX Softs Trio', 'LE? by xvenne', "ordered")
 .pin('hualianglasschibi.webp', 'Glass Bookmark Hualian', 'LE? by xvenne', "ordered")
-.pin('hongerlily.webp', 'Lilypad Honger', 'LE? by ???', "ordered")
+.pin('hongerlilypad.webp', 'Lilypad Honger', 'LE? by ???', "ordered")
 
 .gap();
 // =====================================================================================================================================================================================================================================================
