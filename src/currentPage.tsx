@@ -27,13 +27,13 @@ export const useCurrentPage = () => {
     return () => {
         switch (true) {
         case isPinsPage():
-            return {name: "Pins", component: PinsContent} as const;
+            return {name: "Pin Collection", component: PinsContent} as const;
         case isSalePinsPage():
-            return {name: "Pins 4 Sale", component: SalePinsContent} as const;
+            return {name: "Pins for Sale", component: SalePinsContent} as const;
         case isDrawingsPage():
-            return {name: "Drawings", component: DrawingsContent} as const;
+            return {name: "Fulli's Drawings", component: DrawingsContent} as const;
         case isFiguresPage():
-            return {name: "Figures", component: FiguresContent} as const;
+            return {name: "Figure Collection", component: FiguresContent} as const;
         case isPinDisplaysPage():
             return {name: "Pin Displays", component: PinDisplaysContent} as const;
         case isAboutMePage():

@@ -128,9 +128,9 @@ const Content = () => {
         <TabItem
           href="/sale"
           icon="/icons/sale.webp"
-          label="For Sale / Trade"
+          label="For Sale & Trade"
         />
-        <TabItem href="/figures" icon="/icons/fig.webp" label="My Figures" />
+        <TabItem href="/figures" icon="/icons/fig.webp" label="My Figures & Dolls" />
         <TabItem
           href="/pin-displays"
           icon="/icons/wings-folder.webp"
