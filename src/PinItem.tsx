@@ -80,8 +80,8 @@ export const PinItem = (props: PreviewItemProps) => {
   const handleResize = throttle(() => {
     if (imgContainerRef) {
       setViewportSize({
-        w: imgContainerRef.clientHeight,
-        h: imgContainerRef.clientWidth,
+        w: imgContainerRef.clientWidth,
+        h: imgContainerRef.clientHeight,
       });
     }
   }, 100);
@@ -89,8 +89,8 @@ export const PinItem = (props: PreviewItemProps) => {
   onMount(() => {
     if (imgContainerRef) {
       setViewportSize({
-        w: imgContainerRef.clientHeight,
-        h: imgContainerRef.clientWidth,
+        w: imgContainerRef.clientWidth,
+        h: imgContainerRef.clientHeight,
       });
     }
     window.addEventListener("resize", handleResize);
