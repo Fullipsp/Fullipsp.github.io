@@ -4,7 +4,7 @@ import style from "./Pins.module.css";
 import { PinItem } from "../PinItem";
 
 export const PinCategory = (props: { category: Category }) => {
-  const hasGap = () => props.category.pins.find(p => p.gap);
+  const hasGap = () => props.category.pins.find((p) => p.gap);
   return (
     <div class={style.category}>
       <Dynamic
@@ -25,6 +25,7 @@ export const PinCategory = (props: { category: Category }) => {
                 title={pin.title!}
                 subtitle={pin.subtitle}
                 type={pin.status}
+                crop={pin.crop}
               />
             </Show>
           )}

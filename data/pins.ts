@@ -8,7 +8,7 @@ category("Orders & Preorders 🛒🪷")
  
  //PREORDERS
  // Preorders Zu IVANTILL
-.pin('zutill.webp', 'ZuPins Till Phone Pin', 'LE100 by ZuPins', "ordered")
+.pin('zutill.webp', 'ZuPins Till Phone Pin', 'LE100 by ZuPins', "ordered", "203 599 63 71")
 .pin('ivanphone.webp', 'ZuPins Ivan Phone Pin', 'LE100 by ZuPins', "ordered")
 .pin('zuivantill.webp', 'ZuPins Ivantill Chrome', 'OP by ZuPins', "ordered")
 .pin('tillbun.webp', 'ZuPins Till Bunny', 'LE? by ZuPins', "ordered")
@@ -494,6 +494,7 @@ export interface Pin {
   subtitle?: string;
   status?: PreviewType
   gap?: boolean;
+  crop?: `${number} ${number} ${number} ${number}`
 }
 
 export interface Category {
@@ -508,8 +509,8 @@ function category  (title: string, url?: string) {
   const index = categories.length - 1
 
 
-  const pin = (src: string, title: string, subtitle: string, status: PreviewType) => {
-    setCategories(index, "pins", (prev) => [...prev, { src: `/pins/${src}`, title, subtitle, status }])
+  const pin = (src: string, title: string, subtitle: string, status: PreviewType, crop?: `${number} ${number} ${number} ${number}`) => {
+    setCategories(index, "pins", (prev) => [...prev, { src: `/pins/${src}`, title, subtitle, status, crop }])
     return {pin, gap}
   }
     const gap = () => {

@@ -113,6 +113,7 @@ export interface Pin {
   title: string
   subtitle: string;
   status: PreviewType
+  crop?: `${number} ${number} ${number} ${number}`
 }
 
 export interface Category {
@@ -127,8 +128,8 @@ function category  (title: string, url?: string) {
   const index = categories.length - 1
 
 
-  const fig = (src: string, title: string, subtitle: string, status: PreviewType) => {
-    setCategories(index, "pins", (prev) => [...prev, { src: `/figures/${src}`, title, subtitle, status }])
+  const fig = (src: string, title: string, subtitle: string, status: PreviewType, crop?: `${number} ${number} ${number} ${number}`) => {
+    setCategories(index, "pins", (prev) => [...prev, { src: `/figures/${src}`, title, subtitle, status, crop }])
     return {fig}
   }
   return {
