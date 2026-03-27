@@ -179,6 +179,7 @@ export interface Pin {
   subtitle?: string;
   status?: PreviewType
   gap?: boolean;
+  crop?: `${number} ${number} ${number} ${number}`
 }
 
 export interface Category {
@@ -193,11 +194,11 @@ function category  (title: string, url?: string) {
   const index = categories.length - 1
 
 
-  const pin = (src: string, title: string, subtitle: string, status: PreviewType) => {
-    setCategories(index, "pins", (prev) => [...prev, { src: `/pins/${src}`, title, subtitle, status }])
+  const pin = (src: string, title: string, subtitle: string, status: PreviewType, crop?: `${number} ${number} ${number} ${number}`) => {
+    setCategories(index, "pins", (prev) => [...prev, { src: `/pins/${src}`, title, subtitle, status, crop }])
     return {pin, gap}
-  }  
-  const gap = () => {
+  }
+    const gap = () => {
     setCategories(index, "pins", (prev) => [...prev, {gap: true }])
   }
   return {
