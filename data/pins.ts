@@ -298,8 +298,7 @@ category("Helluva Boss ❤️‍🔥😈👅", "https://hazbinhotel.fandom.com/w
 .pin('memefizz.webp', 'Fizz MemeCat Window', ' LE? by karina****op', "owned", "132 164 900 1012")
 .pin('fizzycopper.webp', 'Heart Fizz -Copper-', ' by karina****op', "owned")
 .pin('bbyclownsblack.webp', 'Baby Clowns (Fizz & Blitz)', '(B.Nickel) by karina****op', "owned")
-.pin('2minfizz.webp', '2 Minutes Fizz -Gold-', ' by karina****op', "owned")
- 
+.pin('2minfizz.webp', '2 Minutes Fizz -Gold-', ' by karina****op', "sold")
 .pin('2minfizzay.webp', '2 Minutes Fizz -Chrome-', ' by karina****op', "sold")
 .pin('bbyclownsgold.webp', 'Baby Clowns (Fizz & Blitz)', '(Gold) by karina****op', "sold")
 .pin('fizzygold.webp', 'Heart Fizz -Gold-', ' by karina****op', "sold")
