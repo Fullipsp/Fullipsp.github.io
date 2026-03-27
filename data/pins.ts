@@ -8,7 +8,7 @@ category("Orders & Preorders 🛒🪷")
  
  //PREORDERS
  // Preorders Zu IVANTILL
-.pin('zutill.webp', 'ZuPins Till Phone Pin', 'LE100 by ZuPins', "ordered", "203 599 63 71")
+.pin('zutill.webp', 'ZuPins Till Phone Pin', 'LE100 by ZuPins', "ordered")
 .pin('ivanphone.webp', 'ZuPins Ivan Phone Pin', 'LE100 by ZuPins', "ordered")
 .pin('zuivantill.webp', 'ZuPins Ivantill Chrome', 'OP by ZuPins', "ordered")
 .pin('tillbun.webp', 'ZuPins Till Bunny', 'LE? by ZuPins', "ordered")
