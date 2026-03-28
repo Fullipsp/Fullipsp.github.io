@@ -23,11 +23,7 @@ category("Orders & Preorders 🛒🪷")
 .pin('sqq1up.webp', 'SQQ Lil Seedling 1UP', 'LE? by jun****art.', "ordered")
 .pin('phadeibath.webp', 'Phaidei Bath Chibi', 'OE by zzzsgalore.', "ordered")
  // IN HAND 
-.pin('junkoflowerhualian.webp', 'Pastel Flower Hualian', 'LE? by jun****art.', "ordered")
-.pin('mxtxtops.webp', 'MXTX Tops Trio', 'LE? by xvenne', "ordered")
-.pin('mxtxsubs.webp', 'MXTX Softs Trio', 'LE? by xvenne', "ordered")
-.pin('hualianglasschibi.webp', 'Glass Bookmark Hualian', 'LE? by xvenne', "ordered")
-.pin('hongerlilypad.webp', 'Lilypad Honger', 'LE? by ???', "ordered")
+
 
 .gap();
 // =====================================================================================================================================================================================================================================================
@@ -139,13 +135,13 @@ category("MXTX Meme Chibis: Midnight Version 🌙✨", "https://www.google.com/s
 .pin('memeqingge.webp', 'MXTX Memes: LiuQingge', 'LE30 by PrisPins', "owned")
 // ========================================================================================================================================================================================================================
 category("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
+.pin('junkoflowerhualian.webp', 'Pastel Flower Hualian', 'LE? by jun****art.', "owned")
 .pin('believer.webp', 'God & King', 'by Califlair', "owned")
 .pin('sanlang.webp', 'Thousand Lights', 'by Califlair', "owned")
 .pin('wedding.webp', 'His Heavenly Bride', 'by Califlair', "sold")
 .pin('whitehualian.webp', 'Fluttering Dreams ✦', ' Hualian by naixaie', "owned")
 .pin('wulian.webp', 'Will O The Wisp ✦', 'Wulian by naixaie', "owned")
 .pin('xianletrio.webp', 'Serene Slumber ✦', 'Xian Le Trio by naixaie', "owned")
-.pin('junkfengqing.webp', 'Fengqing Tied Chibi', 'LE? by jun****art.', "owned")
 //
 .pin('statuehualian.webp', 'Statue Hualian + MQ Chibi', 'LE40 by jun****art.', "owned")
 .pin('dianxia.webp', 'Dancing Flowers', 'by kwaaru', "owned")
@@ -155,21 +151,29 @@ category("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .pin('eming.webp', 'Cute but Deadly Eming', 'by kwaaru', "owned")
 .pin('wuming.webp', 'Thank you, Wuming', 'by kwaaru', "owned")
 //
+.pin('junkfengqing.webp', 'Fengqing Tied Chibi', 'LE? by jun****art.', "owned")
 .pin('derpyhc.webp', 'Super Derpy Hua', ' LE15 by crystal****ppe', "owned")
+.pin('mxtxtops.webp', 'MXTX Tops Trio', 'LE? by xvenne', "owned")
+.pin('mxtxsubs.webp', 'MXTX Softs Trio', 'LE? by xvenne', "owned", "196 80 791 890")
+.pin('hualianglasschibi.webp', 'Glass Bookmark Hualian', 'LE? by xvenne', "owned", "359 180 589 663")
+.pin('hongerlilypad.webp', 'Lilypad Honger', 'LE? by ???', "owned", "53 81 941 1058")
+.pin('insomniahualian.webp', 'Autumn Hualian Panel', 'LE? by Ins***Pins.', "owned")
+//
 .pin('paphuacheng.webp', 'Hua Cheng Chibi', 'by Pap00sh', "owned") 
 .pin('papxielian.webp', 'Xie Lian Chibi', 'by Pap00sh', "owned") 
 .pin('summercheng.webp', 'Summer Hua Cheng', 'by RadioProxy', "owned")
 .pin('summerlian.webp', 'Summer Xie Lian', 'by RadioProxy', "owned")
 .pin('chromahc.webp', 'Chroma V2 Hua', ' LE20 by crystal****ppe', "owned")
 .pin('chromaxl.webp', 'Chroma V2 Lian', ' LE20 by crystal****ppe', "owned")
+.pin('kmorihualiangrass.webp', 'Spring Hualian Chibi', 'LE by KmoriPins.', "owned")
 //
-.pin('insomniahualian.webp', 'Autumn Hualian Panel', 'LE? by Ins***Pins.', "owned")
 .pin('gremlinqr.webp', 'Gremlin Qi Rong', ' by Peonypinsco', "owned")
 .pin('gremlinhc.webp', 'Gremlin Hua Cheng', ' by Peonypinsco', "owned")
 .pin('gremlinhx.webp', 'Gremlin He Xuan', ' by Peonypinsco', "owned")
 .pin('gremlinbwx.webp', 'Gremlin Bai Wuxiang', ' by Peonypinsco', "owned")
-.pin('kmorihualiangrass.webp', 'Spring Hualian Chibi', 'LE by KmoriPins.', "owned")
 .pin('kmorifengqinggrass.webp', 'Spring Fengqing Chibi', 'LE by KmoriPins.', "owned")
+.pin('xlwindow.jpg', 'Xie Lian Window', 'by Peonypinsco', "owned")
+.pin('hcwindow.jpg', 'Hua Cheng Window', 'by Peonypinsco', "owned")
 //
 .pin('flowerxl.jpg', 'Flower Xie Lian', 'by Sinycath', "owned")
 .pin('flowerhands.jpg', 'Flower Hualian Hands', 'by Sinycath', "owned")   
@@ -187,8 +191,7 @@ category("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .pin('poppins.jpg', 'Fafa Poppins', 'by Pap00sh', "owned") 
 .pin('bchibihualian.webp', 'Chibi Hualian', 'by Bachoochi', "owned")
 //
-.pin('xlwindow.jpg', 'Xie Lian Window', 'by Peonypinsco', "owned")
-.pin('hcwindow.jpg', 'Hua Cheng Window', 'by Peonypinsco', "owned")
+
 .pin('babylian.webp', 'Baby Xie Lian Patreon', ' by Butchinelle', "owned")
 .pin('honger.webp', 'Flower Honger Patreon', ' by Butchinelle', "owned")
 // Non Hualian TGCF
