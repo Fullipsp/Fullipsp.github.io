@@ -19,7 +19,7 @@
   --aspect: 8/9;
   display: grid;
   grid-gap: 16px;
-  grid-template-columns: repeat(auto-fill, minmax(227px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(164px, 1fr));
 }
 
 @media (max-width: 443px) {
