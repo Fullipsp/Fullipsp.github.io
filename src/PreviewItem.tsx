@@ -1,42 +1,11 @@
 import style from "./PreviewItem.module.css";
-import { ic, Icon } from "./Icon";
 import { createSignal, Show } from "solid-js";
 import { A, useLocation } from "@solidjs/router";
-
-const PreviewType = {
-  sold: {
-    text: "Sold / Traded",
-    icon: ic("monetization_on"),
-  },
-  ordered: {
-    text: "Ordered",
-    icon: ic("shopping_bag"),
-  },
-  owned: {
-    text: "Owned",
-    icon: ic("done"),
-  },
-  "for-sale": {
-    text: "For Sale",
-    icon: ic("shopping_cart"),
-  },
-  "looking-for": {
-    text: "Looking For",
-    icon: ic("search"),
-  },
-  "for-trade": {
-    text: "For Trade",
-    icon: ic("spa"),
-  },
-};
-
-export type PreviewType = keyof typeof PreviewType;
 
 interface PreviewItemProps {
   title: string;
   subtitle?: string;
   src: string;
-  type?: PreviewType;
 }
 
 export const PreviewItem = (props: PreviewItemProps) => {

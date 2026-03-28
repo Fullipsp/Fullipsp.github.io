@@ -1,6 +1,7 @@
 import { useMatch } from "@solidjs/router";
 import { createMemo, lazy } from "solid-js";
 import AboutMeContent from "./content/AboutMe";
+import FaveCharactersContent from "./content/FaveCharacters";
 
 const PinsContent = lazy(() => import("./content/Pins"));
 const SalePinsContent = lazy(() => import("./content/SalePins"));
@@ -22,10 +23,13 @@ export const useCurrentPage = () => {
     const isDrawingsPage = usePathMatch("/drawings");
     const isFiguresPage = usePathMatch("/figures");
     const isPinDisplaysPage = usePathMatch("/pin-displays");
+    const isFaveCharactersPage = usePathMatch("/favorite-characters");
     const isAboutMePage = usePathMatch("/");
 
     return () => {
         switch (true) {
+        case isFaveCharactersPage():
+            return {name: "Favorite Characters", component: FaveCharactersContent} as const
         case isPinsPage():
             return {name: "Pin Collection", component: PinsContent} as const;
         case isSalePinsPage():
@@ -38,8 +42,6 @@ export const useCurrentPage = () => {
             return {name: "Pin Displays", component: PinDisplaysContent} as const;
         case isAboutMePage():
             return {name: "About Me", component: AboutMeContent} as const
-
+        }
     }
-    }
-
 }

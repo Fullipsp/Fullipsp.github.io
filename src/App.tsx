@@ -130,11 +130,20 @@ const Content = () => {
           icon="/icons/sale.webp"
           label="For Sale & Trade"
         />
-        <TabItem href="/figures" icon="/icons/fig.webp" label="My Figures & Dolls" />
+        <TabItem
+          href="/figures"
+          icon="/icons/fig.webp"
+          label="My Figures & Dolls"
+        />
         <TabItem
           href="/pin-displays"
           icon="/icons/wings-folder.webp"
           label="Pin Displays"
+        />
+        <TabItem
+          href="/favorite-characters"
+          icon="/icons/wings-folder.webp"
+          label="Fave characters"
         />
       </div>
       <div class={style.contentInnerContainer}>
