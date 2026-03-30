@@ -12,12 +12,13 @@ display("/fave-characters/chengxiaoshi.jpg", "Cheng Xiaoshi", "Link Click");
 
 display("/fave-characters/neuvilette.jpg", "Neuvilette", "Genshin Impact");
 display("/fave-characters/phainon.jpg", "Phainon / Khaslana", "Honkai Star Rail");
+display("/fave-characters/moze.jpg", "Moze", "Honkai Star Rail");
 display("/fave-characters/aventurine.jpg", "Aventurine", "Honkai Star Rail");
 display("/fave-characters/danheng.jpg", "Dan Heng", "Honkai Star Rail");
 display("/fave-characters/saeran.jpg", "Saeran Choi", "Mystic Messenger");
 display("/fave-characters/belphie.jpg", "Belphegor", "Obey Me!");
 display("/fave-characters/sasaki.jpg", "Sasaki", "Sasaki to Miyano");
-display("/fave-characters/saaki.jpg", "Sasaki", "Sasaki to Miyano");
+
 
 display("/fave-characters/catnoir.jpg", "Cat Noir", "Mir4culous Ladybug");
 display("/fave-characters/astarion.jpg", "Astarion", "Baldur's Gate 3");
