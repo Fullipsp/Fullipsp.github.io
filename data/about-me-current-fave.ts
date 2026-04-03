@@ -8,7 +8,7 @@ image("/drawings/moranbust.webp", "Mo Ran", "Erha (Danmei)");
 image("/drawings/tamonbust.webp", "Tamon", "Tamon's B Side");
 image("/drawings/phainonbust.webp", "Phainon", "Honkai StarRail");
 image("/drawings/danhengbust.webp", "Dan Heng", "Honkai StarRail");
-image("/drawings/wuyangbust.webp", "Wuyang Ye", "Overwatch");
+image("/fave-characters/megumi.jpg", "Megumi", "Jujutsu Kaisen");
 
 
 

@@ -27,9 +27,9 @@ display("/fave-characters/tamonk.jpg", "Tamon Fukuhara", "Tamon's B Side");
 display("/fave-characters/dazai.jpg", "Dazai Osamu", "Bungou Stray Dogs");
 display("/fave-characters/chuuya.jpg", "Chuuya Nakahara", "Bungou Stray Dogs");
 display("/fave-characters/tetchou.jpg", "Tetcho Suehiro", "Bungou Stray Dogs");
-
-display("/fave-characters/choso.jpg", "Choso", "Jujutsu Kaisen");
+display("/fave-characters/childe.jpg", "Childe / Ajax", "Genshin Impact");
 display("/fave-characters/sasaki.jpg", "Sasaki", "Sasaki to Miyano");
+display("/fave-characters/choso.jpg", "Choso", "Jujutsu Kaisen");
 display("/fave-characters/jinshi.jpg", "Jinshi", "Apothecary Diaries");
 display("/fave-characters/kaguya.jpg", "Kaguya Shinomiya", "Love is War");
 display("/fave-characters/simon.jpg", "Simeon", "Obey Me!");
