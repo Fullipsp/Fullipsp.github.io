@@ -26,7 +26,7 @@ display("/fave-characters/tamonk.jpg", "Tamon Fukuhara", "Tamon's B Side");
 display("/fave-characters/dazai.jpg", "Dazai Osamu", "Bungou Stray Dogs");
 display("/fave-characters/chuuya.jpg", "Chuuya Nakahara", "Bungou Stray Dogs");
 display("/fave-characters/tetchou.jpg", "Tetcho Suehiro", "Bungou Stray Dogs");
-display("/fave-characters/choso.jpg", "Choso", "Jujjutsu Kaisen");
+display("/fave-characters/choso.jpg", "Choso", "Jujutsu Kaisen");
 
 display("/fave-characters/sasaki.jpg", "Sasaki", "Sasaki to Miyano");
 display("/fave-characters/simon.jpg", "Simeon", "Obey Me!");
