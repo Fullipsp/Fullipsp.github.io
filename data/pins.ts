@@ -83,6 +83,8 @@ category("InsomniaPins Diamonds 💎")
 .pin('insomniaororon.webp', 'Ororon Diamond ', 'LE by Ins***Pins.', "owned")
 .pin('insomniaarle.webp', 'Arlecchino Diamond ', 'LE by Ins***Pins.', "owned")
 //Preorders INSOMNIAPINS
+.pin('insomniailluga.webp', 'Illuga Diamond Pin', 'LE by Ins***Pins.', "ordered")
+.pin('insomniadurin.webp', 'Durin Diamond Pin', 'LE by Ins***Pins.', "ordered")
 .pin('insomniacyrene.webp', 'Cyrene Diamond', 'LE by Ins***Pins.', "ordered")
 .pin('pinkavennohat.webp', 'Pink Aven Diamond', 'LE by Ins***Pins.', "ordered")
 .pin('pinkavenhat.webp', 'Pink Aven Hat Diamond', 'LE by Ins***Pins.', "ordered")
@@ -90,6 +92,10 @@ category("InsomniaPins Diamonds 💎")
 .pin('insomniaflins.webp', 'Flins Diamond', 'LE? by Ins***Pins', "ordered")
 .pin('insomniaalhaitham.webp', 'Al Haitham Diamond Pin', 'LE by Ins***Pins.', "ordered")
 .pin('insomniakaveh.webp', 'Kaveh Diamond Pin', 'LE by Ins***Pins.', "ordered")
+.pin('insomniaxiao.webp', 'Xiao Diamond Pin', 'LE by Ins***Pins.', "ordered")
+.pin('insomniaventi.webp', 'Venti Diamond Pin', 'LE by Ins***Pins.', "ordered")
+
+
 // Sold 
 .pin('insomniafeixiao.webp', 'Insomnia Feixiao Diamond', 'LE? by Ins***Pins', "sold")
 .pin('insomnialuocha.webp', 'Luocha Diamond ', 'LE by Ins***Pins.', "sold")
