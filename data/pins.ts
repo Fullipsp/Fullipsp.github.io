@@ -15,15 +15,21 @@ category("Orders & Preorders 🛒🪷")
 .pin('ivanbun.webp', 'ZuPins Ivan Bunny', 'LE? by ZuPins', "ordered")
 .pin('phoneminitill.webp', 'ZuPins Mini Till Pin', 'LE? by ZuPins', "ordered")
 .pin('gachacheebs.webp', 'x5 Gacha HSR Cheebs', ' by Zu/Pris Pins', "ordered")
-
 //Preorders Junko Chibis
-.pin('yearshualian.webp', 'Hualian Thru Years', 'by Pap00sh', "ordered") 
 .pin('weddinghualiankiss.webp', 'Wedding Hualian Kiss', 'LE? by jun****art.', "ordered")
 .pin('sqqpot.webp', 'SQQ OOC Cucumber', 'LE? by jun****art.', "ordered")
 .pin('sqq1up.webp', 'SQQ Lil Seedling 1UP', 'LE? by jun****art.', "ordered")
-.pin('phadeibath.webp', 'Phaidei Bath Chibi', 'OE by zzzsgalore.', "ordered")
- // IN HAND 
+.pin('junkosanlian.webp', 'Junko Sanlian Chibi', 'LE? by jun****art.', "ordered")
+.pin('junkowangxian.webp', 'Junko Wangxian Chibi', 'LE? by jun****art.', "ordered")
+.pin('junkofengqing.webp', 'Junko Fengqing Chibi', 'LE? by jun****art.', "ordered")
+.pin('junkobingqiu.webp', 'Junko Bingqiu Chibi', 'LE? by jun****art.', "ordered")
 
+ // IN HAND 
+.pin('phadeibath.webp', 'Phaidei Bath Chibi', 'OE by zzzsgalore.', "ordered")
+.pin('yearshualian.webp', 'Hualian Thru Years', 'by Pap00sh', "ordered") 
+.pin('chromeboothill.webp', 'Chrome Boothill Panel', 'LE15 by ohlolapins.', "ordered")
+.pin('zuventi.webp', 'Venti Chibi', 'by ZuPins', "ordered")
+.pin('zuxiao.webp', 'Xiao Chibi', 'by ZuPins', "ordered")
 
 .gap();
 // =====================================================================================================================================================================================================================================================
@@ -40,9 +46,9 @@ category("Pris & Zu Pins Chibis 🪷")
 .pin('zubrant.webp', 'Brant Chibi', 'by ZuPins/PrisPins', "owned")
 .pin('zublade.webp', 'Blade White ver. Chibi', 'by ZuPins/PrisPins', "owned")
 .pin('zuaventurine.webp', 'Aventurine Chibi', 'by ZuPins/PrisPins', "owned", "101 173 909 1022")
-.pin('zuneuvilette.webp', 'Neuvilette Chibi', 'by ZuPins/PrisPins', "owned")
-.pin('zuchibizhongli.webp', 'Zhongli Chibi', 'by ZuPins/PrisPins', "owned")
-.pin('zuchongyun.webp', 'Chongyun Chibi', 'by ZuPins/PrisPins', "owned")
+.pin('zuneuvilette.webp', 'Neuvilette Chibi', 'by ZuPins', "owned")
+.pin('zuchibizhongli.webp', 'Zhongli Chibi', 'by ZuPins', "owned")
+.pin('zuchongyun.webp', 'Chongyun Chibi', 'by ZuPins', "owned")
 // =====================================================================================================================================================================================================================================================
 category("InsomniaPins Diamonds 💎")
 .pin('insomniachromesunday.webp', 'Chrome Sunday Diamond', 'LE by Ins***Pins.', "owned")
