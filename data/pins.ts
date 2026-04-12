@@ -28,7 +28,7 @@ category("Orders & Preorders 🛒🪷")
 .pin('yearshualian.webp', 'Hualian Thru Years', 'by Pap00sh', "ordered") 
 .pin('chromeboothill.webp', 'Chrome Boothill Panel', 'LE15 by ohlolapins.', "ordered")
 .pin('chromemattehill.webp', 'Red Matte Boothill Panel', 'LE15 by ohlolapins.', "ordered")
-.pin('boothillpanel.webp', 'Boothill Panel', 'LE15 by ohlolapins.', "ordered")
+.pin('boothillpanel.webp', 'Boothill Panel', 'LE?? by ? ? ?', "ordered")
 
 .gap();
 
