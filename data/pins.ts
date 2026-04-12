@@ -28,27 +28,9 @@ category("Orders & Preorders 🛒🪷")
 .pin('phadeibath.webp', 'Phaidei Bath Chibi', 'OE by zzzsgalore.', "ordered")
 .pin('yearshualian.webp', 'Hualian Thru Years', 'by Pap00sh', "ordered") 
 .pin('chromeboothill.webp', 'Chrome Boothill Panel', 'LE15 by ohlolapins.', "ordered")
-.pin('zuventi.webp', 'Venti Chibi', 'by ZuPins', "ordered")
-.pin('zuxiao.webp', 'Xiao Chibi', 'by ZuPins', "ordered")
 
 .gap();
-// =====================================================================================================================================================================================================================================================
-category("Pris & Zu Pins Chibis 🪷")
- // OWNED
-.pin('zuphainon.webp', 'Phainon Chibi', 'by ZuPins/PrisPins', "owned")
-.pin('goldphainon.webp', 'Khaslana Chibi', 'by ZuPins/PrisPins', "owned")
-.pin('zumydei.webp', 'Mydei Chibi', 'by ZuPins/PrisPins', "owned")
-.pin('zugambler.webp', 'Aven Gambler Chibi', 'by ZuPins/PrisPins', "owned")
-.pin('zusunday.webp', 'Sunday Express Chibi', 'by ZuPins/PrisPins', "owned")
-.pin('zumoze.webp', 'Moze Chibi', 'by ZuPins/PrisPins', "owned")
-.pin('zujiaoqiu.webp', 'Jiaoqiu Chibi', 'by ZuPins/PrisPins', "owned")
-.pin('anaxachibi.webp', 'Anaxagoras Chibi', 'by ZuPins/PrisPins', "owned")
-.pin('zubrant.webp', 'Brant Chibi', 'by ZuPins/PrisPins', "owned")
-.pin('zublade.webp', 'Blade White ver. Chibi', 'by ZuPins/PrisPins', "owned")
-.pin('zuaventurine.webp', 'Aventurine Chibi', 'by ZuPins/PrisPins', "owned", "101 173 909 1022")
-.pin('zuneuvilette.webp', 'Neuvilette Chibi', 'by ZuPins', "owned")
-.pin('zuchibizhongli.webp', 'Zhongli Chibi', 'by ZuPins', "owned")
-.pin('zuchongyun.webp', 'Chongyun Chibi', 'by ZuPins', "owned")
+
 // =====================================================================================================================================================================================================================================================
 category("InsomniaPins Diamonds 💎")
 .pin('insomniachromesunday.webp', 'Chrome Sunday Diamond', 'LE by Ins***Pins.', "owned")
@@ -101,10 +83,46 @@ category("InsomniaPins Diamonds 💎")
 .pin('insomniaxiao.webp', 'Xiao Diamond Pin', 'LE by Ins***Pins.', "ordered")
 .pin('insomniaventi.webp', 'Venti Diamond Pin', 'LE by Ins***Pins.', "ordered")
 
-
 // Sold 
 .pin('insomniafeixiao.webp', 'Insomnia Feixiao Diamond', 'LE? by Ins***Pins', "sold")
 .pin('insomnialuocha.webp', 'Luocha Diamond ', 'LE by Ins***Pins.', "sold")
+// =====================================================================================================================================================================================================================================================
+category("ZuPins & PrisPins Genshin + HSR Chibis 🪷")
+
+.pin('zuventi.webp', 'Venti Chibi', 'by ZuPins/PrisPins', "owned", "82 68 945 1063")
+.pin('zuxiao.webp', 'Xiao Chibi', 'by ZuPins/PrisPins', "owned", "598 114 624 702")
+.pin('zuneuvilette.webp', 'Neuvilette Chibi', 'by ZuPins/PrisPins', "owned")
+.pin('zuchibizhongli.webp', 'Zhongli Chibi', 'by ZuPins/PrisPins', "owned")
+.pin('zutartaglia.webp', 'Chongyun Chibi', 'by ZuPins/PrisPins', "owned")
+.pin('zukaveh.webp', 'Chongyun Chibi', 'by ZuPins/PrisPins', "owned")
+.pin('zualhaitham.webp', 'Chongyun Chibi', 'by ZuPins/PrisPins', "owned")
+.pin('zukazuha.webp', 'Chongyun Chibi', 'by ZuPins/PrisPins', "owned")
+.pin('zuayato.webp', 'Chongyun Chibi', 'by ZuPins/PrisPins', "owned")
+.pin('zuthoma.webp', 'Chongyun Chibi', 'by ZuPins/PrisPins', "owned")
+.pin('zuitto.webp', 'Chongyun Chibi', 'by ZuPins/PrisPins', "owned")
+.pin('zugorou.webp', 'Chongyun Chibi', 'by ZuPins/PrisPins', "owned")
+.pin('zucyno.webp', 'Chongyun Chibi', 'by ZuPins/PrisPins', "owned")
+.pin('zutighnari.webp', 'Chongyun Chibi', 'by ZuPins/PrisPins', "owned")
+.pin('zudiluc.webp', 'Chongyun Chibi', 'by ZuPins/PrisPins', "owned")
+.pin('zuheizou.webp', 'Chongyun Chibi', 'by ZuPins/PrisPins', "owned")
+.pin('zualbedo.webp', 'Chongyun Chibi', 'by ZuPins/PrisPins', "owned")
+.pin('zuchongyun.webp', 'Chongyun Chibi', 'by ZuPins/PrisPins', "owned")
+category("ZuPins & PrisPins Genshin + HSR Chibis 🪷")
+
+.pin('zuphainon.webp', 'Phainon Chibi', 'by ZuPins/PrisPins', "owned")
+.pin('goldphainon.webp', 'Khaslana Chibi', 'by ZuPins/PrisPins', "sold")
+.pin('zumydei.webp', 'Mydei Chibi', 'by ZuPins/PrisPins', "owned", "78 74 865 973")
+
+.pin('zugambler.webp', 'Aven Gambler Chibi', 'by ZuPins/PrisPins', "owned", "145 136 939 1057")
+.pin('zuaventurine.webp', 'Aventurine Chibi', 'by ZuPins/PrisPins', "owned", "166 228 799 899")
+.pin('zusunday.webp', 'Sunday Express Chibi', 'by ZuPins/PrisPins', "owned", "111 81 755 849")
+.pin('zumoze.webp', 'Moze Chibi', 'by ZuPins/PrisPins', "owned", "172 239 788 886")
+.pin('zujiaoqiu.webp', 'Jiaoqiu Chibi', 'by ZuPins/PrisPins', "owned", "100 129 863 971")
+.pin('anaxachibi.webp', 'Anaxagoras Chibi', 'by ZuPins/PrisPins', "owned")
+.pin('zublade.webp', 'Blade White ver. Chibi', 'by ZuPins/PrisPins', "owned")
+.pin('zubrant.webp', 'Brant Chibi', 'by ZuPins/PrisPins', "owned")
+
+
 // =====================================================================================================================================================================================================================================================
 category("Foxipins MXTX Windows", "https://www.google.com/search?q=mo+xiang+tong+xiu")
  //OWNED FOXI
