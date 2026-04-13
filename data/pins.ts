@@ -29,6 +29,13 @@ category("Orders & Preorders 🛒🪷")
 .pin('chromeboothill.webp', 'Chrome Boothill Panel', 'LE15 by ohlolapins.', "ordered")
 .pin('chromemattehill.webp', 'Red Matte Boothill Panel', 'LE15 by ohlolapins.', "ordered")
 .pin('boothillpanel.webp', 'Boothill Panel', 'LE?? by ? ? ?', "ordered")
+.pin('magicalhualian.webp', 'Hualian Cuddles', 'LE?? by xevnne', "ordered")
+.pin('wangxiankneelingchibi.webp', 'Wangxian Chibi', 'LE?? by ? ? ?', "ordered")
+.pin('mxtxnoodles.webp', 'MXTX Chibi Noodles', 'LE?? by ? ? ?', "ordered")
+.pin('hualianautumn.webp', 'Autumn Hualian', 'LE?? by ? ? ?', "ordered")
+.pin('hualiansummer.webp', 'Summer Hualian', 'LE?? by ? ? ?', "ordered")
+.pin('hualianspring.webp', 'Spring Hualian', 'LE?? by ? ? ?', "ordered")
+.pin('hualianwinter.webp', 'Winter Hualian', 'LE?? by ? ? ?', "ordered")
 
 .gap();
 
