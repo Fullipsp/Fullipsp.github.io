@@ -27,15 +27,6 @@ category("Orders & Preorders 🛒🪷")
 .pin('phadeibath.webp', 'Phaidei Bath Chibi', 'OE by zzzsgalore.', "ordered")
 .pin('yearshualian.webp', 'Hualian Thru Years', 'by Pap00sh', "ordered") 
 .pin('chromeboothill.webp', 'Chrome Boothill Panel', 'LE15 by ohlolapins.', "ordered")
-.pin('chromemattehill.webp', 'Red Matte Boothill Panel', 'LE15 by ohlolapins.', "ordered")
-.pin('boothillpanel.webp', 'Boothill Panel', 'LE?? by ? ? ?', "ordered")
-.pin('magicalhualian.webp', 'Hualian Cuddles', 'LE?? by xevnne', "ordered")
-.pin('wangxiankneelingchibi.webp', 'Wangxian Chibi', 'LE?? by ? ? ?', "ordered")
-.pin('mxtxnoodles.webp', 'MXTX Chibi Noodles', 'LE?? by ? ? ?', "ordered")
-.pin('hualianautumn.webp', 'Autumn Hualian', 'LE?? by ? ? ?', "ordered")
-.pin('hualiansummer.webp', 'Summer Hualian', 'LE?? by ? ? ?', "ordered")
-.pin('hualianspring.webp', 'Spring Hualian', 'LE?? by ? ? ?', "ordered")
-.pin('hualianwinter.webp', 'Winter Hualian', 'LE?? by ? ? ?', "ordered")
 
 .gap();
 
@@ -229,14 +220,20 @@ category("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .pin('poppins.jpg', 'Fafa Poppins', 'by Pap00sh', "owned") 
 .pin('bchibihualian.webp', 'Chibi Hualian', 'by Bachoochi', "owned")
 //
-
 .pin('babylian.webp', 'Baby Xie Lian Patreon', ' by Butchinelle', "owned")
 .pin('honger.webp', 'Flower Honger Patreon', ' by Butchinelle', "owned")
+.pin('hualianwinter.webp', 'Winter Hualian', 'LE?? by trashie_can', "owned")
+.pin('hualianautumn.webp', 'Autumn Hualian', 'LE?? by actuallypunny', "owned")
+.pin('hualiansummer.webp', 'Summer Hualian', 'LE?? by minzbollchen', "owned")
+.pin('hualianspring.webp', 'Spring Hualian', 'LE?? by cytaoplasm', "owned")
+.pin('magicalhualian2.webp', 'Hualian Cuddles', 'LE?? by xevnne', "owned")
+
 // Non Hualian TGCF
+.pin('vinxl.webp', 'Floral Xie Lian', 'by Virinali', "owned")
+
+.pin('kmoribflf.webp', 'Kmori Beefleaf', 'LE? by Foxipins', "owned")
 .pin('furrybfl.webp', 'Cutie Beefleaf', 'by kmoripins', "owned")
 .pin('sitbfl.webp', 'Funny Beefleaf', 'by qqnzhe', "owned")
-.pin('kmoribflf.webp', 'Kmori Beefleaf', 'LE? by Foxipins', "owned")
-.pin('vinxl.webp', 'Floral Xie Lian', 'by Virinali', "owned")
 // =========================================================================================================================================================================================================================
 category("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
 .pin('gloomybingqiu.webp', 'Gloomy BingQiu', 'by GloomyChu', "owned")
@@ -268,13 +265,19 @@ category("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
 .pin('wwxcake.webp', 'Wei Ying Treat', 'by torikii_art', "owned")
 .pin('lwjcake.webp', 'Lan Zhan Treat', 'by torikii_art', "owned")
 .pin('bachwangxian.webp', 'Lilypad Wangxian', 'by Bachoochi', "owned")
+.pin('wangxiankneelingchibi.webp', 'Wangxian Chibi', 'LE?? by MoshiMelon', "owned")
+.pin('yunmengtrio.webp', 'Yunmeng Trio Chibi', 'LE?? by ppc', "owned")
+.pin('mxtxnoodles.webp', 'MXTX Chibi Noodles', 'LE?? by TorikiiArt', "owned")
 .pin('wangxiankiss.webp', 'Wangxian Kiss', 'by SerenaDanmeiPins', "owned")
-.pin('wangxianterrarium.webp', 'Wangxian Terrarium', 'by Peonypinsco', "owned")
-.pin('MyBuns.webp', 'Wangxian Bunnies', 'by Lilycli', "owned")
 .pin('woodenwangxian.jpg', 'Wooden Wangxian', ' by @AumaEbi', "owned")
+.pin('woodenchibiwangxian.webp', 'Wooden Wangxian', ' by @AumaEbi', "owned")
+.pin('MyBuns.webp', 'Wangxian Bunnies', 'by Lilycli', "owned")
+.pin('wangxianterrarium.webp', 'Wangxian Terrarium', 'by Peonypinsco', "owned")
+
  //danmei pins other
 .pin('foreverwoh.webp', 'Word Of Honor Chibis', 'by Sourboxes', "owned")
 .pin('ximang.webp', 'XiMang Rest Chibi', 'by peonypinsco', "owned")
+
 // =====================================================================================================================================================================================================================================================
 category("Ranwan | Erha Pins 📖🌿💜", "https://tinyurl.com/whosranwan")
 .pin('butchranwan.webp', 'RanWan Embrace', 'by Butchinelle', "owned")
@@ -411,7 +414,7 @@ category("Zelda Pins 🗡🏹 🌺💙", "https://shipping.fandom.com/wiki/Zelin
 .pin('kaguprez.webp', 'Love is War Valentines', ' by FantasyChibiPns', "owned")
 // ========================================================================================================================================================================================================================
 category("Astarion Pins (BG3) 🖤", "https://bg3.wiki/wiki/Astarion")
-.pin('90sastarion.webp', '90s Panel Astarion', 'by Punishedmiqote', "owned")
+.pin('90sastarion.webp', '90s Panel Astarion', 'by Punishedmiqote', "sold")
 .pin('moonastarion.webp', 'Blood Moon Astarion', 'by Punishedmiqote', "owned")
 .pin('wineastarion.webp', 'Wine Astarion', 'by Punishedmiqote', "owned")
 .pin('chibiastie.webp', 'Hehe Astarion Chibi', 'by Peach&CreamCo', "owned")
@@ -439,15 +442,21 @@ category("Alien Stage Pins 🎤👽", "https://shipping.fandom.com/wiki/IvanTill
 // =========================================================================================================================================================================================================================
 category("Genshin & HonkaiRail Pins ✨")
  //HSR HSR HSR HSR HSR and genshin lol
+.pin('chromemattehill.webp', 'Red Matte Boothill Panel', 'LE15 by ohlolapins.', "owned")
+.pin('boothillpanel.webp', 'Boothill Panel', 'LE?? by MidnightMoonPins', "owned")
 .pin('insomniamarch7.webp', 'March 7th Pin', 'LE by InsomniaPins', "owned")
 .pin('foxisunday.webp', 'Sunday Window', 'LE? by Foxipins', "owned")
 .pin('chadneuvi.webp', 'Serious Neuvilette Panel', 'LE30 by KelsPins', "owned")
-.pin('bladecircle.webp', 'Blade Bust', 'by InsomniaPins', "owned")
-.pin('insomniawrio.webp', 'Wriothesley Bust', 'by InsomniaPins', "owned")
 .pin('insomnianeuvi.webp', 'Neuvilette Bust', 'LE? by InsomniaPins', "owned")
+.pin('insomniawrio.webp', 'Wriothesley Bust', 'by InsomniaPins', "owned")
+.pin('malingitto.webp', 'Freaky Itto', 'LE? by MalingMouse', "owned")
+.pin('foxixiao.webp', 'Diamond Xiao', 'LE? by FoxiPins', "owned")
+.pin('neuviglass.webp', 'Neuvilette POP', 'LE? by MidnightMoonPins', "owned")
+.pin('neuvirain.webp', 'Neuvilette Stained Glass', 'LE? by MidnightMoonPins', "owned")
 .pin('sundaycircle.webp', 'Sunday Circle', 'by Orangeshapins', "owned")
 .pin('luochacircle.webp', 'Luocha Circle', 'by Orangeshapins', "owned")
 .pin('jiaoqiucircle.webp', 'Jiaoqiu Circle', 'by orangeshapins', "owned")
+.pin('bladecircle.webp', 'Blade Bust', 'by InsomniaPins', "owned")
 .pin('sampochibi.webp', 'Sampo Magician Chibi', 'LE? by junk**art.', "owned")
 .pin('spinnerjiaoqiu.webp', 'Jiaoqiu Hot-Pot Spinner', 'by orangeshapins', "owned")
 .pin('chibiboothill.webp', 'Young Boothill Chibi', 'by chinese p4p', "owned")
@@ -455,11 +464,9 @@ category("Genshin & HonkaiRail Pins ✨")
 //GENSHIN GENSHIN GENSHIN
 .pin('zuwrio.webp', 'Wriothesley Chibi', 'by ZuPins', "owned")
 .pin('zuneuvi.webp', 'Neuvilette Chibi', 'by ZuPins', "owned")
-.pin('neuviglass.webp', 'Neuvilette POP', 'LE? by MidnightMoonPins', "owned")
-.pin('neuvirain.webp', 'Neuvilette Stained Glass', 'LE? by MidnightMoonPins', "owned")
+
 .pin('pastelxiao.webp', 'The Last Yaksha POP', 'LE60 by PastelShootingStar', "owned")
-.pin('malingitto.webp', 'Freaky Itto', 'LE? by MalingMouse', "owned")
-.pin('foxixiao.webp', 'Diamond Xiao', 'LE? by FoxiPins', "owned")
+
 .pin('heartkazuha.webp', 'Valentine Kazuha', 'by cafhune', "owned", "156 335 676 760") 
 .pin('eggkazuha.webp', 'Kitty Kazuha', 'by angryeggmerch', "owned")
 .pin('lenzhongli.webp', 'Zhongli', 'by Lenacchi', "owned")
