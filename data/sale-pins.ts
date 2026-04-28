@@ -24,14 +24,11 @@ category("💫 For Sale! - DM me on any of my Socials / Vinted / eBay if interes
 .pin('denjer.webp', 'Denji Diamond', 'by KassieArts', "for-sale")
 .pin('karinapowder.webp', 'Arcane: Powder BWB', ' by karina****op', "for-sale")
 .pin('karinajinx.webp', 'Arcane: Jinx BWB', ' by karina****op', "for-sale")
-
 .pin('ispwriochibi.webp', 'Chibi Wriothesley ','by Ins***Pins.', "for-sale")
 .pin('sampochibi.webp', 'Sampo Magician Chibi', 'LE? by junk**art.', "for-sale")
-
 // VASH STAMPEDE
 .pin('98vash.webp', '98s Chibi Vash', ' by ZuuPins', "for-sale")
 .pin('stampede.webp', 'Vash Stampede Chibi', ' by ZuuPins', "for-sale")
-
 //FR33PINS
 .pin('mhamomo.webp', 'MHA - Momo Yaoyorozu', ' by MidnightMoonpins.', "for-sale")
 .pin('silverash.webp', 'Arknights Silverash', 'LE by TorikiiArt.', "for-sale")
@@ -40,9 +37,7 @@ category("💫 For Sale! - DM me on any of my Socials / Vinted / eBay if interes
 .pin('yookianya.webp', 'Anya Mirror', 'by YookiStudios', "for-sale")
 .pin('yookimitsuri.webp', 'Kitsune Mitsuri', 'by YookiStudios', "for-sale")
 .pin('OGKirby.webp', 'Star Wand Kirby ⭐️', 'by Arcade Healer', "for-sale")
-
 // GENSHIN
-
 .pin('chibichilde.webp', 'Chibi Childe', 'by AkuoArt', "for-sale")
 .pin('childechibiprofile.webp', 'Chibi Childe Bust', 'by AkuoArt', "for-sale")
 .pin('zhonglichibiprofile.webp', 'Chibi Zhongli', 'by AkuoArt', "for-sale") 
@@ -53,7 +48,6 @@ category("💫 For Sale! - DM me on any of my Socials / Vinted / eBay if interes
 //ded preorder
 .pin('marichatkiss.webp', 'Marichat Kiss', 'SCAMMED BY CrescentPins', "ordered")
 .pin('squishykiss.webp', 'Squishy Kiss', 'SCAMMED BY CrescentPins', "ordered")
-
 .gap();
 // =======================================================================================================================================================================================================================
 category("Sold Pins 👠")
