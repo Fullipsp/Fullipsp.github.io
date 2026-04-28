@@ -4,6 +4,14 @@ const [categories, setCategories] = createStore<Category[]>([]);
 
 
 category("💫 For Sale! - DM me on any of my Socials / Vinted / eBay if interested 📸", "https://www.vinted.co.uk/member/3142594813")
+.pin('lunapanel.jpg', 'Luna Rainbow Panel', ' LE15 by crystal****ppe', "for-sale")
+.pin('tomoepanel.jpg', 'Kamisama Tomoe Panel', ' LE15 by crystal****ppe', "for-sale")
+.pin('namirobin.jpg', 'Nami + Nico Robin Chibis', ' LE15 by crystal****ppe', "for-sale")
+.pin('zenitsunezukochibi.jpg', 'Nezuko + Zenitsu Derpies', ' LE15 by crystal****ppe', "for-sale")
+.pin('colonelmarin.jpg', 'Colonel Marin Kitagawa', ' LE15 by crystal****ppe', "for-sale")
+.pin('emomaringold.jpg', 'Marin Kitagawa GOLD', ' LE15 by crystal****ppe', "for-sale")
+.pin('emomarinbn.jpg', 'Goth Marin Kitagawa BN', ' LE15 by crystal****ppe', "for-sale")
+
 .pin('insomniasethos.webp', 'Sethos Diamond Pin', 'LE by Ins***Pins.', "for-sale")
 .pin('insomniasunday.webp', 'Sunday Diamond Pin', 'LE by Ins***Pins.', "for-sale")
 .pin('insomniapinsyingxing.webp', 'Yingxing Diamond ', 'LE by Ins***Pins.', "for-sale")
