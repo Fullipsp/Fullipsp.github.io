@@ -26,7 +26,10 @@ category("Orders & Preorders 🛒🪷")
  // IN HAND 
 .pin('phadeibath.webp', 'Phaidei Bath Chibi', 'OE by zzzsgalore.', "ordered")
 .pin('yearshualian.webp', 'Hualian Thru Years', 'by Pap00sh', "ordered") 
-
+.pin('mintytomoe.webp', 'Minty Tomoe Bust', 'by MintyPins', "ordered") 
+.pin('tomoenanamichibi.webp', 'Tomoe x Nanami Chibis', 'by ???', "ordered") 
+.pin('zutomoe.webp', 'Water Panel Tomoe', 'by ZuPins', "ordered") 
+.pin('zuchibitomoe.webp', 'Chibi Angry Tomoe', 'by ZuPins', "ordered") 
 .gap();
 
 // =====================================================================================================================================================================================================================================================
@@ -72,15 +75,18 @@ category("InsomniaPins Diamonds 💎")
 .pin('insomniaalhaitham.webp', 'Al Haitham Diamond Pin', 'LE by Ins***Pins.', "ordered")
 .pin('insomniakaveh.webp', 'Kaveh Diamond Pin', 'LE by Ins***Pins.', "ordered")
 
+.pin('insomniacyrene.webp', 'Cyrene Diamond', 'LE by Ins***Pins.', "ordered")
 .pin('insomniailluga.webp', 'Illuga Diamond Pin', 'LE by Ins***Pins.', "ordered")
 .pin('insomniadurin.webp', 'Durin Diamond Pin', 'LE by Ins***Pins.', "ordered")
-.pin('insomniacyrene.webp', 'Cyrene Diamond', 'LE by Ins***Pins.', "ordered")
 .pin('pinkavennohat.webp', 'Pink Aven Diamond', 'LE by Ins***Pins.', "ordered")
 .pin('pinkavenhat.webp', 'Pink Aven Hat Diamond', 'LE by Ins***Pins.', "ordered")
 .pin('insomniavarka.webp', 'Varka Diamond', 'LE? by Ins***Pins', "ordered")
 .pin('insomniaflins.webp', 'Flins Diamond', 'LE? by Ins***Pins', "ordered")
 .pin('insomniaxiao.webp', 'Xiao Diamond Pin', 'LE by Ins***Pins.', "ordered")
 .pin('insomniaventi.webp', 'Venti Diamond Pin', 'LE by Ins***Pins.', "ordered")
+.pin('insomniadanhengpt.webp', 'Dan Heng PT Diamond Pin', 'LE by Ins***Pins.', "ordered")
+.pin('insomniamarchdiamond.webp', 'March 7th Diamond Pin', 'LE by Ins***Pins.', "ordered")
+
 // Sold 
 .pin('insomniafeixiao.webp', 'Insomnia Feixiao Diamond', 'LE? by Ins***Pins', "sold")
 .pin('insomnialuocha.webp', 'Luocha Diamond ', 'LE by Ins***Pins.', "sold")
