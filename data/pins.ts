@@ -30,6 +30,8 @@ category("Orders & Preorders 🛒🪷")
 .pin('tomoenanamichibi.webp', 'Tomoe x Nanami Chibis', 'by ???', "ordered") 
 .pin('zutomoe.webp', 'Water Panel Tomoe', 'by ZuPins', "ordered") 
 .pin('zuchibitomoe.webp', 'Chibi Angry Tomoe', 'by ZuPins', "ordered") 
+.pin('danhengilpanel.webp', 'Imbibitor Lunae: Panel', 'by ???', "ordered") 
+.pin('danhengilchibi.webp', 'Imbibitor Lunae: Chibi', 'by ???', "ordered") 
 
 .gap();
 
@@ -73,8 +75,8 @@ category("InsomniaPins Diamonds 💎")
 .pin('insomniaororon.webp', 'Ororon Diamond ', 'LE by Ins***Pins.', "owned")
 .pin('insomniaarle.webp', 'Arlecchino Diamond ', 'LE by Ins***Pins.', "owned")
 //Preorders INSOMNIAPINS
-.pin('insomniaalhaitham.webp', 'Al Haitham Diamond Pin', 'LE by Ins***Pins.', "ordered")
-.pin('insomniakaveh.webp', 'Kaveh Diamond Pin', 'LE by Ins***Pins.', "ordered")
+.pin('insomniaalhaitham.webp', 'Al Haitham Diamond Pin', 'LE by Ins***Pins.', "owned")
+.pin('insomniakaveh.webp', 'Kaveh Diamond Pin', 'LE by Ins***Pins.', "owned")
 
 .pin('insomniacyrene.webp', 'Cyrene Diamond', 'LE by Ins***Pins.', "ordered")
 .pin('insomniailluga.webp', 'Illuga Diamond Pin', 'LE by Ins***Pins.', "ordered")
