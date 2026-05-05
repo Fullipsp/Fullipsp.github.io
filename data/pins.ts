@@ -30,6 +30,7 @@ category("Orders & Preorders 🛒🪷")
 .pin('tomoenanamichibi.webp', 'Tomoe x Nanami Chibis', 'by ???', "ordered") 
 .pin('zutomoe.webp', 'Water Panel Tomoe', 'by ZuPins', "ordered") 
 .pin('zuchibitomoe.webp', 'Chibi Angry Tomoe', 'by ZuPins', "ordered") 
+
 .gap();
 
 // =====================================================================================================================================================================================================================================================
@@ -229,13 +230,15 @@ category("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .pin('hualiansummer.webp', 'Summer Hualian', 'LE?? by minzbollchen', "owned")
 .pin('hualianspring.webp', 'Spring Hualian', 'LE?? by cytaoplasm', "owned")
 .pin('magicalhualian2.webp', 'Hualian Cuddles', 'LE?? by xevnne', "owned")
-
-// Non Hualian TGCF
 .pin('vinxl.webp', 'Floral Xie Lian', 'by Virinali', "owned")
+// Non Hualian TGCF
+.pin('kmoribflf.webp', 'Beefleaf Gender Swap', 'by Foxipins', "owned")
+.pin('bigwindmaster.webp', 'Shi Qingxuan Wind Master', 'by Siilvxr', "owned")
+.pin('bighexuan.webp', 'He Xuan: Sinking Ships', 'by Siilvxr', "owned")
+.pin('kmoribeefleaf.webp', 'Chibi Squirrel Beefleaf', 'by kmoripins', "owned","122 97 929 1045")
+.pin('sitbeefleaf1.webp', 'Squirrels Beefleaf', 'by qqnzhe', "owned")
+.pin('beefleafteapots.webp', 'Beefleaf TeaTime', 'by peonypinsco', "owned")
 
-.pin('kmoribflf.webp', 'Kmori Beefleaf', 'LE? by Foxipins', "owned")
-.pin('furrybfl.webp', 'Cutie Beefleaf', 'by kmoripins', "owned")
-.pin('sitbfl.webp', 'Funny Beefleaf', 'by qqnzhe', "owned")
 // =========================================================================================================================================================================================================================
 category("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
 .pin('gloomybingqiu.webp', 'Gloomy BingQiu', 'by GloomyChu', "owned")
@@ -341,7 +344,7 @@ category("Hazbin / Helluva Boss ❤️‍🔥😈👅", "https://hazbinhotel.fan
 .pin('rainbowfizzmodeus.webp', 'Wonderland Fizzmodeus', ' LE40 Chrome by karina****op', "owned")
 .pin('fizzycopper.webp', 'Heart Fizz -Copper-', ' by karina****op', "owned")
 .pin('bbyclownsblack.webp', 'Baby Clowns (Fizz & Blitz)', '(B.Nickel) by karina****op', "owned")
-.pin('stolitzblack.webp', 'Stolitz Miscommunication ', ' LE25 B.Nickel by karina****op', "owned")
+.pin('stolitzblack.webp', 'Stolitz Miscommunication ', ' LE25 B.Nickel by karina****op', "sold")
 .pin('stolitzgold.webp', 'Stolitz Miscommunication', ' LE25 Gold by karina****op', "sold")
 .pin('bbyclownsgold.webp', 'Baby Clowns (Fizz & Blitz)', '(Gold) by karina****op', "sold")
 .pin('memefizz.webp', 'Fizz MemeCat Window', ' LE? by karina****op', "sold", "132 164 900 1012")
