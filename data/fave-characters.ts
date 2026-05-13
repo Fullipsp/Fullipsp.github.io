@@ -23,20 +23,21 @@ display("/fave-characters/danheng.jpg", "Dan Heng", "Honkai Star Rail");
 display("/fave-characters/aventurine.jpg", "Aventurine", "Honkai Star Rail");
 display("/fave-characters/kaveh.jpg", "Kaveh", "Genshin Impact");
 display("/fave-characters/alhaitham.jpg", "Alhaitham", "Genshin Impact");
-display("/fave-characters/tamonk.jpg", "Tamon Fukuhara", "Tamon's B Side");
+display("/fave-characters/childe.jpg", "Childe / Ajax", "Genshin Impact");
 display("/fave-characters/dazai.jpg", "Dazai Osamu", "Bungou Stray Dogs");
 display("/fave-characters/chuuya.jpg", "Chuuya Nakahara", "Bungou Stray Dogs");
 display("/fave-characters/tetchou.jpg", "Tetcho Suehiro", "Bungou Stray Dogs");
 
-display("/fave-characters/childe.jpg", "Childe / Ajax", "Genshin Impact");
+display("/fave-characters/tomoe1.jpg", "Tomoe", "Kamisama Kiss");
+display("/fave-characters/tamonk.jpg", "Tamon Fukuhara", "Tamon's B Side");
 display("/fave-characters/sasaki.jpg", "Sasaki", "Sasaki to Miyano");
 display("/fave-characters/choso.jpg", "Choso", "Jujutsu Kaisen");
 display("/fave-characters/jinshi.jpg", "Jinshi", "Apothecary Diaries");
-display("/fave-characters/kaguya.jpg", "Kaguya Shinomiya", "Love is War");
+display("/fave-characters/belphie.jpg", "Belphegor", "Obey Me!");
 display("/fave-characters/simon.jpg", "Simeon", "Obey Me!");
 display("/fave-characters/mammon.jpg", "Mammon", "Obey Me!");
-display("/fave-characters/belphie.jpg", "Belphegor", "Obey Me!");
 display("/fave-characters/saeran.jpg", "Saeran Choi", "Mystic Messenger");
+display("/fave-characters/kaguya.jpg", "Kaguya Shinomiya", "Love is War");
 
 display("/fave-characters/zagreus.jpg", "Zagreus", "Hades I");
 display("/fave-characters/thanatos.jpg", "Thanatos", "Hades I");
