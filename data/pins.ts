@@ -32,7 +32,12 @@ category("Orders & Preorders 🛒🪷")
 .pin('zuchibitomoe.webp', 'Chibi Angry Tomoe', 'by ZuPins', "ordered") 
 .pin('danhengilpanel.webp', 'Imbibitor Lunae: Panel', 'by ???', "ordered") 
 .pin('danhengilchibi.webp', 'Imbibitor Lunae: Chibi', 'by ???', "ordered") 
-
+.pin('calamityhc.webp', 'Chibi Calamity: HuaCheng', 'by junkofzeart', "ordered") 
+.pin('calamityhx.webp', 'Chibi Calamity: HeXuan', 'by junkofzeart', "ordered") 
+.pin('calamitybwx.webp', 'Chibi Calamity: BaiWuxian', 'by junkofzeart', "ordered") 
+.pin('calamityqr.webp', 'Chibi Calamity: QiRong', 'by junkofzeart', "ordered") 
+.pin('silicebinghe.webp', 'Chrome LBH Panel', 'by siliceb', "ordered") 
+.pin('silicelqg.webp', 'Chrome LQG Panel', 'by siliceB', "ordered") 
 .gap();
 
 // =====================================================================================================================================================================================================================================================
