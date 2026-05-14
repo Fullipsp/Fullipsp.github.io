@@ -38,6 +38,11 @@ category("Orders & Preorders 🛒🪷")
 .pin('calamityqr.webp', 'Chibi Calamity: QiRong', 'by junkofzeart', "ordered") 
 .pin('silicebinghe.webp', 'Chrome LBH Panel', 'by siliceb', "ordered") 
 .pin('silicelqg.webp', 'Chrome LQG Panel', 'by siliceB', "ordered") 
+.pin('malingxiao.webp', 'Husbando: Xiao', 'by MalingMouse', "ordered") 
+.pin('malingmegumi.webp', 'Husbando: Megumi', 'by MalingMouse', "ordered") 
+.pin('malingkaguya.webp', 'Waifu: Kaguya', 'by MalingMouse', "ordered") 
+.pin('malingmiyuki.webp', 'Husbando: Miyuki', 'by MalingMouse', "ordered") 
+
 .gap();
 
 // =====================================================================================================================================================================================================================================================
