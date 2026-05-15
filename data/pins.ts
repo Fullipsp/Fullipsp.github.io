@@ -5,16 +5,14 @@ const [categories, setCategories] = createStore<Category[]>([]);
 
 // ==================================================================================================================================================================================================================================================
 category("Orders & Preorders 🛒🪷")
- 
- //PREORDERS
- // Preorders Zu IVANTILL
+// Preorders Zu IVANTILL
 .pin('zutill.webp', 'ZuPins Till Phone Pin', 'LE100 by ZuPins', "ordered")
 .pin('ivanphone.webp', 'ZuPins Ivan Phone Pin', 'LE100 by ZuPins', "ordered")
 .pin('zuivantill.webp', 'ZuPins Ivantill Chrome', 'OP by ZuPins', "ordered")
-.pin('tillbun.webp', 'ZuPins Till Bunny', 'LE? by ZuPins', "ordered")
-.pin('ivanbun.webp', 'ZuPins Ivan Bunny', 'LE? by ZuPins', "ordered")
 .pin('phoneminitill.webp', 'ZuPins Mini Till Pin', 'LE? by ZuPins', "ordered")
 .pin('gachacheebs.webp', 'x5 Gacha HSR Cheebs', ' by Zu/Pris Pins', "ordered")
+.pin('phadeibath.webp', 'Phaidei Bath Chibi', 'OE by zzzsgalore.', "ordered")
+.pin('yearshualian.webp', 'Hualian Thru Years', 'by Pap00sh', "ordered") 
 //Preorders Junko Chibis
 .pin('junkosanlian.webp', 'Junko Sanlian Chibi', 'LE? by jun****art.', "ordered")
 .pin('junkowangxian.webp', 'Junko Wangxian Chibi', 'LE? by jun****art.', "ordered")
@@ -24,9 +22,6 @@ category("Orders & Preorders 🛒🪷")
 .pin('sqqpot.webp', 'SQQ OOC Cucumber', 'LE? by jun****art.', "ordered")
 .pin('sqq1up.webp', 'SQQ Lil Seedling 1UP', 'LE? by jun****art.', "ordered")
  // IN HAND 
-.pin('phadeibath.webp', 'Phaidei Bath Chibi', 'OE by zzzsgalore.', "ordered")
-.pin('yearshualian.webp', 'Hualian Thru Years', 'by Pap00sh', "ordered") 
-
 .pin('danhengilpanel.webp', 'Imbibitor Lunae: Panel', 'by ???', "ordered") 
 .pin('danhengilchibi.webp', 'Imbibitor Lunae: Chibi', 'by ???', "ordered") 
 .pin('calamityhc.webp', 'Chibi Calamity: HuaCheng', 'by junkofzeart', "ordered") 
@@ -39,9 +34,8 @@ category("Orders & Preorders 🛒🪷")
 .pin('malingmegumi.webp', 'Husbando: Megumi', 'by MalingMouse', "ordered") 
 .pin('malingkaguya.webp', 'Waifu: Kaguya', 'by MalingMouse', "ordered") 
 .pin('malingmiyuki.webp', 'Husbando: Miyuki', 'by MalingMouse', "ordered") 
-
-
-
+.pin('tillbun.webp', 'ZuPins Till Bunny', 'LE? by ZuPins', "ordered")
+.pin('ivanbun.webp', 'ZuPins Ivan Bunny', 'LE? by ZuPins', "ordered")
 .gap();
 // =====================================================================================================================================================================================================================================================
 category("InsomniaPins Diamonds 💎")
