@@ -102,7 +102,7 @@ export const PinItem = (props: PreviewItemProps) => {
   const crop = () => {
     if (!props.crop) {
       return {
-        "background-image": `url(${props.src})`,
+        "background-image": `url(${encodeURI(props.src)})`,
         "background-repeat": "no-repeat",
         "background-size": "cover",
         "background-position": "center",
@@ -129,7 +129,7 @@ export const PinItem = (props: PreviewItemProps) => {
     const offsetY = -(y * scaleY);
 
     return {
-      "background-image": `url(${props.src})`,
+      "background-image": `url(${encodeURI(props.src)})`,
       "background-repeat": "no-repeat",
       "background-size": `${scaledW}px ${scaledH}px`,
       "background-position": `${offsetX}px ${offsetY}px`,
