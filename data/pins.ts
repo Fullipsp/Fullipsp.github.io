@@ -26,10 +26,7 @@ category("Orders & Preorders 🛒🪷")
  // IN HAND 
 .pin('phadeibath.webp', 'Phaidei Bath Chibi', 'OE by zzzsgalore.', "ordered")
 .pin('yearshualian.webp', 'Hualian Thru Years', 'by Pap00sh', "ordered") 
-.pin('mintytomoe.webp', 'Minty Tomoe Bust', 'by MintyPins', "ordered") 
-.pin('tomoenanamichibi.webp', 'Tomoe x Nanami Chibis', 'by ???', "ordered") 
-.pin('zutomoe.webp', 'Water Panel Tomoe', 'by ZuPins', "ordered") 
-.pin('zuchibitomoe.webp', 'Chibi Angry Tomoe', 'by ZuPins', "ordered") 
+
 .pin('danhengilpanel.webp', 'Imbibitor Lunae: Panel', 'by ???', "ordered") 
 .pin('danhengilchibi.webp', 'Imbibitor Lunae: Chibi', 'by ???', "ordered") 
 .pin('calamityhc.webp', 'Chibi Calamity: HuaCheng', 'by junkofzeart', "ordered") 
@@ -42,6 +39,8 @@ category("Orders & Preorders 🛒🪷")
 .pin('malingmegumi.webp', 'Husbando: Megumi', 'by MalingMouse', "ordered") 
 .pin('malingkaguya.webp', 'Waifu: Kaguya', 'by MalingMouse', "ordered") 
 .pin('malingmiyuki.webp', 'Husbando: Miyuki', 'by MalingMouse', "ordered") 
+
+
 
 .gap();
 // =====================================================================================================================================================================================================================================================
@@ -249,7 +248,6 @@ category("TGCF | Hualian Pins ☂️🦋", "https://tinyurl.com/whoshualian")
 .pin('kmoribeefleaf.webp', 'Chibi Squirrel Beefleaf', 'by kmoripins', "owned","122 97 929 1045")
 .pin('sitbeefleaf1.webp', 'Squirrels Beefleaf', 'by qqnzhe', "owned")
 .pin('beefleafteapots.webp', 'Beefleaf TeaTime', 'by peonypinsco', "owned")
-
 // =========================================================================================================================================================================================================================
 category("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
 .pin('gloomybingqiu.webp', 'Gloomy BingQiu', 'by GloomyChu', "owned")
@@ -272,7 +270,6 @@ category("Scum Villain Pins🍃", "http://tinyurl.com/whosbingqiu")
 .pin('SQQ.webp', 'Shen Qingqiu Chibi', 'by Peach&CreamCo', "sold")
 // ===========================================================================================================================================================================================================================
 category("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
-// papoosh preorder wangxian
 .pin('wangxianyoung.webp', 'WangxianYears: Youth', 'LE by pap00shpins.', "owned")
 .pin('wangxianteens.webp', 'WangxianYears: Teens', 'LE by pap00shpins.', "owned")
 .pin('wangxianend.webp', 'WangxianYears: Together', 'LE by pap00shpins.', "owned")
@@ -289,11 +286,9 @@ category("Wangxian | MDZS Pins 🐰🪷", "https://tinyurl.com/whoswangxian")
 .pin('woodenchibiwangxian.webp', 'Wooden Wangxian', ' by @AumaEbi', "owned")
 .pin('MyBuns.webp', 'Wangxian Bunnies', 'by Lilycli', "owned")
 .pin('wangxianterrarium.webp', 'Wangxian Terrarium', 'by Peonypinsco', "owned")
-
  //danmei pins other
 .pin('foreverwoh.webp', 'Word Of Honor Chibis', 'by Sourboxes', "owned")
 .pin('ximang.webp', 'XiMang Rest Chibi', 'by peonypinsco', "owned")
-
 // =====================================================================================================================================================================================================================================================
 category("Ranwan | Erha Pins 📖🌿💜", "https://tinyurl.com/whosranwan")
 .pin('butchranwan.webp', 'RanWan Embrace', 'by Butchinelle', "owned")
@@ -316,7 +311,15 @@ category("Ranwan | Erha Pins 📖🌿💜", "https://tinyurl.com/whosranwan")
 .pin('plushtxj.webp', 'Plush Pup TXJ', 'by ???', "owned")
 .pin('virinaliranwan.webp', 'RanWan Confession', 'by Virinali', "ordered")
 // ===========================================================================================================================================================================================================================
-// Fantasy Couples
+category("Kamisama Kiss Pins 🦋🦊 + CSP Panels")
+.pin('zutomoe.webp', 'Water Panel Tomoe', 'by ZuPins', "owned") 
+.pin('mintytomoe.webp', 'Minty Tomoe Bust', 'by MintyPins', "owned") 
+.pin('tomoenanamichibi.webp', 'Tomoe x Nanami Chibis', 'by ???', "owned") 
+.pin('zuchibitomoe.webp', 'Chibi Angry Tomoe', 'by ZuPins', "owned") 
+.pin('tomoepanel.jpg', 'Kamisama Tomoe Panel', ' LE15 by crystal****ppe', "owned")
+.pin('crystalzeldapanel.jpg', 'Valentines Zelda Panel', ' LE20 by crystal****ppe', "owned")
+.pin('lunapanel.jpg', 'Luna Rainbow Panel', ' LE15 by crystal****ppe', "owned")
+// ===========================================================================================================================================================================================================================
 category("MLB Fantasy Couples 🐞🐱")
 .pin('tarotqueen.webp', 'Shadybug Tarot Card', 'LE60? by Paper*****ns', "owned")
 .pin('tarotking.webp', 'ClawNoir Tarot Card', 'LE60? by Paper*****ns', "owned")
@@ -345,7 +348,6 @@ category("MLB Fantasy Couples 🐞🐱")
 .pin('sillykitty.webp', 'Silly Kitty', ' by MSPaint Palette', "owned")
 .pin('blepbug.webp', 'Shadybug Blep', 'LE70 by Paper*****ns', "owned")
 .pin('blepnoir.webp', 'Claw Noir Blep', 'LE70 by Paper*****ns', "owned")
-
 // ==========================================================================================================================================================================================================================
 category("Hazbin / Helluva Boss ❤️‍🔥😈👅", "https://hazbinhotel.fandom.com/wiki/Helluva_Boss")
 .pin('memelucifer.webp', 'Lucifer Meme Window', ' LE65 by karina****op', "owned", "106 107 929 1045")
@@ -372,7 +374,6 @@ category("JJK Pins 🤍🖤", "https://shipping.fandom.com/wiki/SatoSugu")
 .pin('cutegeto.webp', 'Cutest Lil Killer', 'LE40 by karina****op', "owned")
 .pin('pinkgeto.webp', 'Lil Pink Geto', 'LE40 by karina****op', "owned")
 .pin('xqstsg.webp', 'Gojo x Geto Set', 'by XQIU', "owned")
-//
 .pin('bikegold.webp', 'STSG: Better Days (Gold)', 'by Haiimeo', "owned")
 .pin('bikerose.webp', 'STSG: Better Days (Rose)', 'by Haiimeo', "owned")
 .pin('rainydays.webp', 'STSG: Rainy Day', 'by Haiimeo', "owned")
@@ -388,16 +389,15 @@ category("JJK Pins 🤍🖤", "https://shipping.fandom.com/wiki/SatoSugu")
 .pin('beloved.webp', 'My Beloved', ' by WoupsShop', "owned")
 // ===========================================================================================================================================================================================================================
 category("Zelda Pins 🗡🏹 🌺💙", "https://shipping.fandom.com/wiki/Zelink")
-.pin('crystalzeldapanel.jpg', 'Valentines Zelda Panel', ' LE20 by crystal****ppe', "owned")
 .pin('inzelda.webp', 'BOTW Zelda', 'LE50 by Ins***Pins', "owned")
 .pin('inlink.webp', 'BOTW Link x2', 'LE50 by Ins***Pins.', "owned")
 .pin('calilink.webp', 'The Princess & Knight', 'by Califlair', "owned")
 .pin('zonailink.webp', 'TOTK Link Profile', 'by MarshMeollow.', "owned")
 .pin('skyward.webp', 'Skyward Link Profile', 'by MarshMeollow.', "owned")
 .pin('zonaizelda.webp', 'TOTK Zonai Zelda Profile', 'by MarshMeollow.', "owned")
+.pin('Zelink.webp', 'Zelda x Link Pin', '(Nostalgia Couples KS)', "owned")
 // =========================================================================================================================================================================================================================
  category("Link Click Pins 📸🔗🤍", "https://shipping.fandom.com/wiki/ShiGuang")
-.pin('Zelink.webp', 'Zelda x Link Pin', '(Nostalgia Couples KS)', "owned")
 .pin('gloomyshiguang.webp', 'Gloomy 90s Shiguang', 'LE? by KelsPins', "owned")
 .pin('p4pshiguang.webp', 'P4P Tides Shiguang', 'LE115 by flyingcanoepins', "owned")
 .pin('malingluguang.webp', 'Lu Guang Diamond', 'LE by malingmouse.', "owned")
@@ -498,8 +498,6 @@ category("Genshin & HonkaiRail Pins ✨")
 .pin('scarachibiprofile.webp', 'Chibi Scaramouche', 'by AkuoArt', "owned")
 // =========================================================================================================================================================================================================================
 category("Anime & Misc ✨")
-.pin('lunapanel.jpg', 'Luna Rainbow Panel', ' LE15 by crystal****ppe', "owned")
-.pin('tomoepanel.jpg', 'Kamisama Tomoe Panel', ' LE15 by crystal****ppe', "owned")
 .pin('uzuipimp.jpg', 'Uzui Pimp + Trio', ' LE15 by crystal****ppe', "owned")
 .pin('98vash.webp', '98s Chibi Vash', ' by ZuuPins', "owned")
 .pin('stampede.webp', 'Vash Stampede Chibi', ' by ZuuPins', "owned")
