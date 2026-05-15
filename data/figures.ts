@@ -1,5 +1,5 @@
 import { createStore } from "solid-js/store"
-import type { PreviewType } from "../src/PreviewItem"
+import type { PreviewType } from "../src/PinItem"
 const [categories, setCategories] = createStore<Category[]>([]);
 
 // ==================================================================================================================================================

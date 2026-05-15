@@ -17,19 +17,18 @@ export const PreviewPopup = (props: {
       ? location.hash.slice("#preview=".length)
       : null;
 
-
   const item = createMemo(() => {
     if (!src()) return;
     if (props.categories?.length) {
       let pin: Pin | undefined;
       props.categories.find((category) => {
-        pin = category.pins.find((pin) => pin.src === src());
+        pin = category.pins.find((pin) => encodeURI(pin.src || "") === src());
         return pin;
       });
       return pin;
     }
     if (props.drawings?.length) {
-      return props.drawings.find((drawing) => drawing.src === src());
+      return props.drawings.find((drawing) => encodeURI(drawing.src) === src());
     }
     return;
   });
