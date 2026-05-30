@@ -24,11 +24,6 @@ category("Orders & Preorders 🛒🪷")
  // IN HAND 
 .pin('silicebinghe.webp', 'Chrome LBH Panel', 'by siliceb', "ordered") 
 .pin('silicelqg.webp', 'Chrome LQG Panel', 'by siliceB', "ordered") 
-.pin('malingxiao.webp', 'Husbando: Xiao', 'by MalingMouse', "owned") 
-.pin('malingmegumi.webp', 'Husbando: Megumi', 'by MalingMouse', "owned") 
-.pin('malingkaguya.webp', 'Waifu: Kaguya', 'by MalingMouse', "owned") 
-.pin('malingmiyuki.webp', 'Husbando: Miyuki', 'by MalingMouse', "owned") 
-
 .gap();
 // =====================================================================================================================================================================================================================================================
 category("InsomniaPins Diamonds 💎")
@@ -355,6 +350,7 @@ category("JJK Pins 🤍🖤 Satosugu Pins", "https://shipping.fandom.com/wiki/Sa
 .pin('bbychoso.webp', 'Chibi Choso Diamond', 'LE by Mittsuketah', "owned")
 .pin('pandamaki.webp', 'Panda & Inumaki Chibi', 'by Haiimeo', "owned")
 .pin('flowermaki.webp', 'Bouquet Inumaki Chibi', 'by Haiimeo', "owned")
+.pin('malingmegumi.jpg', 'Husbando: Megumi', 'by MalingMouse', "owned") 
 .pin('megumicream.webp', 'Ice Cream Megumi', ' by Flying Canoe Pins', "owned")
 .pin('cloudygeto.webp', 'Cloudy Satosugu', 'LE by ???', "owned")
 // ===========================================================================================================================================================================================================================
@@ -392,13 +388,15 @@ category("Zelda Pins 🗡🏹 🌺💙", "https://shipping.fandom.com/wiki/Zelin
 .pin('icecreamrenga.webp', 'Ice Cream Renga', ' by ???', "owned")
 // =========================================================================================================================================================================================================================
  category("Sasaki & Miyano Pin / Shoujo 💙🧡+📘", "https://shipping.fandom.com/wiki/SasaMiya")
+.pin('malingkaguya.jpg', 'Waifu: Kaguya', 'by MalingMouse', "owned") 
+.pin('malingmiyuki.jpg', 'Husbando: Miyuki', 'by MalingMouse', "owned") 
+.pin('kaguprez.webp', 'Love is War Valentines', ' by FantasyChibiPns', "owned")
+.pin('sasakimono.webp', 'Sasamiya Kimono', 'LE? by FantasyChibiPins', "owned")
+.pin('sasaglasses.webp', 'Sasamiya Glasses&Mask', 'LE? by orangeshapins', "owned")
 .pin('fudanshi.webp', 'Miyano Diamond', 'LE? by FantasyChibiPins', "owned")
 .pin('sasauke.webp', 'Sasaki Diamond', 'LE? by FantasyChibiPins', "owned")
-.pin('sasaglasses.webp', 'Sasamiya Glasses&Mask', 'LE? by orangeshapins', "owned")
 .pin('sasapetal.webp', 'Sasamiya Stained Glass', 'LE? by ???', "owned")
 .pin('sasashy.webp', 'Sasamiya Shy Panel', 'LE? by ???', "owned")
-.pin('sasakimono.webp', 'Sasamiya Kimono', 'LE? by FantasyChibiPins', "owned")
-.pin('kaguprez.webp', 'Love is War Valentines', ' by FantasyChibiPns', "owned")
 // ========================================================================================================================================================================================================================
 category("Astarion Pins (BG3) 🖤 + Hades Pins 🗡", "https://bg3.wiki/wiki/Astarion")
 .pin('90sastarion.webp', '90s Panel Astarion', 'by Punishedmiqote', "sold")
@@ -422,8 +420,8 @@ category("Alien Stage Pins 🎤👽", "https://shipping.fandom.com/wiki/IvanTill
 .pin('ivanhappy.webp', 'Ivan Moods (Smug)', 'LE40 by passamaniart', "owned")
 .pin('ivansad.webp', 'Ivan Moods (Sad)', 'LE40 by passamaniart', "owned")
 .pin('ivanblush.webp', 'Ivan Moods (Blush)', 'LE40 by passamaniart', "owned")
-.pin('tillbun.webp', 'ZuPins Till Bunny', 'LE? by ZuPins', "owned")
-.pin('ivanbun.webp', 'ZuPins Ivan Bunny', 'LE? by ZuPins', "owned")
+.pin('tillbun.jpg', 'ZuPins Till Bunny', 'LE? by ZuPins', "owned","88 104 939 1057")
+.pin('ivanbun.jpg', 'ZuPins Ivan Bunny', 'LE? by ZuPins', "owned")
 // =========================================================================================================================================================================================================================
 category("Genshin & HonkaiRail Pins ✨")
  //HSR HSR HSR HSR HSR and genshin lol
@@ -441,6 +439,7 @@ category("Genshin & HonkaiRail Pins ✨")
 .pin('insomnianeuvi.webp', 'Neuvilette Bust', 'LE? by InsomniaPins', "owned")
 .pin('insomniawrio.webp', 'Wriothesley Bust', 'by InsomniaPins', "owned")
 .pin('bladecircle.webp', 'Blade Bust', 'by InsomniaPins', "owned")
+.pin('malingxiao.jpg', 'Husbando: Xiao', 'by MalingMouse', "owned") 
 .pin('malingitto.webp', 'Freaky Itto', 'LE? by MalingMouse', "owned")
 .pin('foxixiao.webp', 'Diamond Xiao', 'LE? by FoxiPins', "owned")
 .pin('pastelxiao.webp', 'The Last Yaksha POP', 'LE60 by PastelShootingStar', "owned")
