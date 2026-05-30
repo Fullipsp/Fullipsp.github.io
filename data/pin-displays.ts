@@ -33,8 +33,7 @@ display("/pins/diamondglassboard.webp", "Insomnia Diamond Glass Case", "Latest P
 
 display("/pins/pastelboard.webp", "Saeran / Kawaii Pin Boards", "Latest Photo: 13.03.2026");
 display("/pins/pastelboards.webp", "Kawaii Pin Boards", "Latest Photo: 26.03.2026");
-
-
+display("/figures/ranwandolls.jpg", "RanWan Nendo Dolls", "Latest Photo: 30.05.2026");
 
 export interface Display {
   src: string;
