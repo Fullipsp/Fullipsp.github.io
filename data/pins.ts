@@ -21,9 +21,15 @@ category("Orders & Preorders 🛒🪷")
 .pin('weddinghualiankiss.webp', 'Wedding Hualian Kiss', 'LE? by jun****art.', "ordered")
 .pin('sqqpot.webp', 'SQQ OOC Cucumber', 'LE? by jun****art.', "ordered")
 .pin('sqq1up.webp', 'SQQ Lil Seedling 1UP', 'LE? by jun****art.', "ordered")
- // IN HAND 
+ // Preorder MXTX
 .pin('silicebinghe.webp', 'Chrome LBH Panel', 'by siliceb', "ordered") 
 .pin('silicelqg.webp', 'Chrome LQG Panel', 'by siliceB', "ordered") 
+//LADS IN HAND
+.pin('kiguraf.webp', 'Kigu LADS: Xavier Bunny', ' by Zu/Pris Pins', "ordered")
+.pin('kigudragon.webp', 'Kigu LADS: Sylus Dragon', ' by Zu/Pris Pins', "ordered")
+.pin('kigusylus.webp', 'Kigu LADS: Sylus Crow', ' by Zu/Pris Pins', "ordered")
+.pin('kiguxavier.webp', 'Kigu LADS: Xavier Bunny', ' by Zu/Pris Pins', "ordered")
+.pin('kiguzayne.webp', 'Kigu LADS: Zayne', ' by Zu/Pris Pins', "ordered")
 .gap();
 // =====================================================================================================================================================================================================================================================
 category("InsomniaPins Diamonds 💎")
