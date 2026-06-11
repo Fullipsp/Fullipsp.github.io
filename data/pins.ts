@@ -2,7 +2,6 @@ import { createStore } from "solid-js/store"
 import type { PreviewType } from "../src/PinItem"
 const [categories, setCategories] = createStore<Category[]>([]);
 
-
 // ==================================================================================================================================================================================================================================================
 category("Orders & Preorders 🛒🪷")
 // Preorders Zu IVANTILL
@@ -32,12 +31,7 @@ category("Orders & Preorders 🛒🪷")
 .pin('silicebinghe.webp', 'Chrome LBH Panel', 'by siliceb', "ordered") 
 .pin('silicelqg.webp', 'Chrome LQG Panel', 'by siliceB', "ordered") 
 
-//LADS IN HAND
-.pin('kiguraf.webp', 'Kigu LADS: Xavier Bunny', ' by Zu/Pris Pins', "ordered")
-.pin('kigudragon.webp', 'Kigu LADS: Sylus Dragon', ' by Zu/Pris Pins', "ordered")
-.pin('kigusylus.webp', 'Kigu LADS: Sylus Crow', ' by Zu/Pris Pins', "ordered")
-.pin('kiguxavier.webp', 'Kigu LADS: Xavier Bunny', ' by Zu/Pris Pins', "ordered")
-.pin('kiguzayne.webp', 'Kigu LADS: Zayne', ' by Zu/Pris Pins', "ordered")
+
 
 .gap();
 // =====================================================================================================================================================================================================================================================
@@ -312,6 +306,15 @@ category("Kamisama Kiss Pins 🦋🦊 + CSP Panels")
 .pin('crystalzeldapanel.jpg', 'Valentines Zelda Panel', ' LE20 by crystal****ppe', "owned")
 .pin('cspobamitsu.jpg', 'Obamitsu CSP Panel', ' LE20 by crystal****ppe', "owned","83 234 794 893")
 // ===========================================================================================================================================================================================================================
+category("Kigurumi Chibis (Zu & Pris Pins) 🐰")
+.pin('kiguraf.webp', 'Kigu LADS: Xavier Bunny', ' by Zu/Pris Pins', "owned","66 139 884 994")
+.pin('kigudragon.webp', 'Kigu LADS: Sylus Dragon', ' by Zu/Pris Pins', "owned","111 102 892 1004")
+.pin('kigusylus.webp', 'Kigu LADS: Sylus Crow', ' by Zu/Pris Pins', "owned","95 158 886 997")
+.pin('kiguxavier.webp', 'Kigu LADS: Xavier Bunny', ' by Zu/Pris Pins', "owned","130 63 1005 1131")
+.pin('kiguzayne.webp', 'Kigu LADS: Zayne', ' by Zu/Pris Pins', "owned","160 98 950 1069")
+.pin('tillbun.jpg', 'ZuPins Till Bunny', 'LE? by ZuPins', "owned","126 20 1053 1184")
+.pin('ivanbun.jpg', 'ZuPins Ivan Bunny', 'LE? by ZuPins', "owned")
+// ===========================================================================================================================================================================================================================
 category("MLB Fantasy Couples 🐞🐱")
 .pin('tarotqueen.webp', 'Shadybug Tarot Card', 'LE60? by Paper*****ns', "owned")
 .pin('tarotking.webp', 'ClawNoir Tarot Card', 'LE60? by Paper*****ns', "owned")
@@ -439,8 +442,6 @@ category("Alien Stage Pins 🎤👽", "https://shipping.fandom.com/wiki/IvanTill
 .pin('ivanhappy.webp', 'Ivan Moods (Smug)', 'LE40 by passamaniart', "owned")
 .pin('ivansad.webp', 'Ivan Moods (Sad)', 'LE40 by passamaniart', "owned")
 .pin('ivanblush.webp', 'Ivan Moods (Blush)', 'LE40 by passamaniart', "owned")
-.pin('tillbun.jpg', 'ZuPins Till Bunny', 'LE? by ZuPins', "owned","88 104 939 1057")
-.pin('ivanbun.jpg', 'ZuPins Ivan Bunny', 'LE? by ZuPins', "owned")
 // =========================================================================================================================================================================================================================
 category("Genshin & HonkaiRail Pins ✨")
  //HSR HSR HSR HSR HSR and genshin lol
