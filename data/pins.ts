@@ -18,18 +18,27 @@ category("Orders & Preorders 🛒🪷")
 .pin('junkowangxian.webp', 'Junko Wangxian Chibi', 'LE? by jun****art.', "ordered")
 .pin('junkofengqing.webp', 'Junko Fengqing Chibi', 'LE? by jun****art.', "ordered")
 .pin('junkobingqiu.webp', 'Junko Bingqiu Chibi', 'LE? by jun****art.', "ordered")
+.pin('junkohcbirthday1.webp', 'Hua Cheng BDay 1', 'LE? by jun****art.', "ordered")
+.pin('junkohcbirthday2.webp', 'Hua Cheng BDay 2', 'LE? by jun****art.', "ordered")
 .pin('weddinghualiankiss.webp', 'Wedding Hualian Kiss', 'LE? by jun****art.', "ordered")
 .pin('sqqpot.webp', 'SQQ OOC Cucumber', 'LE? by jun****art.', "ordered")
 .pin('sqq1up.webp', 'SQQ Lil Seedling 1UP', 'LE? by jun****art.', "ordered")
  // Preorder MXTX
+.pin('sqqteapot.webp', 'Shen Qingqiu Tea', 'by peonypinsco', "ordered") 
+.pin('lbhteapot.webp', 'Luo Binghe Tea', 'by peonypinsco', "ordered") 
+.pin('lqgteapot.webp', 'Liu Qingge Tea', 'by peonypinsco', "ordered") 
+.pin('jcteapot.webp', 'Jiang Cheng Tea', 'by peonypinsco', "ordered") 
+.pin('charityranwan.webp', 'Blossom Ranwan Chibi', 'by peonypinsco', "ordered") 
 .pin('silicebinghe.webp', 'Chrome LBH Panel', 'by siliceb', "ordered") 
 .pin('silicelqg.webp', 'Chrome LQG Panel', 'by siliceB', "ordered") 
+
 //LADS IN HAND
 .pin('kiguraf.webp', 'Kigu LADS: Xavier Bunny', ' by Zu/Pris Pins', "ordered")
 .pin('kigudragon.webp', 'Kigu LADS: Sylus Dragon', ' by Zu/Pris Pins', "ordered")
 .pin('kigusylus.webp', 'Kigu LADS: Sylus Crow', ' by Zu/Pris Pins', "ordered")
 .pin('kiguxavier.webp', 'Kigu LADS: Xavier Bunny', ' by Zu/Pris Pins', "ordered")
 .pin('kiguzayne.webp', 'Kigu LADS: Zayne', ' by Zu/Pris Pins', "ordered")
+
 .gap();
 // =====================================================================================================================================================================================================================================================
 category("InsomniaPins Diamonds 💎")
