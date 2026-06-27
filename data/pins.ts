@@ -31,6 +31,17 @@ category("Orders & Preorders 🛒🪷")
 .pin('charityranwan.webp', 'Blossom Ranwan Chibi', 'by peonypinsco', "ordered") 
 .pin('silicebinghe.webp', 'Chrome LBH Panel', 'by siliceb', "ordered") 
 .pin('silicelqg.webp', 'Chrome LQG Panel', 'by siliceB', "ordered") 
+.pin('zuhyuna.webp', 'Hyuna Bust ALNST', 'by ZuPins', "ordered")
+.pin('zuluka.webp', 'Luka Bust ALNST', 'by ZuPins', "ordered")
+.pin('hyunachibi.webp', 'Hyuna Chibi ALNST', 'by ZuPins', "ordered")
+.pin('zulukachibi.webp', 'Luka Chibi ALNST', 'by ZuPins', "ordered")
+.pin('zuukhaslana.webp', 'Khaslana Chibi', 'by ZuPins/PrisPins', "ordered")
+.pin('ororoncircle.webp', 'Ororon Circle', 'by Orangeshapins', "ordered")
+.pin('fivediluc.webp', 'Diluc Bust', 'by Fiveonthe', "ordered")
+.pin('fivexiao2.webp', 'Xiao Bust', 'by Fiveonthe', "ordered")
+.pin('fivearlecchino.webp', 'Arlecchino Bust', 'by Fiveonthe', "ordered")
+.pin('fivefurina.webp', 'Furina Bust', 'by Fiveonthe', "ordered")
+.pin('xiaocook.webp', 'Xiao The Cook', 'by ???', "ordered")
 
 .gap();
 // =====================================================================================================================================================================================================================================================
