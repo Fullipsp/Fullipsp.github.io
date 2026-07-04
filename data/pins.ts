@@ -11,8 +11,9 @@ category("Orders & Preorders 🛒🪷")
 .pin('phoneminitill.webp', 'ZuPins Mini Till Pin', 'LE? by ZuPins', "ordered")
 .pin('gachacheebs.webp', 'x5 Penacony Cheebs', ' by Zu/Pris Pins', "ordered")
 .pin('amphoreuskigurumi.webp', 'x6 Amphoreus Cheebs', ' by Zu/Pris Pins', "ordered")
-.pin('phadeibath.webp', 'Phaidei Bath Chibi', 'OE by zzzsgalore.', "ordered")
 .pin('yearshualian.webp', 'Hualian Thru Years', 'by Pap00sh', "ordered") 
+.pin('maricatkiss.webp', 'Marichat Kiss RESCUE', 'By Papermoonpins', "ordered")
+.pin('phadeibath.webp', 'Phaidei Bath Chibi', 'OE by zzzsgalore.', "ordered")
 //Preorders Junko Chibis
 .pin('junkosanlian.webp', 'Junko Sanlian Chibi', 'LE? by jun****art.', "ordered")
 .pin('junkowangxian.webp', 'Junko Wangxian Chibi', 'LE? by jun****art.', "ordered")
@@ -29,6 +30,7 @@ category("Orders & Preorders 🛒🪷")
 .pin('lqgteapot.webp', 'Liu Qingge Tea', 'by peonypinsco', "ordered") 
 .pin('jcteapot.webp', 'Jiang Cheng Tea', 'by peonypinsco', "ordered") 
 .pin('charityranwan.webp', 'Blossom Ranwan Chibi', 'by peonypinsco', "ordered") 
+.pin('naihualiankiss.webp', 'Hualian Cheeb Kiss', 'by naixaie', "ordered")
 .pin('silicebinghe.webp', 'Chrome LBH Panel', 'by siliceb', "ordered") 
 .pin('silicelqg.webp', 'Chrome LQG Panel', 'by siliceB', "ordered") 
 .pin('zuhyuna.webp', 'Hyuna Bust ALNST', 'by ZuPins', "ordered")
@@ -42,6 +44,7 @@ category("Orders & Preorders 🛒🪷")
 .pin('fivearlecchino.webp', 'Arlecchino Bust', 'by Fiveonthe', "ordered")
 .pin('fivefurina.webp', 'Furina Bust', 'by Fiveonthe', "ordered")
 .pin('xiaocook.webp', 'Xiao The Cook', 'by ???', "ordered")
+
 
 .gap();
 // =====================================================================================================================================================================================================================================================
