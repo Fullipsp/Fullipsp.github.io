@@ -3,11 +3,13 @@ import type { PreviewType } from "../src/PinItem"
 const [categories, setCategories] = createStore<Category[]>([]);
 
 // ==================================================================================================================================================
-category("Pre-Ordered Nendoroids")
-.fig('kafka.webp', 'Kafka', 'Honkai Star Rail', "owned")
-.fig('phainon.webp', 'Phainon', 'Honkai Star Rail', "owned")
-.fig('kaeya.webp', 'Kaeya', 'Honkai Star Rail', "owned")
+category("Pre-Ordered Nendoroids + ISO")
+// ordered
 .fig('xiao.webp', 'Xiao', 'Honkai Star Rail', "ordered")
+.fig('anaxanendo.webp', 'Anaxagoras', 'Honkai Star Rail', "ordered")
+.fig('castoricenendo.webp', 'Castorice', 'Honkai Star Rail', "ordered")
+.fig('doumanendo.webp', 'Douma', 'Demon Slayer', "ordered")
+// iso
 .fig('aobing.webp', 'Ao Bing', 'NeZha', "looking-for")
 .fig('xiaoshi.webp', 'Cheng Xiaoshi', 'Link Click', "looking-for")
 .fig('guang.webp', 'Lu Guang', 'Link Click', "looking-for")
@@ -48,12 +50,15 @@ category("Anime Nendoroids")
 .fig('kaguya.webp', 'Shinomiya Kaguya', 'Love is War', "owned")
 // =====================================================================================================================================================================================================================
 category("Hoyo / Game Nendoroids")
+.fig('phainon.webp', 'Phainon', 'Honkai Star Rail', "owned")
 .fig('ratio.webp', 'Dr Ratio', 'Honkai Star Rail', "owned")
 .fig('aventurine.webp', 'Aventurine', 'Honkai Star Rail', "owned")
 .fig('sunday.webp', 'Sunday', 'Honkai Star Rail', "owned")
 .fig('robin.webp', 'Robin', 'Honkai Star Rail', "owned")
+.fig('kafka.webp', 'Kafka', 'Honkai Star Rail', "owned")
 .fig('blade.webp', 'Blade', 'Honkai Star Rail', "owned")
 .fig('danheng.webp', 'Dan Heng', 'Honkai Star Rail', "owned")
+.fig('kaeya.webp', 'Kaeya', 'Honkai Star Rail', "owned")
 .fig('zhongli.webp', 'Aether', 'Genshin Impact', "owned")
 .fig('aether.webp', 'Aether', 'Genshin Impact', "owned")
 .fig('lumine.webp', 'Lumine', 'Genshin Impact', "owned")
