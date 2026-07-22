@@ -173,6 +173,7 @@ category("Sold Pins 👠")
 .pin('yunmengtrio.webp', 'Yunmeng Trio Chibi', 'LE?? by ppc', "sold")
 .pin('wwxcake.webp', 'Wei Ying Treat', 'by torikii_art', "sold")
 .pin('lwjcake.webp', 'Lan Zhan Treat', 'by torikii_art', "sold")
+.pin('plushtxj.webp', 'Plush Pup TXJ', 'by ???', "sold")
 //
 .pin('boothillpanel.webp', 'Boothill Panel', 'LE?? by MidnightMoonPins', "sold")
 .pin('emomaringold.jpg', 'Marin Kitagawa GOLD', ' LE15 by crystal****ppe', "sold")
