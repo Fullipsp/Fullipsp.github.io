@@ -30,6 +30,9 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
+      - name: Set build timestamp
+        run: echo "VITE_UPDATED_AT=$(date +%s%3N)" >> "$GITHUB_ENV"
+
       - name: Build Vite
         run: pnpm build
 

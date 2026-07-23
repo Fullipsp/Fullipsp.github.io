@@ -5,6 +5,7 @@ import { AboutMeLeftItems, type Item } from "../../data/about-me-current-fave";
 import { AboutMeRightItems } from "../../data/about-me-all-fave";
 import { aboutMeSlides } from "../../data/about-me-slideshow";
 import { rightImage } from "../../data/about-me-right-image";
+import { websiteUpdatedAt } from "../utils";
 
 const Details = () => {
   return (
@@ -114,7 +115,7 @@ const Slideshow = () => {
   onCleanup(() => {
     clearInterval(intervalId);
   })
-  
+
 
   return (
     <div class={style.slideshow}>
@@ -199,6 +200,9 @@ const AboutMeContent = () => {
       <div class={style.slideshowOuter}>
         <Slideshow />
         <SomethingElse />
+      </div>
+      <div class={style.lastUpdatedAt}>
+        {websiteUpdatedAt()}
       </div>
     </div>
   );
