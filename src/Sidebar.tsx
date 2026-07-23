@@ -1,16 +1,17 @@
-import {  Show } from "solid-js";
+import { Show } from "solid-js";
 import { Icon } from "./Icon";
 import style from "./Sidebar.module.css";
 import { useTheme } from "./theme";
 import { LikesAndDislikes } from "./LikesAndDislikes";
 import { useCurrentPage } from "./currentPage";
+import { websiteUpdatedAt } from "./utils";
 
 
 
 
 export const Sidebar = () => {
   const currentPage = useCurrentPage();
-  
+
   const isAboutPage = () => currentPage()?.name === "About Me"
 
 
@@ -35,7 +36,7 @@ export const Sidebar = () => {
             <span class={style.heart}>ꨄ</span>
           </p>
         </Show>
-             <Show when={!isAboutPage()}>
+        <Show when={!isAboutPage()}>
           <p >
             You can find me on my socials above, and my {currentPage()?.name.toLowerCase()} on this page!
           </p>
@@ -45,9 +46,16 @@ export const Sidebar = () => {
       {/* <img class={style.sidebarImage} src="/banner.webp" /> */}
       <LikesAndDislikes />
 
+
+
       <div class={style.copyright}>
         2020-2026 Copyright of all art in "Drawings" & photos under "Owned".
       </div>
+      <Show when={!isAboutPage()}>
+        <div class={style.lastUpdatedAt}>
+          {websiteUpdatedAt(true)}
+        </div>
+      </Show>
     </div>
   );
 };
