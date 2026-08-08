@@ -33,6 +33,16 @@ category("Orders & Preorders 🛒🪷")
 .pin('silicelqg.webp', 'Chrome LQG Panel', 'by siliceB', "ordered") 
 .pin('naixaiecezhou.webp', 'Ballad of Swords ✦', ' Cezhou by naixaie', "ordered")
 .pin('naixaiedianxiaking.webp', 'Dianxia & Ghost King ✦', ' Cezhou by naixaie', "ordered")
+// ORDERED IN HAND
+.pin('passifrieren.webp', 'Frieren x Himmel Panel', 'by PassimaniArt', "ordered") 
+.pin('insomniachongyunxingqiu.webp', 'Chongyun x Xingqiu Panel', 'by InsomniaPins', "ordered") 
+.pin('foxialbedo.webp', 'Albedo Panel', 'by FoxiPins', "ordered") 
+.pin('zuchibikaeya.webp', 'Kaeya Chibi', 'by ZuPins/PrisPins', "ordered") 
+.pin('zuchibiitto.webp', 'Itto Chibi', 'by ZuPins/PrisPins', "ordered") 
+.pin('chibithoma.webp', 'Chibi Thoma Bust', 'by ???', "ordered") 
+.pin('chibiprofilexiao.webp', 'Chibi Xiao Bust', 'by ???', "ordered") 
+.pin('malingxiaosilver.webp', 'Xiao Lantern ver', 'by MalingMouse', "ordered") 
+
 
 .gap();
 // =====================================================================================================================================================================================================================================================
