@@ -5,6 +5,11 @@ const [categories, setCategories] = createStore<Category[]>([]);
 // ==================================================================================================================================================
 category("Pre-Ordered Nendoroids + ISO")
 // ordered
+.fig('frieren.webp', 'Frieren', 'Sousou no Frieren', "ordered")
+.fig('fern.webp', 'Fern', 'Sousou no Frieren', "ordered")
+.fig('stark.webp', 'Stark', 'Sousou no Frieren', "ordered")
+.fig('himmel.webp', 'Himmel', 'Sousou no Frieren', "ordered")
+//preorder
 .fig('xiao.webp', 'Xiao', 'Honkai Star Rail', "ordered")
 .fig('anaxanendo.webp', 'Anaxagoras', 'Honkai Star Rail', "ordered")
 .fig('castoricenendo.webp', 'Castorice', 'Honkai Star Rail', "ordered")
@@ -19,6 +24,7 @@ category("Rare Shoujo Nendos 🦊🦋")
 .fig('wildtomoe.jpg', 'Wild Kitsune Tomoe', 'Kamisama Kiss', "owned", "38 65 899 1011")
 .fig('sasaki.webp', 'Sasaki', 'Sasaki to Miyano', "owned")
 .fig('miyano.webp', 'Miyano', 'Sasaki to Miyano', "owned")
+
 // =====================================================================================================================================================================================================================
 category("MXTX & Danmei Figures")
 .fig('cwnnendo.webp', 'Chu Wanning Nendo Doll', 'Dumb Husky & White Cat', "owned")
