@@ -1,11 +1,11 @@
 import { createStore } from "solid-js/store";
 const [_drawings, setDrawings] = createStore<Drawing[]>([]);
 
+drawing("carmelita.webp", "Carmelita Fox", "Sly Cooper 2026", "172 22 638 718");
 drawing("tomoethecook.webp", "Tomoe the Cook", "Kamisama Kiss 2026");
 drawing("hualianp.webp", "Hualian Portrait", "Tian Guan Ci Fu 2023");
 drawing("AxL.webp", "Arwin & Latte Portrait", "Miss Not So Sidekick 2022");
 drawing("freakynoir.webp", "Cl4w N0ir Fanart", "Miraqulous Laydaybug 2024");
-drawing("emofurry.webp", "Fluffy Femboye Fursona ^v^", "EPIC FURSONA 2025");
 
 drawing("gorouarcher.webp", "Gorou Bow Practice", "Genshin Impact 2022");
 drawing("catxiao.webp", "Catboy Xiao Bust", "Genshin Impact 2021");
@@ -19,17 +19,19 @@ drawing("celestial.webp", "Celestial Dragon OC ", "Art Trade 2022");
 drawing("belpher.webp", "Belphegor Underwater", "Obey Me 2021");
 drawing("chongyunsketch.webp", "Drummer Chongyun WIP", "Genshin Impact 2021");
 
-drawing("rayphone.webp", "Ray on the Phone", "Mystic Messenger 2021");
 drawing("hollydragon.webp", "Holly Christmas Dragon", "Bday Gift 2022");
+drawing("emofurry.webp", "Fluffy Femboye Fursona ^v^", "EPIC FURSONA 2025");
 drawing("gencyart.webp", "Genji x Mercy SI Ship", "Overwatch 2023");
 drawing("bobaqueens.webp", "Boba Queens BDay", "B-Day Gift 2025");
 drawing("topostie.webp", "MXTX Best Boy Trio", "MXTX Bad Boyz 2024");
 
+drawing("thanatos.webp", "Thanatos Chibi Bust", "Hades 2021");
+drawing("zagreus.webp", "Zagreus Chibi Bust", "Hades 2021");
+drawing("rayphone.webp", "Ray on the Phone", "Mystic Messenger 2021");
 drawing("kofi.webp", "Saeran Drinking Ko-fi :3", "Mystic Messenger 2021");
 drawing("kowalski.webp", "Kowalski, Analysis?", "Penguins of Madagascar 2023");
 drawing("uzui.webp", "Uzui Birthday Party", "Demon Slayer 2022");
-drawing("thanatos.webp", "Thanatos Chibi Bust", "Hades 2021");
-drawing("zagreus.webp", "Zagreus Chibi Bust", "Hades 2021");
+
 
 drawing("astarionchibi.webp", "Astarion x Arsene Chibi", "BaldursGate3 2024");
 drawing("myocsketch.webp", "Arsene Sketch BG3", "BaldursGate3 2024");
