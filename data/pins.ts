@@ -37,6 +37,14 @@ category("Orders & Preorders 🛒🪷")
 .pin('silicelqg.webp', 'Chrome LQG Panel', 'by siliceB', "ordered") 
 .pin('charityranwan.webp', 'Blossom Ranwan Chibi', 'by peonypinsco', "ordered") 
 
+.pin('papbinghus.webp', 'Summer Binghe', 'by pap00sh', "ordered") 
+.pin('papshizun.webp', 'Summer Shizun', 'by pap00sh', "ordered") 
+.pin('papfoxian.webp', 'Spring Foxian', 'by pap00sh', "ordered") 
+.pin('papdragonji.webp', 'Spring Dragonji', 'by pap00sh', "ordered") 
+.pin('songlan.webp', 'Song Lan Panel', 'by FoxiPins', "ordered") 
+.pin('xingchen.webp', 'Xiao Xingchen Panel', 'by FoxiPins', "ordered") 
+
+
 .gap();
 // =====================================================================================================================================================================================================================================================
 category("InsomniaPins Diamonds 💎")
@@ -85,21 +93,22 @@ category("InsomniaPins Diamonds 💎")
 .pin('insomniaruanmei.webp', 'Gold Ruan Mei', 'LE Diamond by Ins***Pins', "owned")
 .pin('insomniaarle.webp', 'Arlecchino Diamond ', 'LE Diamond by Ins***Pins', "owned")
 //Preorders INSOMNIAPINS
+.pin('insomniaxiao.webp', 'Xiao Diamond', 'LE Diamond by Ins***Pins', "ordered")
+.pin('insomniaventi.webp', 'Venti Diamond', 'LE Diamond by Ins***Pins', "ordered")
+.pin('insomniadurin.webp', 'Durin Diamond', 'LE Diamond by Ins***Pins', "ordered")
+.pin('insomniailluga.webp', 'Illuga Diamond', 'LE Diamond by Ins***Pins', "ordered")
+.pin('insomniawaveflair.webp', 'Aven Waveflair Diamond', 'LE Diamond by Ins***Pins', "ordered")
+
 .pin('isppinkalhaitham.webp', 'Charity Pink Alhaitham', 'LE Diamond by Ins***Pins', "ordered")
 .pin('isppinkkaveh.webp', 'Charity Pink Kaveh', 'LE Diamond by Ins***Pins', "ordered")
 .pin('ispredalhaitham.webp', 'Charity Red Alhaitham', 'LE Diamond by Ins***Pins', "ordered")
 .pin('ispbluekaveh.webp', 'Charity Blue Kaveh', 'LE Diamond by Ins***Pins', "ordered")
-.pin('insomniaxiao.webp', 'Xiao Diamond', 'LE Diamond by Ins***Pins', "ordered")
-.pin('insomniaventi.webp', 'Venti Diamond', 'LE Diamond by Ins***Pins', "ordered")
 .pin('insomniadiluc.webp', 'Diluc Diamond', 'LE Diamond by Ins***Pins', "ordered")
 .pin('insomniakaeya.webp', 'Kaeya OG Diamond', 'LE Diamond by Ins***Pins', "ordered")
 .pin('insomniathoma.webp', 'Thoma Diamond', 'LE Diamond by Ins***Pins', "ordered")
 .pin('insomniaayato.webp', 'Ayato Diamond', 'LE Diamond by Ins***Pins', "ordered")
 .pin('insomniadainsleif.webp', 'Dainsleif Diamond', 'LE Diamond by Ins***Pins', "ordered")
 .pin('insomnialohen.webp', 'Lohen Diamond', 'LE Diamond by Ins***Pins', "ordered")
-
-.pin('insomniadurin.webp', 'Durin Diamond', 'LE Diamond by Ins***Pins', "ordered")
-.pin('insomniailluga.webp', 'Illuga Diamond', 'LE Diamond by Ins***Pins', "ordered")
 .pin('insomniadanhengpt.webp', 'Dan Heng PT Diamond', 'LE Diamond by Ins***Pins', "ordered")
 .pin('insomniamarchdiamond.webp', 'March 7th Diamond', 'LE Diamond by Ins***Pins', "ordered")
 // Sold 
