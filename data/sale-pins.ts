@@ -174,6 +174,7 @@ category("Sold Pins 👠")
 .pin('wwxcake.webp', 'Wei Ying Treat', 'by torikii_art', "sold")
 .pin('lwjcake.webp', 'Lan Zhan Treat', 'by torikii_art', "sold")
 .pin('plushtxj.webp', 'Plush Pup TXJ', 'by ???', "sold")
+.pin('SQQ.webp', 'Shen Qingqiu Chibi', 'by Peach&CreamCo', "sold")
 //
 .pin('chromemattehill.webp', 'Red Matte Boothill Panel', 'LE15 by ohlolapins.', "sold")
 .pin('boothillpanel.webp', 'Boothill Panel', 'LE?? by MidnightMoonPins', "sold")
