@@ -2,13 +2,13 @@ import { createStore } from "solid-js/store";
 const [_items, setItems] = createStore<Item[]>([]);
 
 
-
-image("/drawings/cwnbust.webp", "Chu Wanning", "Erha (Danmei)");
-image("/drawings/moranbust.webp", "Mo Ran", "Erha (Danmei)");
+image("/fave-characters/caldarus1.jpg", "Caldarus", "FieldsOfMistria");
+image("/drawings/danhengbust.webp", "Dan Heng", "Honkai StarRail")
 image("/drawings/tamonbust.webp", "Tamon", "Tamon's B Side");
 image("/drawings/phainonbust.webp", "Phainon", "Honkai StarRail");
-image("/fave-characters/tomoe.jpg", "Tomoe", "Kamisama Kiss");
-image("/drawings/danhengbust.webp", "Dan Heng", "Honkai StarRail");
+image("/drawings/cwnbust.webp", "Chu Wanning", "Erha (Danmei)");
+image("/drawings/moranbust.webp", "Mo Ran", "Erha (Danmei)");
+
 
 
 

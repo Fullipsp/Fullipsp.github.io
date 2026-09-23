@@ -53,8 +53,11 @@ display("/fave-characters/clawnoir.jpg", "Claw Noir", "Mir4culous Ladybug");
 display("/fave-characters/lifeweaver.jpg", "Lifeweaver (Niran)", "Overwatch");
 display("/fave-characters/wuyang.jpg", "Wuyang Ye", "Overwatch");
 display("/fave-characters/mizuki.jpg", "Mizuki Kawano", "Overwatch");
-
 display("/fave-characters/stolas.jpg", "Stolas", "Helluva Boss");
+display("/fave-characters/caldarus.jpg", "Caldarus", "Fields of Mistria");
+display("/fave-characters/march.jpg", "March", "Fields of Mistria");
+display("/fave-characters/balor.jpg", "Balor", "Fields of Mistria");
+
 display("/fave-characters/lucifer.jpg", "Lucifer", "Hazbin Hotel");
 display("/fave-characters/draculaura.jpg", "Draculaura", "Monster High");
 display("/fave-characters/clawdeen.jpg", "Clawdeen Wolf", "Monster High");
